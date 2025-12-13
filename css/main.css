@@ -79,6 +79,15 @@ body {
 }
 
 .header {
+
+    /* KEY CHANGE: Make Header Sticky */
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Ensure it stays above other content */
+
+    /* Replicate background to cover the entire sticky bar */
+    background-color: var(--color-background);
+    
     display: flex;
     flex-wrap: wrap; /* Allows stacking on small screens */
     justify-content: space-between;
@@ -86,6 +95,7 @@ body {
     padding: calc(var(--spacing-unit) * 1.5) 0;
     border-bottom: 1px solid var(--color-border);
     margin-bottom: calc(var(--spacing-unit) * 2);
+    transition: background-color var(--transition-duration), border-bottom var(--transition-duration);
 }
 
 .logo {
@@ -127,9 +137,29 @@ nav {
 /* Settings Bar (Toggles) */
 .settings-bar {
     display: flex;
-    gap: 15px; 
+    gap: 10px; 
     align-items: center;
     order: 1; /* Keeps it on the top line with the logo */
+    margin-left: auto;
+}
+
+/* Toggle Switch Styling (Minimized) */
+.theme-toggles, .lang-toggles {
+    /* Key Change: Compact layout */
+    padding: 3px; 
+    gap: 2px;
+    background-color: var(--color-surface);
+    border-radius: 8px;
+    border: 1px solid var(--color-border);
+    transition: background-color var(--transition-duration);
+}
+
+.toggle-button {
+    /* Key Change: Smaller padding for compact buttons */
+    padding: 3px 8px; 
+    font-size: 0.9rem; /* Slightly smaller text/icon */
+    border-radius: 6px;
+    transition: background-color var(--transition-duration), color var(--transition-duration);
 }
 
 /*
@@ -228,8 +258,8 @@ p {
     
     /* Header Revert to Horizontal Layout */
     .header {
-        flex-wrap: nowrap;
-        padding: calc(var(--spacing-unit) * 1) 0;
+        /*flex-wrap: nowrap;*/
+        padding: calc(var(--spacing-unit) * 0.8) 0;
     }
 
     .logo {
@@ -253,7 +283,8 @@ p {
     }
 
     .settings-bar {
-        order: initial;
+        /*order: initial;*/
+        gap: 15px;
     }
     
     /* Content Grid Reversion */
@@ -265,4 +296,24 @@ p {
         /* Re-enable multi-column grid for wider screens */
         grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     }
-    }
+}
+
+.footer {
+    margin-top: calc(var(--spacing-unit) * 3);
+    padding: calc(var(--spacing-unit) * 1.5) 0;
+    border-top: 1px solid var(--color-border);
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--color-text-subtle);
+    background-color: var(--color-surface); /* Gives the footer a slight background contrast */
+    transition: background-color var(--transition-duration);
+}
+
+.footer a {
+    color: var(--color-text-subtle);
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: var(--color-primary);
+}
