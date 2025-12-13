@@ -299,14 +299,40 @@ p {
 }
 
 .footer {
-    margin-top: calc(var(--spacing-unit) * 3);
-    padding: calc(var(--spacing-unit) * 1.5) 0;
-    border-top: 1px solid var(--color-border);
+    /* KEY CHANGE: Fixed Position */
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999; /* Below the sticky header (1000) */
+    
+    /* Minimalist Styling */
+    margin-top: 0; /* No external margin needed */
+    padding: 8px 0; /* Reduced vertical padding */
+    
+    /* Transparent Background */
+    background-color: transparent; 
+    border-top: none; /* Remove the border line */
+    
     text-align: center;
-    font-size: 0.85rem;
+    font-size: 0.75rem; /* Smaller font size for subtlety */
     color: var(--color-text-subtle);
-    background-color: var(--color-surface); /* Gives the footer a slight background contrast */
-    transition: background-color var(--transition-duration);
+    
+    /* Ensures the text is readable even if it overlaps content edges */
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.1); 
+    
+    /* Ensure only colors transition smoothly */
+    transition: color var(--transition-duration); 
+}
+
+/* Ensure text is visible in dark mode, even on transparent background */
+body.theme-dark .footer {
+    text-shadow: 0 0 3px rgba(255, 255, 255, 0.15); 
+}
+
+.footer .container {
+    /* Reduce horizontal padding slightly for the footer */
+    padding: 0 var(--spacing-unit);
 }
 
 .footer a {

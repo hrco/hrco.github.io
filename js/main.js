@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
         // Footer Keys
-        'FOOTER_TEXT': { 'en': 'Built by HRCO using pure HTML/CSS/JS. All rights reserved.', 'sl': 'Izdelal HRCO z uporabo čistega HTML/CSS/JS. Vse pravice pridržane.' },
+        'FOOTER_TEXT': { 'en': 'Built by HRCO.', 'sl': 'Izdelal HRCO.' },
         // NOTE: The year will be added dynamically by the script
 // ... add more keys for all translatable content
     };
