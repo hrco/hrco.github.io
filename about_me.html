@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="ABOUT_ME_TITLE">About HRCO</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <style>
+        .experience-section {
+            display: flex;
+            gap: 20px;
+            margin-top: 1.5rem;
+        }
+
+        .experience-card {
+            flex: 1;
+            padding: 1.5rem;
+        }
+
+        .experience-card h3 {
+            color: var(--color-primary);
+        }
+
+        .skills-list {
+            list-style: none;
+            padding-left: 0;
+            margin-top: 1rem;
+        }
+
+        .skills-list li {
+            background-color: var(--color-highlight);
+            color: var(--color-text);
+            padding: 8px 15px;
+            margin-bottom: 8px;
+            border-radius: 4px;
+            display: inline-block;
+            margin-right: 10px;
+            font-weight: 500;
+        }
+        
+        body.theme-dark .skills-list li {
+             background-color: var(--color-surface);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <a href="index.html" class="logo">HRCO</a>
+
+            <nav>
+                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Home</a>
+                <a href="foto.html" class="nav-link" data-i18n="FOTO_LINK">Gallery</a>
+                <a href="about_me.html" class="nav-link active" data-i18n="ABOUT_LINK">About Me</a>
+                <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Suggestions</a>
+            </nav>
+
+            <div class="settings-bar">
+                <div class="theme-toggles">
+                    <button id="theme-toggle-bright" class="toggle-button" title="Light Theme"><i class="fas fa-sun"></i></button>
+                    <button id="theme-toggle-dark" class="toggle-button" title="Dark Theme"><i class="fas fa-moon"></i></button>
+                    <button id="theme-toggle-system" class="toggle-button" title="System Theme"><i class="fas fa-desktop"></i></button>
+                </div>
+                <div class="lang-toggles">
+                    <button id="lang-toggle-slo" class="toggle-button">SLO</button>
+                    <button id="lang-toggle-eng" class="toggle-button">ENG</button>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <section class="card">
+                <h1 data-i18n="ABOUT_ME_TITLE">About HRCO</h1>
+                <h2 data-i18n="ABOUT_ME_INTRO_TITLE">Introduction & Background</h2>
+                <p data-i18n="ABOUT_ME_INTRO_P1">Hello! I am HRCO, an enthusiast deeply involved in technology, photography, and personal growth. This portfolio showcases my journey and skills, built using a clean, custom-themed web template.</p>
+                <p data-i18n="ABOUT_ME_INTRO_P2">My main focus areas are system architecture, web development (especially clean JavaScript implementations), and exploring the synergy between engineering and creative pursuits.</p>
+            </section>
+
+            <section>
+                <h2 data-i18n="EXPERIENCE_TITLE">Key Experience & Skills</h2>
+                <div class="experience-section">
+                    
+                    <div class="card experience-card">
+                        <h3 data-i18n="EXP_1_TITLE">System Architect & Developer</h3>
+                        <p data-i18n="EXP_1_DESC">Designing and implementing scalable, maintainable software systems with a focus on robust backend services and efficient front-end interfaces.</p>
+                    </div>
+
+                    <div class="card experience-card">
+                        <h3 data-i18n="EXP_2_TITLE">Data Analysis & Automation</h3>
+                        <p data-i18n="EXP_2_DESC">Expertise in data modeling, scripting (Python/JS), and automating complex organizational workflows to boost efficiency.</p>
+                    </div>
+                </div>
+            </section>
+            
+            <section class="card">
+                <h2 data-i18n="SKILLS_TITLE">Technical Toolkit</h2>
+                <ul class="skills-list">
+                    <li data-i18n="SKILL_WEB">Web (HTML5, CSS3/SASS, Vanilla JS)</li>
+                    <li data-i18n="SKILL_BACKEND">Backend/System (Python, Node.js, Shell)</li>
+                    <li data-i18n="SKILL_OTHER">Other (DJI Platforms, Adobe Lightroom, GIS)</li>
+                </ul>
+            </section>
+
+        </main>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+  </html>
