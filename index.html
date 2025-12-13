@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="HRCO_TITLE">HRCO Portfolio</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <a href="index.html" class="logo">HRCO</a>
 
+            <nav>
+                <a href="index.html" class="nav-link active" data-i18n="HOME_LINK">Home</a>
+                <a href="foto.html" class="nav-link" data-i18n="FOTO_LINK">Gallery</a>
+                <a href="about_me.html" class="nav-link" data-i18n="ABOUT_LINK">About Me</a>
+                <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Suggestions</a>
+            </nav>
+
+            <div class="settings-bar">
+                <div class="theme-toggles">
+                    <button id="theme-toggle-bright" class="toggle-button" title="Light Theme"><i class="fas fa-sun"></i></button>
+                    <button id="theme-toggle-dark" class="toggle-button" title="Dark Theme"><i class="fas fa-moon"></i></button>
+                    <button id="theme-toggle-system" class="toggle-button" title="System Theme"><i class="fas fa-desktop"></i></button>
+                </div>
+
+                <div class="lang-toggles">
+                    <button id="lang-toggle-slo" class="toggle-button">SLO</button>
+                    <button id="lang-toggle-eng" class="toggle-button">ENG</button>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <section class="card">
+                <h1 data-i18n="GREETING">Hello, I am HRCO.</h1>
+                <p data-i18n="DESCRIPTION">Welcome to my portfolio website, created with a reusable, pure HTML/CSS/JS template. Check out the clean theme and language toggles!</p>
+            </section>
+
+            <section class="card">
+                <h2>Photo Gallery Snippet</h2>
+                <p>A few of my recent shots...</p>
+            </section>
+
+        </main>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
