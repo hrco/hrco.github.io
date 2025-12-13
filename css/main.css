@@ -1,4 +1,13 @@
 /*
+ * =================================================================
+ * HRCO PORTFOLIO TEMPLATE - UNIFIED CSS
+ * Version: 1.0.0
+ * Theme: Apple-like System Colors
+ * =================================================================
+ */
+
+
+/*
  * --------------------------------------------
  * 1. Global CSS Variables (Custom Properties)
  * - Define a unified color system for reusability.
@@ -6,22 +15,22 @@
  */
 :root {
     /* Base Color Palette (Standard/Light Theme) */
-    --color-primary: #007aff;          /* Apple Blue */
-    --color-secondary: #ff3b30;        /* Apple Red */
+    --color-primary: #007aff;          /* Apple Blue (Accent) */
+    --color-secondary: #ff3b30;        /* Apple Red (Error/Highlight) */
     --color-text: #1d1d1f;             /* Dark Text (System Black) */
     --color-text-subtle: #6e6e73;      /* Grey Text (System Grey) */
     --color-background: #ffffff;       /* Pure White Background */
     --color-surface: #f5f5f7;          /* Off-White Card/Surface */
-    --color-border: #d2d2d7;           /* Light Border */
-    --color-highlight: #e8e8ed;        /* Highlight on hover (light) */
+    --color-border: #d2d2d7;           /* Light Border/Separator */
+    --color-highlight: #e8e8ed;        /* Background highlight on hover */
 
     /* Font & Layout */
     --font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     --font-size-base: 1rem;
     --spacing-unit: 1rem;
 
-    /* Transition for Smooth Changes */
-    --transition-duration: 0.2s;
+    /* Transition for Smooth Changes (No complex animations) */
+    --transition-duration: 0.25s;
 }
 
 /* Dark Theme Overrides */
@@ -35,6 +44,7 @@ body.theme-dark {
     --color-border: #48484a;           /* Dark Border */
     --color-highlight: #3a3a3c;        /* Highlight on hover (dark) */
 }
+
 
 /*
  * --------------------------------------------
@@ -53,12 +63,13 @@ body {
     color: var(--color-text);
     background-color: var(--color-background);
     line-height: 1.6;
+    /* Apply smooth transition only to colors/backgrounds */
     transition: background-color var(--transition-duration), color var(--transition-duration);
 }
 
 /*
  * --------------------------------------------
- * 3. Layout & Structure
+ * 3. Layout & Structure (Responsive Header)
  * --------------------------------------------
  */
 .container {
@@ -69,6 +80,7 @@ body {
 
 .header {
     display: flex;
+    flex-wrap: wrap; /* Allows stacking on small screens */
     justify-content: space-between;
     align-items: center;
     padding: calc(var(--spacing-unit) * 1.5) 0;
@@ -81,12 +93,24 @@ body {
     font-weight: 700;
     color: var(--color-primary);
     text-decoration: none;
+    flex-grow: 1; /* Allows logo to push settings bar to the right on mobile */
+}
+
+/* Navigation Links (Mobile-First: Stacked/Wrapped) */
+nav {
+    display: flex;
+    order: 2; /* Pushes links below logo/settings on small screen */
+    flex-basis: 100%; /* Takes up full width on mobile */
+    justify-content: flex-start;
+    gap: 15px; /* Spacing between links on mobile */
+    margin-top: var(--spacing-unit);
+    border-top: 1px solid var(--color-border); 
+    padding-top: var(--spacing-unit);
 }
 
 .nav-link {
     color: var(--color-text-subtle);
     text-decoration: none;
-    padding: 0 var(--spacing-unit);
     font-weight: 500;
     transition: color var(--transition-duration);
 }
@@ -100,6 +124,14 @@ body {
     font-weight: 600;
 }
 
+/* Settings Bar (Toggles) */
+.settings-bar {
+    display: flex;
+    gap: 15px; 
+    align-items: center;
+    order: 1; /* Keeps it on the top line with the logo */
+}
+
 /*
  * --------------------------------------------
  * 4. UI Components (Buttons, Cards, Toggles)
@@ -111,41 +143,55 @@ body {
     border-radius: 12px;
     padding: calc(var(--spacing-unit) * 2);
     margin-bottom: calc(var(--spacing-unit) * 2);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* Soft shadow */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     transition: background-color var(--transition-duration), box-shadow var(--transition-duration);
+    cursor: default; /* Hint that it's a structural element */
 }
 
 .card:hover {
     background-color: var(--color-highlight);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    /* No dramatic lift or animation, just subtle feedback */
 }
 
 /* Toggle Switch Styling */
-.settings-bar {
+.theme-toggles, .lang-toggles {
     display: flex;
-    gap: 20px;
-    align-items: center;
+    gap: 5px;
+    padding: 5px;
+    background-color: var(--color-surface);
+    border-radius: 8px;
+    border: 1px solid var(--color-border);
+    transition: background-color var(--transition-duration);
 }
+
+body.theme-dark .theme-toggles, body.theme-dark .lang-toggles {
+    background-color: var(--color-background);
+}
+
 
 .toggle-button {
     cursor: pointer;
     background: none;
     border: none;
     font-size: 1rem;
-    color: var(--color-text);
+    color: var(--color-text-subtle);
     padding: 5px 10px;
     border-radius: 6px;
-    transition: background-color var(--transition-duration);
+    transition: background-color var(--transition-duration), color var(--transition-duration);
 }
 
 .toggle-button:hover {
     background-color: var(--color-highlight);
+    color: var(--color-text);
 }
 
 .toggle-button.active {
     background-color: var(--color-primary);
     color: var(--color-background);
+    /* Disable hover for active button */
+    pointer-events: none; 
 }
+
 
 /*
  * --------------------------------------------
@@ -165,3 +211,58 @@ h3 { font-size: 1.5rem; }
 p {
     margin-bottom: var(--spacing-unit);
 }
+
+.section-header {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 5px;
+}
+
+/*
+ * --------------------------------------------
+ * 6. Media Queries (Desktop/Tablet Layout)
+ * --------------------------------------------
+ */
+@media (min-width: 768px) {
+    
+    /* Header Revert to Horizontal Layout */
+    .header {
+        flex-wrap: nowrap;
+        padding: calc(var(--spacing-unit) * 1) 0;
+    }
+
+    .logo {
+        flex-grow: 0;
+        margin-right: 2rem;
+    }
+
+    nav {
+        /* Revert to desktop behavior */
+        order: initial; 
+        flex-basis: auto;
+        justify-content: center;
+        flex-grow: 1; /* Allows nav to take up center space */
+        margin-top: 0;
+        border-top: none;
+        padding-top: 0;
+    }
+    
+    .nav-link {
+        padding: 0 var(--spacing-unit); /* Restore padding between links */
+    }
+
+    .settings-bar {
+        order: initial;
+    }
+    
+    /* Content Grid Reversion */
+    .experience-section {
+        flex-direction: row;
+    }
+    
+    .suggestion-grid, .photo-grid {
+        /* Re-enable multi-column grid for wider screens */
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+    }
