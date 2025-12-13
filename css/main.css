@@ -281,7 +281,7 @@ p {
     /* Header Revert to Horizontal Layout */
     .header {
         /*flex-wrap: nowrap;*/
-        padding: calc(var(--spacing-unit) * 0.8) 0;
+        padding: calc(var(--spacing-unit) * 0.4) 0;
     }
 
     .logo {
