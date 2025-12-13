@@ -155,13 +155,28 @@ nav {
 }
 
 .toggle-button {
-    /* Key Change: Smaller padding for compact buttons */
-    padding: 3px 8px; 
-    font-size: 0.9rem; /* Slightly smaller text/icon */
+    cursor: pointer;
+    background: none;
+    border: none;
+    /* KEY CHANGE: Fixed size to perfectly fit the icon/code */
+    width: 30px; 
+    height: 30px; 
+    display: flex; /* Centers the icon/text */
+    justify-content: center;
+    align-items: center;
+
+    /* Reduced font size for better fit */
+    font-size: 0.8rem; 
+    
+    color: var(--color-text-subtle);
+    padding: 0; /* Remove internal padding */
     border-radius: 6px;
     transition: background-color var(--transition-duration), color var(--transition-duration);
 }
-
+/* Ensure the icon size is correct */
+.toggle-button i {
+    font-size: 1rem;
+}
 /*
  * --------------------------------------------
  * 4. UI Components (Buttons, Cards, Toggles)
