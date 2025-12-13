@@ -177,6 +177,13 @@ nav {
 .toggle-button i {
     font-size: 1rem;
 }
+
+
+/* Specificity Override for Language Text */
+.lang-toggles .toggle-button {
+    font-size: 0.65rem !important; /* Use !important as a last resort to guarantee override */
+}
+
 /*
  * --------------------------------------------
  * 4. UI Components (Buttons, Cards, Toggles)
