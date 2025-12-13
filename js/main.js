@@ -124,7 +124,11 @@ document.addEventListener('DOMContentLoaded', () => {
         'PHOTO_CAPTION_1': { 'en': 'Mountain view at sunrise.', 'sl': 'Pogled na gore ob sončnem vzhodu.' },
         'PHOTO_CAPTION_2': { 'en': 'Coastal path in the evening.', 'sl': 'Obalna pot zvečer.' },
         'DJI_CAPTION_1': { 'en': 'Drone shot over the river valley.', 'sl': 'Posnetek drona nad rečno dolino.' },
-        
+
+
+        // Footer Keys
+        'FOOTER_TEXT': { 'en': 'Built by HRCO using pure HTML/CSS/JS. All rights reserved.', 'sl': 'Izdelal HRCO z uporabo čistega HTML/CSS/JS. Vse pravice pridržane.' },
+        // NOTE: The year will be added dynamically by the script
 // ... add more keys for all translatable content
     };
 
