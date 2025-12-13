@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="FOTO_TITLE">Photo & DJI Gallery</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <style>
+        /* Specific CSS for the Gallery Layout */
+        .photo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .photo-item {
+            /* Inherit card properties but focus on image display */
+            background-color: var(--color-surface);
+            border-radius: 12px;
+            overflow: hidden; /* Important to keep image corners rounded */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .photo-item:hover {
+            transform: translateY(-5px); /* Slight lift on hover */
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        }
+
+        .photo-item img {
+            width: 100%;
+            height: auto;
+            display: block;
+            object-fit: cover;
+            aspect-ratio: 4/3; /* Standardizing image aspect ratio */
+        }
+        
+        .photo-caption {
+            padding: 15px;
+            font-size: 0.9rem;
+            color: var(--color-text-subtle);
+        }
+        
+        .section-header {
+            margin-top: 3rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid var(--color-border);
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <a href="index.html" class="logo">HRCO</a>
+
+            <nav>
+                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Home</a>
+                <a href="foto.html" class="nav-link active" data-i18n="FOTO_LINK">Gallery</a>
+                <a href="about_me.html" class="nav-link" data-i18n="ABOUT_LINK">About Me</a>
+                <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Suggestions</a>
+            </nav>
+
+            <div class="settings-bar">
+                <div class="theme-toggles">
+                    <button id="theme-toggle-bright" class="toggle-button" title="Light Theme"><i class="fas fa-sun"></i></button>
+                    <button id="theme-toggle-dark" class="toggle-button" title="Dark Theme"><i class="fas fa-moon"></i></button>
+                    <button id="theme-toggle-system" class="toggle-button" title="System Theme"><i class="fas fa-desktop"></i></button>
+                </div>
+                <div class="lang-toggles">
+                    <button id="lang-toggle-slo" class="toggle-button">SLO</button>
+                    <button id="lang-toggle-eng" class="toggle-button">ENG</button>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <section class="card">
+                <h1 data-i18n="FOTO_TITLE">Photo & DJI Gallery</h1>
+                <p data-i18n="FOTO_INTRO">A collection of my recent photography work, featuring landscape shots and aerial captures taken with DJI platforms. All images are processed with Adobe Lightroom.</p>
+            </section>
+
+            <h2 class="section-header" data-i18n="FOTO_SECTION_1_TITLE">Landscape Photography</h2>
+            <section class="photo-grid">
+                
+                <div class="photo-item">
+                    <img src="https://via.placeholder.com/400x300/6A7B8E/FFFFFF?text=Landscape+1" alt="Landscape Photo 1">
+                    <p class="photo-caption" data-i18n="PHOTO_CAPTION_1">Mountain view at sunrise.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="https://via.placeholder.com/400x300/4F6D7A/FFFFFF?text=Landscape+2" alt="Landscape Photo 2">
+                    <p class="photo-caption" data-i18n="PHOTO_CAPTION_2">Coastal path in the evening.</p>
+                </div>
+                
+                <div class="photo-item">
+                    <img src="https://via.placeholder.com/400x300/98A8B4/FFFFFF?text=Landscape+3" alt="Landscape Photo 3">
+                    <p class="photo-caption">Forest stream in autumn.</p>
+                </div>
+                
+                <div class="photo-item">
+                    <img src="https://via.placeholder.com/400x300/A0B9C6/FFFFFF?text=Landscape+4" alt="Landscape Photo 4">
+                    <p class="photo-caption">City skyline at night.</p>
+                </div>
+
+            </section>
+
+            <h2 class="section-header" data-i18n="FOTO_SECTION_2_TITLE">Aerial (DJI) Showcase</h2>
+            <section class="photo-grid">
+                
+                <div class="photo-item">
+                    <img src="https://via.placeholder.com/400x300/3A4F6A/FFFFFF?text=DJI+Aerial+1" alt="DJI Aerial Shot 1">
+                    <p class="photo-caption" data-i18n="DJI_CAPTION_1">Drone shot over the river valley.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="https://via.placeholder.com/400x300/5E728C/FFFFFF?text=DJI+Aerial+2" alt="DJI Aerial Shot 2">
+                    <p class="photo-caption">High angle view of a harbor.</p>
+                </div>
+                
+            </section>
+        </main>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
