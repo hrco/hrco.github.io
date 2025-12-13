@@ -114,6 +114,17 @@ document.addEventListener('DOMContentLoaded', () => {
         'SKILL_BACKEND': { 'en': 'Backend/System (Python, Node.js, Shell)', 'sl': 'Zaledje/Sistem (Python, Node.js, Shell)' },
         'SKILL_OTHER': { 'en': 'Other (DJI Platforms, Adobe Lightroom, GIS)', 'sl': 'Drugo (DJI Platforme, Adobe Lightroom, GIS)' },
 
+       
+
+        // Foto Page specific keys
+        'FOTO_TITLE': { 'en': 'Photo & DJI Gallery', 'sl': 'FOTO Galerija' },
+        'FOTO_INTRO': { 'en': 'A collection of my recent photography work, featuring landscape shots and aerial captures taken with DJI platforms. All images are processed with Adobe Lightroom.', 'sl': 'Zbirka mojih nedavnih fotografskih del, vključno s posnetki pokrajin in posnetki iz zraka, narejenimi s platformami DJI. Vse slike so obdelane z Adobe Lightroom.' },
+        'FOTO_SECTION_1_TITLE': { 'en': 'Landscape Photography', 'sl': 'Pokrajinska Fotografija' },
+        'FOTO_SECTION_2_TITLE': { 'en': 'Aerial (DJI) Showcase', 'sl': 'Predstavitev iz Zraka (DJI)' },
+        'PHOTO_CAPTION_1': { 'en': 'Mountain view at sunrise.', 'sl': 'Pogled na gore ob sončnem vzhodu.' },
+        'PHOTO_CAPTION_2': { 'en': 'Coastal path in the evening.', 'sl': 'Obalna pot zvečer.' },
+        'DJI_CAPTION_1': { 'en': 'Drone shot over the river valley.', 'sl': 'Posnetek drona nad rečno dolino.' },
+        
 // ... add more keys for all translatable content
     };
 
