@@ -95,7 +95,26 @@ document.addEventListener('DOMContentLoaded', () => {
         // Paul Stamets
         'STAMETS_TITLE': { 'en': 'Paul Stamets', 'sl': 'Paul Stamets' },
         'STAMETS_DESC': { 'en': 'Mycology expert and entrepreneur, dedicated to the medicinal and environmental benefits of mushrooms.', 'sl': 'Strokovnjak za mikologijo in podjetnik, posvečen zdravilnim in okoljskim koristim gob.' },
-        // ... add more keys for all translatable content
+
+        //About_me.html
+        'ABOUT_ME_TITLE': { 'en': 'About HRCO', 'sl': 'O Meni (HRCO)' },
+        'ABOUT_ME_INTRO_TITLE': { 'en': 'Introduction & Background', 'sl': 'Uvod in Ozadje' },
+        'ABOUT_ME_INTRO_P1': { 'en': 'Hello! I am HRCO, an enthusiast deeply involved in technology, photography, and personal growth. This portfolio showcases my journey and skills, built using a clean, custom-themed web template.', 'sl': 'Pozdravljeni! Sem HRCO, navdušenec, globoko vpleten v tehnologijo, fotografijo in osebno rast. Ta portfelj prikazuje mojo pot in spretnosti, zgrajen z uporabo čiste, prilagojene spletne predloge.' },
+        'ABOUT_ME_INTRO_P2': { 'en': 'My main focus areas are system architecture, web development (especially clean JavaScript implementations), and exploring the synergy between engineering and creative pursuits.', 'sl': 'Moja glavna področja so sistemska arhitektura, spletni razvoj (zlasti čiste implementacije JavaScripta) in raziskovanje sinergije med inženiringom in ustvarjalnimi dejavnostmi.' },
+
+        'EXPERIENCE_TITLE': { 'en': 'Key Experience & Skills', 'sl': 'Ključne Izkušnje in Spretnosti' },
+        'EXP_1_TITLE': { 'en': 'System Architect & Developer', 'sl': 'Sistemski Arhitekt in Razvijalec' },
+        'EXP_1_DESC': { 'en': 'Designing and implementing scalable, maintainable software systems with a focus on robust backend services and efficient front-end interfaces.', 'sl': 'Oblikovanje in implementacija razširljivih, vzdrževalnih programskih sistemov s poudarkom na robustnih zalednih storitvah in učinkovitih sprednjih vmesnikih.' },
+        
+        'EXP_2_TITLE': { 'en': 'Data Analysis & Automation', 'sl': 'Analiza Podatkov in Avtomatizacija' },
+        'EXP_2_DESC': { 'en': 'Expertise in data modeling, scripting (Python/JS), and automating complex organizational workflows to boost efficiency.', 'sl': 'Strokovnost pri modeliranju podatkov, skriptiranju (Python/JS) in avtomatizaciji kompleksnih organizacijskih delovnih tokov za povečanje učinkovitosti.' },
+
+        'SKILLS_TITLE': { 'en': 'Technical Toolkit', 'sl': 'Tehnično Orodje' },
+        'SKILL_WEB': { 'en': 'Web (HTML5, CSS3/SASS, Vanilla JS)', 'sl': 'Splet (HTML5, CSS3/SASS, Vanilija JS)' },
+        'SKILL_BACKEND': { 'en': 'Backend/System (Python, Node.js, Shell)', 'sl': 'Zaledje/Sistem (Python, Node.js, Shell)' },
+        'SKILL_OTHER': { 'en': 'Other (DJI Platforms, Adobe Lightroom, GIS)', 'sl': 'Drugo (DJI Platforme, Adobe Lightroom, GIS)' },
+
+// ... add more keys for all translatable content
     };
 
     const updateTextContent = (lang) => {
