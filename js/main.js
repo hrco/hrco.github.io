@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'SUGGESTIONS_LINK': { 'en': 'Suggestions', 'sl': 'Priporočila' },
         'GREETING': { 'en': 'Hello, I am HRCO.', 'sl': 'Zdravo, sem HRCO.' },
         'DESCRIPTION': { 'en': 'Welcome to my portfolio website, created with a reusable, pure HTML/CSS/JS template. Check out the clean theme and language toggles!', 'sl': 'Dobrodošli na moji spletni strani, ustvarjeni s predlogo za večkratno uporabo, v čistem HTML/CSS/JS. Preizkusite čisto menjavo teme in jezika!' }
-        'SUGGESTIONS_TITLE': { 'en': 'My Suggestions Talkers', 'sl': 'Moja Priporočila: Govorci' },
+        'SUGGESTIONS_TITLE': { 'en': 'My Suggestions of worthy Influencers', 'sl': 'Moja Priporočila vrednih Influencerjev' },
         'SUGGESTIONS_INTRO': { 'en': 'A curated list of individuals whose content I find consistently valuable and insightful across various fields, from science to philosophy.', 'sl': 'Izbran seznam posameznikov, katerih vsebino se mi zdi dosledno dragocena in pronicljiva na različnih področjih, od znanosti do filozofije.' },
         
         // Alan Woods
