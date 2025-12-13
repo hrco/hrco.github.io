@@ -131,7 +131,11 @@ document.addEventListener('DOMContentLoaded', () => {
         // NOTE: The year will be added dynamically by the script
 // ... add more keys for all translatable content
     };
-
+// --- 3. Dynamic Footer/UI Enhancements ---
+    const yearSpan = document.getElementById('current-year');
+    if (yearSpan) {
+        yearSpan.textContent = new Date().getFullYear();
+    }
     const updateTextContent = (lang) => {
         document.querySelectorAll('[data-i18n]').forEach(element => {
             const key = element.getAttribute('data-i18n');
