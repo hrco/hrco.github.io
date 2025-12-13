@@ -73,6 +73,28 @@ document.addEventListener('DOMContentLoaded', () => {
         'SUGGESTIONS_LINK': { 'en': 'Suggestions', 'sl': 'Priporočila' },
         'GREETING': { 'en': 'Hello, I am HRCO.', 'sl': 'Zdravo, sem HRCO.' },
         'DESCRIPTION': { 'en': 'Welcome to my portfolio website, created with a reusable, pure HTML/CSS/JS template. Check out the clean theme and language toggles!', 'sl': 'Dobrodošli na moji spletni strani, ustvarjeni s predlogo za večkratno uporabo, v čistem HTML/CSS/JS. Preizkusite čisto menjavo teme in jezika!' }
+        'SUGGESTIONS_TITLE': { 'en': 'My Suggestions: Talkers', 'sl': 'Moja Priporočila: Govorci' },
+        'SUGGESTIONS_INTRO': { 'en': 'A curated list of individuals whose content I find consistently valuable and insightful across various fields, from science to philosophy.', 'sl': 'Izbran seznam posameznikov, katerih vsebino se mi zdi dosledno dragocena in pronicljiva na različnih področjih, od znanosti do filozofije.' },
+        
+        // Alan Woods
+        'ALAN_WOODS_TITLE': { 'en': 'Alan Woods', 'sl': 'Alan Woods' },
+        'ALAN_WOODS_DESC': { 'en': 'Veteran Marxist thinker and author, focusing on philosophy, history, and socialist theory.', 'sl': 'Veteranski marksistični mislec in avtor, ki se osredotoča na filozofijo, zgodovino in socialistično teorijo.' },
+        
+        // Joe Rogan
+        'JOE_ROGAN_TITLE': { 'en': 'Joe Rogan', 'sl': 'Joe Rogan', },
+        'JOE_ROGAN_DESC': { 'en': 'Host of The Joe Rogan Experience, covering everything from current events, comedy, fitness, and complex scientific topics.', 'sl': 'Gostitelj oddaje The Joe Rogan Experience, ki pokriva vse od aktualnih dogodkov, komedije, fitnesa in kompleksnih znanstvenih tem.' },
+        
+        // Lex Fridman
+        'LEX_FRIDMAN_TITLE': { 'en': 'Lex Fridman', 'sl': 'Lex Fridman' },
+        'LEX_FRIDMAN_DESC': { 'en': 'AI researcher and podcast host, known for deep, long-form interviews with leading figures in technology, science, and philosophy.', 'sl': 'Raziskovalec umetne inteligence in gostitelj podcastov, znan po dolgih, poglobljenih intervjujih z vodilnimi osebnostmi v tehnologiji, znanosti in filozofiji.' },
+        
+        // Andrew Huberman
+        'HUBERMAN_TITLE': { 'en': 'Andrew Huberman', 'sl': 'Andrew Huberman' },
+        'HUBERMAN_DESC': { 'en': 'Neuroscientist at Stanford, specializing in brain function, behavior, and tools for self-improvement based on scientific evidence.', 'sl': 'Nevroznanstvenik na Stanfordu, specializiran za delovanje možganov, vedenje in orodja za samoizboljšanje, ki temeljijo na znanstvenih dokazih.' },
+        
+        // Paul Stamets
+        'STAMETS_TITLE': { 'en': 'Paul Stamets', 'sl': 'Paul Stamets' },
+        'STAMETS_DESC': { 'en': 'Mycology expert and entrepreneur, dedicated to the medicinal and environmental benefits of mushrooms.', 'sl': 'Strokovnjak za mikologijo in podjetnik, posvečen zdravilnim in okoljskim koristim gob.' },
         // ... add more keys for all translatable content
     };
 
