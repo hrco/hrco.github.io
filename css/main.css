@@ -1,7 +1,7 @@
 /*
  * =================================================================
  * HRCO PORTFOLIO TEMPLATE - UNIFIED CSS
- * Version: 1.0.0
+ * Version: 1.0.1 (Optimized)
  * Theme: Apple-like System Colors
  * =================================================================
  */
@@ -10,39 +10,36 @@
 /*
  * --------------------------------------------
  * 1. Global CSS Variables (Custom Properties)
- * - Define a unified color system for reusability.
  * --------------------------------------------
  */
 :root {
     /* Base Color Palette (Standard/Light Theme) */
-    --color-primary: #007aff;          /* Apple Blue (Accent) */
-    --color-secondary: #ff3b30;        /* Apple Red (Error/Highlight) */
-    --color-text: #1d1d1f;             /* Dark Text (System Black) */
-    --color-text-subtle: #6e6e73;      /* Grey Text (System Grey) */
-    --color-background: #ffffff;       /* Pure White Background */
-    --color-surface: #f5f5f7;          /* Off-White Card/Surface */
-    --color-border: #d2d2d7;           /* Light Border/Separator */
-    --color-highlight: #e8e8ed;        /* Background highlight on hover */
+    --color-primary: #007aff;
+    --color-secondary: #ff3b30;
+    --color-text: #1d1d1f;
+    --color-text-subtle: #6e6e73;
+    --color-background: #ffffff;
+    --color-surface: #f5f5f7;
+    --color-border: #d2d2d7;
+    --color-highlight: #e8e8ed;
 
     /* Font & Layout */
     --font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     --font-size-base: 1rem;
     --spacing-unit: 1rem;
-
-    /* Transition for Smooth Changes (No complex animations) */
     --transition-duration: 0.25s;
 }
 
 /* Dark Theme Overrides */
 body.theme-dark {
-    --color-primary: #0a84ff;          /* Brighter Blue for Dark Mode */
-    --color-secondary: #ff453a;        /* Brighter Red for Dark Mode */
-    --color-text: #ffffff;             /* White Text */
-    --color-text-subtle: #8e8e93;      /* Light Grey Text */
-    --color-background: #1c1c1e;       /* Dark Grey Background (System Dark) */
-    --color-surface: #2c2c2e;          /* Slightly Lighter Dark Card/Surface */
-    --color-border: #48484a;           /* Dark Border */
-    --color-highlight: #3a3a3c;        /* Highlight on hover (dark) */
+    --color-primary: #0a84ff;
+    --color-secondary: #ff453a;
+    --color-text: #ffffff;
+    --color-text-subtle: #8e8e93;
+    --color-background: #1c1c1e;
+    --color-surface: #2c2c2e;
+    --color-border: #48484a;
+    --color-highlight: #3a3a3c;
 }
 
 
@@ -63,65 +60,67 @@ body {
     color: var(--color-text);
     background-color: var(--color-background);
     line-height: 1.6;
-    /* Apply smooth transition only to colors/backgrounds */
     transition: background-color var(--transition-duration), color var(--transition-duration);
 }
 
 /*
  * --------------------------------------------
- * 3. Layout & Structure (Responsive Header)
+ * 3. Layout & Structure (Responsive Header & Nav)
  * --------------------------------------------
  */
 .container {
     max-width: 1000px;
     margin: 0 auto;
-    padding: var(--spacing-unit) calc(var(--spacing-unit) * 1.5);
+    padding: calc(var(--spacing-unit)* 0.2) calc(var(--spacing-unit) * 1.5) var(--spacing-unit);
 }
 
 .header {
-
-    /* KEY CHANGE: Make Header Sticky */
     position: sticky;
     top: 0;
-    z-index: 1000; /* Ensure it stays above other content */
-
-    /* Replicate background to cover the entire sticky bar */
+    z-index: 1000;
     background-color: var(--color-background);
     
     display: flex;
-    flex-wrap: wrap; /* Allows stacking on small screens */
+    flex-wrap: wrap; 
     justify-content: space-between;
     align-items: center;
-    padding: calc(var(--spacing-unit) * 0.6) 0;
+
+   /* Minimized vertical padding on mobile (default) - Reduce further */
+    padding: calc(var(--spacing-unit) * 0.5) 0; /* Changed from 0.7 to 0.5 */
+    
     border-bottom: 1px solid var(--color-border);
-    margin-bottom: calc(var(--spacing-unit) * 2);
-    transition: background-color var(--transition-duration), border-bottom var(--transition-duration);
-}
+    /* REMOVE MARGIN BELOW HEADER: */
+    margin-bottom: calc(var(--spacing-unit) * 0.5); /* Changed from 2 to 0.5 */
+    
+    transition: background-color var(--transition-duration), border-bottom var(--transition-duration);}
 
 .logo {
-    font-size: 1.8rem;
-    font-weight: 700;
+    font-size: 1.9rem;
+    font-weight: 1000;
     color: var(--color-primary);
     text-decoration: none;
-    flex-grow: 1; /* Allows logo to push settings bar to the right on mobile */
+    flex-grow: 1;
 }
 
 /* Navigation Links (Mobile-First: Stacked/Wrapped) */
 nav {
     display: flex;
-    order: 2; /* Pushes links below logo/settings on small screen */
-    flex-basis: 100%; /* Takes up full width on mobile */
+    order: 2; 
+    flex-basis: 100%; 
     justify-content: flex-start;
-    gap: 15px; /* Spacing between links on mobile */
-    margin-top: var(--spacing-unit);
+    gap: 16px;
+    /* REDUCE TOP MARGIN: */
+    margin-top: calc(var(--spacing-unit) * 0.4); /* Changed from 1 to 0.5 */
     border-top: 1px solid var(--color-border); 
-    padding-top: var(--spacing-unit);
+    /* REDUCE TOP PADDING: */
+    padding-top: calc(var(--spacing-unit) * 0.4); /* Changed from 1 to 0.5 */
+
 }
 
 .nav-link {
     color: var(--color-text-subtle);
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 777;
     transition: color var(--transition-duration);
 }
 
@@ -139,80 +138,37 @@ nav {
     display: flex;
     gap: 10px; 
     align-items: center;
-    order: 1; /* Keeps it on the top line with the logo */
-    margin-left: auto;
+    order: 1; 
+    margin-left: auto; /* Pushes to the far right */
 }
 
-/* Toggle Switch Styling (Minimized) */
-.theme-toggles, .lang-toggles {
-    /* Key Change: Compact layout */
-    padding: 3px; 
-    gap: 2px;
-    background-color: var(--color-surface);
-    border-radius: 8px;
-    border: 1px solid var(--color-border);
-    transition: background-color var(--transition-duration);
-}
-
-.toggle-button {
-    cursor: pointer;
-    background: none;
-    border: none;
-    /* KEY CHANGE: Fixed size to perfectly fit the icon/code */
-    width: 30px; 
-    height: 30px; 
-    display: flex; /* Centers the icon/text */
-    justify-content: center;
-    align-items: center;
-
-    /* Reduced font size for better fit */
-    font-size: 0.8rem; 
-    
-    color: var(--color-text-subtle);
-    padding: 0; /* Remove internal padding */
-    border-radius: 6px;
-    transition: background-color var(--transition-duration), color var(--transition-duration);
-}
-/* Ensure the icon size is correct */
-.toggle-button i {
-    font-size: 1rem;
-}
-
-
-/* Specificity Override for Language Text */
-.lang-toggles .toggle-button {
-    font-size: 0.65rem !important; /* Use !important as a last resort to guarantee override */
-}
-
-/*
- * --------------------------------------------
- * 4. UI Components (Buttons, Cards, Toggles)
+/* * --------------------------------------------
+ * 4. UI Components (Cards and Toggles - Consolidated)
  * --------------------------------------------
  */
 
 .card {
     background-color: var(--color-surface);
     border-radius: 12px;
-    padding: calc(var(--spacing-unit) * 2);
-    margin-bottom: calc(var(--spacing-unit) * 2);
+    padding: calc(var(--spacing-unit) * 1.3);
+    margin-bottom: calc(var(--spacing-unit) * 1.3);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     transition: background-color var(--transition-duration), box-shadow var(--transition-duration);
-    cursor: default; /* Hint that it's a structural element */
+    cursor: default;
 }
 
 .card:hover {
     background-color: var(--color-highlight);
-    /* No dramatic lift or animation, just subtle feedback */
 }
 
-/* Toggle Switch Styling */
+/* Toggle Switch Containers */
 .theme-toggles, .lang-toggles {
+    /* Consolidated and minimized styling */
     display: flex;
-    gap: 5px;
-    padding: 5px;
+    padding: 1px; 
+    gap: 6px;
     background-color: var(--color-surface);
-    border-radius: 8px;
-    border: 1px solid var(--color-border);
+    border-radius: 3px;
     transition: background-color var(--transition-duration);
 }
 
@@ -220,16 +176,29 @@ body.theme-dark .theme-toggles, body.theme-dark .lang-toggles {
     background-color: var(--color-background);
 }
 
-
+/* Toggle Buttons */
 .toggle-button {
     cursor: pointer;
     background: none;
     border: none;
-    font-size: 1rem;
+    /* Fixed size for minimal footprint */
+    width: 20px; 
+    height: 20px; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+
+    /* Default (fallback) font size */
+    font-size: 0.9rem;
+    
     color: var(--color-text-subtle);
-    padding: 5px 10px;
+    padding: 0; 
     border-radius: 6px;
     transition: background-color var(--transition-duration), color var(--transition-duration);
+}
+
+.toggle-button i {
+    font-size: 1rem;
 }
 
 .toggle-button:hover {
@@ -240,8 +209,13 @@ body.theme-dark .theme-toggles, body.theme-dark .lang-toggles {
 .toggle-button.active {
     background-color: var(--color-primary);
     color: var(--color-background);
-    /* Disable hover for active button */
     pointer-events: none; 
+}
+
+/* Specificity Override for Minimal Language Text (Fixing previous issue) */
+/* Ensures the language codes are truly small */
+.lang-toggles .toggle-button {
+    font-size: 0.6rem !important;
 }
 
 
@@ -278,10 +252,11 @@ p {
  */
 @media (min-width: 768px) {
     
-    /* Header Revert to Horizontal Layout */
+    /* Header Revert to Horizontal Layout (Thinner) */
     .header {
-        /*flex-wrap: nowrap;*/
-        padding: calc(var(--spacing-unit) * 0.4) 0;
+        flex-wrap: nowrap;
+        /* Minimized vertical padding on desktop */
+        padding: calc(var(--spacing-unit) * 0.2) 0; /* Changed from 0.4 to 0.3 */
     }
 
     .logo {
@@ -290,22 +265,20 @@ p {
     }
 
     nav {
-        /* Revert to desktop behavior */
         order: initial; 
         flex-basis: auto;
         justify-content: center;
-        flex-grow: 1; /* Allows nav to take up center space */
+        flex-grow: 1;
         margin-top: 0;
         border-top: none;
         padding-top: 0;
     }
     
     .nav-link {
-        padding: 0 var(--spacing-unit); /* Restore padding between links */
+        padding: 0 var(--spacing-unit);
     }
 
     .settings-bar {
-        /*order: initial;*/
         gap: 15px;
     }
     
@@ -315,45 +288,41 @@ p {
     }
     
     .suggestion-grid, .photo-grid {
-        /* Re-enable multi-column grid for wider screens */
         grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     }
 }
 
+/*
+ * --------------------------------------------
+ * 7. Footer Styles (Fixed and Minimal)
+ * --------------------------------------------
+ */
 .footer {
-    /* KEY CHANGE: Fixed Position */
     position: fixed; 
     bottom: 0;
     left: 0;
     width: 100%;
-    z-index: 999; /* Below the sticky header (1000) */
+    z-index: 999; 
     
-    /* Minimalist Styling */
-    margin-top: 0; /* No external margin needed */
-    padding: 8px 0; /* Reduced vertical padding */
+    margin-top: 0;
+    padding: 8px 0;
     
-    /* Transparent Background */
     background-color: transparent; 
-    border-top: none; /* Remove the border line */
+    border-top: none;
     
     text-align: center;
-    font-size: 0.75rem; /* Smaller font size for subtlety */
+    font-size: 0.75rem;
     color: var(--color-text-subtle);
     
-    /* Ensures the text is readable even if it overlaps content edges */
     text-shadow: 0 0 3px rgba(0, 0, 0, 0.1); 
-    
-    /* Ensure only colors transition smoothly */
     transition: color var(--transition-duration); 
 }
 
-/* Ensure text is visible in dark mode, even on transparent background */
 body.theme-dark .footer {
     text-shadow: 0 0 3px rgba(255, 255, 255, 0.15); 
 }
 
 .footer .container {
-    /* Reduce horizontal padding slightly for the footer */
     padding: 0 var(--spacing-unit);
 }
 
@@ -364,4 +333,57 @@ body.theme-dark .footer {
 
 .footer a:hover {
     color: var(--color-primary);
+}
+
+/*
+ * --------------------------------------------
+ * 8. Gallery Carousel (Horizontal Swipe)
+ * --------------------------------------------
+ */
+
+.photo-carousel {
+    /* Ensures the carousel section maintains a standard block layout */
+    margin-bottom: calc(var(--spacing-unit) * 3);
+    overflow: hidden; /* Hide anything outside the scroll area */
+}
+
+.photo-grid {
+    /* Disable the default responsive grid layout for the swipe effect */
+    display: flex; 
+    flex-direction: row; /* Force horizontal arrangement */
+    flex-wrap: nowrap; /* MUST NOT wrap */
+    
+    /* Allow the grid to scroll horizontally */
+    overflow-x: scroll;
+    overflow-y: hidden;
+    
+    /* Hide the scrollbar in modern browsers */
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+/* Hide scrollbar in Webkit browsers (Chrome, Safari) */
+.photo-grid::-webkit-scrollbar {
+    display: none;
+}
+
+/* Scroll Snap Properties - The magic for the "Grinder" effect */
+.photo-grid.scroll-snap-enabled {
+    scroll-snap-type: x mandatory; /* Snap precisely to x-axis positions */
+    scroll-padding: 0 10px; /* Optional: padding for the snap point */
+}
+
+.photo-item {
+    /* Define the size of each photo item in the carousel */
+    flex: 0 0 100%; /* Important: Each item takes up exactly 100% of the viewport width */
+    max-width: 100%;
+    scroll-snap-align: center; /* Snap point is the center of the item */
+    
+    /* Add horizontal margin/gap between items */
+    margin-right: 20px; 
+}
+
+/* Adjust the last item to avoid excessive space */
+.photo-item:last-child {
+    margin-right: 0;
 }
