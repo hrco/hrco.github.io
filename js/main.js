@@ -186,6 +186,114 @@ document.addEventListener('DOMContentLoaded', () => {
             'sl': 'Svet iz neverjetne višine.'
         },
 
+        // Gallery Section Headers
+        'FOTO_SECTION_FOG': {
+            'en': 'Morning Fog Chronicles',
+            'sl': 'Kronike Jutranje Megle'
+        },
+        'FOTO_SECTION_WINTER': {
+            'en': 'Winter Chronicles: The Cold Equations',
+            'sl': 'Zimske Kronike: Mrzle Enačbe'
+        },
+        'FOTO_SECTION_RIVER': {
+            'en': 'River Aerial Chronicles',
+            'sl': 'Rečne Zračne Kronike'
+        },
+        'FOTO_SECTION_PASTORAL': {
+            'en': 'Pastoral Improbabilities',
+            'sl': 'Pastoralne Neverjetnosti'
+        },
+
+        // Photo Captions
+        'PHOTO_01': {
+            'en': 'Rivers meander. Fog settles. Mountains exist majestically. The universe continues ignoring our opinions about topology.',
+            'sl': 'Reke vijugajo. Megla se spušča. Gore obstoijo veličastno. Vesolje še naprej ignorira naša mnenja o topologiji.'
+        },
+        'PHOTO_02': {
+            'en': 'The sun rises, as it has done for roughly 4.6 billion years. Still impressive despite the repetition.',
+            'sl': 'Sonce vzhaja, kot počne že približno 4,6 milijarde let. Še vedno impresivno kljub ponavljanju.'
+        },
+        'PHOTO_03': {
+            'en': 'Pink fog at dawn - proof that the atmosphere occasionally produces better color schemes than the Sirius Cybernetics Corporation.',
+            'sl': 'Rožnata megla ob zori - dokaz, da atmosfera občasno proizvede boljše barvne sheme kot Sirius Cybernetics Corporation.'
+        },
+        'PHOTO_04': {
+            'en': 'Golden hour meets fog layer. Physics doing what it does best: being consistently photogenic.',
+            'sl': 'Zlata ura sreča plast megle. Fizika dela, kar zna najbolje: biti dosledno fotogenična.'
+        },
+        'PHOTO_05': {
+            'en': 'Fog trapped between hills like confusion trapped between Monday and coffee.',
+            'sl': 'Megla ujeta med hribi kot zmeda ujeta med ponedeljkom in kavo.'
+        },
+        'PHOTO_06': {
+            'en': 'Valley converted to cloud ocean. Villages emerge as improbable islands of civilization.',
+            'sl': 'Dolina spremenjena v ocean oblakov. Vasi se pojavijo kot neverjetni otoki civilizacije.'
+        },
+        'PHOTO_07': {
+            'en': 'Evening mist performing its nightly ritual of obscuring everything interesting.',
+            'sl': 'Večerna megla izvaja svoj nočni ritual prikrivanja vsega zanimivega.'
+        },
+        'PHOTO_08': {
+            'en': 'Sunrise with lens flare included at no extra charge. Reality providing free special effects since forever.',
+            'sl': 'Sončni vzhod z odbleskom leč brez dodatnih stroškov. Realnost zagotavlja brezplačne specialne efekte od nekdaj.'
+        },
+        'PHOTO_09': {
+            'en': 'Morning fog settles on hills like procrastination settles on Mondays. The road knows where it\'s going, which is more than most of us.',
+            'sl': 'Jutranja megla se spušča na hribe kot odlašanje na ponedeljke. Cesta ve, kam gre, kar je več kot večina od nas.'
+        },
+        'PHOTO_10': {
+            'en': 'Winter transforms landscape into high-contrast study of white versus everything else.',
+            'sl': 'Zima spremeni pokrajino v visokokontrastno študijo bele proti vsemu drugemu.'
+        },
+        'PHOTO_11': {
+            'en': 'River refuses to freeze. Trees covered in snow. Stubborn liquid water: 1, Thermodynamics: 0.',
+            'sl': 'Reka se noče zamrzniti. Drevesa pokrita s snegom. Trmasta tekoča voda: 1, Termodinamika: 0.'
+        },
+        'PHOTO_12': {
+            'en': 'Winter sunset demonstrating that cold doesn\'t prevent beauty, merely makes photography significantly more uncomfortable.',
+            'sl': 'Zimski sončni zahod dokazuje, da mraz ne preprečuje lepote, samo naredi fotografiranje precej bolj neudobno.'
+        },
+        'PHOTO_13': {
+            'en': 'Small waterfall creating localized disturbance in otherwise calm river. Very relatable.',
+            'sl': 'Majhen slap ustvarja lokalno motnje v sicer mirni reki. Zelo relatable.'
+        },
+        'PHOTO_14': {
+            'en': 'Humans camping by river. The ancient tradition of sleeping uncomfortably near water continues unabated.',
+            'sl': 'Ljudje kampirajo ob reki. Starodavna tradicija neudobnega spanja blizu vode se nadaljuje nemoteno.'
+        },
+        'PHOTO_15': {
+            'en': 'Where rivers meet and decide geography together. Democratic water distribution in action.',
+            'sl': 'Kjer se reke srečajo in skupaj odločajo o geografiji. Demokratična distribucija vode v akciji.'
+        },
+        'PHOTO_16': {
+            'en': 'River choosing to split. Clear evidence that even water can\'t make up its mind sometimes.',
+            'sl': 'Reka se odloči razcepiti. Jasen dokaz, da se tudi voda včasih ne more odločiti.'
+        },
+        'PHOTO_17': {
+            'en': 'Village nestled in valley. Humans building near water sources since discovering agriculture approximately 12,000 years ago.',
+            'sl': 'Vas utesnjena v dolini. Ljudje gradijo blizu vodnih virov odkar so odkrili kmetijstvo približno pred 12.000 leti.'
+        },
+        'PHOTO_18': {
+            'en': 'Agricultural fields arranged geometrically. Nature curved, humanity square. This tension defines civilization.',
+            'sl': 'Kmetijska polja urejena geometrijsko. Narava ukrivljena, človeštvo kvadratno. Ta napetost definira civilizacijo.'
+        },
+        'PHOTO_19': {
+            'en': 'River flowing between mountains with the confidence of having done this for millions of years.',
+            'sl': 'Reka teče med gorami s samozavestjo, ki jo prinaša dejstvo, da to počne že milijone let.'
+        },
+        'PHOTO_20': {
+            'en': 'The river from water level. Perspective: changed. Physics: still applicable.',
+            'sl': 'Reka z ravni vode. Perspektiva: spremenjena. Fizika: še vedno veljavna.'
+        },
+        'PHOTO_21': {
+            'en': 'Wide valley showcasing Earth\'s remarkable ability to be consistently scenic despite hosting humanity.',
+            'sl': 'Široka dolina prikazuje izjemno sposobnost Zemlje, da je dosledno slikovita kljub gostovanju človeštva.'
+        },
+        'PHOTO_22': {
+            'en': 'Sheeps from above. They remain unimpressed by aerial perspective. Dairy production continues regardless of viewpoint.',
+            'sl': 'Ovce od zgoraj. Ostajajo neimpresionane z zračno perspektivo. Mlečna proizvodnja se nadaljuje ne glede na zorni kot.'
+        },
+
         'FOOTER_TEXT': {
             'en': 'Constructed by HRCO. Mostly harmless.',
             'sl': 'Zgradil HRCO. Večinoma neškodljivo.'
