@@ -3,37 +3,131 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title data-i18n="SUGGESTIONS_TITLE">My Suggestions: Talkers</title>
+    <title data-i18n="SUGGESTIONS_TITLE">Mostly Harmless Influencers</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     
     <style>
         .suggestion-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 24px;
         }
 
         .talker-card {
             display: flex;
             flex-direction: column;
             height: 100%;
+            position: relative;
+            overflow: hidden;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: 2px solid var(--color-border);
+            transition: all var(--transition);
+        }
+
+        .talker-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg,
+                rgba(255, 255, 255, 0.92) 0%,
+                rgba(245, 245, 247, 0.85) 100%);
+            backdrop-filter: blur(8px);
+            z-index: 1;
+            transition: all var(--transition);
+        }
+
+        body.theme-dark .talker-card::before {
+            background: linear-gradient(135deg,
+                rgba(21, 25, 51, 0.92) 0%,
+                rgba(10, 14, 39, 0.85) 100%);
+        }
+
+        .talker-card:hover {
+            transform: translateY(-6px);
+            border-color: var(--color-primary);
+            box-shadow: var(--shadow-lg), 0 0 30px var(--color-glow);
+        }
+
+        .talker-card:hover::before {
+            background: linear-gradient(135deg,
+                rgba(255, 255, 255, 0.85) 0%,
+                rgba(245, 245, 247, 0.75) 100%);
+        }
+
+        body.theme-dark .talker-card:hover::before {
+            background: linear-gradient(135deg,
+                rgba(21, 25, 51, 0.85) 0%,
+                rgba(10, 14, 39, 0.75) 100%);
+        }
+
+        .talker-card > * {
+            position: relative;
+            z-index: 2;
         }
 
         .talker-card h3 {
             color: var(--color-primary);
-            margin-bottom: 0.5rem;
+            font-family: var(--font-display);
+            margin-bottom: 0.8rem;
+            font-size: 1.4rem;
+        }
+
+        .talker-card .links {
+            margin-top: auto;
+            padding-top: 1rem;
         }
 
         .talker-card .links a {
             color: var(--color-text-subtle);
-            margin-right: 15px;
+            margin-right: 18px;
             text-decoration: none;
-            transition: color var(--transition-duration);
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all var(--transition);
+            display: inline-block;
         }
 
         .talker-card .links a:hover {
-            color: var(--color-text);
+            color: var(--color-primary);
+            transform: translateY(-2px);
+            text-shadow: 0 0 8px var(--color-glow);
+        }
+
+        /* Individual card backgrounds - YouTube channel themed gradients */
+        #lex-card {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%),
+                        repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(255,255,255,.03) 10px, rgba(255,255,255,.03) 20px);
+        }
+
+        #huberman-card {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 50%, #3498db 100%),
+                        repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(255,255,255,.02) 10px, rgba(255,255,255,.02) 20px);
+        }
+
+        #rogan-card {
+            background: linear-gradient(135deg, #8e0e00 0%, #1f1c18 50%, #000000 100%),
+                        repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(255,255,255,.02) 10px, rgba(255,255,255,.02) 20px);
+        }
+
+        #woods-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%),
+                        repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(255,255,255,.05) 10px, rgba(255,255,255,.05) 20px);
+        }
+
+        #stamets-card {
+            background: linear-gradient(135deg, #134e4a 0%, #14532d 50%, #365314 100%),
+                        repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(255,255,255,.04) 10px, rgba(255,255,255,.04) 20px);
+        }
+
+        #placeholder-card {
+            background: linear-gradient(135deg, #434343 0%, #000000 50%, #1a1a1a 100%),
+                        repeating-linear-gradient(0deg, transparent, transparent 15px, rgba(255,255,255,.01) 15px, rgba(255,255,255,.01) 30px);
         }
     </style>
 </head>
@@ -43,18 +137,16 @@
             <a href="index.html" class="logo">HRCO</a>
 
             <nav>
-                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Home</a>
-                <a href="foto.html" class="nav-link" data-i18n="FOTO_LINK">Gallery</a>
-                <a href="about_me.html" class="nav-link" data-i18n="ABOUT_LINK">About Me</a>
-                <a href="my_suggestions.html" class="nav-link active" data-i18n="SUGGESTIONS_LINK">Suggestions</a>
+                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Start</a>
+                <a href="foto.html" class="nav-link" data-i18n="FOTO_LINK">Visual Evidence</a>
+                <a href="about_me.html" class="nav-link" data-i18n="ABOUT_LINK">The Entity</a>
+                <a href="my_suggestions.html" class="nav-link active" data-i18n="SUGGESTIONS_LINK">Wise Voices</a>
             </nav>
 
             <div class="settings-bar">
-                <div class="theme-toggles">
-                    <button id="theme-toggle-bright" class="toggle-button" title="Light Theme"><i class="fas fa-sun"></i></button>
-                    <button id="theme-toggle-dark" class="toggle-button" title="Dark Theme"><i class="fas fa-moon"></i></button>
-                    <button id="theme-toggle-system" class="toggle-button" title="System Theme"><i class="fas fa-desktop"></i></button>
-                </div>
+                <button id="theme-toggle" class="theme-toggle-button" title="Toggle Theme">
+                    <i class="fas fa-sun"></i>
+                </button>
 
                 <div class="lang-toggles">
                     <button id="lang-toggle-slo" class="toggle-button">SLO</button>
@@ -65,62 +157,61 @@
 
         <main>
             <section>
-                <h1 data-i18n="SUGGESTIONS_TITLE">My Suggestions: Talkers</h1>
-                <p class="card" data-i18n="SUGGESTIONS_INTRO">A curated list of individuals whose content I find consistently valuable and insightful across various fields, from science to philosophy.</p>
+                <h1 data-i18n="SUGGESTIONS_TITLE">Mostly Harmless Influencers</h1>
+                <p class="card" data-i18n="SUGGESTIONS_INTRO">A carefully curated list of beings whose verbal emissions I find consistently less unbearable than the average content produced by humans. Think of them as the digital equivalent of a good cup of tea - mostly harmless, occasionally brilliant.</p>
             </section>
 
             <section class="suggestion-grid">
 
-                <div class="card talker-card">
+                <div id="lex-card" class="card talker-card">
                     <h3 data-i18n="LEX_FRIDMAN_TITLE">Lex Fridman</h3>
-                    <p data-i18n="LEX_FRIDMAN_DESC">AI researcher and podcast host, known for deep, long-form interviews with leading figures in technology, science, and philosophy.</p>
+                    <p data-i18n="LEX_FRIDMAN_DESC">AI researcher conducting impossibly long interviews with the universe's more interesting occupants. Like the Guide, but with better production values and less information about towels.</p>
                     <div class="links">
                         <a href="https://lexfridman.com/" target="_blank"><i class="fas fa-globe"></i> Website</a>
                         <a href="https://www.youtube.com/@lexfridman" target="_blank"><i class="fab fa-youtube"></i> YouTube</a>
                     </div>
                 </div>
 
-                <div class="card talker-card">
+                <div id="huberman-card" class="card talker-card">
                     <h3 data-i18n="HUBERMAN_TITLE">Andrew Huberman</h3>
-                    <p data-i18n="HUBERMAN_DESC">Neuroscientist at Stanford, specializing in brain function, behavior, and tools for self-improvement based on scientific evidence.</p>
+                    <p data-i18n="HUBERMAN_DESC">Neuroscientist explaining how your brain works, which is considerably more complex than the digital watch on your wrist. Provides protocols for optimizing human consciousness, assuming you remember to implement them.</p>
                     <div class="links">
                         <a href="https://hubermanlab.com/" target="_blank"><i class="fas fa-flask"></i> Lab</a>
                         <a href="https://www.youtube.com/@hubermanlab" target="_blank"><i class="fab fa-youtube"></i> Podcast</a>
                     </div>
                 </div>
 
-                <div class="card talker-card">
+                <div id="rogan-card" class="card talker-card">
                     <h3 data-i18n="JOE_ROGAN_TITLE">Joe Rogan</h3>
-                    <p data-i18n="JOE_ROGAN_DESC">Host of The Joe Rogan Experience, covering everything from current events, comedy, fitness, and complex scientific topics.</p>
+                    <p data-i18n="JOE_ROGAN_DESC">Hosts epic conversations about everything from DMT entities to whether chimps could take down a grizzly bear. The digital equivalent of a friendly pub that somehow exists in multiple dimensions.</p>
                     <div class="links">
                         <a href="https://open.spotify.com/show/4rCQ8h60L46wLqF9qg9oA2" target="_blank"><i class="fab fa-spotify"></i> Spotify</a>
-                        <a href="#" target="_blank"><i class="fas fa-link"></i> Other</a>
+                        <a href="https://www.joerogan.com/" target="_blank"><i class="fas fa-link"></i> Website</a>
                     </div>
                 </div>
 
-                <div class="card talker-card">
+                <div id="woods-card" class="card talker-card">
                     <h3 data-i18n="ALAN_WOODS_TITLE">Alan Woods</h3>
-                    <p data-i18n="ALAN_WOODS_DESC">Veteran Marxist thinker and author, focusing on philosophy, history, and socialist theory.</p>
+                    <p data-i18n="ALAN_WOODS_DESC">A veteran philosopher pondering questions slightly more profound than "Where did I leave my towel?" Specializes in Marxist theory, which is considerably more entertaining than Vogon poetry.</p>
                     <div class="links">
                         <a href="https://www.marxist.com/" target="_blank"><i class="fas fa-book-open"></i> Writings</a>
                     </div>
                 </div>
 
-                <div class="card talker-card">
+                <div id="stamets-card" class="card talker-card">
                     <h3 data-i18n="STAMETS_TITLE">Paul Stamets</h3>
-                    <p data-i18n="STAMETS_DESC">Mycology expert and entrepreneur, dedicated to the medicinal and environmental benefits of mushrooms.</p>
+                    <p data-i18n="STAMETS_DESC">Mycologist who believes mushrooms might save the planet. Given humanity's track record, we should probably listen to the fungi expert. At least mushrooms have more sense than most politicians.</p>
                     <div class="links">
                         <a href="https://fungi.com/" target="_blank"><i class="fas fa-leaf"></i> Fungi.com</a>
                         <a href="https://www.youtube.com/watch?v=kC7xR8WJzU8" target="_blank"><i class="fab fa-youtube"></i> Talk</a>
                     </div>
                 </div>
 
-                <div class="card talker-card">
-                    <h3>[Talker Name]</h3>
-                    <p>Short description of why I listen to them and what topics they cover.</p>
+                <div id="placeholder-card" class="card talker-card">
+                    <h3>More Coming Soon</h3>
+                    <p>Additional fascinating humans will be added as they prove themselves sufficiently less catastrophic than the average member of their species. The bar is remarkably low, yet surprisingly few make it over.</p>
                     <div class="links">
-                        <a href="#" target="_blank"><i class="fas fa-link"></i> Link 1</a>
-                        <a href="#" target="_blank"><i class="fas fa-link"></i> Link 2</a>
+                        <a href="#" target="_blank"><i class="fas fa-question"></i> Unknown</a>
                     </div>
                 </div>
 
@@ -131,10 +222,10 @@
     <footer class="footer">
         <div class="container">
             <p>
-                &copy; <span id="current-year"></span> | 
-                <span data-i18n="FOOTER_TEXT">Built by HRCO using pure HTML/CSS/JS. All rights reserved.</span>
+                &copy; <span id="current-year"></span> |
+                <span data-i18n="FOOTER_TEXT">Constructed by HRCO. Mostly harmless.</span>
             </p>
-           
+
         </div>
     </footer>
 

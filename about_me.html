@@ -3,45 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title data-i18n="ABOUT_ME_TITLE">About HRCO</title>
+    <title data-i18n="ABOUT_ME_TITLE">About This Improbable Entity</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     
     <style>
         .experience-section {
             display: flex;
-            gap: 20px;
+            gap: 24px;
             margin-top: 1.5rem;
+            flex-wrap: wrap;
         }
 
         .experience-card {
             flex: 1;
+            min-width: 280px;
             padding: 1.5rem;
         }
 
         .experience-card h3 {
             color: var(--color-primary);
+            font-family: var(--font-display);
         }
 
         .skills-list {
             list-style: none;
             padding-left: 0;
-            margin-top: 1rem;
+            margin-top: 1.2rem;
         }
 
         .skills-list li {
-            background-color: var(--color-highlight);
+            background: linear-gradient(135deg, var(--color-highlight), var(--color-surface));
             color: var(--color-text);
-            padding: 8px 15px;
-            margin-bottom: 8px;
-            border-radius: 4px;
-            display: inline-block;
+            padding: 10px 18px;
+            margin-bottom: 10px;
             margin-right: 10px;
+            border-radius: 8px;
+            border: 1px solid var(--color-border);
+            display: inline-block;
             font-weight: 500;
+            font-size: 0.9rem;
+            transition: all var(--transition);
+            position: relative;
+            overflow: hidden;
         }
-        
-        body.theme-dark .skills-list li {
-             background-color: var(--color-surface);
+
+        .skills-list li::before {
+            content: '◆';
+            margin-right: 8px;
+            color: var(--color-primary);
+            font-size: 0.7rem;
+        }
+
+        .skills-list li:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-md);
+            border-color: var(--color-primary);
         }
     </style>
 </head>
@@ -51,56 +68,54 @@
             <a href="index.html" class="logo">HRCO</a>
 
             <nav>
-                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Home</a>
-                <a href="foto.html" class="nav-link" data-i18n="FOTO_LINK">Gallery</a>
-                <a href="about_me.html" class="nav-link active" data-i18n="ABOUT_LINK">About Me</a>
-                <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Suggestions</a>
+                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Start</a>
+                <a href="foto.html" class="nav-link" data-i18n="FOTO_LINK">Visual Evidence</a>
+                <a href="about_me.html" class="nav-link active" data-i18n="ABOUT_LINK">The Entity</a>
+                <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Wise Voices</a>
             </nav>
 
            <div class="settings-bar">
-    <div class="theme-toggles">
-        <button id="theme-toggle-bright" class="toggle-button" title="Light Theme"><i class="fas fa-sun"></i></button>
-        <button id="theme-toggle-dark" class="toggle-button" title="Dark Theme"><i class="fas fa-moon"></i></button>
-        <button id="theme-toggle-system" class="toggle-button" title="System Theme"><i class="fas fa-desktop"></i></button>
-    </div>
+                <button id="theme-toggle" class="theme-toggle-button" title="Toggle Theme">
+                    <i class="fas fa-sun"></i>
+                </button>
 
-    <div class="lang-toggles">
-        <button id="lang-toggle-slo" class="toggle-button">SLO</button>
-        <button id="lang-toggle-eng" class="toggle-button">ENG</button>
-    </div>
-</div>
+                <div class="lang-toggles">
+                    <button id="lang-toggle-slo" class="toggle-button">SLO</button>
+                    <button id="lang-toggle-eng" class="toggle-button">ENG</button>
+                </div>
+            </div>
         </header>
 
         <main>
             <section class="card">
-                <h1 data-i18n="ABOUT_ME_TITLE">About HRCO</h1>
-                <h2 data-i18n="ABOUT_ME_INTRO_TITLE">Introduction & Background</h2>
-                <p data-i18n="ABOUT_ME_INTRO_P1">Hello! I am HRCO, an enthusiast deeply involved in technology, photography, and personal growth. This portfolio showcases my journey and skills, built using a clean, custom-themed web template.</p>
-                <p data-i18n="ABOUT_ME_INTRO_P2">My main focus areas are system architecture, web development (especially clean JavaScript implementations), and exploring the synergy between engineering and creative pursuits.</p>
+                <h1 data-i18n="ABOUT_ME_TITLE">About This Improbable Entity</h1>
+                <h2 data-i18n="ABOUT_ME_INTRO_TITLE">Origin Story (Mostly Harmless)</h2>
+                <p data-i18n="ABOUT_ME_INTRO_P1">Greetings. I am HRCO - a curious arrangement of carbon-based matter that has developed an inexplicable fascination with converting caffeine into code, pointing cameras at things, and occasionally pondering the fundamental absurdity of existence. This portfolio exists as proof that I have, at least temporarily, figured out which end of a keyboard to type on.</p>
+                <p data-i18n="ABOUT_ME_INTRO_P2">My primary interests orbit around system architecture, web development (particularly the sort that doesn't explode when you look at it funny), and exploring that peculiar intersection where engineering meets creative chaos. I build things with JavaScript, though I cannot be held responsible for what JavaScript does when I'm not looking.</p>
             </section>
 
             <section>
-                <h2 data-i18n="EXPERIENCE_TITLE">Key Experience & Skills</h2>
+                <h2 data-i18n="EXPERIENCE_TITLE">Professional Improbabilities</h2>
                 <div class="experience-section">
-                    
+
                     <div class="card experience-card">
-                        <h3 data-i18n="EXP_1_TITLE">System Architect & Developer</h3>
-                        <p data-i18n="EXP_1_DESC">Designing and implementing scalable, maintainable software systems with a focus on robust backend services and efficient front-end interfaces.</p>
+                        <h3 data-i18n="EXP_1_TITLE">System Architect & Digital Plumber</h3>
+                        <p data-i18n="EXP_1_DESC">Designing systems that are theoretically scalable and maintainable, assuming the laws of thermodynamics continue to apply and the universe doesn't suddenly decide to recompile itself.</p>
                     </div>
 
                     <div class="card experience-card">
-                        <h3 data-i18n="EXP_2_TITLE">Data Analysis & Automation</h3>
-                        <p data-i18n="EXP_2_DESC">Expertise in data modeling, scripting (Python/JS), and automating complex organizational workflows to boost efficiency.</p>
+                        <h3 data-i18n="EXP_2_TITLE">Data Whisperer & Automation Enthusiast</h3>
+                        <p data-i18n="EXP_2_DESC">Convincing computers to do repetitive tasks so humans can focus on more important activities, like arguing on the internet or contemplating where they left their towel.</p>
                     </div>
                 </div>
             </section>
-            
+
             <section class="card">
-                <h2 data-i18n="SKILLS_TITLE">Technical Toolkit</h2>
+                <h2 data-i18n="SKILLS_TITLE">Technical Arsenal (Don't Panic)</h2>
                 <ul class="skills-list">
-                    <li data-i18n="SKILL_WEB">Web (HTML5, CSS3/SASS, Vanilla JS)</li>
-                    <li data-i18n="SKILL_BACKEND">Backend/System (Python, Node.js, Shell)</li>
-                    <li data-i18n="SKILL_OTHER">Other (DJI Platforms, Adobe Lightroom, GIS)</li>
+                    <li data-i18n="SKILL_WEB">Web (HTML5, CSS3, Vanilla JS) - Like BASIC but with more curly braces</li>
+                    <li data-i18n="SKILL_BACKEND">Backend (Python, Node.js, Shell) - Where the real magic happens</li>
+                    <li data-i18n="SKILL_OTHER">Other (DJI Drones, Lightroom, GIS) - For when code isn't enough</li>
                 </ul>
             </section>
 
@@ -110,8 +125,8 @@
     <footer class="footer">
         <div class="container">
             <p>
-                &copy; <span id="current-year"></span> | 
-                <span data-i18n="FOOTER_TEXT">Built by HRCO.</span>
+                &copy; <span id="current-year"></span> |
+                <span data-i18n="FOOTER_TEXT">Constructed by HRCO. Mostly harmless.</span>
             </p>
         </div>
     </footer>

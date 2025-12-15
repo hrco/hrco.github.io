@@ -3,31 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title data-i18n="FOTO_TITLE">Photo & DJI Gallery</title>
+    <title data-i18n="FOTO_TITLE">Visual Evidence of Reality</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     
     <style>
-        /* Specific CSS for the Gallery Layout */
+        /* Specific CSS for the Gallery Grid Layout */
         .photo-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 20px;
-            margin-bottom: 30px;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 24px;
+            margin-bottom: 36px;
         }
 
         .photo-item {
-            /* Inherit card properties but focus on image display */
             background-color: var(--color-surface);
-            border-radius: 12px;
-            overflow: hidden; /* Important to keep image corners rounded */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-radius: var(--border-radius);
+            border: 2px solid var(--color-border);
+            overflow: hidden;
+            box-shadow: var(--shadow-md);
+            transition: all var(--transition);
+            position: relative;
+            will-change: transform;
+            backface-visibility: hidden;
+            transform: translateZ(0);
+        }
+
+        .photo-item::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border-radius: var(--border-radius);
+            box-shadow: inset 0 0 0 2px transparent;
+            transition: box-shadow var(--transition);
+            pointer-events: none;
         }
 
         .photo-item:hover {
-            transform: translateY(-5px); /* Slight lift on hover */
-            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+            transform: translateY(-8px) translateZ(0);
+            box-shadow: var(--shadow-lg), 0 0 30px var(--color-glow);
+            border-color: var(--color-primary);
+        }
+
+        .photo-item:hover::after {
+            box-shadow: inset 0 0 0 2px var(--color-primary);
         }
 
         .photo-item img {
@@ -35,20 +57,20 @@
             height: auto;
             display: block;
             object-fit: cover;
-            aspect-ratio: 4/3; /* Standardizing image aspect ratio */
+            aspect-ratio: 4/3;
+            transition: transform var(--transition);
         }
-        
+
+        .photo-item:hover img {
+            transform: scale(1.02);
+        }
+
         .photo-caption {
-            padding: 15px;
+            padding: 18px;
             font-size: 0.9rem;
             color: var(--color-text-subtle);
-        }
-        
-        .section-header {
-            margin-top: 3rem;
-            margin-bottom: 1.5rem;
-            border-bottom: 1px solid var(--color-border);
-            padding-bottom: 5px;
+            font-style: italic;
+            border-top: 1px solid var(--color-border);
         }
     </style>
 </head>
@@ -58,71 +80,167 @@
             <a href="index.html" class="logo">HRCO</a>
 
             <nav>
-                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Home</a>
-                <a href="foto.html" class="nav-link active" data-i18n="FOTO_LINK">Gallery</a>
-                <a href="about_me.html" class="nav-link" data-i18n="ABOUT_LINK">About Me</a>
-                <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Suggestions</a>
+                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Start</a>
+                <a href="foto.html" class="nav-link active" data-i18n="FOTO_LINK">Visual Evidence</a>
+                <a href="about_me.html" class="nav-link" data-i18n="ABOUT_LINK">The Entity</a>
+                <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Wise Voices</a>
             </nav>
 
            <div class="settings-bar">
-    <div class="theme-toggles">
-        <button id="theme-toggle-bright" class="toggle-button" title="Light Theme"><i class="fas fa-sun"></i></button>
-        <button id="theme-toggle-dark" class="toggle-button" title="Dark Theme"><i class="fas fa-moon"></i></button>
-        <button id="theme-toggle-system" class="toggle-button" title="System Theme"><i class="fas fa-desktop"></i></button>
-    </div>
+                <button id="theme-toggle" class="theme-toggle-button" title="Toggle Theme">
+                    <i class="fas fa-sun"></i>
+                </button>
 
-    <div class="lang-toggles">
-        <button id="lang-toggle-slo" class="toggle-button">SLO</button>
-        <button id="lang-toggle-eng" class="toggle-button">ENG</button>
-    </div>
-</div>
+                <div class="lang-toggles">
+                    <button id="lang-toggle-slo" class="toggle-button">SLO</button>
+                    <button id="lang-toggle-eng" class="toggle-button">ENG</button>
+                </div>
+            </div>
         </header>
 
         <main>
-          <h2 class="section-header" data-i18n="FOTO_SECTION_1_TITLE">Landscape Photography</h2>
-        
+          <h2 class="section-header">Morning Fog Chronicles</h2>
+
         <section class="photo-carousel">
             <div class="photo-grid">
-                
+
                 <div class="photo-item">
-                    <img src="/images/web_1600_wm/gallery_01.jpg" alt="Landscape Photo 1">
-                    <p class="photo-caption" data-i18n="PHOTO_CAPTION_1">Mountain view at sunrise.</p>
+                    <img src="images/web_1600_wm/gallery_01.jpg" alt="Kolpa River aerial morning view">
+                    <p class="photo-caption">Rivers meander. Fog settles. Mountains exist majestically. The universe continues ignoring our opinions about topology.</p>
                 </div>
 
                 <div class="photo-item">
-                    <img src="images/web_1600_wm/gallery_02.jpg" alt="Landscape Photo 2">
-                    <p class="photo-caption" data-i18n="PHOTO_CAPTION_2">Coastal path in the evening.</p>
+                    <img src="images/web_1600_wm/gallery_02.jpg" alt="Epic sunrise through fog">
+                    <p class="photo-caption">The sun rises, as it has done for roughly 4.6 billion years. Still impressive despite the repetition.</p>
                 </div>
-                
+
                 <div class="photo-item">
-                    <img src="images/web_1600_wm/gallery_03.jpg" alt="Landscape Photo 3">
-                    <p class="photo-caption">Forest stream in autumn.</p>
+                    <img src="images/web_1600_wm/gallery_03.jpg" alt="Fiery sunrise colors">
+                    <p class="photo-caption">Pink fog at dawn - proof that the atmosphere occasionally produces better color schemes than the Sirius Cybernetics Corporation.</p>
                 </div>
-                
+
                 <div class="photo-item">
-                    <img src="images/web_1600_wm/gallery_04.jpg" alt="Landscape Photo 4">
-                    <p class="photo-caption">City skyline at night.</p>
+                    <img src="images/web_1600_wm/gallery_04.jpg" alt="Sun breaking through mist">
+                    <p class="photo-caption">Golden hour meets fog layer. Physics doing what it does best: being consistently photogenic.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_05.jpg" alt="Morning fog between hills">
+                    <p class="photo-caption">Fog trapped between hills like confusion trapped between Monday and coffee.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_12.jpg" alt="Sea of clouds">
+                    <p class="photo-caption">Valley converted to cloud ocean. Villages emerge as improbable islands of civilization.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_13.jpg" alt="Evening fog in valley">
+                    <p class="photo-caption">Evening mist performing its nightly ritual of obscuring everything interesting.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_24.jpg" alt="Dramatic sunrise with sunbeam">
+                    <p class="photo-caption">Sunrise with lens flare included at no extra charge. Reality providing free special effects since forever.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_25.jpg" alt="Winding road through misty hills">
+                    <p class="photo-caption">Morning fog settles on hills like procrastination settles on Mondays. The road knows where it's going, which is more than most of us.</p>
                 </div>
 
             </div>
         </section>
 
 
-        <h2 class="section-header" data-i18n="FOTO_SECTION_2_TITLE">Aerial (DJI) Showcase</h2>
-        
+        <h2 class="section-header">Winter Chronicles: The Cold Equations</h2>
+
         <section class="photo-carousel">
             <div class="photo-grid">
-                
+
                 <div class="photo-item">
-                    <img src="images/web_1600_wm/gallery_05.jpg" alt="DJI Aerial Shot 1">
-                    <p class="photo-caption" data-i18n="DJI_CAPTION_1">Drone shot over the river valley.</p>
+                    <img src="images/web_1600_wm/gallery_06.jpg" alt="Winter river valley">
+                    <p class="photo-caption">Winter transforms landscape into high-contrast study of white versus everything else.</p>
                 </div>
 
                 <div class="photo-item">
-                    <img src="images/web_1600_wm/gallery_06.jpg" alt="DJI Aerial Shot 2">
-                    <p class="photo-caption">High angle view of a harbor.</p>
+                    <img src="images/web_1600_wm/gallery_07.jpg" alt="Snowy river meander">
+                    <p class="photo-caption">River refuses to freeze. Trees covered in snow. Stubborn liquid water: 1, Thermodynamics: 0.</p>
                 </div>
-                
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_08.jpg" alt="Winter dusk with fog">
+                    <p class="photo-caption">Winter sunset demonstrating that cold doesn't prevent beauty, merely makes photography significantly more uncomfortable.</p>
+                </div>
+
+            </div>
+        </section>
+
+
+        <h2 class="section-header">River Aerial Chronicles</h2>
+
+        <section class="photo-carousel">
+            <div class="photo-grid">
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_10.jpg" alt="River with waterfall weir">
+                    <p class="photo-caption">Small waterfall creating localized disturbance in otherwise calm river. Very relatable.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_16.jpg" alt="Camping tents along river">
+                    <p class="photo-caption">Humans camping by river. The ancient tradition of sleeping uncomfortably near water continues unabated.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_17.jpg" alt="River confluence with gravel">
+                    <p class="photo-caption">Where rivers meet and decide geography together. Democratic water distribution in action.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_18.jpg" alt="River split aerial view">
+                    <p class="photo-caption">River choosing to split. Clear evidence that even water can't make up its mind sometimes.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_19.jpg" alt="Village by river valley">
+                    <p class="photo-caption">Village nestled in valley. Humans building near water sources since discovering agriculture approximately 12,000 years ago.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_20.jpg" alt="River valley with farmland">
+                    <p class="photo-caption">Agricultural fields arranged geometrically. Nature curved, humanity square. This tension defines civilization.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_21.jpg" alt="River through mountain valley">
+                    <p class="photo-caption">River flowing between mountains with the confidence of having done this for millions of years.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_22.jpg" alt="River view from water level">
+                    <p class="photo-caption">The river from water level. Perspective: changed. Physics: still applicable.</p>
+                </div>
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_23.jpg" alt="Wide river valley view">
+                    <p class="photo-caption">Wide valley showcasing Earth's remarkable ability to be consistently scenic despite hosting humanity.</p>
+                </div>
+
+            </div>
+        </section>
+
+
+        <h2 class="section-header">Pastoral Improbabilities</h2>
+
+        <section class="photo-carousel">
+            <div class="photo-grid">
+
+                <div class="photo-item">
+                    <img src="images/web_1600_wm/gallery_15.jpg" alt="Cows from directly above">
+                    <p class="photo-caption">Cows from above. They remain unimpressed by aerial perspective. Dairy production continues regardless of viewpoint.</p>
+                </div>
+
             </div>
         </section>
         </main>
@@ -131,10 +249,10 @@
     <footer class="footer">
         <div class="container">
             <p>
-                &copy; <span id="current-year"></span> | 
-                <span data-i18n="FOOTER_TEXT">Built by HRCO.</span>
+                &copy; <span id="current-year"></span> |
+                <span data-i18n="FOOTER_TEXT">Constructed by HRCO. Mostly harmless.</span>
             </p>
-           
+
         </div>
     </footer>
     <script src="js/gallery.js"></script>
