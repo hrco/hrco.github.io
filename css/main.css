@@ -238,27 +238,10 @@ nav {
 .card:nth-child(4) { animation-delay: 0.3s; }
 .card:nth-child(5) { animation-delay: 0.4s; }
 
-.card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 3px;
-    background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
-    border-radius: var(--border-radius) var(--border-radius) 0 0;
-    opacity: 0;
-    transition: opacity var(--transition);
-}
-
 .card:hover {
     transform: translateY(-4px);
     box-shadow: var(--shadow-lg);
     border-color: var(--color-primary);
-}
-
-.card:hover::before {
-    opacity: 1;
 }
 
 /* Theme Toggle */
