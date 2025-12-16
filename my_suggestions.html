@@ -35,17 +35,11 @@
             right: 0;
             bottom: 0;
             background: linear-gradient(135deg,
-                rgba(255, 255, 255, 0.92) 0%,
-                rgba(245, 245, 247, 0.85) 100%);
+                rgba(21, 25, 51, 0.92) 0%,
+                rgba(10, 14, 39, 0.85) 100%);
             backdrop-filter: blur(8px);
             z-index: 1;
             transition: all var(--transition);
-        }
-
-        body.theme-dark .talker-card::before {
-            background: linear-gradient(135deg,
-                rgba(21, 25, 51, 0.92) 0%,
-                rgba(10, 14, 39, 0.85) 100%);
         }
 
         .talker-card:hover {
@@ -55,12 +49,6 @@
         }
 
         .talker-card:hover::before {
-            background: linear-gradient(135deg,
-                rgba(255, 255, 255, 0.85) 0%,
-                rgba(245, 245, 247, 0.75) 100%);
-        }
-
-        body.theme-dark .talker-card:hover::before {
             background: linear-gradient(135deg,
                 rgba(21, 25, 51, 0.85) 0%,
                 rgba(10, 14, 39, 0.75) 100%);
@@ -144,10 +132,6 @@
             </nav>
 
             <div class="settings-bar">
-                <button id="theme-toggle" class="theme-toggle-button" title="Toggle Theme">
-                    <i class="fas fa-sun"></i>
-                </button>
-
                 <div class="lang-toggles">
                     <button id="lang-toggle-slo" class="toggle-button">SLO</button>
                     <button id="lang-toggle-eng" class="toggle-button">ENG</button>

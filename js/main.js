@@ -1,47 +1,9 @@
 /**
- * main.js - Theme & Language Controller
- * "The Answer to Life, the Universe, and Everything is... a good theme toggle"
+ * main.js - Language Controller
+ * "The Answer to Life, the Universe, and Everything is... 42"
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-    const themeToggle = document.getElementById('theme-toggle');
-    const body = document.body;
-    const isSystemDark = () => window.matchMedia('(prefers-color-scheme: dark)').matches;
-    const themeOrder = ['light', 'dark', 'system'];
-
-    // Update theme icon
-    const updateIcon = (theme) => {
-        const icon = themeToggle?.querySelector('i');
-        if (!icon) return;
-        icon.className = theme === 'light' ? 'fas fa-sun' :
-                        theme === 'dark' ? 'fas fa-moon' : 'fas fa-desktop';
-    };
-
-    // Apply theme
-    const applyTheme = (theme) => {
-        body.classList.remove('theme-light', 'theme-dark');
-        if (theme === 'dark') body.classList.add('theme-dark');
-        else if (theme === 'light') body.classList.add('theme-light');
-        else body.classList.add(isSystemDark() ? 'theme-dark' : 'theme-light');
-
-        updateIcon(theme);
-        localStorage.setItem('theme', theme);
-    };
-
-    // Cycle theme
-    const cycleTheme = () => {
-        const current = localStorage.getItem('theme') || 'system';
-        const next = themeOrder[(themeOrder.indexOf(current) + 1) % themeOrder.length];
-        applyTheme(next);
-    };
-
-    // Initialize
-    applyTheme(localStorage.getItem('theme') || 'system');
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
-        if (localStorage.getItem('theme') === 'system') applyTheme('system');
-    });
-    themeToggle?.addEventListener('click', cycleTheme);
-
     // Language system
     const langToggleSlo = document.getElementById('lang-toggle-slo');
     const langToggleEng = document.getElementById('lang-toggle-eng');
