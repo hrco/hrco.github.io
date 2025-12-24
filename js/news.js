@@ -7,17 +7,26 @@
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const archive = await res.json();
 
-    updated.textContent = `Updated: ${archive.updated_at}`;
+    updated.innerHTML = `<span data-i18n="UPDATED_LABEL">Updated:</span> ${archive.updated_at}`;
 
     list.innerHTML = (archive.days || []).map(d => `
       <article class="card">
         <h2><a href="${d.page}">${d.date}</a></h2>
         <p class="muted">${d.teaser}</p>
-        <p><small>${d.count} items</small></p>
+        <p><small>${d.count} <span data-i18n="ITEMS_COUNT">items</span></small></p>
       </article>
-    `).join("") || "<p>No digests yet.</p>";
+    `).join("") || "<p data-i18n=\"NO_DIGESTS\">No digests yet.</p>";
+
+    if (window.updateText && localStorage.getItem('language')) {
+      window.updateText(localStorage.getItem('language'));
+    }
+
   } catch {
-    updated.textContent = "No archive yet.";
-    list.innerHTML = "<p>No digests yet.</p>";
+    updated.innerHTML = '<span data-i18n="NO_ARCHIVE">No archive yet.</span>';
+    list.innerHTML = '<p data-i18n="NO_DIGESTS">No digests yet.</p>';
+    
+    if (window.updateText && localStorage.getItem('language')) {
+      window.updateText(localStorage.getItem('language'));
+    }
   }
 })();

@@ -26,6 +26,35 @@ document.addEventListener('DOMContentLoaded', () => {
             'sl': 'To je izjemno preprosta portfolio spletna stran, zgrajena v celoti iz HTML, CSS in JavaScript - tehnologije, ki so kljub temu, da so približno stare kot digitalne ure, še vedno neskončno bolj impresivne kot karkoli, kar je proizvedel marketinški oddelek Sirius Cybernetics Corporation.'
         },
 
+        'LATEST_DIGEST': {
+            'en': 'Latest Digest',
+            'sl': 'Zadnji Povzetek'
+        },
+        'READ_FULL_DIGEST': {
+            'en': 'Read full digest',
+            'sl': 'Preberi celoten povzetek'
+        },
+        'VIEW_ARCHIVE': {
+            'en': 'View archive',
+            'sl': 'Poglej arhiv'
+        },
+        'UPDATED_LABEL': {
+            'en': 'Updated:',
+            'sl': 'Posodobljeno:'
+        },
+        'NO_ARCHIVE': {
+            'en': 'No archive yet.',
+            'sl': 'Ni še arhiva.'
+        },
+        'NO_DIGESTS': {
+            'en': 'No digests yet.',
+            'sl': 'Ni še povzetkov.'
+        },
+        'ITEMS_COUNT': {
+            'en': 'items',
+            'sl': 'postavk'
+        },
+
         // News page
         'NEWS_TITLE': {
             'en': 'News Digest Archive | HRCO',
@@ -287,6 +316,9 @@ document.addEventListener('DOMContentLoaded', () => {
         (lang === 'sl' ? langToggleSlo : langToggleEng)?.classList.add('active');
         localStorage.setItem('language', lang);
     };
+
+    // Expose for other scripts
+    window.updateText = updateText;
 
     // Initialize language
     updateText(localStorage.getItem('language') || 'en');
