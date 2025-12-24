@@ -3,8 +3,10 @@ import crypto from "node:crypto";
 import { fetchRss } from "./connectors/rss.mjs";
 
 const FEEDS = [
-  "https://hnrss.org/frontpage",
-  // add more RSS/Atom URLs here
+  "https://hnrss.org/frontpage",              // HackerNews: tech news
+  "https://feeds.arstechnica.com/arstechnica/index", // ArsTechnica: tech journalism
+  "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", // NY Times: technology section
+  "https://feeds.bloomberg.com/markets/news.rss", // Bloomberg: tech/markets
 ];
 
 const LIMIT_ITEMS = 12;
@@ -54,7 +56,7 @@ function renderDayHtml({ date, updated_at, items }) {
   <meta charset="utf-8" />
   <title>Digest ${date}</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <link rel="stylesheet" href="/assets/style.css" />
+  <link rel="stylesheet" href="/css/main.css" />
 </head>
 <body>
   <main class="wrap">
@@ -71,7 +73,14 @@ async function main() {
   // Load archive (for listing + dedupe across days)
   let archive = { updated_at: "", days: [] };
   if (fs.existsSync(archivePath)) {
-    archive = JSON.parse(fs.readFileSync(archivePath, "utf8"));
+    try {
+      const content = fs.readFileSync(archivePath, "utf8").trim();
+      if (content) {
+        archive = JSON.parse(content);
+      }
+    } catch (e) {
+      console.warn(`Warning: Failed to parse archive, starting fresh: ${e.message}`);
+    }
   }
 
   // Keep a “seen” set to avoid repeating old links
