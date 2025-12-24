@@ -6,3 +6,5 @@
 llms-full.txt
 /.claude
 claude.md
+agent.md
+/node_modules/*
