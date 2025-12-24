@@ -1,0 +1,8 @@
+{
+    "id": "sha1",
+    "title": "Latest digest",
+    "url": "https://hrco.github.io/digest.html",
+    "source": "hostname",
+    "published_at": "iso_date"
+
+}

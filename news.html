@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title data-i18n="HRCO_TITLE">HRCO's Digital Consciousness</title>
+    <title data-i18n="NEWS_TITLE">News Digest Archive | HRCO</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
@@ -13,8 +13,8 @@
             <a href="index.html" class="logo">HRCO</a>
 
             <nav>
-                <a href="index.html" class="nav-link active" data-i18n="HOME_LINK">Start</a>
-                <a href="news.html" class="nav-link" data-i18n="NEWS_LINK">News</a>
+                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Start</a>
+                <a href="news.html" class="nav-link active" data-i18n="NEWS_LINK">News</a>
                 <a href="foto.html" class="nav-link" data-i18n="FOTO_LINK">Visual Evidence</a>
                 <a href="about_me.html" class="nav-link" data-i18n="ABOUT_LINK">The Entity</a>
                 <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Wise Voices</a>
@@ -30,22 +30,12 @@
 
         <main>
             <section class="card">
-                <h1 data-i18n="GREETING">Don't Panic. You've Found HRCO.</h1>
-                <p data-i18n="DESCRIPTION">This is a remarkably simple portfolio website, constructed entirely from HTML, CSS, and JavaScript - technologies that, despite being roughly as old as digital watches, are still infinitely more impressive than anything produced by the Marketing Department of the Sirius Cybernetics Corporation.</p>
+                <h1 data-i18n="NEWS_HEADING">News Digest Archive</h1>
+                <p data-i18n="NEWS_INTRO">A chronological collection of digital discoveries, presented in reverse temporal order - because, as any hitchhiker knows, the future is just the past happening very slowly in the other direction.</p>
+                <p class="muted" id="updated">Loading…</p>
             </section>
 
-            <section class="card">
-                <h2 data-i18n="LATEST_DIGEST">Latest digest</h2>
-                <p class="muted" data-i18n="LATEST_DIGEST">Loading...</p>
-            </section>
-
-            <script defer src="js/latest-digest.js"></script>
-
-            <section class="card">
-                <h2>Current Status</h2>
-                <p>Probability of this portfolio being accurate: 42%. Probability of me knowing where my towel is: significantly lower. The universe continues to behave in its customarily improbable fashion, and I continue to document it with various electronic devices.</p>
-            </section>
-
+            <div id="list"></div>
         </main>
     </div>
 
@@ -55,10 +45,10 @@
                 &copy; <span id="current-year"></span> |
                 <span data-i18n="FOOTER_TEXT">Constructed by HRCO. Mostly harmless.</span>
             </p>
-
         </div>
     </footer>
 
+    <script src="js/news.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>

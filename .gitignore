@@ -1,0 +1,8 @@
+*.env
+*.env.pi
+.vscode/
+.DS_Store
+*.example.json
+llms-full.txt
+/.claude
+claude.md

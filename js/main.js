@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const content = {
         'HRCO_TITLE': { 'en': 'HRCO\'s Digital Consciousness', 'sl': 'HRCO Digitalna Zavest' },
         'HOME_LINK': { 'en': 'Start', 'sl': 'Začetek' },
+        'NEWS_LINK': { 'en': 'News', 'sl': 'Novice' },
         'FOTO_LINK': { 'en': 'Visual Evidence', 'sl': 'Vizualni Dokazi' },
         'ABOUT_LINK': { 'en': 'The Entity', 'sl': 'Entiteta' },
         'SUGGESTIONS_LINK': { 'en': 'Wise Voices', 'sl': 'Modri Glasovi' },
@@ -23,6 +24,20 @@ document.addEventListener('DOMContentLoaded', () => {
         'DESCRIPTION': {
             'en': 'This is a remarkably simple portfolio website, constructed entirely from HTML, CSS, and JavaScript - technologies that, despite being roughly as old as digital watches, are still infinitely more impressive than anything produced by the Marketing Department of the Sirius Cybernetics Corporation.',
             'sl': 'To je izjemno preprosta portfolio spletna stran, zgrajena v celoti iz HTML, CSS in JavaScript - tehnologije, ki so kljub temu, da so približno stare kot digitalne ure, še vedno neskončno bolj impresivne kot karkoli, kar je proizvedel marketinški oddelek Sirius Cybernetics Corporation.'
+        },
+
+        // News page
+        'NEWS_TITLE': {
+            'en': 'News Digest Archive | HRCO',
+            'sl': 'Arhiv Novic | HRCO'
+        },
+        'NEWS_HEADING': {
+            'en': 'News Digest Archive',
+            'sl': 'Arhiv Novic'
+        },
+        'NEWS_INTRO': {
+            'en': 'A chronological collection of digital discoveries, presented in reverse temporal order - because, as any hitchhiker knows, the future is just the past happening very slowly in the other direction.',
+            'sl': 'Kronološka zbirka digitalnih odkritij, predstavljena v obratnem časovnem vrstnem redu - ker, kot ve vsak štopač, je prihodnost le preteklost, ki se dogaja zelo počasi v drugo smer.'
         },
 
         // Suggestions page
