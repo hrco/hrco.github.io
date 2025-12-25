@@ -1,6 +1,26 @@
 {
-  "updated_at": "2025-12-24T19:03:22.584Z",
+  "updated_at": "2025-12-25T06:32:00.731Z",
   "days": [
+    {
+      "date": "2025-12-25",
+      "page": "/news/2025-12-25.html",
+      "teaser": "Top: Ruby 4.0.0 Released",
+      "count": 12,
+      "ids": [
+        "936cb4fef25ec46e7a067685972962f02632f59a",
+        "bacb4289d18b46bcd6ec49a6a0f68ef527dbb927",
+        "2b3c1b896022bc822eb3d289c0d93ee9d1266ef2",
+        "8dda7b2dff1ca938c52ac8e3bb8f014ca4c8ed3e",
+        "3fb1d43c1f0cc49d41646cac98a21cae067b3d31",
+        "f41512dd1365f5b0e1d71e58a161cba0ee164d11",
+        "3e20acab14297fcfd7d941f516b9c784c30a6f06",
+        "1556f5f5d47fb2aeeb2eb578ea5372b83821db50",
+        "a3168b6dc3f431e53abab7abf5b5b74536fbc413",
+        "01e0a7da4d1ca5c99621f25c2f827f74e1724a2b",
+        "69deed41722b08e843697092771103370b2add7c",
+        "be64761f62cbbbc96bc95acde5dbc798967f3661"
+      ]
+    },
     {
       "date": "2025-12-24",
       "page": "/news/2025-12-24.html",
