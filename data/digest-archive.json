@@ -1,6 +1,26 @@
 {
-  "updated_at": "2025-12-25T06:32:00.731Z",
+  "updated_at": "2025-12-26T06:31:55.431Z",
   "days": [
+    {
+      "date": "2025-12-26",
+      "page": "/news/2025-12-26.html",
+      "teaser": "Top: Rob Pike Goes Nuclear over GenAI",
+      "count": 12,
+      "ids": [
+        "b3281b76028bc9770bd3a9f2d7a75de045b1cfb3",
+        "c7b43e2810225ac6bea6dee33802508eb6f07800",
+        "e2fceecadaae5e384229e94deaec1ad395d6b3c6",
+        "f23b33e38c8a52a215d823210e4adcce76bff938",
+        "f001b772cf7413a5221c850cd6354eb8c794d05f",
+        "97886d3189115a75b103a0f760e301076a18582b",
+        "4cf9844348c242943bc6c97e4ea7716643073b3c",
+        "0417c6366be2c8f31d2f87f9b1dd799c9e00f509",
+        "cf998a4b5dc033760e7abe8cf59fff6644d56a53",
+        "6888467804f53dac298360a07b612da58f366529",
+        "c85c45f3bc3a1865a245f658a06936c4f5339d89",
+        "1ad48ff39ef1a75f417691ff6f9491449c65790e"
+      ]
+    },
     {
       "date": "2025-12-25",
       "page": "/news/2025-12-25.html",
