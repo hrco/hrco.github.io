@@ -1,6 +1,26 @@
 {
-  "updated_at": "2025-12-26T06:31:55.431Z",
+  "updated_at": "2025-12-27T06:31:48.651Z",
   "days": [
+    {
+      "date": "2025-12-27",
+      "page": "/news/2025-12-27.html",
+      "teaser": "Top: CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy",
+      "count": 12,
+      "ids": [
+        "b3c1f5c03254a0f8181d0ff3632d23ddb618a90b",
+        "649c928d7205f7eac0a98024f2b38a4026fa5b86",
+        "370fa88a5979e69ffea18f8e17f6f635273437cd",
+        "7ca6c8131a8c811c1d1630f9ff5f1296216ea1e4",
+        "f4bcbbd40676e623ac799a2c50ae751c3f79daba",
+        "4748edaa03d9b467bcbf7a6c7eb0250cb3b54dc1",
+        "fd8992c1373b983f2c368e8081ad7960d7964bd7",
+        "8faf0e2166037a62ad06eb7a0e5850b77a5544c0",
+        "9d7bb76277c3558d8afd8f4c9a18de9254c2c1cc",
+        "d746322b824892abdfcf510b7f1365e607f7b108",
+        "f8160587713b4e0262dd57d2ff98696c38d7d309",
+        "ebf83e0dd8c0e70b43a6d2705ff3db2a7af9e521"
+      ]
+    },
     {
       "date": "2025-12-26",
       "page": "/news/2025-12-26.html",

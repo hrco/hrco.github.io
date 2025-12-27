@@ -1,104 +1,104 @@
 {
-  "date": "2025-12-26",
-  "updated_at": "2025-12-26T06:31:55.431Z",
-  "page": "/news/2025-12-26.html",
+  "date": "2025-12-27",
+  "updated_at": "2025-12-27T06:31:48.651Z",
+  "page": "/news/2025-12-27.html",
   "count": 12,
   "items": [
     {
-      "id": "b3281b76028bc9770bd3a9f2d7a75de045b1cfb3",
-      "title": "Rob Pike Goes Nuclear over GenAI",
-      "url": "https://imgur.com/nUJCI3o",
+      "id": "b3c1f5c03254a0f8181d0ff3632d23ddb618a90b",
+      "title": "CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy",
+      "url": "https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy",
       "source": "hnrss.org",
-      "published_at": "2025-12-26T05:27:05.000Z",
-      "summary": "Summary: Rob Pike Goes Nuclear over GenAI"
+      "published_at": "2025-12-27T03:14:56.000Z",
+      "summary": "Summary: CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy"
     },
     {
-      "id": "c7b43e2810225ac6bea6dee33802508eb6f07800",
-      "title": "Palm Oil Hits Two-Week High on Increased Malaysian Exports",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/palm-oil-hits-two-week-high-on-increased-malaysian-exports",
+      "id": "649c928d7205f7eac0a98024f2b38a4026fa5b86",
+      "title": "China Industrial Profits Decline in November as Demand Cools",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-27/china-industrial-profits-decline-in-november-as-demand-cools",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-26T05:05:57.000Z",
-      "summary": "Summary: Palm Oil Hits Two-Week High on Increased Malaysian Exports"
+      "published_at": "2025-12-27T01:51:48.000Z",
+      "summary": "Summary: China Industrial Profits Decline in November as Demand Cools"
     },
     {
-      "id": "e2fceecadaae5e384229e94deaec1ad395d6b3c6",
-      "title": "South Korean Won Climbs to Highest Since November on FX Warning",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/south-korean-won-climbs-to-highest-since-november-on-fx-warning",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-26T04:40:58.000Z",
-      "summary": "Summary: South Korean Won Climbs to Highest Since November on FX Warning"
-    },
-    {
-      "id": "f23b33e38c8a52a215d823210e4adcce76bff938",
-      "title": "Emerging-Market Stocks, Currencies Head for Weekly Advance",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/emerging-market-stocks-currencies-head-for-weekly-advance",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-26T03:49:36.000Z",
-      "summary": "Summary: Emerging-Market Stocks, Currencies Head for Weekly Advance"
-    },
-    {
-      "id": "f001b772cf7413a5221c850cd6354eb8c794d05f",
-      "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
-      "url": "https://github.com/thu-ml/TurboDiffusion",
+      "id": "370fa88a5979e69ffea18f8e17f6f635273437cd",
+      "title": "QNX Self-Hosted Developer Desktop",
+      "url": "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/",
       "source": "hnrss.org",
-      "published_at": "2025-12-26T03:19:49.000Z",
-      "summary": "Summary: TurboDiffusion: 100–200× Acceleration for Video Diffusion Models"
+      "published_at": "2025-12-27T01:16:53.000Z",
+      "summary": "Summary: QNX Self-Hosted Developer Desktop"
     },
     {
-      "id": "97886d3189115a75b103a0f760e301076a18582b",
-      "title": "Copper Hits Record in China, Jumps in New York on Supply Concern",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/copper-hits-record-in-china-jumps-in-new-york-on-supply-concern",
+      "id": "7ca6c8131a8c811c1d1630f9ff5f1296216ea1e4",
+      "title": "Senegal Raises $1 Billion in Oversubscribed Regional Bond Sale",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-27/senegal-raises-1-billion-in-oversubscribed-regional-bond-sale",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-26T02:49:19.000Z",
-      "summary": "Summary: Copper Hits Record in China, Jumps in New York on Supply Concern"
+      "published_at": "2025-12-27T00:53:19.000Z",
+      "summary": "Summary: Senegal Raises $1 Billion in Oversubscribed Regional Bond Sale"
     },
     {
-      "id": "4cf9844348c242943bc6c97e4ea7716643073b3c",
-      "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
-      "url": "https://github.com/popovicu/ultimate-linux",
+      "id": "f4bcbbd40676e623ac799a2c50ae751c3f79daba",
+      "title": "Publishing your work increases your luck",
+      "url": "https://github.com/readme/guides/publishing-your-work",
       "source": "hnrss.org",
-      "published_at": "2025-12-26T02:32:29.000Z",
-      "summary": "Summary: Ultimate-Linux: Userspace for Linux in Pure JavaScript"
+      "published_at": "2025-12-27T00:43:04.000Z",
+      "summary": "Summary: Publishing your work increases your luck"
     },
     {
-      "id": "0417c6366be2c8f31d2f87f9b1dd799c9e00f509",
-      "title": "Malaysia Judge Says Ex-PM Najib No ‘Bumpkin’ in Key 1MDB Verdict",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/malaysia-judge-says-ex-pm-najib-used-financier-jho-low-as-agent",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-26T02:11:32.000Z",
-      "summary": "Summary: Malaysia Judge Says Ex-PM Najib No ‘Bumpkin’ in Key 1MDB Verdict"
-    },
-    {
-      "id": "cf998a4b5dc033760e7abe8cf59fff6644d56a53",
-      "title": "China Signals Goal of Slow Yuan Gain Via Fix Well Below Estimate",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/china-signals-goal-of-slow-yuan-gain-via-fix-well-below-estimate",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-26T01:30:43.000Z",
-      "summary": "Summary: China Signals Goal of Slow Yuan Gain Via Fix Well Below Estimate"
-    },
-    {
-      "id": "6888467804f53dac298360a07b612da58f366529",
-      "title": "Japan Plans to Reduce Sales of Super-Long Government Bonds",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/japan-plans-to-reduce-sales-of-super-long-government-bonds",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-26T01:23:06.000Z",
-      "summary": "Summary: Japan Plans to Reduce Sales of Super-Long Government Bonds"
-    },
-    {
-      "id": "c85c45f3bc3a1865a245f658a06936c4f5339d89",
-      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
-      "url": "https://www.minimaxi.com/news/minimax-m21",
+      "id": "4748edaa03d9b467bcbf7a6c7eb0250cb3b54dc1",
+      "title": "Exe.dev",
+      "url": "https://exe.dev/",
       "source": "hnrss.org",
-      "published_at": "2025-12-26T01:02:53.000Z",
-      "summary": "Summary: MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming"
+      "published_at": "2025-12-26T23:42:46.000Z",
+      "summary": "Summary: Exe.dev"
     },
     {
-      "id": "1ad48ff39ef1a75f417691ff6f9491449c65790e",
-      "title": "When a driver challenges the kernel's assumptions",
-      "url": "http://miod.online.fr/software/openbsd/stories/udl.html",
+      "id": "fd8992c1373b983f2c368e8081ad7960d7964bd7",
+      "title": "Always bet on text (2014)",
+      "url": "https://graydon2.dreamwidth.org/193447.html",
       "source": "hnrss.org",
-      "published_at": "2025-12-26T00:32:15.000Z",
-      "summary": "Summary: When a driver challenges the kernel's assumptions"
+      "published_at": "2025-12-26T23:09:40.000Z",
+      "summary": "Summary: Always bet on text (2014)"
+    },
+    {
+      "id": "8faf0e2166037a62ad06eb7a0e5850b77a5544c0",
+      "title": "2026 Outlook For Dealmaking",
+      "url": "https://www.bloomberg.com/news/videos/2025-12-26/2026-outlook-for-dealmaking-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-26T22:46:32.000Z",
+      "summary": "Summary: 2026 Outlook For Dealmaking"
+    },
+    {
+      "id": "9d7bb76277c3558d8afd8f4c9a18de9254c2c1cc",
+      "title": "A Wealth Tax Floated in California Has Billionaires Thinking of Leaving",
+      "url": "https://www.nytimes.com/2025/12/26/technology/california-wealth-tax-page-thiel.html",
+      "source": "rss.nytimes.com",
+      "published_at": "2025-12-26T22:23:55.000Z",
+      "summary": "Summary: A Wealth Tax Floated in California Has Billionaires Thinking of Leaving"
+    },
+    {
+      "id": "d746322b824892abdfcf510b7f1365e607f7b108",
+      "title": "Brutal Year for Stock Picking Spurs Trillion-Dollar Fund Exodus",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-26/brutal-year-for-stock-picking-spurs-trillion-dollar-fund-exodus",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-26T21:18:51.000Z",
+      "summary": "Summary: Brutal Year for Stock Picking Spurs Trillion-Dollar Fund Exodus"
+    },
+    {
+      "id": "f8160587713b4e0262dd57d2ff98696c38d7d309",
+      "title": "Toys with the highest play-time and lowest clean-up-time",
+      "url": "https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and",
+      "source": "hnrss.org",
+      "published_at": "2025-12-26T20:28:53.000Z",
+      "summary": "Summary: Toys with the highest play-time and lowest clean-up-time"
+    },
+    {
+      "id": "ebf83e0dd8c0e70b43a6d2705ff3db2a7af9e521",
+      "title": "T-Ruby is Ruby with syntax for types",
+      "url": "https://type-ruby.github.io/",
+      "source": "hnrss.org",
+      "published_at": "2025-12-26T20:27:50.000Z",
+      "summary": "Summary: T-Ruby is Ruby with syntax for types"
     }
   ]
 }
