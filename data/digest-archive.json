@@ -1,6 +1,26 @@
 {
-  "updated_at": "2025-12-28T06:31:51.924Z",
+  "updated_at": "2025-12-29T06:32:14.138Z",
   "days": [
+    {
+      "date": "2025-12-29",
+      "page": "/news/2025-12-29.html",
+      "teaser": "Top: SoftBank Nears Deal for Data Center Investment Firm DigitalBridge",
+      "count": 12,
+      "ids": [
+        "726aa35a7808307c6cc407628d789d3e04c5969c",
+        "b0ddf7bbdf5b89a8ffefa61d91deecf9ef7dbc9d",
+        "25555204169577e776879744de1e096f336a19a5",
+        "746fae68fd8c0ef01e22914d040c0ce92a30dc67",
+        "fbb891377d302c70d0578dbf408d3d1c3018561c",
+        "1fb20e39ea801755e3e19bd9c9ca64c3acbee8b8",
+        "c29ecf64cd788577f083400e890c6e6eb080432c",
+        "3f81b369e4cab81ddd484cfb91695ee83afe735c",
+        "d61ca0e48c0cbdf059a61d038846cad8674866ca",
+        "9af42cb45fd31ab1dfa4a6ef1f213daaa2c34c41",
+        "9af15f613f75c470a1c3a4025589981edd0d2355",
+        "9368ae3ff7be9c2d71547dbfbc359d226d59ad20"
+      ]
+    },
     {
       "date": "2025-12-28",
       "page": "/news/2025-12-28.html",
