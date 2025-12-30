@@ -1,6 +1,26 @@
 {
-  "updated_at": "2025-12-29T06:32:14.138Z",
+  "updated_at": "2025-12-30T06:32:05.301Z",
   "days": [
+    {
+      "date": "2025-12-30",
+      "page": "/news/2025-12-30.html",
+      "teaser": "Top: European Bank Stocks Had an Ace Year But Novo and Puma Lost Out",
+      "count": 12,
+      "ids": [
+        "83d7a386a26c57093d5f4fc5cfc4d9bcdad3f3b0",
+        "70402f5f9a811dedd0c1142e51e0999f26f5c8bf",
+        "748bc0a18ef701692a029053f3e43cf17bc9a051",
+        "cabe83bacc0e55321450741cab7ee2f399b22974",
+        "ab5922abf4d3af491abcbd2a1b9c9638eda31e67",
+        "7e8df167d7d3182afebd5c0d7f33235a822fba54",
+        "0b5bfeedf5ab7d70d348e902e203414da367cc2a",
+        "f36f60295725da0490988bf9c9af0b1cfa57ab2b",
+        "c74acbba210defea4184f507d78c55bb5d0a7063",
+        "cc8a8c44847350fd83c4078a96fd34ae57523b5d",
+        "53a59cefde730923ea7313e250647647e0984c3b",
+        "3cc91785879b30b94f4b63c53016ccc29e2d5869"
+      ]
+    },
     {
       "date": "2025-12-29",
       "page": "/news/2025-12-29.html",

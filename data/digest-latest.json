@@ -1,104 +1,104 @@
 {
-  "date": "2025-12-29",
-  "updated_at": "2025-12-29T06:32:14.138Z",
-  "page": "/news/2025-12-29.html",
+  "date": "2025-12-30",
+  "updated_at": "2025-12-30T06:32:05.301Z",
+  "page": "/news/2025-12-30.html",
   "count": 12,
   "items": [
     {
-      "id": "726aa35a7808307c6cc407628d789d3e04c5969c",
-      "title": "SoftBank Nears Deal for Data Center Investment Firm DigitalBridge",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-29/softbank-nears-deal-for-data-center-investment-firm-digitalbridge",
+      "id": "83d7a386a26c57093d5f4fc5cfc4d9bcdad3f3b0",
+      "title": "European Bank Stocks Had an Ace Year But Novo and Puma Lost Out",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/european-bank-stocks-had-an-ace-year-but-novo-and-puma-lost-out",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-29T06:03:39.000Z",
-      "summary": "Summary: SoftBank Nears Deal for Data Center Investment Firm DigitalBridge"
+      "published_at": "2025-12-30T06:15:00.000Z",
+      "summary": "Summary: European Bank Stocks Had an Ace Year But Novo and Puma Lost Out"
     },
     {
-      "id": "b0ddf7bbdf5b89a8ffefa61d91deecf9ef7dbc9d",
-      "title": "Staying ahead of censors in 2025",
-      "url": "https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898",
-      "source": "hnrss.org",
-      "published_at": "2025-12-29T05:47:40.000Z",
-      "summary": "Summary: Staying ahead of censors in 2025"
-    },
-    {
-      "id": "25555204169577e776879744de1e096f336a19a5",
-      "title": "Binaries",
-      "url": "https://fzakaria.com/2025/12/28/huge-binaries",
-      "source": "hnrss.org",
-      "published_at": "2025-12-29T05:35:17.000Z",
-      "summary": "Summary: Binaries"
-    },
-    {
-      "id": "746fae68fd8c0ef01e22914d040c0ce92a30dc67",
-      "title": "Rand Set for Biggest Gain in 16 Years on South Africa Stability",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-29/rand-set-for-biggest-gain-in-16-years-on-south-africa-stability",
+      "id": "70402f5f9a811dedd0c1142e51e0999f26f5c8bf",
+      "title": "Pop Mart Shares Tumble as Renewed Labubu Demand Concerns Weigh",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/pop-mart-shares-tumble-as-renewed-labubu-demand-concerns-weigh",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-29T05:30:00.000Z",
-      "summary": "Summary: Rand Set for Biggest Gain in 16 Years on South Africa Stability"
+      "published_at": "2025-12-30T05:57:07.000Z",
+      "summary": "Summary: Pop Mart Shares Tumble as Renewed Labubu Demand Concerns Weigh"
     },
     {
-      "id": "fbb891377d302c70d0578dbf408d3d1c3018561c",
-      "title": "John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'",
-      "url": "https://www.bbc.com/news/articles/cj4qp17e1lqo",
-      "source": "hnrss.org",
-      "published_at": "2025-12-29T05:21:06.000Z",
-      "summary": "Summary: John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'"
-    },
-    {
-      "id": "1fb20e39ea801755e3e19bd9c9ca64c3acbee8b8",
-      "title": "My First Meshtastic Network",
-      "url": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
-      "source": "hnrss.org",
-      "published_at": "2025-12-29T05:12:58.000Z",
-      "summary": "Summary: My First Meshtastic Network"
-    },
-    {
-      "id": "c29ecf64cd788577f083400e890c6e6eb080432c",
-      "title": "Asian Mining Stocks Jump in Year-End Rally on Record-High Silver",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-29/asian-mining-stocks-jump-in-year-end-rally-on-record-high-silver",
+      "id": "748bc0a18ef701692a029053f3e43cf17bc9a051",
+      "title": "Indonesian Stocks Set for Best Year Since 2014 on Retail Flows",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/indonesian-stocks-set-for-best-year-since-2014-on-retail-flows",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-29T04:30:44.000Z",
-      "summary": "Summary: Asian Mining Stocks Jump in Year-End Rally on Record-High Silver"
+      "published_at": "2025-12-30T05:52:17.000Z",
+      "summary": "Summary: Indonesian Stocks Set for Best Year Since 2014 on Retail Flows"
     },
     {
-      "id": "3f81b369e4cab81ddd484cfb91695ee83afe735c",
-      "title": "Why I think Valve’s retiring the Steam Deck LCD",
-      "url": "https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/",
-      "source": "hnrss.org",
-      "published_at": "2025-12-29T03:44:12.000Z",
-      "summary": "Summary: Why I think Valve’s retiring the Steam Deck LCD"
-    },
-    {
-      "id": "d61ca0e48c0cbdf059a61d038846cad8674866ca",
-      "title": "Fast GPU Interconnect over Radio",
-      "url": "https://spectrum.ieee.org/rf-over-fiber",
-      "source": "hnrss.org",
-      "published_at": "2025-12-29T03:39:42.000Z",
-      "summary": "Summary: Fast GPU Interconnect over Radio"
-    },
-    {
-      "id": "9af42cb45fd31ab1dfa4a6ef1f213daaa2c34c41",
-      "title": "Trump Praises Zelenskiy After Talks With No Breakthrough",
-      "url": "https://www.bloomberg.com/news/videos/2025-12-29/trump-praises-zelenskiy-after-talks-with-no-breakthrough-video",
+      "id": "cabe83bacc0e55321450741cab7ee2f399b22974",
+      "title": "Russian Oil Flows to India Sink But Reliance May Limit Decline",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/why-russian-oil-shipments-to-india-are-set-to-plunge-in-december-and-what-s-next",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-29T03:15:06.000Z",
-      "summary": "Summary: Trump Praises Zelenskiy After Talks With No Breakthrough"
+      "published_at": "2025-12-30T05:08:44.000Z",
+      "summary": "Summary: Russian Oil Flows to India Sink But Reliance May Limit Decline"
     },
     {
-      "id": "9af15f613f75c470a1c3a4025589981edd0d2355",
-      "title": "Yuan Pushback Builds as Chinese Media Warn Against One-Way Bets",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-29/chinese-state-media-warns-against-making-one-way-bets-on-yuan",
+      "id": "ab5922abf4d3af491abcbd2a1b9c9638eda31e67",
+      "title": "Yuan Climbs Past 7 Per Dollar Onshore for First Time Since 2023",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/yuan-climbs-past-7-per-dollar-onshore-for-first-time-since-2023",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-29T02:53:07.000Z",
-      "summary": "Summary: Yuan Pushback Builds as Chinese Media Warn Against One-Way Bets"
+      "published_at": "2025-12-30T05:01:07.000Z",
+      "summary": "Summary: Yuan Climbs Past 7 Per Dollar Onshore for First Time Since 2023"
     },
     {
-      "id": "9368ae3ff7be9c2d71547dbfbc359d226d59ad20",
-      "title": "You can make up HTML tags",
-      "url": "https://maurycyz.com/misc/make-up-tags/",
-      "source": "hnrss.org",
-      "published_at": "2025-12-29T02:47:44.000Z",
-      "summary": "Summary: You can make up HTML tags"
+      "id": "7e8df167d7d3182afebd5c0d7f33235a822fba54",
+      "title": "AI Memory Demand Propels Kioxia to World’s Best-Performing Stock",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/ai-memory-demand-propels-kioxia-to-world-s-best-performing-stock",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-30T04:30:41.000Z",
+      "summary": "Summary: AI Memory Demand Propels Kioxia to World’s Best-Performing Stock"
+    },
+    {
+      "id": "0b5bfeedf5ab7d70d348e902e203414da367cc2a",
+      "title": "Nickel Hits Nine-Month High as Indonesia Plans to Cut Output",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/nickel-hits-nine-month-high-as-indonesia-plans-to-cut-output",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-30T04:25:07.000Z",
+      "summary": "Summary: Nickel Hits Nine-Month High as Indonesia Plans to Cut Output"
+    },
+    {
+      "id": "f36f60295725da0490988bf9c9af0b1cfa57ab2b",
+      "title": "Capitalism and Crime: The Books That Got Me Through the Year",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2025-12-30/capitalism-and-crime-books-that-got-me-through-the-year",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-30T04:13:25.000Z",
+      "summary": "Summary: Capitalism and Crime: The Books That Got Me Through the Year"
+    },
+    {
+      "id": "c74acbba210defea4184f507d78c55bb5d0a7063",
+      "title": "Global 2025 LNG Exports Saw Biggest Jump in Three Years, Kpler Says",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/global-2025-lng-exports-saw-biggest-jump-in-3-years-kpler-says",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-30T04:01:17.000Z",
+      "summary": "Summary: Global 2025 LNG Exports Saw Biggest Jump in Three Years, Kpler Says"
+    },
+    {
+      "id": "cc8a8c44847350fd83c4078a96fd34ae57523b5d",
+      "title": "Copper Racks Up Longest Rally Since 2017 With Bulls at the Helm",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/copper-racks-up-longest-rally-since-2017-with-bulls-at-the-helm",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-30T03:26:38.000Z",
+      "summary": "Summary: Copper Racks Up Longest Rally Since 2017 With Bulls at the Helm"
+    },
+    {
+      "id": "53a59cefde730923ea7313e250647647e0984c3b",
+      "title": "Khaleda Zia, a Force for Democracy in Bangladesh, Dies at 80",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/khaleda-zia-a-force-for-democracy-in-bangladesh-dies-at-80",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-30T02:18:30.000Z",
+      "summary": "Summary: Khaleda Zia, a Force for Democracy in Bangladesh, Dies at 80"
+    },
+    {
+      "id": "3cc91785879b30b94f4b63c53016ccc29e2d5869",
+      "title": "Vietnam’s GSM Weighs Overseas IPO, Eyes $20 Billion Market Value",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-30/vietnam-s-gsm-weighs-overseas-ipo-eyes-20-billion-market-value",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-30T02:05:32.000Z",
+      "summary": "Summary: Vietnam’s GSM Weighs Overseas IPO, Eyes $20 Billion Market Value"
     }
   ]
 }
