@@ -1,6 +1,26 @@
 {
-  "updated_at": "2025-12-30T06:32:05.301Z",
+  "updated_at": "2025-12-31T06:32:04.627Z",
   "days": [
+    {
+      "date": "2025-12-31",
+      "page": "/news/2025-12-31.html",
+      "teaser": "Top: Fresnillo, Burberry Shine in Best Year for UK Stocks Since 2009",
+      "count": 12,
+      "ids": [
+        "4e848b27e724ce42570181b62bb0405eb931414b",
+        "f379051afcae0124d9f1fd62226a8575ab830a55",
+        "a4d3aa4be1dbb607f04ab83f9d9f43e724e62348",
+        "2083e1515d5d115b3d7a46ab46d5a0ecd0571dc1",
+        "8c1730f7245df0e4e077d76e7eadb6ef6749921a",
+        "33865658502a151b0ebb27f00c3b80a85e0fdd65",
+        "eefcc918e2c3b7745ac92b10ccf1e7329a554daf",
+        "7cd7f3017d43198a1d732ee69f1c16cc1ec2816b",
+        "52d9f5ec8a43b1f12960c98c2dd52f2daf0473d2",
+        "21fc358794ff941276ab915dd5f12e09c0a37f18",
+        "4f705b7caa9a277219a72150e556e513fda7b66e",
+        "935e25d0b2c52f4bb7884d13539e5823a10e206e"
+      ]
+    },
     {
       "date": "2025-12-30",
       "page": "/news/2025-12-30.html",
