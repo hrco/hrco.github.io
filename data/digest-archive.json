@@ -1,6 +1,26 @@
 {
-  "updated_at": "2025-12-31T06:32:04.627Z",
+  "updated_at": "2026-01-01T06:32:13.013Z",
   "days": [
+    {
+      "date": "2026-01-01",
+      "page": "/news/2026-01-01.html",
+      "teaser": "Top: Indian Cigarette Maker ITC Slumps After India Raises Tobacco Tax",
+      "count": 12,
+      "ids": [
+        "326a66bcb61b77f80da68e11eaa7e4c1596d4ee2",
+        "ed4f9ee982d774a1c8c66708f92b0e28d88eca98",
+        "f7c8d0a589294783209806d61f847e4565125259",
+        "ae5e3c5e8e902787522a2f80b5612b9c716b0f72",
+        "b79e8a12eea74eeca129c8d8c507aca8a25e64ef",
+        "4b68b5f353eff6e99441107f1bf142fd71bb0b78",
+        "562f06bdd6f78e4555eedb025533183e9bb0b764",
+        "0de49ca7177ff9bb6952d1edad0453d36d2ee711",
+        "30b0bb9400b985fd48b571e5b1a8e52215b254bd",
+        "0ad0d52df5fc4e07e9ed8d9ae2619953f4bd9b58",
+        "4cd47658e5b18986ee57bacdda972c86b5b15996",
+        "d7b42bf2a9d91eb5638047aeabad4e2618c021c0"
+      ]
+    },
     {
       "date": "2025-12-31",
       "page": "/news/2025-12-31.html",

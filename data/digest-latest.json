@@ -1,104 +1,104 @@
 {
-  "date": "2025-12-31",
-  "updated_at": "2025-12-31T06:32:04.627Z",
-  "page": "/news/2025-12-31.html",
+  "date": "2026-01-01",
+  "updated_at": "2026-01-01T06:32:13.013Z",
+  "page": "/news/2026-01-01.html",
   "count": 12,
   "items": [
     {
-      "id": "4e848b27e724ce42570181b62bb0405eb931414b",
-      "title": "Fresnillo, Burberry Shine in Best Year for UK Stocks Since 2009",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/fresnillo-burberry-shine-in-best-year-for-uk-stocks-since-2009",
+      "id": "326a66bcb61b77f80da68e11eaa7e4c1596d4ee2",
+      "title": "Indian Cigarette Maker ITC Slumps After India Raises Tobacco Tax",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-01/indian-cigarette-maker-itc-slumps-after-india-raises-tobacco-tax",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T06:15:00.000Z",
-      "summary": "Summary: Fresnillo, Burberry Shine in Best Year for UK Stocks Since 2009"
+      "published_at": "2026-01-01T05:54:47.000Z",
+      "summary": "Summary: Indian Cigarette Maker ITC Slumps After India Raises Tobacco Tax"
     },
     {
-      "id": "f379051afcae0124d9f1fd62226a8575ab830a55",
-      "title": "China Greenlights Yuan Gains at Year-End With Measured Approach",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/china-greenlights-yuan-gains-at-year-end-with-measured-approach",
+      "id": "ed4f9ee982d774a1c8c66708f92b0e28d88eca98",
+      "title": "Macau Gaming Revenue Misses Estimates in Surprising Slowdown",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-01/macau-gaming-revenue-misses-estimates-in-surprising-slowdown",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T05:41:09.000Z",
-      "summary": "Summary: China Greenlights Yuan Gains at Year-End With Measured Approach"
+      "published_at": "2026-01-01T05:38:04.000Z",
+      "summary": "Summary: Macau Gaming Revenue Misses Estimates in Surprising Slowdown"
     },
     {
-      "id": "a4d3aa4be1dbb607f04ab83f9d9f43e724e62348",
-      "title": "India Imposes Three-Year Steel Tariff to Support Local Industry",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/india-imposes-three-year-steel-tariff-to-support-local-industry",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T05:19:20.000Z",
-      "summary": "Summary: India Imposes Three-Year Steel Tariff to Support Local Industry"
-    },
-    {
-      "id": "2083e1515d5d115b3d7a46ab46d5a0ecd0571dc1",
-      "title": "Indian Stocks Face Worst Asia Underperformance in Three Decades",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/indian-stocks-face-worst-asia-underperformance-in-three-decades",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T05:06:54.000Z",
-      "summary": "Summary: Indian Stocks Face Worst Asia Underperformance in Three Decades"
-    },
-    {
-      "id": "8c1730f7245df0e4e077d76e7eadb6ef6749921a",
-      "title": "China’s Industrial Hubs to Cut Power Prices to Support Recovery",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/china-s-industrial-hubs-to-cut-power-prices-to-support-recovery",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T04:40:10.000Z",
-      "summary": "Summary: China’s Industrial Hubs to Cut Power Prices to Support Recovery"
-    },
-    {
-      "id": "33865658502a151b0ebb27f00c3b80a85e0fdd65",
-      "title": "Thailand Releases 18 Cambodian POWs as Border Ceasefire Holds",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/thailand-releases-18-cambodian-pows-as-border-ceasefire-holds",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T04:38:31.000Z",
-      "summary": "Summary: Thailand Releases 18 Cambodian POWs as Border Ceasefire Holds"
-    },
-    {
-      "id": "eefcc918e2c3b7745ac92b10ccf1e7329a554daf",
-      "title": "KKR Bid to Take Yomeishu Private Is Derailed By Top Shareholder",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/kkr-bid-to-take-yomeishu-private-is-derailed-by-top-shareholder",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T04:06:14.000Z",
-      "summary": "Summary: KKR Bid to Take Yomeishu Private Is Derailed By Top Shareholder"
-    },
-    {
-      "id": "7cd7f3017d43198a1d732ee69f1c16cc1ec2816b",
-      "title": "Hindsight Makes It Easy to Profit From Trump 2.0",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2025-12-31/hindsight-makes-it-look-easy-to-profit-from-trump-2-0",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T04:00:10.000Z",
-      "summary": "Summary: Hindsight Makes It Easy to Profit From Trump 2.0"
-    },
-    {
-      "id": "52d9f5ec8a43b1f12960c98c2dd52f2daf0473d2",
-      "title": "Google Opal",
-      "url": "https://opal.google/landing/",
+      "id": "f7c8d0a589294783209806d61f847e4565125259",
+      "title": "Flow5 Released to Open Source",
+      "url": "https://flow5.tech/docs/releasenotes.html",
       "source": "hnrss.org",
-      "published_at": "2025-12-31T03:49:58.000Z",
-      "summary": "Summary: Google Opal"
+      "published_at": "2026-01-01T03:47:20.000Z",
+      "summary": "Summary: Flow5 Released to Open Source"
     },
     {
-      "id": "21fc358794ff941276ab915dd5f12e09c0a37f18",
-      "title": "Chinese AI Firms Drive Hong Kong’s Busiest IPO Month Since 2019",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/chinese-ai-firms-drive-hong-kong-s-busiest-ipo-month-since-2019",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T03:27:18.000Z",
-      "summary": "Summary: Chinese AI Firms Drive Hong Kong’s Busiest IPO Month Since 2019"
-    },
-    {
-      "id": "4f705b7caa9a277219a72150e556e513fda7b66e",
-      "title": "LLVM AI tool policy: human in the loop",
-      "url": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
+      "id": "ae5e3c5e8e902787522a2f80b5612b9c716b0f72",
+      "title": "Pixar's True Story",
+      "url": "https://computerhistory.org/blog/pixars-true-story/",
       "source": "hnrss.org",
-      "published_at": "2025-12-31T03:06:07.000Z",
-      "summary": "Summary: LLVM AI tool policy: human in the loop"
+      "published_at": "2026-01-01T02:35:40.000Z",
+      "summary": "Summary: Pixar's True Story"
     },
     {
-      "id": "935e25d0b2c52f4bb7884d13539e5823a10e206e",
-      "title": "Foreigners Dump Record Indian Bonds as Weak Rupee Erodes Returns",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/foreigners-dump-record-indian-bonds-as-weak-rupee-erodes-returns",
+      "id": "b79e8a12eea74eeca129c8d8c507aca8a25e64ef",
+      "title": "GoGoGrandparent (YC S16) Is Hiring Tech Leads",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads",
+      "source": "hnrss.org",
+      "published_at": "2026-01-01T01:01:22.000Z",
+      "summary": "Summary: GoGoGrandparent (YC S16) Is Hiring Tech Leads"
+    },
+    {
+      "id": "4b68b5f353eff6e99441107f1bf142fd71bb0b78",
+      "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+      "url": "https://bustermq.sh/",
+      "source": "hnrss.org",
+      "published_at": "2026-01-01T00:18:43.000Z",
+      "summary": "Summary: Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring"
+    },
+    {
+      "id": "562f06bdd6f78e4555eedb025533183e9bb0b764",
+      "title": "The Delete Act",
+      "url": "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/",
+      "source": "hnrss.org",
+      "published_at": "2026-01-01T00:02:14.000Z",
+      "summary": "Summary: The Delete Act"
+    },
+    {
+      "id": "0de49ca7177ff9bb6952d1edad0453d36d2ee711",
+      "title": "Sovereign Funds Push Into Tech as Assets Swell to $15 Trillion",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-01/sovereign-funds-push-into-tech-as-assets-swell-to-15-trillion",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T02:56:29.000Z",
-      "summary": "Summary: Foreigners Dump Record Indian Bonds as Weak Rupee Erodes Returns"
+      "published_at": "2026-01-01T00:00:00.000Z",
+      "summary": "Summary: Sovereign Funds Push Into Tech as Assets Swell to $15 Trillion"
+    },
+    {
+      "id": "30b0bb9400b985fd48b571e5b1a8e52215b254bd",
+      "title": "2025: The Year in LLMs",
+      "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+      "source": "hnrss.org",
+      "published_at": "2025-12-31T23:54:46.000Z",
+      "summary": "Summary: 2025: The Year in LLMs"
+    },
+    {
+      "id": "0ad0d52df5fc4e07e9ed8d9ae2619953f4bd9b58",
+      "title": "Resistance training load does not determine hypertrophy",
+      "url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
+      "source": "hnrss.org",
+      "published_at": "2025-12-31T22:25:58.000Z",
+      "summary": "Summary: Resistance training load does not determine hypertrophy"
+    },
+    {
+      "id": "4cd47658e5b18986ee57bacdda972c86b5b15996",
+      "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
+      "url": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+      "source": "hnrss.org",
+      "published_at": "2025-12-31T22:11:33.000Z",
+      "summary": "Summary: Scientists unlock brain's natural clean-up system for new treatments for stroke"
+    },
+    {
+      "id": "d7b42bf2a9d91eb5638047aeabad4e2618c021c0",
+      "title": "Top Dishes From Around the World in 2025",
+      "url": "https://www.bloomberg.com/news/videos/2025-12-31/top-dishes-from-around-the-world-in-2025-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2025-12-31T21:53:04.000Z",
+      "summary": "Summary: Top Dishes From Around the World in 2025"
     }
   ]
 }
