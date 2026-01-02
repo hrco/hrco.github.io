@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-01",
-  "updated_at": "2026-01-01T06:32:13.013Z",
-  "page": "/news/2026-01-01.html",
+  "date": "2026-01-02",
+  "updated_at": "2026-01-02T06:32:05.258Z",
+  "page": "/news/2026-01-02.html",
   "count": 12,
   "items": [
     {
-      "id": "326a66bcb61b77f80da68e11eaa7e4c1596d4ee2",
-      "title": "Indian Cigarette Maker ITC Slumps After India Raises Tobacco Tax",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-01/indian-cigarette-maker-itc-slumps-after-india-raises-tobacco-tax",
+      "id": "dd6f3a28860229392f1beb7fa9cb90f4b87949e0",
+      "title": "Real Biological Clock Is You're Going to Die",
+      "url": "https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/",
+      "source": "hnrss.org",
+      "published_at": "2026-01-02T05:39:13.000Z",
+      "summary": "Summary: Real Biological Clock Is You're Going to Die"
+    },
+    {
+      "id": "bb448f6e49875c971e2b8c51692de75c13da30fc",
+      "title": "Palm Oil Dips on Weaker Crude and Fall in Malaysian Palm Exports",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/palm-oil-dips-on-weaker-crude-and-fall-in-malaysian-palm-exports",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-01T05:54:47.000Z",
-      "summary": "Summary: Indian Cigarette Maker ITC Slumps After India Raises Tobacco Tax"
+      "published_at": "2026-01-02T05:35:41.000Z",
+      "summary": "Summary: Palm Oil Dips on Weaker Crude and Fall in Malaysian Palm Exports"
     },
     {
-      "id": "ed4f9ee982d774a1c8c66708f92b0e28d88eca98",
-      "title": "Macau Gaming Revenue Misses Estimates in Surprising Slowdown",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-01/macau-gaming-revenue-misses-estimates-in-surprising-slowdown",
+      "id": "b9820e9ce4ba6449b8451908fae6621e9870fa58",
+      "title": "India’s ITC Sheds $7 Billion as ‘Tax Shock’ Triggers Rating Cuts",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/india-s-itc-sheds-7-billion-as-tax-shock-triggers-rating-cuts",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-01T05:38:04.000Z",
-      "summary": "Summary: Macau Gaming Revenue Misses Estimates in Surprising Slowdown"
+      "published_at": "2026-01-02T05:17:56.000Z",
+      "summary": "Summary: India’s ITC Sheds $7 Billion as ‘Tax Shock’ Triggers Rating Cuts"
     },
     {
-      "id": "f7c8d0a589294783209806d61f847e4565125259",
-      "title": "Flow5 Released to Open Source",
-      "url": "https://flow5.tech/docs/releasenotes.html",
+      "id": "0f15fbdc16b518f444edfe45d1286074dd9640e6",
+      "title": "A confession from a mainstream food delivery app engineer",
+      "url": "https://www.reddit.com/r/confession/s/gbrh2zxeou",
       "source": "hnrss.org",
-      "published_at": "2026-01-01T03:47:20.000Z",
-      "summary": "Summary: Flow5 Released to Open Source"
+      "published_at": "2026-01-02T05:00:25.000Z",
+      "summary": "Summary: A confession from a mainstream food delivery app engineer"
     },
     {
-      "id": "ae5e3c5e8e902787522a2f80b5612b9c716b0f72",
-      "title": "Pixar's True Story",
-      "url": "https://computerhistory.org/blog/pixars-true-story/",
+      "id": "35725d8f056cecbc9ab19f9594450a833f76301f",
+      "title": "I'm a developer for a major food delivery app",
+      "url": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
       "source": "hnrss.org",
-      "published_at": "2026-01-01T02:35:40.000Z",
-      "summary": "Summary: Pixar's True Story"
+      "published_at": "2026-01-02T04:57:25.000Z",
+      "summary": "Summary: I'm a developer for a major food delivery app"
     },
     {
-      "id": "b79e8a12eea74eeca129c8d8c507aca8a25e64ef",
-      "title": "GoGoGrandparent (YC S16) Is Hiring Tech Leads",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads",
-      "source": "hnrss.org",
-      "published_at": "2026-01-01T01:01:22.000Z",
-      "summary": "Summary: GoGoGrandparent (YC S16) Is Hiring Tech Leads"
-    },
-    {
-      "id": "4b68b5f353eff6e99441107f1bf142fd71bb0b78",
-      "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
-      "url": "https://bustermq.sh/",
-      "source": "hnrss.org",
-      "published_at": "2026-01-01T00:18:43.000Z",
-      "summary": "Summary: Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring"
-    },
-    {
-      "id": "562f06bdd6f78e4555eedb025533183e9bb0b764",
-      "title": "The Delete Act",
-      "url": "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/",
-      "source": "hnrss.org",
-      "published_at": "2026-01-01T00:02:14.000Z",
-      "summary": "Summary: The Delete Act"
-    },
-    {
-      "id": "0de49ca7177ff9bb6952d1edad0453d36d2ee711",
-      "title": "Sovereign Funds Push Into Tech as Assets Swell to $15 Trillion",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-01/sovereign-funds-push-into-tech-as-assets-swell-to-15-trillion",
+      "id": "c8d8dfa10dfcf0f92d09a862099f2a8edf3604a1",
+      "title": "Indonesia to Divert $4.5 Billion From State-Bank Placements",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/indonesia-to-divert-4-5-billion-from-state-bank-placements",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-01T00:00:00.000Z",
-      "summary": "Summary: Sovereign Funds Push Into Tech as Assets Swell to $15 Trillion"
+      "published_at": "2026-01-02T04:51:27.000Z",
+      "summary": "Summary: Indonesia to Divert $4.5 Billion From State-Bank Placements"
     },
     {
-      "id": "30b0bb9400b985fd48b571e5b1a8e52215b254bd",
-      "title": "2025: The Year in LLMs",
-      "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
-      "source": "hnrss.org",
-      "published_at": "2025-12-31T23:54:46.000Z",
-      "summary": "Summary: 2025: The Year in LLMs"
-    },
-    {
-      "id": "0ad0d52df5fc4e07e9ed8d9ae2619953f4bd9b58",
-      "title": "Resistance training load does not determine hypertrophy",
-      "url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
-      "source": "hnrss.org",
-      "published_at": "2025-12-31T22:25:58.000Z",
-      "summary": "Summary: Resistance training load does not determine hypertrophy"
-    },
-    {
-      "id": "4cd47658e5b18986ee57bacdda972c86b5b15996",
-      "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
-      "url": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
-      "source": "hnrss.org",
-      "published_at": "2025-12-31T22:11:33.000Z",
-      "summary": "Summary: Scientists unlock brain's natural clean-up system for new treatments for stroke"
-    },
-    {
-      "id": "d7b42bf2a9d91eb5638047aeabad4e2618c021c0",
-      "title": "Top Dishes From Around the World in 2025",
-      "url": "https://www.bloomberg.com/news/videos/2025-12-31/top-dishes-from-around-the-world-in-2025-video",
+      "id": "4c2a300d97c423f13c5360eebec479177511cb90",
+      "title": "EM Stocks Surge at Start of 2026, South Korea Vows FX Stability",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/em-stocks-surge-at-start-of-2026-south-korea-vows-fx-stability",
       "source": "feeds.bloomberg.com",
-      "published_at": "2025-12-31T21:53:04.000Z",
-      "summary": "Summary: Top Dishes From Around the World in 2025"
+      "published_at": "2026-01-02T03:38:59.000Z",
+      "summary": "Summary: EM Stocks Surge at Start of 2026, South Korea Vows FX Stability"
+    },
+    {
+      "id": "bb86b3d5b89341875f0909b9c2875d0c1e868870",
+      "title": "China Lowers Battery Scrap Import Duty to Aid Recycling Sector",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/china-lowers-battery-scrap-import-duty-to-aid-recycling-sector",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-01-02T03:27:03.000Z",
+      "summary": "Summary: China Lowers Battery Scrap Import Duty to Aid Recycling Sector"
+    },
+    {
+      "id": "5ce15f5cb353c1c72b2957ff6df66881a55de36a",
+      "title": "Vale Indonesia Halts Nickel Mining on Delayed Work Plan Approval",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/vale-indonesia-halts-nickel-mining-on-delayed-work-plan-approval",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-01-02T03:15:52.000Z",
+      "summary": "Summary: Vale Indonesia Halts Nickel Mining on Delayed Work Plan Approval"
+    },
+    {
+      "id": "82b0a0c17541be856a0ffcc15f4777b7ed09aad2",
+      "title": "Copper Gains After Best Year Since 2009 on Tight Supply Outlook",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/copper-gains-after-best-year-since-2009-on-tight-supply-outlook",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-01-02T02:45:23.000Z",
+      "summary": "Summary: Copper Gains After Best Year Since 2009 on Tight Supply Outlook"
+    },
+    {
+      "id": "f4b57f56cbd5ae10db9e4160d9ec5e3fe0683b9d",
+      "title": "Marmot – A distributed SQLite server with MySQL wire compatible interface",
+      "url": "https://github.com/maxpert/marmot",
+      "source": "hnrss.org",
+      "published_at": "2026-01-02T02:21:57.000Z",
+      "summary": "Summary: Marmot – A distributed SQLite server with MySQL wire compatible interface"
+    },
+    {
+      "id": "e03c43d9d5f1ba18e6e8f75a27bd003ebd48d22b",
+      "title": "About 40 Killed in Fire at Swiss Resort of Crans-Montana",
+      "url": "https://www.bloomberg.com/news/videos/2026-01-02/about-40-killed-in-fire-at-swiss-resort-of-crans-montana-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-01-02T02:17:31.000Z",
+      "summary": "Summary: About 40 Killed in Fire at Swiss Resort of Crans-Montana"
     }
   ]
 }

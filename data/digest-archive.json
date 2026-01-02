@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-01T06:32:13.013Z",
+  "updated_at": "2026-01-02T06:32:05.258Z",
   "days": [
+    {
+      "date": "2026-01-02",
+      "page": "/news/2026-01-02.html",
+      "teaser": "Top: Real Biological Clock Is You're Going to Die",
+      "count": 12,
+      "ids": [
+        "dd6f3a28860229392f1beb7fa9cb90f4b87949e0",
+        "bb448f6e49875c971e2b8c51692de75c13da30fc",
+        "b9820e9ce4ba6449b8451908fae6621e9870fa58",
+        "0f15fbdc16b518f444edfe45d1286074dd9640e6",
+        "35725d8f056cecbc9ab19f9594450a833f76301f",
+        "c8d8dfa10dfcf0f92d09a862099f2a8edf3604a1",
+        "4c2a300d97c423f13c5360eebec479177511cb90",
+        "bb86b3d5b89341875f0909b9c2875d0c1e868870",
+        "5ce15f5cb353c1c72b2957ff6df66881a55de36a",
+        "82b0a0c17541be856a0ffcc15f4777b7ed09aad2",
+        "f4b57f56cbd5ae10db9e4160d9ec5e3fe0683b9d",
+        "e03c43d9d5f1ba18e6e8f75a27bd003ebd48d22b"
+      ]
+    },
     {
       "date": "2026-01-01",
       "page": "/news/2026-01-01.html",
