@@ -54,6 +54,14 @@ document.addEventListener('DOMContentLoaded', () => {
             'en': 'items',
             'sl': 'postavk'
         },
+        'SEARCH_PLACEHOLDER': {
+            'en': 'Search articles...',
+            'sl': 'Iskanje člankov...'
+        },
+        'FILTER_ALL': {
+            'en': 'All',
+            'sl': 'Vse'
+        },
 
         // News page
         'NEWS_TITLE': {
@@ -310,6 +318,11 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelectorAll('[data-i18n]').forEach(el => {
             const key = el.getAttribute('data-i18n');
             if (content[key]?.[lang]) el.textContent = content[key][lang];
+        });
+
+        document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+            const key = el.getAttribute('data-i18n-placeholder');
+            if (content[key]?.[lang]) el.placeholder = content[key][lang];
         });
 
         [langToggleSlo, langToggleEng].forEach(btn => btn?.classList.remove('active'));

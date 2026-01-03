@@ -1,12 +1,10 @@
 *.env
 *.env.pi
+.mcp.json
 .vscode/
 .DS_Store
-*.example.json
 llms-full.txt
 /.claude
 claude.md
 agent.md
-/node_modules/*
-IMPLEMENTATION_COMPLETE.md
-CONTRIBUTING.md
+/node_modules/

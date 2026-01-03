@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-02",
-  "updated_at": "2026-01-02T06:32:05.258Z",
-  "page": "/news/2026-01-02.html",
+  "date": "2026-01-03",
+  "updated_at": "2026-01-03T02:25:47.339Z",
+  "page": "/news/2026-01-03.html",
   "count": 12,
   "items": [
     {
-      "id": "dd6f3a28860229392f1beb7fa9cb90f4b87949e0",
-      "title": "Real Biological Clock Is You're Going to Die",
-      "url": "https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/",
+      "id": "c110cbf43b923084a8ce36d41bd06e2569027c7c",
+      "title": "A Basic Just-In-Time Compiler (2015)",
+      "url": "https://nullprogram.com/blog/2015/03/19/",
       "source": "hnrss.org",
-      "published_at": "2026-01-02T05:39:13.000Z",
-      "summary": "Summary: Real Biological Clock Is You're Going to Die"
+      "published_at": "2026-01-03T01:18:07.000Z",
+      "summary": "Summary: A Basic Just-In-Time Compiler (2015)"
     },
     {
-      "id": "bb448f6e49875c971e2b8c51692de75c13da30fc",
-      "title": "Palm Oil Dips on Weaker Crude and Fall in Malaysian Palm Exports",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-02/palm-oil-dips-on-weaker-crude-and-fall-in-malaysian-palm-exports",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-02T05:35:41.000Z",
-      "summary": "Summary: Palm Oil Dips on Weaker Crude and Fall in Malaysian Palm Exports"
-    },
-    {
-      "id": "b9820e9ce4ba6449b8451908fae6621e9870fa58",
-      "title": "India’s ITC Sheds $7 Billion as ‘Tax Shock’ Triggers Rating Cuts",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-02/india-s-itc-sheds-7-billion-as-tax-shock-triggers-rating-cuts",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-02T05:17:56.000Z",
-      "summary": "Summary: India’s ITC Sheds $7 Billion as ‘Tax Shock’ Triggers Rating Cuts"
-    },
-    {
-      "id": "0f15fbdc16b518f444edfe45d1286074dd9640e6",
-      "title": "A confession from a mainstream food delivery app engineer",
-      "url": "https://www.reddit.com/r/confession/s/gbrh2zxeou",
+      "id": "00a4733c2efd113479c1fd34645d896d8d6184f5",
+      "title": "Proving Liveness with TLA",
+      "url": "https://roscidus.com/blog/blog/2026/01/01/tla-liveness/",
       "source": "hnrss.org",
-      "published_at": "2026-01-02T05:00:25.000Z",
-      "summary": "Summary: A confession from a mainstream food delivery app engineer"
+      "published_at": "2026-01-03T01:15:54.000Z",
+      "summary": "Summary: Proving Liveness with TLA"
     },
     {
-      "id": "35725d8f056cecbc9ab19f9594450a833f76301f",
-      "title": "I'm a developer for a major food delivery app",
-      "url": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
+      "id": "839d4cac1b86239818ef557c05d88baaef997f42",
+      "title": "Blaze: A Dec VT420 (and More) Emulator",
+      "url": "https://mmastrac.github.io/blaze/",
       "source": "hnrss.org",
-      "published_at": "2026-01-02T04:57:25.000Z",
-      "summary": "Summary: I'm a developer for a major food delivery app"
+      "published_at": "2026-01-03T01:02:29.000Z",
+      "summary": "Summary: Blaze: A Dec VT420 (and More) Emulator"
     },
     {
-      "id": "c8d8dfa10dfcf0f92d09a862099f2a8edf3604a1",
-      "title": "Indonesia to Divert $4.5 Billion From State-Bank Placements",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-02/indonesia-to-divert-4-5-billion-from-state-bank-placements",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-02T04:51:27.000Z",
-      "summary": "Summary: Indonesia to Divert $4.5 Billion From State-Bank Placements"
-    },
-    {
-      "id": "4c2a300d97c423f13c5360eebec479177511cb90",
-      "title": "EM Stocks Surge at Start of 2026, South Korea Vows FX Stability",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-02/em-stocks-surge-at-start-of-2026-south-korea-vows-fx-stability",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-02T03:38:59.000Z",
-      "summary": "Summary: EM Stocks Surge at Start of 2026, South Korea Vows FX Stability"
-    },
-    {
-      "id": "bb86b3d5b89341875f0909b9c2875d0c1e868870",
-      "title": "China Lowers Battery Scrap Import Duty to Aid Recycling Sector",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-02/china-lowers-battery-scrap-import-duty-to-aid-recycling-sector",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-02T03:27:03.000Z",
-      "summary": "Summary: China Lowers Battery Scrap Import Duty to Aid Recycling Sector"
-    },
-    {
-      "id": "5ce15f5cb353c1c72b2957ff6df66881a55de36a",
-      "title": "Vale Indonesia Halts Nickel Mining on Delayed Work Plan Approval",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-02/vale-indonesia-halts-nickel-mining-on-delayed-work-plan-approval",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-02T03:15:52.000Z",
-      "summary": "Summary: Vale Indonesia Halts Nickel Mining on Delayed Work Plan Approval"
-    },
-    {
-      "id": "82b0a0c17541be856a0ffcc15f4777b7ed09aad2",
-      "title": "Copper Gains After Best Year Since 2009 on Tight Supply Outlook",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-02/copper-gains-after-best-year-since-2009-on-tight-supply-outlook",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-02T02:45:23.000Z",
-      "summary": "Summary: Copper Gains After Best Year Since 2009 on Tight Supply Outlook"
-    },
-    {
-      "id": "f4b57f56cbd5ae10db9e4160d9ec5e3fe0683b9d",
-      "title": "Marmot – A distributed SQLite server with MySQL wire compatible interface",
-      "url": "https://github.com/maxpert/marmot",
+      "id": "232b45953b839882ca529d9b5037ff6c94676d81",
+      "title": "2026 will be my year of the Linux desktop",
+      "url": "https://xeiaso.net/notes/2026/year-linux-desktop/",
       "source": "hnrss.org",
-      "published_at": "2026-01-02T02:21:57.000Z",
-      "summary": "Summary: Marmot – A distributed SQLite server with MySQL wire compatible interface"
+      "published_at": "2026-01-03T00:15:47.000Z",
+      "summary": "Summary: 2026 will be my year of the Linux desktop"
     },
     {
-      "id": "e03c43d9d5f1ba18e6e8f75a27bd003ebd48d22b",
-      "title": "About 40 Killed in Fire at Swiss Resort of Crans-Montana",
-      "url": "https://www.bloomberg.com/news/videos/2026-01-02/about-40-killed-in-fire-at-swiss-resort-of-crans-montana-video",
+      "id": "43f41761e413d3d88446b86d1f8a1c9ffced1141",
+      "title": "Show HN: Website that plays the lottery every second",
+      "url": "https://lotteryeverysecond.lffl.me/",
+      "source": "hnrss.org",
+      "published_at": "2026-01-03T00:12:55.000Z",
+      "summary": "Summary: Show HN: Website that plays the lottery every second"
+    },
+    {
+      "id": "92d7903ec2f1258b04caf5bebe23ceec736dd832",
+      "title": "Microsoft kills official way to activate Windows 11/10 without internet",
+      "url": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/",
+      "source": "hnrss.org",
+      "published_at": "2026-01-03T00:01:53.000Z",
+      "summary": "Summary: Microsoft kills official way to activate Windows 11/10 without internet"
+    },
+    {
+      "id": "4e9b46a8a30881ba17e4abc79c8f286a8ccd397a",
+      "title": "No, Grok can’t really “apologize” for posting non-consensual sexual images",
+      "url": "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/",
+      "source": "feeds.arstechnica.com",
+      "published_at": "2026-01-02T23:08:13.000Z",
+      "summary": "Summary: No, Grok can’t really “apologize” for posting non-consensual sexual images"
+    },
+    {
+      "id": "63c2e8bd935a37b225543190be6eafe51fff7b16",
+      "title": "Healthy 18-year-old welder nearly died of anthrax—the 9th such puzzling case",
+      "url": "https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/",
+      "source": "feeds.arstechnica.com",
+      "published_at": "2026-01-02T22:36:26.000Z",
+      "summary": "Summary: Healthy 18-year-old welder nearly died of anthrax—the 9th such puzzling case"
+    },
+    {
+      "id": "43fe04ba1ec63dc828f3ec80724cf0c1079e5efd",
+      "title": "AI is 'Backbone' of Venture Capital Landscape, Says Western Alliance's Bob Curley",
+      "url": "https://www.bloomberg.com/news/videos/2026-01-02/ai-backbone-of-venture-capital-landscape-says-curley-video",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-02T02:17:31.000Z",
-      "summary": "Summary: About 40 Killed in Fire at Swiss Resort of Crans-Montana"
+      "published_at": "2026-01-02T21:58:06.000Z",
+      "summary": "Summary: AI is 'Backbone' of Venture Capital Landscape, Says Western Alliance's Bob Curley"
+    },
+    {
+      "id": "f57285cdd0b8835da4f3cca8be37447eabc0fa3d",
+      "title": "Global software engineering job postings outlook – 2026",
+      "url": "https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/",
+      "source": "hnrss.org",
+      "published_at": "2026-01-02T21:44:41.000Z",
+      "summary": "Summary: Global software engineering job postings outlook – 2026"
+    },
+    {
+      "id": "c2f3feb5f2251a0c1583c831632d54f6483dc782",
+      "title": "Linux kernel security work",
+      "url": "http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/",
+      "source": "hnrss.org",
+      "published_at": "2026-01-02T21:31:34.000Z",
+      "summary": "Summary: Linux kernel security work"
+    },
+    {
+      "id": "4991f254477108084898dcc836ff8f873ab68b90",
+      "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
+      "url": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
+      "source": "hnrss.org",
+      "published_at": "2026-01-02T21:27:44.000Z",
+      "summary": "Summary: Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?"
     }
   ]
 }

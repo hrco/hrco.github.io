@@ -41,12 +41,30 @@ function summaryFromTitle(title) {
 function renderDayHtml({ date, updated_at, items }) {
   const lis = items
     .map(
-      (i) => `
+      (i) => {
+        const encodedUrl = encodeURIComponent(i.url);
+        const encodedTitle = encodeURIComponent(i.title);
+        return `
 <li class="item">
   <a href="${i.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(i.title)}</a>
   <div class="meta">${escapeHtml(i.source)}${i.published_at ? ` • ${escapeHtml(i.published_at.slice(0,10))}` : ""}</div>
   <p class="summary">${escapeHtml(i.summary)}</p>
-</li>`
+  <div class="share-buttons">
+    <a href="https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}" target="_blank" rel="noopener noreferrer" class="share-btn" title="Share on X/Twitter">
+      <i class="fab fa-x-twitter"></i>
+    </a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}" target="_blank" rel="noopener noreferrer" class="share-btn" title="Share on LinkedIn">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="mailto:?subject=${encodedTitle}&body=${encodedTitle}%0A%0A${encodedUrl}" class="share-btn" title="Share via Email">
+      <i class="fas fa-envelope"></i>
+    </a>
+    <button class="share-btn" onclick="navigator.clipboard.writeText('${i.url.replace(/'/g, "\\'")}'); this.innerHTML='<i class=\\'fas fa-check\\'></i>'; setTimeout(() => this.innerHTML='<i class=\\'fas fa-link\\'></i>', 2000);" title="Copy link">
+      <i class="fas fa-link"></i>
+    </button>
+  </div>
+</li>`;
+      }
     )
     .join("");
 
@@ -57,6 +75,7 @@ function renderDayHtml({ date, updated_at, items }) {
   <title>Digest ${date}</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link rel="stylesheet" href="/css/main.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
   <main class="wrap">

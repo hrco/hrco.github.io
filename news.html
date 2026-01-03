@@ -33,6 +33,23 @@
                 <h1 data-i18n="NEWS_HEADING">News Digest News Archive</h1>
                 <p data-i18n="NEWS_INTRO">A chronological collection of digital discoveries, presented in reverse temporal order - because, as any hitchhiker knows, the future is just the past happening very slowly in the other direction.</p>
                 <p class="muted" id="updated">Loading…</p>
+
+                <!-- Search & Filter Controls -->
+                <div class="digest-controls">
+                    <input
+                        type="search"
+                        id="search-box"
+                        placeholder="Search articles..."
+                        data-i18n-placeholder="SEARCH_PLACEHOLDER"
+                    />
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-filter="all" data-i18n="FILTER_ALL">All</button>
+                        <button class="filter-btn" data-filter="hnrss.org">HackerNews</button>
+                        <button class="filter-btn" data-filter="arstechnica">ArsTechnica</button>
+                        <button class="filter-btn" data-filter="nytimes">NY Times</button>
+                        <button class="filter-btn" data-filter="bloomberg">Bloomberg</button>
+                    </div>
+                </div>
             </section>
 
             <div id="list"></div>
