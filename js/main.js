@@ -62,6 +62,30 @@ document.addEventListener('DOMContentLoaded', () => {
             'en': 'All',
             'sl': 'Vse'
         },
+        'FILTER_TECH': {
+            'en': 'Tech',
+            'sl': 'Tehnologija'
+        },
+        'FILTER_SPORTS': {
+            'en': 'Sports',
+            'sl': 'Šport'
+        },
+        'FILTER_GAMING': {
+            'en': 'Gaming',
+            'sl': 'Igre'
+        },
+        'FILTER_SLOVENIAN': {
+            'en': 'Slovenia',
+            'sl': 'Slovenija'
+        },
+        'FILTER_SECURITY': {
+            'en': 'Security',
+            'sl': 'Varnost'
+        },
+        'FILTER_TRANSPARENCY': {
+            'en': 'Leaks',
+            'sl': 'Razkritja'
+        },
 
         // News page
         'NEWS_TITLE': {

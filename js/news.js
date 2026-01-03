@@ -9,12 +9,14 @@
   let currentFilter = "all";
   let currentSearch = "";
 
-  // Source mapping for filtering
+  // Source mapping for filtering by category
   const sourceMap = {
-    "hnrss.org": ["hnrss.org"],
-    "arstechnica": ["feeds.arstechnica.com", "arstechnica"],
-    "nytimes": ["rss.nytimes.com", "nytimes"],
-    "bloomberg": ["feeds.bloomberg.com", "bloomberg"]
+    "tech": ["hnrss.org", "lobste.rs", "schneier.com", "feeds.arstechnica.com", "feeds.bloomberg.com"],
+    "sports": ["outsideonline.com", "surfer.com"],
+    "gaming": ["feeds.ign.com", "dotesports.com"],
+    "slovenian": ["delo.si", "24ur.com", "rtvslo.si"],
+    "security": ["krebsonsecurity.com", "thehackersnews", "bleepingcomputer.com", "nvd.nist.gov", "exploit-db.com", "securityweek.com", "2600.com", "packetstormsecurity.com"],
+    "transparency": ["propublica.org", "theintercept.com"]
   };
 
   try {

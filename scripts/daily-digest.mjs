@@ -3,10 +3,39 @@ import crypto from "node:crypto";
 import { fetchRss } from "./connectors/rss.mjs";
 
 const FEEDS = [
+  // Tech & Hacker News
   "https://hnrss.org/frontpage",              // HackerNews: tech news
+  "https://lobste.rs/rss",                    // Lobste.rs: curated hacker/tech links
+  "https://www.schneier.com/feed/",           // Bruce Schneier: cryptography, security policy
   "https://feeds.arstechnica.com/arstechnica/index", // ArsTechnica: tech journalism
-  "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", // NY Times: technology section
-  "https://feeds.bloomberg.com/markets/news.rss", // Bloomberg: tech/markets
+  "https://feeds.bloomberg.com/markets/news.rss", // Bloomberg: markets & tech
+
+  // Adrenaline Sports
+  "https://www.outsideonline.com/rss",        // Extreme sports, climbing, surfing, snowboarding
+  "https://www.surfer.com/feed/",             // Surfing news & competitions
+
+  // eGaming & eSports
+  "https://feeds.ign.com/ign/all",            // Gaming news & eSports
+  "https://dotesports.com/feed",              // Dedicated eSports tournaments & pro players
+
+  // Slovenian Content
+  "https://www.delo.si/rss",                  // Slovenia's top newspaper
+  "https://www.24ur.com/rss",                 // Most visited Slovenian news site
+  "https://www.rtvslo.si/feeds/00.xml",       // RTV Slovenia (public broadcaster)
+
+  // Cybersecurity & Exploits
+  "https://krebsonsecurity.com/feed/",        // Brian Krebs investigative infosec
+  "https://feeds.feedburner.com/TheHackersNews", // Daily cybersecurity news
+  "https://www.bleepingcomputer.com/feed/",   // Infosec, ransomware, exploits
+  "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml", // NVD: new CVEs & vulnerabilities
+  "https://www.exploit-db.com/rss.xml",       // Exploit Database: new exploits & PoCs
+  // "https://feed.securityweek.com/securityweek/", // SecurityWeek: enterprise threats (connection issues)
+  "https://www.2600.com/rss.xml",             // 2600: hacker culture & activism
+  // "https://rss.packetstormsecurity.com/atoms/0day/", // Packet Storm: 0day exploits (connection issues)
+
+  // Political Leaks & Transparency
+  "https://www.propublica.org/feed/",         // Investigative journalism, transparency
+  "https://theintercept.com/feed/?lang=en",   // Leaks, whistleblowers, surveillance
 ];
 
 const LIMIT_ITEMS = 12;
