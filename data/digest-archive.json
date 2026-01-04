@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-03T06:31:46.166Z",
+  "updated_at": "2026-01-04T06:31:59.991Z",
   "days": [
+    {
+      "date": "2026-01-04",
+      "page": "/news/2026-01-04.html",
+      "teaser": "Top: Brownovih 50 točk za zmago Bostona v Los Angelesu",
+      "count": 12,
+      "ids": [
+        "316ca8de986fe2cf7b448cab6a26e0000427eba5",
+        "bed9bd671c3013c29724b6b93815a4e7624275a8",
+        "afc1dfaec3b5714264001605af699232be479d2a",
+        "17882f65cc9f0936fed1b8284ff25da4aced32d3",
+        "872e164aa00e41ea1d258a1be8393ff9f93e6d9a",
+        "9a8220317cddbb5057d4722d428bfd3cbe7fb55c",
+        "0ad6d497bf2c39f2d2ac2780531ac18d001dda03",
+        "91cf68afe842a38722b9a0cf867551c1c15d3720",
+        "aa6618a97e0da51aa0a0561541240d2d7313523a",
+        "457c7d4d828de4f84e410a4622982564cd1f6e51",
+        "27f3122189f6cb1b03f4483734225d48f18f4638",
+        "d7299b0f5d016d3b66884b981a88ce1f79ba6629"
+      ]
+    },
     {
       "date": "2026-01-03",
       "page": "/news/2026-01-03.html",
