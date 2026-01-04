@@ -2,10 +2,15 @@
   const updated = document.querySelector("#updated");
   const list = document.querySelector("#list");
   const searchBox = document.querySelector("#search-box");
-  const filterBtns = document.querySelectorAll(".filter-btn");
+  const filterBtns = document.querySelectorAll("#category-filters .filter-btn");
+  const digestBtns = document.querySelectorAll("[data-digest]");
 
-  let allDays = [];
-  let allItems = [];
+  let allDigests = {
+    "ai-tech": { days: [], items: [], archive: null },
+    "news": { days: [], items: [], archive: null },
+    "sport": { days: [], items: [], archive: null }
+  };
+  let currentDigest = "ai-tech";
   let currentFilter = "all";
   let currentSearch = "";
 
@@ -37,28 +42,72 @@
     ]
   };
 
-  try {
-    // Fetch archive for day cards
-    const archiveRes = await fetch("data/digest-archive.json", { cache: "no-store" });
-    if (!archiveRes.ok) throw new Error(`HTTP ${archiveRes.status}`);
-    const archive = await archiveRes.json();
-    allDays = archive.days || [];
-
-    // Fetch latest digest for item-level filtering
-    try {
-      const latestRes = await fetch("data/digest-latest.json", { cache: "no-store" });
-      if (latestRes.ok) {
-        const latest = await latestRes.json();
-        allItems = latest.items || [];
-      }
-    } catch (e) {
-      console.warn("Could not load latest digest items:", e);
+  // Digest configuration
+  const digestConfig = {
+    "ai-tech": {
+      archiveFile: "data/digest-archive.json",
+      latestFile: "data/digest-latest.json",
+      name: "AI/Tech"
+    },
+    "news": {
+      archiveFile: "data/news-digest-archive.json",
+      latestFile: "data/news-digest-latest.json",
+      name: "News"
+    },
+    "sport": {
+      archiveFile: "data/sport-digest-archive.json",
+      latestFile: "data/sport-digest-latest.json",
+      name: "Sport"
     }
+  };
 
-    updated.innerHTML = `<span data-i18n="UPDATED_LABEL">Updated:</span> ${archive.updated_at}`;
+  // Load all digests
+  async function loadDigest(digestType) {
+    const config = digestConfig[digestType];
+    if (!config) return;
 
-    // Initial render
-    renderDays();
+    try {
+      // Fetch archive
+      const archiveRes = await fetch(config.archiveFile, { cache: "no-store" });
+      if (!archiveRes.ok) throw new Error(`HTTP ${archiveRes.status}`);
+      const archive = await archiveRes.json();
+      allDigests[digestType].days = archive.days || [];
+      allDigests[digestType].archive = archive;
+
+      // Fetch latest digest for item-level filtering
+      try {
+        const latestRes = await fetch(config.latestFile, { cache: "no-store" });
+        if (latestRes.ok) {
+          const latest = await latestRes.json();
+          allDigests[digestType].items = latest.items || [];
+        }
+      } catch (e) {
+        console.warn(`Could not load latest ${digestType} digest items:`, e);
+      }
+    } catch (err) {
+      console.error(`Failed to load ${digestType} digest:`, err);
+    }
+  }
+
+  // Load all digests in parallel
+  try {
+    await Promise.all([
+      loadDigest("ai-tech"),
+      loadDigest("news"),
+      loadDigest("sport")
+    ]);
+
+    updateDisplay();
+
+    // Digest type selection
+    digestBtns.forEach(btn => {
+      btn.addEventListener("click", () => {
+        digestBtns.forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentDigest = btn.dataset.digest;
+        updateDisplay();
+      });
+    });
 
     // Search functionality
     searchBox?.addEventListener("input", (e) => {
@@ -90,6 +139,19 @@
     }
   }
 
+  function updateDisplay() {
+    const digest = allDigests[currentDigest];
+    const config = digestConfig[currentDigest];
+
+    if (digest.archive) {
+      updated.innerHTML = `<span data-i18n="UPDATED_LABEL">Updated:</span> ${digest.archive.updated_at} • <strong>${config.name} Digest</strong>`;
+    } else {
+      updated.innerHTML = `<strong>${config.name} Digest</strong> - <span class="muted">Loading...</span>`;
+    }
+
+    render();
+  }
+
   function render() {
     // If filtering or searching, show items from latest digest
     if (currentFilter !== "all" || currentSearch) {
@@ -100,7 +162,9 @@
   }
 
   function renderDays() {
-    list.innerHTML = allDays.map(d => `
+    const days = allDigests[currentDigest].days;
+
+    list.innerHTML = days.map(d => `
       <article class="card">
         <h2><a href="${d.page}">${d.date}</a></h2>
         <p class="muted">${d.teaser}</p>
@@ -114,7 +178,8 @@
   }
 
   function renderFilteredItems() {
-    let filtered = allItems;
+    const items = allDigests[currentDigest].items;
+    let filtered = items;
 
     // Apply source filter
     if (currentFilter !== "all") {
@@ -140,7 +205,7 @@
       <div class="card">
         <p class="muted" style="margin-bottom: 1rem;">
           <i class="fas fa-filter"></i>
-          Showing ${filtered.length} item${filtered.length !== 1 ? 's' : ''} from latest digest
+          Showing ${filtered.length} item${filtered.length !== 1 ? 's' : ''} from latest ${digestConfig[currentDigest].name} digest
         </p>
       </div>
       ${filtered.map(item => `

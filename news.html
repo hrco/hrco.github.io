@@ -30,9 +30,18 @@
 
         <main>
             <section class="card">
-                <h1 data-i18n="NEWS_HEADING">News Digest News Archive</h1>
+                <h1 data-i18n="NEWS_HEADING">Daily Digest Archive</h1>
                 <p data-i18n="NEWS_INTRO">A chronological collection of digital discoveries, presented in reverse temporal order - because, as any hitchhiker knows, the future is just the past happening very slowly in the other direction.</p>
                 <p class="muted" id="updated">Loading…</p>
+
+                <!-- Digest Type Selector -->
+                <div style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border);">
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-digest="ai-tech" data-i18n="DIGEST_AI_TECH">AI/Tech</button>
+                        <button class="filter-btn" data-digest="news" data-i18n="DIGEST_NEWS">News</button>
+                        <button class="filter-btn" data-digest="sport" data-i18n="DIGEST_SPORT">Sport</button>
+                    </div>
+                </div>
 
                 <!-- Search & Filter Controls -->
                 <div class="digest-controls">
@@ -42,7 +51,7 @@
                         placeholder="Search articles..."
                         data-i18n-placeholder="SEARCH_PLACEHOLDER"
                     />
-                    <div class="filter-buttons">
+                    <div class="filter-buttons" id="category-filters">
                         <button class="filter-btn active" data-filter="all" data-i18n="FILTER_ALL">All</button>
                         <button class="filter-btn" data-filter="tech" data-i18n="FILTER_TECH">Tech</button>
                         <button class="filter-btn" data-filter="sports" data-i18n="FILTER_SPORTS">Sports</button>
