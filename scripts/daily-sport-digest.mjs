@@ -3,58 +3,52 @@ import crypto from "node:crypto";
 import { fetchRss } from "./connectors/rss.mjs";
 
 const FEEDS = [
-  // Tech & Hacker News
-  "https://hnrss.org/frontpage",              // HackerNews: tech news
-  "https://lobste.rs/rss",                    // Lobste.rs: curated hacker/tech links
-  "https://www.schneier.com/feed/",           // Bruce Schneier: cryptography, security policy
-  "https://feeds.arstechnica.com/arstechnica/index", // ArsTechnica: tech journalism
-  "https://feeds.bloomberg.com/markets/news.rss", // Bloomberg: markets & tech
+  // Major Sports News
+  "https://www.espn.com/espn/rss/news",           // ESPN General Sports
+  "https://feeds.bbci.co.uk/sport/rss.xml",       // BBC Sport
+  "https://sports.yahoo.com/rss/",                // Yahoo Sports
+  "https://www.cbssports.com/rss/headlines",      // CBS Sports Headlines
 
-  // AI & Machine Learning Research
-  "https://arxiv.org/rss/cs.AI",              // arXiv AI research papers
-  "https://arxiv.org/rss/stat.ML",            // arXiv Machine Learning papers
-  "https://arxiv.org/rss/cs.CL",              // arXiv NLP/LLM research
-  "https://huggingface.co/blog/feed.xml",     // Hugging Face: open-source AI models/tools
-  "https://blog.google/technology/ai/rss/",   // Google AI Blog
-  // "https://deepmind.google/feed/",            // DeepMind research breakthroughs (feed unavailable)
-  "https://paperswithcode.com/feed",          // Papers with Code: benchmarked ML papers
+  // Motorsports
+  // "https://www.formula1.com/latest/news.rss?hl=en", // Formula 1 (feed unavailable)
+  // "https://www.motogp.com/en/rss/news",           // MotoGP (feed unavailable)
+  // "https://www.nascar.com/news/rss/",             // NASCAR (feed unavailable)
 
-  // Tech Industry & Startups
-  "https://techcrunch.com/feed/",             // TechCrunch: startup and tech news
-  "https://venturebeat.com/category/ai/feed/", // VentureBeat AI industry updates
-  "https://www.technologyreview.com/feed/",   // MIT Technology Review
-  "https://www.wired.com/feed/rss",           // Wired: tech trends, gadgets
-  "https://www.theverge.com/rss/index.xml",   // The Verge: tech reviews, AI ethics
+  // Tennis
+  "https://www.atptour.com/-/rss/news.xml",       // ATP Tour: men's tennis
+  // "https://www.wtatennis.com/rss/news",           // WTA Tour (feed unavailable)
 
-  // Developer Tools & Community
-  "https://www.kdnuggets.com/feed",           // KDnuggets: data science/ML tools
-  "https://github.blog/changelog/feed/",      // GitHub Changelog: developer tools
-  "https://dev.to/feed",                      // Dev.to: developer community
+  // Combat Sports
+  "https://www.ufc.com/rss/news",                 // UFC: MMA/combat sports
+  // "https://boxrec.com/rss/news",                  // BoxRec (feed unavailable)
 
-  // Adrenaline Sports
-  "https://www.outsideonline.com/rss",        // Extreme sports, climbing, surfing, snowboarding
-  "https://www.surfer.com/feed/",             // Surfing news & competitions
+  // Individual Sports
+  "https://www.cyclingnews.com/rss/",             // Cyclingnews: road cycling
+  // "https://www.golfdigest.com/rss.xml",           // Golf Digest (feed unavailable)
+  "https://worldathletics.org/rss/news",          // World Athletics: track/field
+
+  // Adrenaline & Extreme Sports
+  "https://www.outsideonline.com/rss",            // Extreme sports, climbing, surfing, snowboarding
+  "https://www.surfer.com/feed/",                 // Surfing news & competitions
+  "https://www.surfertoday.com/rss",              // SurferToday: surfing/extreme water sports
+  // "https://www.redbull.com/us-en/rss/news",       // Red Bull (feed unavailable)
+
+  // Football/Soccer
+  "https://www.espn.com/espn/rss/soccer/news",    // ESPN Soccer
+  "https://www.fifa.com/rss/news/latest",         // FIFA: global soccer
+
+  // Basketball
+  "https://www.espn.com/espn/rss/nba/news",       // ESPN NBA
+
+  // Cricket
+  "https://www.espn.com/espn/rss/cricket/news",   // ESPN Cricket
+
+  // Multi-Sport & International
+  // "https://olympics.com/en/feed/news/",           // Olympics.com (feed unavailable)
 
   // eGaming & eSports
-  "https://feeds.ign.com/ign/all",            // Gaming news & eSports
-  "https://dotesports.com/feed",              // Dedicated eSports tournaments & pro players
-
-  // Slovenian Content
-  "https://www.delo.si/rss",                  // Slovenia's top newspaper
-  "https://www.24ur.com/rss",                 // Most visited Slovenian news site
-  "https://www.rtvslo.si/feeds/00.xml",       // RTV Slovenia (public broadcaster)
-
-  // Cybersecurity & Exploits
-  "https://krebsonsecurity.com/feed/",        // Brian Krebs investigative infosec
-  "https://feeds.feedburner.com/TheHackersNews", // Daily cybersecurity news
-  "https://www.bleepingcomputer.com/feed/",   // Infosec, ransomware, exploits
-  "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml", // NVD: new CVEs & vulnerabilities
-  "https://www.exploit-db.com/rss.xml",       // Exploit Database: new exploits & PoCs
-  "https://www.2600.com/rss.xml",             // 2600: hacker culture & activism
-
-  // Political Leaks & Transparency
-  "https://www.propublica.org/feed/",         // Investigative journalism, transparency
-  "https://theintercept.com/feed/?lang=en",   // Leaks, whistleblowers, surveillance
+  "https://feeds.ign.com/ign/all",                // Gaming news & eSports
+  "https://dotesports.com/feed",                  // Dedicated eSports tournaments & pro players
 ];
 
 const LIMIT_ITEMS = 12;
@@ -63,9 +57,9 @@ const KEEP_DAYS = 30;
 const today = new Date().toISOString().slice(0, 10);
 const updatedAt = new Date().toISOString();
 
-const latestPath = "data/digest-latest.json";
-const archivePath = "data/digest-archive.json";
-const dayPagePath = `news/${today}.html`;
+const latestPath = "data/sport-digest-latest.json";
+const archivePath = "data/sport-digest-archive.json";
+const dayPagePath = `news/${today}-sport.html`;
 
 fs.mkdirSync("data", { recursive: true });
 fs.mkdirSync("news", { recursive: true });
@@ -81,7 +75,7 @@ function sha1(s) {
   return crypto.createHash("sha1").update(s).digest("hex");
 }
 
-// Lightweight “summary” (replace with AI later if you want)
+// Lightweight "summary" (replace with AI later if you want)
 function summaryFromTitle(title) {
   return `Summary: ${title}`;
 }
@@ -120,7 +114,7 @@ function renderDayHtml({ date, updated_at, items }) {
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Digest ${date}</title>
+  <title>Sport Digest ${date}</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link rel="stylesheet" href="/css/main.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
@@ -128,7 +122,7 @@ function renderDayHtml({ date, updated_at, items }) {
 <body>
   <main class="wrap">
     <nav><a href="/news.html">← Archive</a></nav>
-    <h1>Daily AI/Tech Digest</h1>
+    <h1>Daily Sport Digest</h1>
     <p class="muted">${date} • Updated ${updated_at}</p>
     <ol class="digest">${lis || "<p>No items today.</p>"}</ol>
   </main>
@@ -150,7 +144,7 @@ async function main() {
     }
   }
 
-  // Keep a “seen” set to avoid repeating old links
+  // Keep a "seen" set to avoid repeating old links
   const seen = new Set((archive.days ?? []).flatMap(d => d.ids ?? []));
 
   // Fetch all feeds (fail-soft per feed)
@@ -216,7 +210,7 @@ async function main() {
     "utf8"
   );
 
-  console.log(`Digest done: ${today} (${items.length} items)`);
+  console.log(`Sport Digest done: ${today} (${items.length} items)`);
 }
 
 main().catch((e) => {

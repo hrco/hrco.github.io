@@ -20,12 +20,19 @@ jobs:
 
       - run: npm ci
 
-      - run: node scripts/daily-digest.mjs
+      - name: Generate AI/Tech Digest
+        run: node scripts/daily-digest.mjs
+
+      - name: Generate News Digest
+        run: node scripts/daily-news-digest.mjs
+
+      - name: Generate Sport Digest
+        run: node scripts/daily-sport-digest.mjs
 
       - name: Commit & push
         run: |
           git config user.name "hrco-bot"
           git config user.email "hrco-bot@users.noreply.github.com"
           git add data/ news/
-          git commit -m "chore: daily digest" || exit 0
+          git commit -m "chore: daily digests (AI/Tech, News, Sport)" || exit 0
           git push

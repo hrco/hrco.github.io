@@ -11,12 +11,30 @@
 
   // Source mapping for filtering by category
   const sourceMap = {
-    "tech": ["hnrss.org", "lobste.rs", "schneier.com", "feeds.arstechnica.com", "feeds.bloomberg.com"],
-    "sports": ["outsideonline.com", "surfer.com"],
+    "tech": [
+      "hnrss.org", "lobste.rs", "schneier.com", "feeds.arstechnica.com", "feeds.bloomberg.com",
+      "arxiv.org", "huggingface.co", "blog.google", "deepmind.google", "paperswithcode.com",
+      "techcrunch.com", "venturebeat.com", "technologyreview.com", "wired.com", "theverge.com",
+      "kdnuggets.com", "github.blog", "dev.to"
+    ],
+    "sports": [
+      "outsideonline.com", "surfer.com", "surfertoday.com", "redbull.com",
+      "espn.com", "bbci.co.uk/sport", "sports.yahoo.com", "cbssports.com",
+      "formula1.com", "motogp.com", "nascar.com",
+      "atptour.com", "wtatennis.com",
+      "ufc.com", "boxrec.com",
+      "cyclingnews.com", "golfdigest.com", "worldathletics.org",
+      "fifa.com", "olympics.com"
+    ],
     "gaming": ["feeds.ign.com", "dotesports.com"],
     "slovenian": ["delo.si", "24ur.com", "rtvslo.si"],
-    "security": ["krebsonsecurity.com", "thehackersnews", "bleepingcomputer.com", "nvd.nist.gov", "exploit-db.com", "securityweek.com", "2600.com", "packetstormsecurity.com"],
-    "transparency": ["propublica.org", "theintercept.com"]
+    "security": [
+      "krebsonsecurity.com", "thehackersnews", "bleepingcomputer.com",
+      "nvd.nist.gov", "exploit-db.com", "2600.com"
+    ],
+    "transparency": [
+      "propublica.org", "theintercept.com", "theconversation.com", "icij.org"
+    ]
   };
 
   try {

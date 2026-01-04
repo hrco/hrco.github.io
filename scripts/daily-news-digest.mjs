@@ -3,58 +3,40 @@ import crypto from "node:crypto";
 import { fetchRss } from "./connectors/rss.mjs";
 
 const FEEDS = [
-  // Tech & Hacker News
-  "https://hnrss.org/frontpage",              // HackerNews: tech news
-  "https://lobste.rs/rss",                    // Lobste.rs: curated hacker/tech links
-  "https://www.schneier.com/feed/",           // Bruce Schneier: cryptography, security policy
-  "https://feeds.arstechnica.com/arstechnica/index", // ArsTechnica: tech journalism
-  "https://feeds.bloomberg.com/markets/news.rss", // Bloomberg: markets & tech
+  // General News - Major Outlets
+  "https://feeds.bbci.co.uk/news/rss.xml",        // BBC News
+  "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", // NYT World
+  "https://www.theguardian.com/world/rss",        // Guardian World News
+  "https://feeds.npr.org/1001/rss.xml",           // NPR News
+  // "https://rss.cnn.com/rss/edition_world.rss",    // CNN World (feed unavailable)
 
-  // AI & Machine Learning Research
-  "https://arxiv.org/rss/cs.AI",              // arXiv AI research papers
-  "https://arxiv.org/rss/stat.ML",            // arXiv Machine Learning papers
-  "https://arxiv.org/rss/cs.CL",              // arXiv NLP/LLM research
-  "https://huggingface.co/blog/feed.xml",     // Hugging Face: open-source AI models/tools
-  "https://blog.google/technology/ai/rss/",   // Google AI Blog
-  // "https://deepmind.google/feed/",            // DeepMind research breakthroughs (feed unavailable)
-  "https://paperswithcode.com/feed",          // Papers with Code: benchmarked ML papers
+  // International Perspectives
+  "https://www.aljazeera.com/xml/rss/all.xml",    // Al Jazeera: Global South perspective
+  "https://rss.dw.com/xml/rss_en_top",            // Deutsche Welle: European/international
+  "https://www.france24.com/en/rss",              // France 24: French/global perspective
+  "https://www.scmp.com/rss/91/feed",             // South China Morning Post: Asia-Pacific
+  "https://www.abc.net.au/news/feed/51120/rss.xml", // ABC Australia: Oceania perspective
+  // "https://www.cbc.ca/webfeed/rss/rss-world",     // CBC Canada (feed unavailable)
 
-  // Tech Industry & Startups
-  "https://techcrunch.com/feed/",             // TechCrunch: startup and tech news
-  "https://venturebeat.com/category/ai/feed/", // VentureBeat AI industry updates
-  "https://www.technologyreview.com/feed/",   // MIT Technology Review
-  "https://www.wired.com/feed/rss",           // Wired: tech trends, gadgets
-  "https://www.theverge.com/rss/index.xml",   // The Verge: tech reviews, AI ethics
+  // Analysis & Deep Reporting
+  // "https://rsshub.app/economist/homepage",        // The Economist (RSSHub blocked)
+  // "https://rsshub.app/apnews/homepage",           // Associated Press (RSSHub blocked)
 
-  // Developer Tools & Community
-  "https://www.kdnuggets.com/feed",           // KDnuggets: data science/ML tools
-  "https://github.blog/changelog/feed/",      // GitHub Changelog: developer tools
-  "https://dev.to/feed",                      // Dev.to: developer community
-
-  // Adrenaline Sports
-  "https://www.outsideonline.com/rss",        // Extreme sports, climbing, surfing, snowboarding
-  "https://www.surfer.com/feed/",             // Surfing news & competitions
-
-  // eGaming & eSports
-  "https://feeds.ign.com/ign/all",            // Gaming news & eSports
-  "https://dotesports.com/feed",              // Dedicated eSports tournaments & pro players
+  // Science & Research
+  "https://www.sciencenews.org/feed",             // Science News: science journalism
+  "https://www.nature.com/nature.rss",            // Nature News: global science/policy
+  "https://www.newscientist.com/section/news/feed/", // New Scientist: science/tech news
 
   // Slovenian Content
-  "https://www.delo.si/rss",                  // Slovenia's top newspaper
-  "https://www.24ur.com/rss",                 // Most visited Slovenian news site
-  "https://www.rtvslo.si/feeds/00.xml",       // RTV Slovenia (public broadcaster)
+  "https://www.delo.si/rss",                      // Slovenia's top newspaper
+  "https://www.24ur.com/rss",                     // Most visited Slovenian news site
+  "https://www.rtvslo.si/feeds/00.xml",           // RTV Slovenia (public broadcaster)
 
-  // Cybersecurity & Exploits
-  "https://krebsonsecurity.com/feed/",        // Brian Krebs investigative infosec
-  "https://feeds.feedburner.com/TheHackersNews", // Daily cybersecurity news
-  "https://www.bleepingcomputer.com/feed/",   // Infosec, ransomware, exploits
-  "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml", // NVD: new CVEs & vulnerabilities
-  "https://www.exploit-db.com/rss.xml",       // Exploit Database: new exploits & PoCs
-  "https://www.2600.com/rss.xml",             // 2600: hacker culture & activism
-
-  // Political Leaks & Transparency
-  "https://www.propublica.org/feed/",         // Investigative journalism, transparency
-  "https://theintercept.com/feed/?lang=en",   // Leaks, whistleblowers, surveillance
+  // Investigative & Transparency
+  "https://www.propublica.org/feed/",             // ProPublica: investigative journalism
+  "https://theintercept.com/feed/?lang=en",       // The Intercept: leaks, whistleblowers
+  // "https://theconversation.com/us/rss.xml",       // The Conversation (feed unavailable)
+  "https://www.icij.org/feed/",                   // ICIJ: global investigations
 ];
 
 const LIMIT_ITEMS = 12;
@@ -63,9 +45,9 @@ const KEEP_DAYS = 30;
 const today = new Date().toISOString().slice(0, 10);
 const updatedAt = new Date().toISOString();
 
-const latestPath = "data/digest-latest.json";
-const archivePath = "data/digest-archive.json";
-const dayPagePath = `news/${today}.html`;
+const latestPath = "data/news-digest-latest.json";
+const archivePath = "data/news-digest-archive.json";
+const dayPagePath = `news/${today}-news.html`;
 
 fs.mkdirSync("data", { recursive: true });
 fs.mkdirSync("news", { recursive: true });
@@ -81,7 +63,7 @@ function sha1(s) {
   return crypto.createHash("sha1").update(s).digest("hex");
 }
 
-// Lightweight “summary” (replace with AI later if you want)
+// Lightweight "summary" (replace with AI later if you want)
 function summaryFromTitle(title) {
   return `Summary: ${title}`;
 }
@@ -120,7 +102,7 @@ function renderDayHtml({ date, updated_at, items }) {
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Digest ${date}</title>
+  <title>News Digest ${date}</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link rel="stylesheet" href="/css/main.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
@@ -128,7 +110,7 @@ function renderDayHtml({ date, updated_at, items }) {
 <body>
   <main class="wrap">
     <nav><a href="/news.html">← Archive</a></nav>
-    <h1>Daily AI/Tech Digest</h1>
+    <h1>Daily News Digest</h1>
     <p class="muted">${date} • Updated ${updated_at}</p>
     <ol class="digest">${lis || "<p>No items today.</p>"}</ol>
   </main>
@@ -150,7 +132,7 @@ async function main() {
     }
   }
 
-  // Keep a “seen” set to avoid repeating old links
+  // Keep a "seen" set to avoid repeating old links
   const seen = new Set((archive.days ?? []).flatMap(d => d.ids ?? []));
 
   // Fetch all feeds (fail-soft per feed)
@@ -216,7 +198,7 @@ async function main() {
     "utf8"
   );
 
-  console.log(`Digest done: ${today} (${items.length} items)`);
+  console.log(`News Digest done: ${today} (${items.length} items)`);
 }
 
 main().catch((e) => {
