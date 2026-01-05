@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-04T06:31:59.991Z",
+  "updated_at": "2026-01-05T06:32:47.229Z",
   "days": [
+    {
+      "date": "2026-01-05",
+      "page": "/news/2026-01-05.html",
+      "teaser": "Top: Donald Trump posvaril Delcy Rodríguez in zagrozil tudi Kolumbiji",
+      "count": 12,
+      "ids": [
+        "0e08c21be120aa9afa878ab4c98a76e34bd9e88c",
+        "f6a74d4e36980f6aab6b1952cfbc2d2cde1b26b7",
+        "93309cafcca754f696ad315860c2580dacc30ce7",
+        "2b4bb0a2cc1d9e06a7fa31876c672ee803fc3cc6",
+        "0778ffa7f01d76e5af84c40402c47ef8ced99f4e",
+        "84dd3f6f69cd5ddb4862c5f03eead5ffb8b8c948",
+        "563e01d132bd0634f891c0de91b1432911ac68b3",
+        "af4caee95efdab3d1b80ecc647dd15bc309516c5",
+        "eccb765cdcdf72ad066a56427c9ef0184ce58bcb",
+        "5a03dc83ab54eae10efe4933ae5fd5c2a8c7c5f1",
+        "366529d0ccaa4b61222b10eef4ad777f486c21c6",
+        "6fd3a6c0509f751b306682e807797c9c16d308c0"
+      ]
+    },
     {
       "date": "2026-01-04",
       "page": "/news/2026-01-04.html",

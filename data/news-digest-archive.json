@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-04T09:52:27.582Z",
+  "updated_at": "2026-01-05T06:32:58.752Z",
   "days": [
+    {
+      "date": "2026-01-05",
+      "page": "/news/2026-01-05-news.html",
+      "teaser": "Top: Chinese automotive chipmaker Black Sesame’s Huashan A2000 clears US review hurdle",
+      "count": 12,
+      "ids": [
+        "f3c2c5aa4099bbc025da97480cb220575109db0f",
+        "0e08c21be120aa9afa878ab4c98a76e34bd9e88c",
+        "145a7a865d8bbb821fc5dea3b41da71ed228777e",
+        "a7ad5defb7ad795b0a24a2b981573ba5a5559bf3",
+        "ac900e7037301a7441241f33483d8d18b6308a45",
+        "cae5de0d3501cfc0b1db8b4c3a8e75428b876b90",
+        "af20116c2fd6140a668c1b9721b48c173a1583f9",
+        "e288efc9dd0f81419938662152fa6401cdb556a7",
+        "5e21d56424683bff69cd7d9029e3e22565601c38",
+        "cddcb07e17bad4acd48dfe86423b6b881de3746a",
+        "cdf8793ab7801b202826b12d4581d24de032783f",
+        "ac9e305e4a1817e1f45810f9c7d878c8313ebb23"
+      ]
+    },
     {
       "date": "2026-01-04",
       "page": "/news/2026-01-04-news.html",
