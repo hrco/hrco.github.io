@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-05",
-  "updated_at": "2026-01-05T06:32:47.229Z",
-  "page": "/news/2026-01-05.html",
+  "date": "2026-01-06",
+  "updated_at": "2026-01-06T06:32:10.431Z",
+  "page": "/news/2026-01-06.html",
   "count": 12,
   "items": [
     {
-      "id": "0e08c21be120aa9afa878ab4c98a76e34bd9e88c",
-      "title": "Donald Trump posvaril Delcy Rodríguez in zagrozil tudi Kolumbiji",
-      "url": "https://www.delo.si/novice/svet/venezuela-maduro-sodisce-new-york",
-      "source": "www.delo.si",
-      "published_at": "2026-01-05T06:28:28.000Z",
-      "summary": "Summary: Donald Trump posvaril Delcy Rodríguez in zagrozil tudi Kolumbiji"
-    },
-    {
-      "id": "f6a74d4e36980f6aab6b1952cfbc2d2cde1b26b7",
-      "title": "🧩 Beginner-Friendly Guide 'Maximum Matrix Sum' – LeetCode 1975 (C++, Python, JavaScript)",
-      "url": "https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-matrix-sum-leetcode-1975-c-python-javascript-5e39",
+      "id": "14cff1f7f5e0a6d20effc05c6b8510fc2aae413b",
+      "title": "10 Cool CodePen Demos (December 2025)",
+      "url": "https://dev.to/alvaromontoro/10-cool-codepen-demos-december-2025-213g",
       "source": "dev.to",
-      "published_at": "2026-01-05T06:22:21.000Z",
-      "summary": "Summary: 🧩 Beginner-Friendly Guide 'Maximum Matrix Sum' – LeetCode 1975 (C++, Python, JavaScript)"
+      "published_at": "2026-01-06T06:33:19.000Z",
+      "summary": "Summary: 10 Cool CodePen Demos (December 2025)"
     },
     {
-      "id": "93309cafcca754f696ad315860c2580dacc30ce7",
-      "title": "🧩My Spring Boot App Became Unmaintainable Until I Understood the Service Layer",
-      "url": "https://dev.to/shashwathsh/my-spring-boot-app-became-unmaintainable-until-i-understood-the-service-layer-3lbl",
+      "id": "163d6135d86443c7222bd9545f227847682d955b",
+      "title": "How to Evaluate ML Models Step by Step",
+      "url": "https://dev.to/codeneuron/how-to-evaluate-ml-models-step-by-step-66o",
       "source": "dev.to",
-      "published_at": "2026-01-05T06:17:20.000Z",
-      "summary": "Summary: 🧩My Spring Boot App Became Unmaintainable Until I Understood the Service Layer"
+      "published_at": "2026-01-06T06:26:49.000Z",
+      "summary": "Summary: How to Evaluate ML Models Step by Step"
     },
     {
-      "id": "2b4bb0a2cc1d9e06a7fa31876c672ee803fc3cc6",
-      "title": "I Built a Road Safety Snakes & Ladders Game in Class 11… and Then Let It Rot for 2 Years 💀🐍🎲",
-      "url": "https://dev.to/swagking/i-built-a-road-safety-snakes-ladders-game-in-class-11-and-then-let-it-rot-for-2-years-f8n",
-      "source": "dev.to",
-      "published_at": "2026-01-05T06:15:44.000Z",
-      "summary": "Summary: I Built a Road Safety Snakes & Ladders Game in Class 11… and Then Let It Rot for 2 Years 💀🐍🎲"
+      "id": "c96705acc45926d3bde8daec2cbbad8307cc957d",
+      "title": "Cedevita Olimpija ob velikem izzivu išče še novega krilnega centra",
+      "url": "https://www.rtvslo.si/sport/kosarka/cedevita-olimpija-ob-velikem-izzivu-isce-se-novega-krilnega-centra/768533",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-06T06:25:46.000Z",
+      "summary": "Summary: Cedevita Olimpija ob velikem izzivu išče še novega krilnega centra"
     },
     {
-      "id": "0778ffa7f01d76e5af84c40402c47ef8ced99f4e",
-      "title": "Malaysia Prime Minister Anwar Proposes Term Limit in Bid to Revive Support",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-05/malaysia-s-anwar-proposes-pm-term-limit-in-bid-to-revive-support",
+      "id": "eac8b5503df3d8e8879f5f0f69a15dc03bcb0047",
+      "title": "Bisat: Lebanon's Gap Law Fair Process to Repay Depositors",
+      "url": "https://www.bloomberg.com/news/videos/2026-01-06/bisat-lebanon-gap-law-fair-process-to-repay-depositors-video",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-05T06:15:40.000Z",
-      "summary": "Summary: Malaysia Prime Minister Anwar Proposes Term Limit in Bid to Revive Support"
+      "published_at": "2026-01-06T06:15:46.000Z",
+      "summary": "Summary: Bisat: Lebanon's Gap Law Fair Process to Repay Depositors"
     },
     {
-      "id": "84dd3f6f69cd5ddb4862c5f03eead5ffb8b8c948",
-      "title": "Part 7 — What GenAI Engineering Actually Is",
-      "url": "https://dev.to/muzammiltalha/part-7-what-genai-engineering-actually-is-4eck",
+      "id": "85d61e46401efea9d3e210236af874140211c562",
+      "title": "2026 Web Dev Trends That Actually Matter",
+      "url": "https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520",
       "source": "dev.to",
-      "published_at": "2026-01-05T06:15:00.000Z",
-      "summary": "Summary: Part 7 — What GenAI Engineering Actually Is"
+      "published_at": "2026-01-06T06:13:32.000Z",
+      "summary": "Summary: 2026 Web Dev Trends That Actually Matter"
     },
     {
-      "id": "563e01d132bd0634f891c0de91b1432911ac68b3",
-      "title": "Building a Social Deduction Game with a State Machine (7 Games in 7 Weeks – Week 4)",
-      "url": "https://dev.to/asaleg/building-a-social-deduction-game-with-a-state-machine-7-games-in-7-weeks-week-4-2jj8",
-      "source": "dev.to",
-      "published_at": "2026-01-05T06:13:10.000Z",
-      "summary": "Summary: Building a Social Deduction Game with a State Machine (7 Games in 7 Weeks – Week 4)"
+      "id": "ce5fe1c041816d02850b66cf5e4cd71369c00a41",
+      "title": "Detroit suvereno dobil derbi Vzhoda, Charlotte v Oklahomi ponižal prvake",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/detroit-suvereno-dobil-derbi-vzhoda-charlotte-v-oklahomi-ponizal-prvake/769191",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-06T06:11:04.000Z",
+      "summary": "Summary: Detroit suvereno dobil derbi Vzhoda, Charlotte v Oklahomi ponižal prvake"
     },
     {
-      "id": "af4caee95efdab3d1b80ecc647dd15bc309516c5",
-      "title": "Automated Jira Ticket Creation for AWS EC2 Scheduled Events",
-      "url": "https://dev.to/nithish_rodrigo/automated-jira-ticket-creation-for-aws-ec2-scheduled-events-1eom",
+      "id": "8baf30cbdc0c1f479f71a5eeeefede5a90628e6c",
+      "title": "Unveiling Symfony 7.4: A New Era for Media Validation and DX",
+      "url": "https://dev.to/mattleads/unveiling-symfony-74-a-new-era-for-media-validation-and-dx-4459",
       "source": "dev.to",
-      "published_at": "2026-01-05T06:12:07.000Z",
-      "summary": "Summary: Automated Jira Ticket Creation for AWS EC2 Scheduled Events"
+      "published_at": "2026-01-06T06:08:23.000Z",
+      "summary": "Summary: Unveiling Symfony 7.4: A New Era for Media Validation and DX"
     },
     {
-      "id": "eccb765cdcdf72ad066a56427c9ef0184ce58bcb",
-      "title": "Automated Jira Ticket Creation for AWS EC2 Scheduled Events",
-      "url": "https://dev.to/nithish_rodrigo/automated-jira-ticket-creation-for-aws-ec2-scheduled-events-3kdb",
+      "id": "5f458448e683cf228f273d68b7172d809cca68c6",
+      "title": "Why Traditional DevOps Stops Scaling",
+      "url": "https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im",
       "source": "dev.to",
-      "published_at": "2026-01-05T06:12:07.000Z",
-      "summary": "Summary: Automated Jira Ticket Creation for AWS EC2 Scheduled Events"
+      "published_at": "2026-01-06T06:06:56.000Z",
+      "summary": "Summary: Why Traditional DevOps Stops Scaling"
     },
     {
-      "id": "5a03dc83ab54eae10efe4933ae5fd5c2a8c7c5f1",
-      "title": "Automated Jira Ticket Creation for AWS EC2 Scheduled Events",
-      "url": "https://dev.to/nithish_rodrigo/automated-jira-ticket-creation-for-aws-ec2-scheduled-events-533o",
+      "id": "1f9c625224210643c192e16e1121953a5ae09a20",
+      "title": "ClovaLink — Enterprise File Storage without the price tag",
+      "url": "https://dev.to/dotdon/clovalink-enterprise-file-storage-without-the-price-tag-40gk",
       "source": "dev.to",
-      "published_at": "2026-01-05T06:12:07.000Z",
-      "summary": "Summary: Automated Jira Ticket Creation for AWS EC2 Scheduled Events"
+      "published_at": "2026-01-06T06:06:52.000Z",
+      "summary": "Summary: ClovaLink — Enterprise File Storage without the price tag"
     },
     {
-      "id": "366529d0ccaa4b61222b10eef4ad777f486c21c6",
-      "title": "Building an Autonomous ClinicalOps Watchdog: My Experiment in Automating Clinical Trial Monitoring",
-      "url": "https://dev.to/exploredataaiml/building-an-autonomous-clinicalops-watchdog-my-experiment-in-automating-clinical-trial-monitoring-110j",
-      "source": "dev.to",
-      "published_at": "2026-01-05T06:11:29.000Z",
-      "summary": "Summary: Building an Autonomous ClinicalOps Watchdog: My Experiment in Automating Clinical Trial Monitoring"
+      "id": "583d2f39915b610359bf8212f3189d291199452d",
+      "title": "Do petka hud mraz: temperature tudi čez dan pod lediščem",
+      "url": "https://www.24ur.com/novice/slovenija/do-petka-hud-mraz-temperature-tudi-cez-dan-pod-lediscem.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-06T06:06:37.000Z",
+      "summary": "Summary: Do petka hud mraz: temperature tudi čez dan pod lediščem"
     },
     {
-      "id": "6fd3a6c0509f751b306682e807797c9c16d308c0",
-      "title": "Why Complex Visualizations Need Algorithms: Analyzing Grafana Forks' Dependencies",
-      "url": "https://dev.to/ruiwen_zeng_ea2f69399242a/why-complex-visualizations-need-algorithms-analyzing-grafana-forks-dependencies-67f",
+      "id": "a97fe77092b4bf083fb2781f130fbff39ce9501b",
+      "title": "Problem 8: Count Vowels",
+      "url": "https://dev.to/highcenburg/problem-8-count-vowels-p7l",
       "source": "dev.to",
-      "published_at": "2026-01-05T06:09:21.000Z",
-      "summary": "Summary: Why Complex Visualizations Need Algorithms: Analyzing Grafana Forks' Dependencies"
+      "published_at": "2026-01-06T06:05:01.000Z",
+      "summary": "Summary: Problem 8: Count Vowels"
+    },
+    {
+      "id": "9d0e32d00444729c44746a9ebc454f30b3264fa7",
+      "title": "Zima je pokazala zobe – v mraziščih tudi minus 20 stopinj Celzija",
+      "url": "https://www.delo.si/novice/okolje/zima-je-pokazala-zobe-v-mraziscih-tudi-minus-20-stopinj-celzija",
+      "source": "www.delo.si",
+      "published_at": "2026-01-06T06:05:00.000Z",
+      "summary": "Summary: Zima je pokazala zobe – v mraziščih tudi minus 20 stopinj Celzija"
     }
   ]
 }

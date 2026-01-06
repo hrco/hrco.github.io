@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-05T06:32:58.752Z",
+  "updated_at": "2026-01-06T06:37:01.465Z",
   "days": [
+    {
+      "date": "2026-01-06",
+      "page": "/news/2026-01-06-news.html",
+      "teaser": "Top: China premier urges Guangdong to ignite economic growth amid intensified competition",
+      "count": 12,
+      "ids": [
+        "cf1929f6e70401e140dd1430c17c84d1826ab1c5",
+        "3d721060a3cc267d16e7d73d58c8b6de60945de9",
+        "c96705acc45926d3bde8daec2cbbad8307cc957d",
+        "2b75facc5ad004e54236aed2716c0c07068d14f1",
+        "bdf357fef2817c6992f2359fc1d363941084eb39",
+        "786d509de019f517456796ea53ee2ef86ce4f428",
+        "97e06c0382607a0537d3045946f827ccff5c992e",
+        "c64d055d3bf660d93cb75a0c9605defb8b821af9",
+        "76f8b73065f5f7dff128e7b6a6888b691731e358",
+        "b98a0dff1ef889e7da4aeee8c282ef008bf11cc3",
+        "56b4e1fee0247915ca15b99a9493435b33307334",
+        "ce5fe1c041816d02850b66cf5e4cd71369c00a41"
+      ]
+    },
     {
       "date": "2026-01-05",
       "page": "/news/2026-01-05-news.html",

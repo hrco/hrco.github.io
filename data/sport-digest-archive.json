@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-05T06:33:04.826Z",
+  "updated_at": "2026-01-06T06:37:06.835Z",
   "days": [
+    {
+      "date": "2026-01-06",
+      "page": "/news/2026-01-06-sport.html",
+      "teaser": "Top: Montana St. tops Illinois St. in wild FCS title game",
+      "count": 12,
+      "ids": [
+        "a27cc91adca3ee6e87d34cc831796f95d2dd86ea",
+        "ca8f4b8e3202bc5b0781d4a2f04c7a67df6d869c",
+        "5e4309beed7f7f6f4a7079b38cc15e31e846e6fe",
+        "1a0b19a61d32d8a79bde8a0ef45a7165b03f97a4",
+        "702716ec63fbd6521ba9daf015b14cbf836ad220",
+        "5fd6d789ffa85dabe495f38206342948855279de",
+        "8f8997cf38fbe7d4f78e6f9aaca9c783b147ef93",
+        "dbb0cf9738fce2d0627914ef86eac1a9f031c8ae",
+        "a0cefb8715d612af957b94b12e19f4cf56ae7f2b",
+        "eacd53b65a3d4e5b9344e86bd15a02b9f2f0732c",
+        "b76120866888b74c6354401018b6e6e799511cde",
+        "1ca0960e90a6c3e9e4d17bf7277ac2ceb1607eda"
+      ]
+    },
     {
       "date": "2026-01-05",
       "page": "/news/2026-01-05-sport.html",

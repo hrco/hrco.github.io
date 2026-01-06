@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-05T06:32:47.229Z",
+  "updated_at": "2026-01-06T06:32:10.431Z",
   "days": [
+    {
+      "date": "2026-01-06",
+      "page": "/news/2026-01-06.html",
+      "teaser": "Top: 10 Cool CodePen Demos (December 2025)",
+      "count": 12,
+      "ids": [
+        "14cff1f7f5e0a6d20effc05c6b8510fc2aae413b",
+        "163d6135d86443c7222bd9545f227847682d955b",
+        "c96705acc45926d3bde8daec2cbbad8307cc957d",
+        "eac8b5503df3d8e8879f5f0f69a15dc03bcb0047",
+        "85d61e46401efea9d3e210236af874140211c562",
+        "ce5fe1c041816d02850b66cf5e4cd71369c00a41",
+        "8baf30cbdc0c1f479f71a5eeeefede5a90628e6c",
+        "5f458448e683cf228f273d68b7172d809cca68c6",
+        "1f9c625224210643c192e16e1121953a5ae09a20",
+        "583d2f39915b610359bf8212f3189d291199452d",
+        "a97fe77092b4bf083fb2781f130fbff39ce9501b",
+        "9d0e32d00444729c44746a9ebc454f30b3264fa7"
+      ]
+    },
     {
       "date": "2026-01-05",
       "page": "/news/2026-01-05.html",
