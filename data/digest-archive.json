@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-06T06:32:10.431Z",
+  "updated_at": "2026-01-07T06:31:59.589Z",
   "days": [
+    {
+      "date": "2026-01-07",
+      "page": "/news/2026-01-07.html",
+      "teaser": "Top: Po nasvet k slovitemu Škotu",
+      "count": 12,
+      "ids": [
+        "d059a07a22fa42ce20520eda54bca260125dec77",
+        "77959a13d7172d3362151c1062c77af6dbe25184",
+        "2b64a06d1b8b1870d193cae77b16aa705e9c93f0",
+        "a719a956ac24429199e5b15df2eb4274bd6367ce",
+        "dcb45a1aedb793e9cde158a8399ae3edc1e882ad",
+        "9803ea1c2d5a9bd42ddc21b38133f925a767ea9a",
+        "0e8fc13d17d751568366c2a2d2dc0a1299f55de4",
+        "7284c85404c95e287ffffcfb2130a476ca014762",
+        "a736993d90683f2430a346f11e89fc135682a46c",
+        "1a990464eb35dba4bcdd818e50285915bd426704",
+        "c3d3c078809bb5682bb1ee6a894fc45ea1f68ba0",
+        "99b1b3e49397e4058b451f0a7c7662c5fa40d6aa"
+      ]
+    },
     {
       "date": "2026-01-06",
       "page": "/news/2026-01-06.html",

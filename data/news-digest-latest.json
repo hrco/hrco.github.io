@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-06",
-  "updated_at": "2026-01-06T06:37:01.465Z",
-  "page": "/news/2026-01-06-news.html",
+  "date": "2026-01-07",
+  "updated_at": "2026-01-07T06:32:11.541Z",
+  "page": "/news/2026-01-07-news.html",
   "count": 12,
   "items": [
     {
-      "id": "cf1929f6e70401e140dd1430c17c84d1826ab1c5",
-      "title": "China premier urges Guangdong to ignite economic growth amid intensified competition",
-      "url": "https://www.scmp.com/economy/china-economy/article/3338880/china-premier-urges-guangdong-ignite-economic-growth-amid-intensified-competition?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-06T06:30:41.000Z",
-      "summary": "Summary: China premier urges Guangdong to ignite economic growth amid intensified competition"
+      "id": "d059a07a22fa42ce20520eda54bca260125dec77",
+      "title": "Po nasvet k slovitemu Škotu",
+      "url": "https://www.delo.si/sport/nogomet/po-nasvet-k-slovitemu-skotu",
+      "source": "www.delo.si",
+      "published_at": "2026-01-07T06:27:13.000Z",
+      "summary": "Summary: Po nasvet k slovitemu Škotu"
     },
     {
-      "id": "3d721060a3cc267d16e7d73d58c8b6de60945de9",
-      "title": "Sam Groth to relinquish deputy Liberal leadership next month",
-      "url": "https://www.abc.net.au/news/2026-01-06/sam-groth-to-step-down-deputy-liberal-leader-february/106204434",
+      "id": "60e965347979cee9518ce9b9068d7c90e63d0516",
+      "title": "Nurse banned for two years after unlawfully injecting patient with Botox",
+      "url": "https://www.abc.net.au/news/2026-01-07/qld-cosmetic-injectables-nurse-banned-ahpra/106206780",
       "source": "www.abc.net.au",
-      "published_at": "2026-01-06T06:28:47.000Z",
-      "summary": "Summary: Sam Groth to relinquish deputy Liberal leadership next month"
+      "published_at": "2026-01-07T06:23:02.000Z",
+      "summary": "Summary: Nurse banned for two years after unlawfully injecting patient with Botox"
     },
     {
-      "id": "c96705acc45926d3bde8daec2cbbad8307cc957d",
-      "title": "Cedevita Olimpija ob velikem izzivu išče še novega krilnega centra",
-      "url": "https://www.rtvslo.si/sport/kosarka/cedevita-olimpija-ob-velikem-izzivu-isce-se-novega-krilnega-centra/768533",
+      "id": "dcb45a1aedb793e9cde158a8399ae3edc1e882ad",
+      "title": "Vragi proti Otočanom zbrali 20 strelov več, a utrpeli poraz kar 0:9",
+      "url": "https://www.rtvslo.si/sport/hokej/liga-nhl/vragi-proti-otocanom-zbrali-20-strelov-vec-a-utrpeli-poraz-kar-0-9/769295",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-06T06:25:46.000Z",
-      "summary": "Summary: Cedevita Olimpija ob velikem izzivu išče še novega krilnega centra"
+      "published_at": "2026-01-07T06:19:38.000Z",
+      "summary": "Summary: Vragi proti Otočanom zbrali 20 strelov več, a utrpeli poraz kar 0:9"
     },
     {
-      "id": "2b75facc5ad004e54236aed2716c0c07068d14f1",
-      "title": "Live: Opposition leader Machado wants to make Venezuela the 'energy hub of the Americas'",
-      "url": "https://www.france24.com/en/americas/20260106-live-opposition-leader-machado-make-venezuela-energy-hub-of-the-americas",
+      "id": "645acdd7a0cf5f49bfd5efab31e5fa9334286b13",
+      "title": "AFCON 2025: Adil Boulbina sends Algeria to quarterfinals with great strike",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260107-afcon-2025-adil-boulbina-sends-algeria-to-quarterfinals-with-great-strike",
       "source": "www.france24.com",
-      "published_at": "2026-01-06T06:22:53.000Z",
-      "summary": "Summary: Live: Opposition leader Machado wants to make Venezuela the 'energy hub of the Americas'"
+      "published_at": "2026-01-07T06:14:16.000Z",
+      "summary": "Summary: AFCON 2025: Adil Boulbina sends Algeria to quarterfinals with great strike"
     },
     {
-      "id": "bdf357fef2817c6992f2359fc1d363941084eb39",
-      "title": "Australia news live: NSW police extend restrictions on protests in Sydney for 14 more days",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/06/australia-news-live-anthony-albanese-floods-queensland-bondi-shooting-royal-commission-antisemitism-inquiry-ntwnfb",
+      "id": "82f2b536ac7673c9bf20ac8658f1e71269bf4520",
+      "title": "Staff at new Adelaide mental health unit 'visibly distressed and crying', union says",
+      "url": "https://www.abc.net.au/news/2026-01-07/sasmoa-raises-concerns-staff-pressured-at-mental-health-unit/106206512",
+      "source": "www.abc.net.au",
+      "published_at": "2026-01-07T06:13:32.000Z",
+      "summary": "Summary: Staff at new Adelaide mental health unit 'visibly distressed and crying', union says"
+    },
+    {
+      "id": "43f2ce1a77b13a5343f83366b0420b15cf65b025",
+      "title": "Australia news live: all of Victoria warned to expect ‘upper end of extreme’ fire danger on Friday; PM attends funeral of Bondi victim Peter Meagher",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/07/australia-news-live-heatwave-weather-bushfire-warning-anthony-albanese-antisemitism-bondi-royal-commission-inflation-abs-rba-interest-rates-ntwnfb",
       "source": "www.theguardian.com",
-      "published_at": "2026-01-06T06:19:33.000Z",
-      "summary": "Summary: Australia news live: NSW police extend restrictions on protests in Sydney for 14 more days"
+      "published_at": "2026-01-07T06:13:27.000Z",
+      "summary": "Summary: Australia news live: all of Victoria warned to expect ‘upper end of extreme’ fire danger on Friday; PM attends funeral of Bondi victim Peter Meagher"
     },
     {
-      "id": "786d509de019f517456796ea53ee2ef86ce4f428",
-      "title": "NSW farmers say 10-gun limit not enough and may create safety risk",
-      "url": "https://www.abc.net.au/news/2026-01-06/some-nsw-farmers-say-10-guns-are-not-enough-firearms-cap/106203318",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-06T06:18:18.000Z",
-      "summary": "Summary: NSW farmers say 10-gun limit not enough and may create safety risk"
+      "id": "442b2e416dc36747a8ea4cc8553f53c033a576bf",
+      "title": "Yemen's separatist leader al-Zubaidi flees ahead of talks, Saudi-led coalition says",
+      "url": "https://www.france24.com/en/middle-east/20260107-yemen-separatist-leader-al-zubaidi-flees-ahead-talks-saudi-led-coalition",
+      "source": "www.france24.com",
+      "published_at": "2026-01-07T06:09:44.000Z",
+      "summary": "Summary: Yemen's separatist leader al-Zubaidi flees ahead of talks, Saudi-led coalition says"
     },
     {
-      "id": "97e06c0382607a0537d3045946f827ccff5c992e",
-      "title": "'Knew straight away': Ben Austin's parents reflect on the cricket tragedy that shattered their family",
-      "url": "https://www.abc.net.au/news/2026-01-06/ben-austins-tragic-death-parents-jace-and-tracey-speak-out/106203078",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-06T06:14:30.000Z",
-      "summary": "Summary: 'Knew straight away': Ben Austin's parents reflect on the cricket tragedy that shattered their family"
+      "id": "a91c14c2ab0936c1cc2061c6a26266ed53f56e4a",
+      "title": "Australia Post apologises for losing Aboriginal artist’s painting worth $4,000",
+      "url": "https://www.theguardian.com/business/2026/jan/07/australia-post-apologises-for-losing-aboriginal-artists-painting-worth-4000",
+      "source": "www.theguardian.com",
+      "published_at": "2026-01-07T06:09:22.000Z",
+      "summary": "Summary: Australia Post apologises for losing Aboriginal artist’s painting worth $4,000"
     },
     {
-      "id": "c64d055d3bf660d93cb75a0c9605defb8b821af9",
-      "title": "Police raid Bunbury tobacco shop days after suspected firebomb of vape store",
-      "url": "https://www.abc.net.au/news/2026-01-06/police-raid-tobacco-shop-bunbury-after-vape-store-incident/106199506",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-06T06:13:48.000Z",
-      "summary": "Summary: Police raid Bunbury tobacco shop days after suspected firebomb of vape store"
+      "id": "b1874984a8d66efdcb53fbc3e6591e3e29bb9423",
+      "title": "LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss",
+      "source": "www.aljazeera.com",
+      "published_at": "2026-01-07T06:05:24.000Z",
+      "summary": "Summary: LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight"
     },
     {
-      "id": "76f8b73065f5f7dff128e7b6a6888b691731e358",
-      "title": "At U.N. Emergency Meeting, U.S. Allies Criticize Military Action in Venezuela",
-      "url": "https://www.nytimes.com/live/2026/01/05/world/venezuela-maduro-trump",
+      "id": "cc0fd40af686329fe3a06300eb807d78b5eb94da",
+      "title": "Trump Says Venezuela Will Start Handing Over Some Oil to U.S.",
+      "url": "https://www.nytimes.com/live/2026/01/06/world/venezuela-maduro-us-trump",
       "source": "rss.nytimes.com",
-      "published_at": "2026-01-06T06:12:29.000Z",
-      "summary": "Summary: At U.N. Emergency Meeting, U.S. Allies Criticize Military Action in Venezuela"
+      "published_at": "2026-01-07T06:03:27.000Z",
+      "summary": "Summary: Trump Says Venezuela Will Start Handing Over Some Oil to U.S."
     },
     {
-      "id": "b98a0dff1ef889e7da4aeee8c282ef008bf11cc3",
-      "title": "Maduro’s Gesture Was Not Just a Peace Sign",
-      "url": "https://www.nytimes.com/2026/01/06/world/americas/maduro-gesture-peace-sign.html",
+      "id": "e579b00d2aba181127996b003d2d8ed15797b42c",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/01/06/world/venezuela-maduro-us-trump/heres-the-latest",
       "source": "rss.nytimes.com",
-      "published_at": "2026-01-06T06:12:28.000Z",
-      "summary": "Summary: Maduro’s Gesture Was Not Just a Peace Sign"
+      "published_at": "2026-01-07T06:02:07.000Z",
+      "summary": "Summary: Here’s the latest."
     },
     {
-      "id": "56b4e1fee0247915ca15b99a9493435b33307334",
-      "title": "Our children waited too long for the same diagnosis as Jesy Nelson's twins",
-      "url": "https://www.bbc.com/news/articles/c050p6e6093o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-06T06:12:23.000Z",
-      "summary": "Summary: Our children waited too long for the same diagnosis as Jesy Nelson's twins"
-    },
-    {
-      "id": "ce5fe1c041816d02850b66cf5e4cd71369c00a41",
-      "title": "Detroit suvereno dobil derbi Vzhoda, Charlotte v Oklahomi ponižal prvake",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/detroit-suvereno-dobil-derbi-vzhoda-charlotte-v-oklahomi-ponizal-prvake/769191",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-06T06:11:04.000Z",
-      "summary": "Summary: Detroit suvereno dobil derbi Vzhoda, Charlotte v Oklahomi ponižal prvake"
+      "id": "1a990464eb35dba4bcdd818e50285915bd426704",
+      "title": "Trump: Venezuela bo ZDA dala od 30 do 50 milijonov sodov nafte",
+      "url": "https://www.24ur.com/novice/tujina/trump-venezuela-bo-zda-dala-od-30-do-50-milijonov-sodov-nafte.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-07T06:01:49.000Z",
+      "summary": "Summary: Trump: Venezuela bo ZDA dala od 30 do 50 milijonov sodov nafte"
     }
   ]
 }

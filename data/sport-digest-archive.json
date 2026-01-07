@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-06T06:37:06.835Z",
+  "updated_at": "2026-01-07T06:32:18.171Z",
   "days": [
+    {
+      "date": "2026-01-07",
+      "page": "/news/2026-01-07-sport.html",
+      "teaser": "Top: Spartans flat in loss to Fresno, as Garland exits but Bell shines",
+      "count": 12,
+      "ids": [
+        "f0a0c9be81d49a6ab7d59b1fe14f682cb3e83b6b",
+        "81dc60fccfff39003ae472d35f3a848be89ccade",
+        "7390ca5598bbb7dd493edcb52dbf98fe461b1e43",
+        "927e76c5f9a4d7c4427f8626f3ad40f2f58bb19d",
+        "1f1c0d0ab59eeaa7b9fa34b734739ccbd0e992a6",
+        "b208deec2f2e0fab8d07c7bc38f22765c3c78f02",
+        "4273e93fe0af3ea9e5052e0d9e041b995fdd0638",
+        "03c78fd4e75aade81853d39b9c6e21dedd42522e",
+        "dd153dd8a88b773d1da4c275d0020aa562858907",
+        "2701d1be7db51378e7b2cf8f76a83aefd7184550",
+        "318feac2737af5b0a424a3b572a417aa3a4b17b2",
+        "deac31c87fda68e1bfbaf902460760d947fdc709"
+      ]
+    },
     {
       "date": "2026-01-06",
       "page": "/news/2026-01-06-sport.html",

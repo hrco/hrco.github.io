@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-06",
-  "updated_at": "2026-01-06T06:32:10.431Z",
-  "page": "/news/2026-01-06.html",
+  "date": "2026-01-07",
+  "updated_at": "2026-01-07T06:31:59.589Z",
+  "page": "/news/2026-01-07.html",
   "count": 12,
   "items": [
     {
-      "id": "14cff1f7f5e0a6d20effc05c6b8510fc2aae413b",
-      "title": "10 Cool CodePen Demos (December 2025)",
-      "url": "https://dev.to/alvaromontoro/10-cool-codepen-demos-december-2025-213g",
-      "source": "dev.to",
-      "published_at": "2026-01-06T06:33:19.000Z",
-      "summary": "Summary: 10 Cool CodePen Demos (December 2025)"
-    },
-    {
-      "id": "163d6135d86443c7222bd9545f227847682d955b",
-      "title": "How to Evaluate ML Models Step by Step",
-      "url": "https://dev.to/codeneuron/how-to-evaluate-ml-models-step-by-step-66o",
-      "source": "dev.to",
-      "published_at": "2026-01-06T06:26:49.000Z",
-      "summary": "Summary: How to Evaluate ML Models Step by Step"
-    },
-    {
-      "id": "c96705acc45926d3bde8daec2cbbad8307cc957d",
-      "title": "Cedevita Olimpija ob velikem izzivu išče še novega krilnega centra",
-      "url": "https://www.rtvslo.si/sport/kosarka/cedevita-olimpija-ob-velikem-izzivu-isce-se-novega-krilnega-centra/768533",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-06T06:25:46.000Z",
-      "summary": "Summary: Cedevita Olimpija ob velikem izzivu išče še novega krilnega centra"
-    },
-    {
-      "id": "eac8b5503df3d8e8879f5f0f69a15dc03bcb0047",
-      "title": "Bisat: Lebanon's Gap Law Fair Process to Repay Depositors",
-      "url": "https://www.bloomberg.com/news/videos/2026-01-06/bisat-lebanon-gap-law-fair-process-to-repay-depositors-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-06T06:15:46.000Z",
-      "summary": "Summary: Bisat: Lebanon's Gap Law Fair Process to Repay Depositors"
-    },
-    {
-      "id": "85d61e46401efea9d3e210236af874140211c562",
-      "title": "2026 Web Dev Trends That Actually Matter",
-      "url": "https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520",
-      "source": "dev.to",
-      "published_at": "2026-01-06T06:13:32.000Z",
-      "summary": "Summary: 2026 Web Dev Trends That Actually Matter"
-    },
-    {
-      "id": "ce5fe1c041816d02850b66cf5e4cd71369c00a41",
-      "title": "Detroit suvereno dobil derbi Vzhoda, Charlotte v Oklahomi ponižal prvake",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/detroit-suvereno-dobil-derbi-vzhoda-charlotte-v-oklahomi-ponizal-prvake/769191",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-06T06:11:04.000Z",
-      "summary": "Summary: Detroit suvereno dobil derbi Vzhoda, Charlotte v Oklahomi ponižal prvake"
-    },
-    {
-      "id": "8baf30cbdc0c1f479f71a5eeeefede5a90628e6c",
-      "title": "Unveiling Symfony 7.4: A New Era for Media Validation and DX",
-      "url": "https://dev.to/mattleads/unveiling-symfony-74-a-new-era-for-media-validation-and-dx-4459",
-      "source": "dev.to",
-      "published_at": "2026-01-06T06:08:23.000Z",
-      "summary": "Summary: Unveiling Symfony 7.4: A New Era for Media Validation and DX"
-    },
-    {
-      "id": "5f458448e683cf228f273d68b7172d809cca68c6",
-      "title": "Why Traditional DevOps Stops Scaling",
-      "url": "https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im",
-      "source": "dev.to",
-      "published_at": "2026-01-06T06:06:56.000Z",
-      "summary": "Summary: Why Traditional DevOps Stops Scaling"
-    },
-    {
-      "id": "1f9c625224210643c192e16e1121953a5ae09a20",
-      "title": "ClovaLink — Enterprise File Storage without the price tag",
-      "url": "https://dev.to/dotdon/clovalink-enterprise-file-storage-without-the-price-tag-40gk",
-      "source": "dev.to",
-      "published_at": "2026-01-06T06:06:52.000Z",
-      "summary": "Summary: ClovaLink — Enterprise File Storage without the price tag"
-    },
-    {
-      "id": "583d2f39915b610359bf8212f3189d291199452d",
-      "title": "Do petka hud mraz: temperature tudi čez dan pod lediščem",
-      "url": "https://www.24ur.com/novice/slovenija/do-petka-hud-mraz-temperature-tudi-cez-dan-pod-lediscem.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-06T06:06:37.000Z",
-      "summary": "Summary: Do petka hud mraz: temperature tudi čez dan pod lediščem"
-    },
-    {
-      "id": "a97fe77092b4bf083fb2781f130fbff39ce9501b",
-      "title": "Problem 8: Count Vowels",
-      "url": "https://dev.to/highcenburg/problem-8-count-vowels-p7l",
-      "source": "dev.to",
-      "published_at": "2026-01-06T06:05:01.000Z",
-      "summary": "Summary: Problem 8: Count Vowels"
-    },
-    {
-      "id": "9d0e32d00444729c44746a9ebc454f30b3264fa7",
-      "title": "Zima je pokazala zobe – v mraziščih tudi minus 20 stopinj Celzija",
-      "url": "https://www.delo.si/novice/okolje/zima-je-pokazala-zobe-v-mraziscih-tudi-minus-20-stopinj-celzija",
+      "id": "d059a07a22fa42ce20520eda54bca260125dec77",
+      "title": "Po nasvet k slovitemu Škotu",
+      "url": "https://www.delo.si/sport/nogomet/po-nasvet-k-slovitemu-skotu",
       "source": "www.delo.si",
-      "published_at": "2026-01-06T06:05:00.000Z",
-      "summary": "Summary: Zima je pokazala zobe – v mraziščih tudi minus 20 stopinj Celzija"
+      "published_at": "2026-01-07T06:27:13.000Z",
+      "summary": "Summary: Po nasvet k slovitemu Škotu"
+    },
+    {
+      "id": "77959a13d7172d3362151c1062c77af6dbe25184",
+      "title": "XMPP and metadata",
+      "url": "https://blog.mathieui.net/xmpp-and-metadata.html",
+      "source": "lobste.rs",
+      "published_at": "2026-01-07T06:23:33.000Z",
+      "summary": "Summary: XMPP and metadata"
+    },
+    {
+      "id": "2b64a06d1b8b1870d193cae77b16aa705e9c93f0",
+      "title": "Claude-Ally-Health: Your Private AI Medical Assistant & Health Data Manager",
+      "url": "https://dev.to/beck_moulton/claude-ally-health-your-private-ai-medical-assistant-health-data-manager-17gd",
+      "source": "dev.to",
+      "published_at": "2026-01-07T06:21:55.000Z",
+      "summary": "Summary: Claude-Ally-Health: Your Private AI Medical Assistant & Health Data Manager"
+    },
+    {
+      "id": "a719a956ac24429199e5b15df2eb4274bd6367ce",
+      "title": "Paramount Plus Coupon Codes and Deals: 50% Off",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-07T06:20:00.000Z",
+      "summary": "Summary: Paramount Plus Coupon Codes and Deals: 50% Off"
+    },
+    {
+      "id": "dcb45a1aedb793e9cde158a8399ae3edc1e882ad",
+      "title": "Vragi proti Otočanom zbrali 20 strelov več, a utrpeli poraz kar 0:9",
+      "url": "https://www.rtvslo.si/sport/hokej/liga-nhl/vragi-proti-otocanom-zbrali-20-strelov-vec-a-utrpeli-poraz-kar-0-9/769295",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-07T06:19:38.000Z",
+      "summary": "Summary: Vragi proti Otočanom zbrali 20 strelov več, a utrpeli poraz kar 0:9"
+    },
+    {
+      "id": "9803ea1c2d5a9bd42ddc21b38133f925a767ea9a",
+      "title": "Why a Modern Master Test Plan is Your Team’s Secret Weapon",
+      "url": "https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj",
+      "source": "dev.to",
+      "published_at": "2026-01-07T06:12:20.000Z",
+      "summary": "Summary: Why a Modern Master Test Plan is Your Team’s Secret Weapon"
+    },
+    {
+      "id": "0e8fc13d17d751568366c2a2d2dc0a1299f55de4",
+      "title": "20% Off Sephora Promo Code | January 2026",
+      "url": "https://www.wired.com/story/sephora-promo-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-07T06:10:00.000Z",
+      "summary": "Summary: 20% Off Sephora Promo Code | January 2026"
+    },
+    {
+      "id": "7284c85404c95e287ffffcfb2130a476ca014762",
+      "title": "Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details",
+      "url": "https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo",
+      "source": "dev.to",
+      "published_at": "2026-01-07T06:09:33.000Z",
+      "summary": "Summary: Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details"
+    },
+    {
+      "id": "a736993d90683f2430a346f11e89fc135682a46c",
+      "title": "Day 1: The Array Lie (Arrays vs Pointers in C)",
+      "url": "https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89",
+      "source": "dev.to",
+      "published_at": "2026-01-07T06:05:19.000Z",
+      "summary": "Summary: Day 1: The Array Lie (Arrays vs Pointers in C)"
+    },
+    {
+      "id": "1a990464eb35dba4bcdd818e50285915bd426704",
+      "title": "Trump: Venezuela bo ZDA dala od 30 do 50 milijonov sodov nafte",
+      "url": "https://www.24ur.com/novice/tujina/trump-venezuela-bo-zda-dala-od-30-do-50-milijonov-sodov-nafte.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-07T06:01:49.000Z",
+      "summary": "Summary: Trump: Venezuela bo ZDA dala od 30 do 50 milijonov sodov nafte"
+    },
+    {
+      "id": "c3d3c078809bb5682bb1ee6a894fc45ea1f68ba0",
+      "title": "Ziemba: ‘Drill, Baby, Drill’ Everywhere Except the US",
+      "url": "https://www.bloomberg.com/news/videos/2026-01-07/ziemba-drill-baby-drill-everywhere-except-the-us-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-01-07T06:00:56.000Z",
+      "summary": "Summary: Ziemba: ‘Drill, Baby, Drill’ Everywhere Except the US"
+    },
+    {
+      "id": "99b1b3e49397e4058b451f0a7c7662c5fa40d6aa",
+      "title": "Dončić soigralce uči slovenščino: Košarka? Dva morska psa?",
+      "url": "https://www.24ur.com/doncic-soigralce-uci-slovenscino-kosarka-dva-morska-psa.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-07T06:00:21.000Z",
+      "summary": "Summary: Dončić soigralce uči slovenščino: Košarka? Dva morska psa?"
     }
   ]
 }
