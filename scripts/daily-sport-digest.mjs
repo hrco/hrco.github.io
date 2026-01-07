@@ -6,7 +6,7 @@ const FEEDS = [
   // Major Sports News
   "https://www.espn.com/espn/rss/news",           // ESPN General Sports
   "https://feeds.bbci.co.uk/sport/rss.xml",       // BBC Sport
-  "https://sports.yahoo.com/rss/",                // Yahoo Sports
+  // "https://sports.yahoo.com/rss/",             // Yahoo Sports (removed: unwanted browser behavior)
   "https://www.cbssports.com/rss/headlines",      // CBS Sports Headlines
 
   // Motorsports

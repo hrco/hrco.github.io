@@ -6,8 +6,21 @@
     <title data-i18n="PROJECTS_TITLE">Digital Improbabilities | HRCO</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    
+
     <style>
+        /* Title breaking through card edge */
+        .card h1 {
+            position: relative;
+            z-index: 10;
+            margin-left: -1.5rem;
+            padding-left: 1.5rem;
+            margin-right: -1.5rem;
+            padding-right: 1.5rem;
+            background: linear-gradient(90deg, var(--color-primary) 0%, transparent 100%);
+            background-clip: text;
+            -webkit-background-clip: text;
+        }
+
         .projects-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -17,7 +30,7 @@
 
         .project-card {
             position: relative;
-            overflow: hidden;
+            overflow: visible;
             border: 2px solid var(--color-border);
             transition: all var(--transition);
         }
@@ -160,7 +173,7 @@
             <section class="projects-grid">
 
                 <div class="card project-card">
-                    <span class="project-status status-live">Live</span>
+                    <span class="project-status status-live" data-i18n="PROJECT_STATUS_LIVE">Live</span>
                     <h3>Ljubo Lover</h3>
                     <div class="domain">ljubo-lover.com</div>
                     <p data-i18n="PROJECT_LJUBO_DESC">A digital tribute to something worth celebrating. Details deliberately vague to encourage investigation. The internet needs more love, after all.</p>
@@ -170,36 +183,36 @@
                         <span class="tech-tag">JavaScript</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://ljubo-lover.com" target="_blank"><i class="fas fa-external-link-alt"></i> Visit Site</a>
+                        <a href="https://ljubo-lover.com" target="_blank"><i class="fas fa-external-link-alt"></i> <span data-i18n="PROJECT_VISIT_SITE">Visit Site</span></a>
                     </div>
                 </div>
 
                 <div class="card project-card">
-                    <span class="project-status status-live">Live</span>
+                    <span class="project-status status-live" data-i18n="PROJECT_STATUS_LIVE">Live</span>
                     <h3>DBBP42 GitHub Pages</h3>
                     <div class="domain">dbbp42.github.io</div>
                     <p data-i18n="PROJECT_GITHUB_DESC">The GitHub-hosted corner of my digital existence. Where code goes to live publicly and occasionally embarrass its creator with commit history.</p>
                     <div class="project-tech">
                         <span class="tech-tag">GitHub Pages</span>
-                        <span class="tech-tag">Static Site</span>
+                        <span class="tech-tag" data-i18n="PROJECT_STATIC_SITE">Static Site</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://dbbp42.github.io" target="_blank"><i class="fas fa-external-link-alt"></i> Visit Site</a>
+                        <a href="https://dbbp42.github.io" target="_blank"><i class="fas fa-external-link-alt"></i> <span data-i18n="PROJECT_VISIT_SITE">Visit Site</span></a>
                         <a href="https://github.com/dbbp42" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                     </div>
                 </div>
 
                 <div class="card project-card">
-                    <span class="project-status status-dev">In Development</span>
+                    <span class="project-status status-dev" data-i18n="PROJECT_STATUS_DEV">In Development</span>
                     <h3>Don't Panic</h3>
                     <div class="domain">donotpanic.space</div>
                     <p data-i18n="PROJECT_PANIC_DESC">Currently being assembled in the improbability drive's spare cycles. Will eventually contain something useful, assuming the mice don't get to it first.</p>
                     <div class="project-tech">
-                        <span class="tech-tag">Coming Soon</span>
+                        <span class="tech-tag" data-i18n="PROJECT_COMING_SOON">Coming Soon</span>
                         <span class="tech-tag">???</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://donotpanic.space" target="_blank" style="opacity: 0.5; cursor: not-allowed;"><i class="fas fa-rocket"></i> Coming Soon</a>
+                        <a href="https://donotpanic.space" target="_blank" style="opacity: 0.5; cursor: not-allowed;"><i class="fas fa-rocket"></i> <span data-i18n="PROJECT_COMING_SOON">Coming Soon</span></a>
                     </div>
                 </div>
 
@@ -207,7 +220,7 @@
 
             <div class="learning-note">
                 <p><i class="fas fa-lightbulb" style="color: var(--color-primary); margin-right: 8px;"></i>
-                These projects represent my ongoing journey in web development. Each one taught me something new about the improbable art of making computers do what you want.</p>
+                <span data-i18n="PROJECT_LEARNING_NOTE">These projects represent my ongoing journey in web development. Each one taught me something new about the improbable art of making computers do what you want.</span></p>
             </div>
         </main>
     </div>

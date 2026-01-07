@@ -30,7 +30,7 @@
     ],
     "sports": [
       "outsideonline.com", "surfer.com", "surfertoday.com", "redbull.com",
-      "espn.com", "bbci.co.uk/sport", "sports.yahoo.com", "cbssports.com",
+      "espn.com", "bbci.co.uk/sport", "cbssports.com",
       "formula1.com", "motogp.com", "nascar.com",
       "atptour.com", "wtatennis.com",
       "ufc.com", "boxrec.com",

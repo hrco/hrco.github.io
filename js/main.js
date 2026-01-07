@@ -146,6 +146,15 @@ document.addEventListener('DOMContentLoaded', () => {
             'en': 'A collection of web-based experiments, tools, and digital oddities that somehow achieved sentience without filing the proper paperwork. Each represents an attempt to solve problems that may or may not have existed before I started solving them.',
             'sl': 'Zbirka spletnih eksperimentov, orodij in digitalnih nenavadnosti, ki so nekako dosegle zavest brez ustrezne dokumentacije. Vsak predstavlja poskus reševanja problemov, ki so morda obstajali ali pa tudi ne, preden sem jih začel reševati.'
         },
+        'PROJECT_STATUS_LIVE': { 'en': 'Live', 'sl': 'V živo' },
+        'PROJECT_STATUS_DEV': { 'en': 'In Development', 'sl': 'V razvoju' },
+        'PROJECT_VISIT_SITE': { 'en': 'Visit Site', 'sl': 'Obišči stran' },
+        'PROJECT_COMING_SOON': { 'en': 'Coming Soon', 'sl': 'Kmalu prihaja' },
+        'PROJECT_STATIC_SITE': { 'en': 'Static Site', 'sl': 'Statična stran' },
+        'PROJECT_LEARNING_NOTE': {
+            'en': 'These projects represent my ongoing journey in web development. Each one taught me something new about the improbable art of making computers do what you want.',
+            'sl': 'Ti projekti so odraz moje poti po svetu spletnega razvoja. Vsak me je naučil kaj novega o neverjetni umetnosti, kako prisiliti računalnike, da delajo, kar hočem.'
+        },
 
         // Suggestions page
         'SUGGESTIONS_TITLE': {
