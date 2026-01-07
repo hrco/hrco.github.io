@@ -1,9 +1,15 @@
+/**
+ * news.js - News Digest Archive with Search and Filtering
+ * "Time is an illusion. Lunchtime doubly so."
+ */
+
 (async () => {
   const updated = document.querySelector("#updated");
   const list = document.querySelector("#list");
   const searchBox = document.querySelector("#search-box");
   const filterBtns = document.querySelectorAll("#category-filters .filter-btn");
   const digestBtns = document.querySelectorAll("[data-digest]");
+  const resultsCount = document.querySelector("#results-count");
 
   let allDigests = {
     "ai-tech": { days: [], items: [], archive: null },
@@ -109,13 +115,13 @@
       });
     });
 
-    // Search functionality
+    // Real-time search functionality
     searchBox?.addEventListener("input", (e) => {
       currentSearch = e.target.value.toLowerCase().trim();
       render();
     });
 
-    // Filter functionality
+    // Category filter functionality
     filterBtns.forEach(btn => {
       btn.addEventListener("click", () => {
         filterBtns.forEach(b => b.classList.remove("active"));
@@ -164,6 +170,11 @@
   function renderDays() {
     const days = allDigests[currentDigest].days;
 
+    // Update results count
+    if (resultsCount) {
+      resultsCount.textContent = `${days.length} digest${days.length !== 1 ? 's' : ''}`;
+    }
+
     list.innerHTML = days.map(d => `
       <article class="card">
         <h2><a href="${d.page}">${d.date}</a></h2>
@@ -196,8 +207,26 @@
       );
     }
 
+    // Update results count
+    if (resultsCount) {
+      resultsCount.textContent = `${filtered.length} article${filtered.length !== 1 ? 's' : ''}`;
+    }
+
+    // Handle no results with themed message
     if (filtered.length === 0) {
-      list.innerHTML = '<p class="muted">No matching items found in latest digest.</p>';
+      list.innerHTML = `
+        <div class="card" style="text-align: center; padding: 3rem 1rem;">
+          <p style="font-size: 3rem; margin-bottom: 1rem;">🤷</p>
+          <h3 style="margin-bottom: 0.5rem;">No Matching Results Found</h3>
+          <p class="muted">
+            "The ships hung in the sky in much the same way that bricks don't."<br>
+            <em>- Similarly, your search results are conspicuously absent.</em>
+          </p>
+          <p class="muted" style="margin-top: 1rem;">
+            Try adjusting your search terms or filter selection.
+          </p>
+        </div>
+      `;
       return;
     }
 

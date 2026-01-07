@@ -132,6 +132,10 @@ function renderDayHtml({ date, updated_at, items }) {
     <p class="muted">${date} • Updated ${updated_at}</p>
     <ol class="digest">${lis || "<p>No items today.</p>"}</ol>
   </main>
+  <footer>
+    <p>&copy; <span id="current-year"></span> | <span data-i18n="FOOTER_TEXT">Constructed by HRCO. Mostly harmless.</span></p>
+  </footer>
+  <script src="/js/main.js"></script>
 </body>
 </html>`;
 }

@@ -4,6 +4,37 @@
  */
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Mobile menu toggle
+    const menuToggle = document.querySelector('.mobile-menu-toggle');
+    const nav = document.getElementById('main-nav');
+
+    if (menuToggle && nav) {
+        menuToggle.addEventListener('click', () => {
+            menuToggle.classList.toggle('active');
+            nav.classList.toggle('mobile-menu-open');
+            const isExpanded = menuToggle.classList.contains('active');
+            menuToggle.setAttribute('aria-expanded', isExpanded);
+        });
+
+        // Close menu when clicking nav links
+        nav.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', () => {
+                menuToggle.classList.remove('active');
+                nav.classList.remove('mobile-menu-open');
+                menuToggle.setAttribute('aria-expanded', 'false');
+            });
+        });
+
+        // Close menu when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!menuToggle.contains(e.target) && !nav.contains(e.target)) {
+                menuToggle.classList.remove('active');
+                nav.classList.remove('mobile-menu-open');
+                menuToggle.setAttribute('aria-expanded', 'false');
+            }
+        });
+    }
+
     // Language system
     const langToggleSlo = document.getElementById('lang-toggle-slo');
     const langToggleEng = document.getElementById('lang-toggle-eng');
@@ -12,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'HRCO_TITLE': { 'en': 'HRCO\'s Digital Consciousness', 'sl': 'HRCO Digitalna Zavest' },
         'HOME_LINK': { 'en': 'Start', 'sl': 'Začetek' },
         'NEWS_LINK': { 'en': 'News', 'sl': 'Novice' },
+        'PROJECTS_LINK': { 'en': 'Projects', 'sl': 'Projekti' },
         'FOTO_LINK': { 'en': 'Visual Evidence', 'sl': 'Vizualni Dokazi' },
         'ABOUT_LINK': { 'en': 'The Entity', 'sl': 'Entiteta' },
         'SUGGESTIONS_LINK': { 'en': 'Wise Voices', 'sl': 'Modri Glasovi' },
@@ -99,6 +131,20 @@ document.addEventListener('DOMContentLoaded', () => {
         'NEWS_INTRO': {
             'en': 'A chronological collection of digital discoveries, presented in reverse temporal order - because, as any hitchhiker knows, the future is just the past happening very slowly in the other direction.',
             'sl': 'Kronološka zbirka digitalnih odkritij, predstavljena v obratnem časovnem vrstnem redu - ker, kot ve vsak štopač, je prihodnost le preteklost, ki se dogaja zelo počasi v drugo smer.'
+        },
+
+        // Projects page
+        'PROJECTS_TITLE': {
+            'en': 'Digital Improbabilities | HRCO',
+            'sl': 'Digitalne Neverjetnosti | HRCO'
+        },
+        'PROJECTS_HEADING': {
+            'en': 'Digital Improbabilities',
+            'sl': 'Digitalne Neverjetnosti'
+        },
+        'PROJECTS_INTRO': {
+            'en': 'A collection of web-based experiments, tools, and digital oddities that somehow achieved sentience without filing the proper paperwork. Each represents an attempt to solve problems that may or may not have existed before I started solving them.',
+            'sl': 'Zbirka spletnih eksperimentov, orodij in digitalnih nenavadnosti, ki so nekako dosegle zavest brez ustrezne dokumentacije. Vsak predstavlja poskus reševanja problemov, ki so morda obstajali ali pa tudi ne, preden sem jih začel reševati.'
         },
 
         // Suggestions page

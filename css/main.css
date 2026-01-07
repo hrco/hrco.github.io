@@ -11,7 +11,7 @@
     --color-secondary: #00d9ff;
     --color-accent: #ffeb3b;
     --color-text: #e8ecf7;
-    --color-text-subtle: #8a93ab;
+    --color-text-subtle: #9ba5c0;
     --color-background: #0a0e27;
     --color-surface: #151933;
     --color-border: #1f2847;
@@ -130,16 +130,60 @@ body::before {
     text-shadow: 0 0 30px var(--color-glow), 0 0 40px var(--color-glow);
 }
 
-nav {
+/* Mobile Menu Toggle Button */
+.mobile-menu-toggle {
     display: flex;
-    order: 2;
-    flex-basis: 100%;
-    justify-content: flex-start;
-    gap: 12px;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 44px;
+    height: 44px;
+    background: transparent;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 8px;
+    order: 1;
+    transition: border-color 0.3s ease;
+}
+
+.mobile-menu-toggle:hover {
+    border-color: var(--color-primary);
+}
+
+.mobile-menu-toggle span {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: var(--color-text);
+    transition: all 0.3s ease;
+}
+
+.mobile-menu-toggle.active span:nth-child(1) {
+    transform: rotate(45deg) translate(6px, 6px);
+}
+
+.mobile-menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.mobile-menu-toggle.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(6px, -6px);
+}
+
+/* Mobile Nav Visibility */
+nav {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    order: 3;
+    gap: 0;
     margin-top: calc(var(--spacing) * 0.5);
     border-top: 2px solid var(--color-border);
-    padding-top: calc(var(--spacing) * 0.5);
-    flex-wrap: wrap;
+    padding-top: 0;
+}
+
+nav.mobile-menu-open {
+    display: flex;
 }
 
 .nav-link {
@@ -151,7 +195,8 @@ nav {
     letter-spacing: 0.05em;
     text-transform: uppercase;
     position: relative;
-    padding: 4px 0;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--color-border);
     transition: all var(--transition);
     white-space: nowrap;
 }
@@ -334,6 +379,16 @@ nav {
     color: var(--color-surface);
     border-color: transparent;
     box-shadow: 0 0 12px var(--color-glow);
+}
+
+/* ========== Accessibility Focus Styles ========== */
+.mobile-menu-toggle:focus-visible,
+.toggle-button:focus-visible,
+.filter-btn:focus-visible,
+.nav-link:focus-visible,
+.logo:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
 }
 
 /* ========== Typography ========== */
@@ -624,7 +679,14 @@ p {
         margin-right: 2.5rem;
     }
 
+    .mobile-menu-toggle {
+        display: none;
+    }
+
     nav {
+        display: flex !important;
+        flex-direction: row;
+        width: auto;
         order: initial;
         flex-basis: auto;
         justify-content: center;
@@ -637,6 +699,7 @@ p {
 
     .nav-link {
         padding: 0;
+        border-bottom: none;
         font-size: 0.85rem;
         letter-spacing: 0.08em;
     }

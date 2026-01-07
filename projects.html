@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="PROJECTS_TITLE">Digital Improbabilities | HRCO</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <style>
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 24px;
+            margin-top: 1.5rem;
+        }
+
+        .project-card {
+            position: relative;
+            overflow: hidden;
+            border: 2px solid var(--color-border);
+            transition: all var(--transition);
+        }
+
+        .project-card:hover {
+            transform: translateY(-6px);
+            border-color: var(--color-primary);
+            box-shadow: var(--shadow-lg), 0 0 25px var(--color-glow);
+        }
+
+        .project-status {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 1rem;
+        }
+
+        .status-live {
+            background: linear-gradient(135deg, #10b981, #059669);
+            color: #fff;
+        }
+
+        .status-dev {
+            background: linear-gradient(135deg, #f59e0b, #d97706);
+            color: #fff;
+        }
+
+        .project-card h3 {
+            color: var(--color-primary);
+            font-family: var(--font-display);
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .project-card .domain {
+            color: var(--color-text-subtle);
+            font-size: 0.85rem;
+            font-family: monospace;
+            margin-bottom: 1rem;
+        }
+
+        .project-card p {
+            color: var(--color-text);
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+
+        .project-tech {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 1.5rem;
+        }
+
+        .tech-tag {
+            background: var(--color-highlight);
+            color: var(--color-text-subtle);
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            border: 1px solid var(--color-border);
+        }
+
+        .project-links {
+            display: flex;
+            gap: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--color-border);
+        }
+
+        .project-links a {
+            color: var(--color-text-subtle);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all var(--transition);
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .project-links a:hover {
+            color: var(--color-primary);
+            transform: translateY(-2px);
+        }
+
+        .learning-note {
+            background: linear-gradient(135deg, var(--color-highlight), var(--color-surface));
+            border-left: 3px solid var(--color-primary);
+            padding: 1rem 1.5rem;
+            margin-top: 2rem;
+            border-radius: 0 var(--border-radius) var(--border-radius) 0;
+        }
+
+        .learning-note p {
+            margin: 0;
+            font-style: italic;
+            color: var(--color-text-subtle);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <a href="index.html" class="logo">HRCO</a>
+
+            <button class="mobile-menu-toggle" aria-label="Toggle mobile menu" aria-expanded="false" aria-controls="main-nav">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <nav id="main-nav">
+                <a href="index.html" class="nav-link" data-i18n="HOME_LINK">Start</a>
+                <a href="news.html" class="nav-link" data-i18n="NEWS_LINK">News</a>
+                <a href="foto.html" class="nav-link" data-i18n="FOTO_LINK">Visual Evidence</a>
+                <a href="projects.html" class="nav-link active" data-i18n="PROJECTS_LINK">Projects</a>
+                <a href="about_me.html" class="nav-link" data-i18n="ABOUT_LINK">The Entity</a>
+                <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Wise Voices</a>
+            </nav>
+
+            <div class="settings-bar">
+                <div class="lang-toggles">
+                    <button id="lang-toggle-slo" class="toggle-button">SLO</button>
+                    <button id="lang-toggle-eng" class="toggle-button">ENG</button>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <section class="card">
+                <h1 data-i18n="PROJECTS_HEADING">Digital Improbabilities</h1>
+                <p data-i18n="PROJECTS_INTRO">A collection of web-based experiments - some functional, some aspirational, all assembled with varying degrees of coffee and determination. Think of them as proof that I occasionally finish things I start.</p>
+            </section>
+
+            <section class="projects-grid">
+
+                <div class="card project-card">
+                    <span class="project-status status-live">Live</span>
+                    <h3>Ljubo Lover</h3>
+                    <div class="domain">ljubo-lover.com</div>
+                    <p data-i18n="PROJECT_LJUBO_DESC">A digital tribute to something worth celebrating. Details deliberately vague to encourage investigation. The internet needs more love, after all.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">HTML</span>
+                        <span class="tech-tag">CSS</span>
+                        <span class="tech-tag">JavaScript</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://ljubo-lover.com" target="_blank"><i class="fas fa-external-link-alt"></i> Visit Site</a>
+                    </div>
+                </div>
+
+                <div class="card project-card">
+                    <span class="project-status status-live">Live</span>
+                    <h3>DBBP42 GitHub Pages</h3>
+                    <div class="domain">dbbp42.github.io</div>
+                    <p data-i18n="PROJECT_GITHUB_DESC">The GitHub-hosted corner of my digital existence. Where code goes to live publicly and occasionally embarrass its creator with commit history.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">GitHub Pages</span>
+                        <span class="tech-tag">Static Site</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://dbbp42.github.io" target="_blank"><i class="fas fa-external-link-alt"></i> Visit Site</a>
+                        <a href="https://github.com/dbbp42" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    </div>
+                </div>
+
+                <div class="card project-card">
+                    <span class="project-status status-dev">In Development</span>
+                    <h3>Don't Panic</h3>
+                    <div class="domain">donotpanic.space</div>
+                    <p data-i18n="PROJECT_PANIC_DESC">Currently being assembled in the improbability drive's spare cycles. Will eventually contain something useful, assuming the mice don't get to it first.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Coming Soon</span>
+                        <span class="tech-tag">???</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://donotpanic.space" target="_blank" style="opacity: 0.5; cursor: not-allowed;"><i class="fas fa-rocket"></i> Coming Soon</a>
+                    </div>
+                </div>
+
+            </section>
+
+            <div class="learning-note">
+                <p><i class="fas fa-lightbulb" style="color: var(--color-primary); margin-right: 8px;"></i>
+                These projects represent my ongoing journey in web development. Each one taught me something new about the improbable art of making computers do what you want.</p>
+            </div>
+        </main>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>
+                &copy; <span id="current-year"></span> |
+                <span data-i18n="FOOTER_TEXT">Constructed by HRCO. Mostly harmless.</span>
+            </p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
