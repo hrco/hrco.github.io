@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-07T06:31:59.589Z",
+  "updated_at": "2026-01-08T06:32:09.137Z",
   "days": [
+    {
+      "date": "2026-01-08",
+      "page": "/news/2026-01-08.html",
+      "teaser": "Top: JPMorgan Chase becomes the new issuer of the Apple Card",
+      "count": 12,
+      "ids": [
+        "0aad4c47e13eac3a056af51b4170239fa7b664f5",
+        "f4be7962ca54aef000ad6d7dc1fb6260d3e86434",
+        "bbf51ca20a3338738eaf37fde6ce624d609332ca",
+        "9335226fdd76a90b89f6b371c9ba5e58a45c236d",
+        "b869a6bd79e4d4d18332c175b878f927012eb7df",
+        "1b854f87df942090ffd03643044cf6105514fb5a",
+        "3b22e68b37ec6bce898115d0fbbf0931358920a9",
+        "7aae894ede13c4bba88071e1ea8851bb8ea035c5",
+        "8d4e9af53fa273f97c71a5d0ae706fcb28eb50c4",
+        "90dd528a8844978dc21ad091fdbea097a88f7f61",
+        "8522697a02fb304ac75ef45af9e521fe1854601e",
+        "3707394396d226d67d4c18d3e1f5e771581629c8"
+      ]
+    },
     {
       "date": "2026-01-07",
       "page": "/news/2026-01-07.html",

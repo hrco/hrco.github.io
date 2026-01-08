@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-07T06:32:11.541Z",
+  "updated_at": "2026-01-08T06:32:21.094Z",
   "days": [
+    {
+      "date": "2026-01-08",
+      "page": "/news/2026-01-08-news.html",
+      "teaser": "Top: Merz ni izključil napotitve vojakov v Ukrajino",
+      "count": 12,
+      "ids": [
+        "f4be7962ca54aef000ad6d7dc1fb6260d3e86434",
+        "ac18231b39d5132fc8170b0b97d7c7e8bab0d9cf",
+        "67dad17ba583ed3434e6e44a751a3c641f40298f",
+        "bbf51ca20a3338738eaf37fde6ce624d609332ca",
+        "07b7a2e477acfdaaf6a0c744bd540d76f6e2f8d7",
+        "b869a6bd79e4d4d18332c175b878f927012eb7df",
+        "f88f0507347b5e247e7667d0b679604ca026657f",
+        "3b22e68b37ec6bce898115d0fbbf0931358920a9",
+        "6b3a2d146d03efe6849d56699794b6f517d07023",
+        "505fbbde734d1bdffef1c739aee7ffb6378eebc0",
+        "d99c5c9086c2f6711f9317081daae7c79da0c86d",
+        "ed8782e3a91b130250430eddadb7c52d0682b98b"
+      ]
+    },
     {
       "date": "2026-01-07",
       "page": "/news/2026-01-07-news.html",

@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-07",
-  "updated_at": "2026-01-07T06:31:59.589Z",
-  "page": "/news/2026-01-07.html",
+  "date": "2026-01-08",
+  "updated_at": "2026-01-08T06:32:09.137Z",
+  "page": "/news/2026-01-08.html",
   "count": 12,
   "items": [
     {
-      "id": "d059a07a22fa42ce20520eda54bca260125dec77",
-      "title": "Po nasvet k slovitemu Škotu",
-      "url": "https://www.delo.si/sport/nogomet/po-nasvet-k-slovitemu-skotu",
+      "id": "0aad4c47e13eac3a056af51b4170239fa7b664f5",
+      "title": "JPMorgan Chase becomes the new issuer of the Apple Card",
+      "url": "https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/",
+      "source": "techcrunch.com",
+      "published_at": "2026-01-08T06:31:55.000Z",
+      "summary": "Summary: JPMorgan Chase becomes the new issuer of the Apple Card"
+    },
+    {
+      "id": "f4be7962ca54aef000ad6d7dc1fb6260d3e86434",
+      "title": "Merz ni izključil napotitve vojakov v Ukrajino",
+      "url": "https://www.delo.si/novice/svet/merz-ni-izkljucil-napotitve-vojakov-v-ukrajino",
       "source": "www.delo.si",
-      "published_at": "2026-01-07T06:27:13.000Z",
-      "summary": "Summary: Po nasvet k slovitemu Škotu"
+      "published_at": "2026-01-08T06:30:00.000Z",
+      "summary": "Summary: Merz ni izključil napotitve vojakov v Ukrajino"
     },
     {
-      "id": "77959a13d7172d3362151c1062c77af6dbe25184",
-      "title": "XMPP and metadata",
-      "url": "https://blog.mathieui.net/xmpp-and-metadata.html",
-      "source": "lobste.rs",
-      "published_at": "2026-01-07T06:23:33.000Z",
-      "summary": "Summary: XMPP and metadata"
-    },
-    {
-      "id": "2b64a06d1b8b1870d193cae77b16aa705e9c93f0",
-      "title": "Claude-Ally-Health: Your Private AI Medical Assistant & Health Data Manager",
-      "url": "https://dev.to/beck_moulton/claude-ally-health-your-private-ai-medical-assistant-health-data-manager-17gd",
-      "source": "dev.to",
-      "published_at": "2026-01-07T06:21:55.000Z",
-      "summary": "Summary: Claude-Ally-Health: Your Private AI Medical Assistant & Health Data Manager"
-    },
-    {
-      "id": "a719a956ac24429199e5b15df2eb4274bd6367ce",
-      "title": "Paramount Plus Coupon Codes and Deals: 50% Off",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-07T06:20:00.000Z",
-      "summary": "Summary: Paramount Plus Coupon Codes and Deals: 50% Off"
-    },
-    {
-      "id": "dcb45a1aedb793e9cde158a8399ae3edc1e882ad",
-      "title": "Vragi proti Otočanom zbrali 20 strelov več, a utrpeli poraz kar 0:9",
-      "url": "https://www.rtvslo.si/sport/hokej/liga-nhl/vragi-proti-otocanom-zbrali-20-strelov-vec-a-utrpeli-poraz-kar-0-9/769295",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-07T06:19:38.000Z",
-      "summary": "Summary: Vragi proti Otočanom zbrali 20 strelov več, a utrpeli poraz kar 0:9"
-    },
-    {
-      "id": "9803ea1c2d5a9bd42ddc21b38133f925a767ea9a",
-      "title": "Why a Modern Master Test Plan is Your Team’s Secret Weapon",
-      "url": "https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj",
-      "source": "dev.to",
-      "published_at": "2026-01-07T06:12:20.000Z",
-      "summary": "Summary: Why a Modern Master Test Plan is Your Team’s Secret Weapon"
-    },
-    {
-      "id": "0e8fc13d17d751568366c2a2d2dc0a1299f55de4",
-      "title": "20% Off Sephora Promo Code | January 2026",
-      "url": "https://www.wired.com/story/sephora-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-07T06:10:00.000Z",
-      "summary": "Summary: 20% Off Sephora Promo Code | January 2026"
-    },
-    {
-      "id": "7284c85404c95e287ffffcfb2130a476ca014762",
-      "title": "Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details",
-      "url": "https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo",
-      "source": "dev.to",
-      "published_at": "2026-01-07T06:09:33.000Z",
-      "summary": "Summary: Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details"
-    },
-    {
-      "id": "a736993d90683f2430a346f11e89fc135682a46c",
-      "title": "Day 1: The Array Lie (Arrays vs Pointers in C)",
-      "url": "https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89",
-      "source": "dev.to",
-      "published_at": "2026-01-07T06:05:19.000Z",
-      "summary": "Summary: Day 1: The Array Lie (Arrays vs Pointers in C)"
-    },
-    {
-      "id": "1a990464eb35dba4bcdd818e50285915bd426704",
-      "title": "Trump: Venezuela bo ZDA dala od 30 do 50 milijonov sodov nafte",
-      "url": "https://www.24ur.com/novice/tujina/trump-venezuela-bo-zda-dala-od-30-do-50-milijonov-sodov-nafte.html",
+      "id": "bbf51ca20a3338738eaf37fde6ce624d609332ca",
+      "title": "Agent službe za priseljevanje in carine ZDA v Minneapolisu ubil žensko",
+      "url": "https://www.24ur.com/novice/tujina/agent-sluzbe-za-priseljevanje-in-carine-zda-v-minneapolisu-ubil-zensko.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-07T06:01:49.000Z",
-      "summary": "Summary: Trump: Venezuela bo ZDA dala od 30 do 50 milijonov sodov nafte"
+      "published_at": "2026-01-08T06:23:31.000Z",
+      "summary": "Summary: Agent službe za priseljevanje in carine ZDA v Minneapolisu ubil žensko"
     },
     {
-      "id": "c3d3c078809bb5682bb1ee6a894fc45ea1f68ba0",
-      "title": "Ziemba: ‘Drill, Baby, Drill’ Everywhere Except the US",
-      "url": "https://www.bloomberg.com/news/videos/2026-01-07/ziemba-drill-baby-drill-everywhere-except-the-us-video",
+      "id": "9335226fdd76a90b89f6b371c9ba5e58a45c236d",
+      "title": "30% Off Tempur-Pedic Promo Codes | January 2026",
+      "url": "https://www.wired.com/story/tempur-pedic-promo-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-08T06:20:00.000Z",
+      "summary": "Summary: 30% Off Tempur-Pedic Promo Codes | January 2026"
+    },
+    {
+      "id": "b869a6bd79e4d4d18332c175b878f927012eb7df",
+      "title": "ZDA ponavljajo: narekovale bodo odločitve začasnim voditeljem Venezuele",
+      "url": "https://www.delo.si/novice/svet/zda-bodo-narekovale-odlocitve-zacasnim-voditeljem-venezuele",
+      "source": "www.delo.si",
+      "published_at": "2026-01-08T06:20:00.000Z",
+      "summary": "Summary: ZDA ponavljajo: narekovale bodo odločitve začasnim voditeljem Venezuele"
+    },
+    {
+      "id": "1b854f87df942090ffd03643044cf6105514fb5a",
+      "title": "Top APM Tools in 2026: What Every Developer and Engineering Team Should Know",
+      "url": "https://dev.to/olivia_madison_b0ad7090ad/top-apm-tools-in-2026-what-every-developer-and-engineering-team-should-know-1dg0",
+      "source": "dev.to",
+      "published_at": "2026-01-08T06:19:56.000Z",
+      "summary": "Summary: Top APM Tools in 2026: What Every Developer and Engineering Team Should Know"
+    },
+    {
+      "id": "3b22e68b37ec6bce898115d0fbbf0931358920a9",
+      "title": "Dončić: Hvala vsem, a raje štejem zmage, kot pa glasove za tekmo vseh zvezd",
+      "url": "https://www.24ur.com/sport/kosarka/doncic_55.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-08T06:18:28.000Z",
+      "summary": "Summary: Dončić: Hvala vsem, a raje štejem zmage, kot pa glasove za tekmo vseh zvezd"
+    },
+    {
+      "id": "7aae894ede13c4bba88071e1ea8851bb8ea035c5",
+      "title": "ICE Agent Fatally Shoots Woman in Minneapolis",
+      "url": "https://www.bloomberg.com/news/videos/2026-01-08/ice-agent-fatally-shoots-woman-in-minneapolis-video",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-07T06:00:56.000Z",
-      "summary": "Summary: Ziemba: ‘Drill, Baby, Drill’ Everywhere Except the US"
+      "published_at": "2026-01-08T06:17:50.000Z",
+      "summary": "Summary: ICE Agent Fatally Shoots Woman in Minneapolis"
     },
     {
-      "id": "99b1b3e49397e4058b451f0a7c7662c5fa40d6aa",
-      "title": "Dončić soigralce uči slovenščino: Košarka? Dva morska psa?",
-      "url": "https://www.24ur.com/doncic-soigralce-uci-slovenscino-kosarka-dva-morska-psa.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-07T06:00:21.000Z",
-      "summary": "Summary: Dončić soigralce uči slovenščino: Košarka? Dva morska psa?"
+      "id": "8d4e9af53fa273f97c71a5d0ae706fcb28eb50c4",
+      "title": "The China Show 1/8/2026 (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-01-08/the-china-show-1-8-2026-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-01-08T06:12:29.000Z",
+      "summary": "Summary: The China Show 1/8/2026 (Video)"
+    },
+    {
+      "id": "90dd528a8844978dc21ad091fdbea097a88f7f61",
+      "title": "Solved: Hot take: The outage isn’t the problem everyone going down at once is",
+      "url": "https://dev.to/techresolve/solved-hot-take-the-outage-isnt-the-problem-everyone-going-down-at-once-is-2hkp",
+      "source": "dev.to",
+      "published_at": "2026-01-08T06:10:14.000Z",
+      "summary": "Summary: Solved: Hot take: The outage isn’t the problem everyone going down at once is"
+    },
+    {
+      "id": "8522697a02fb304ac75ef45af9e521fe1854601e",
+      "title": "Litter-Robot Promo Codes and Deals: Up to $150 Off",
+      "url": "https://www.wired.com/story/litter-robot-promo-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-08T06:10:00.000Z",
+      "summary": "Summary: Litter-Robot Promo Codes and Deals: Up to $150 Off"
+    },
+    {
+      "id": "3707394396d226d67d4c18d3e1f5e771581629c8",
+      "title": "Flutter Dio Interceptor for Caching API Responses",
+      "url": "https://dev.to/rshnkunwar/flutter-dio-interceptor-for-caching-api-responses-1db3",
+      "source": "dev.to",
+      "published_at": "2026-01-08T06:02:11.000Z",
+      "summary": "Summary: Flutter Dio Interceptor for Caching API Responses"
     }
   ]
 }

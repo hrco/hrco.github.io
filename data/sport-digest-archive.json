@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-07T06:32:18.171Z",
+  "updated_at": "2026-01-08T06:32:26.871Z",
   "days": [
+    {
+      "date": "2026-01-08",
+      "page": "/news/2026-01-08-sport.html",
+      "teaser": "Top: 'Areas to improve' but McCullum 'won't be told what to do'",
+      "count": 12,
+      "ids": [
+        "3bd9a87aed8fe43714ce1efa727ea109e99f3627",
+        "ab7cfefa0eef3d1c249d93cb74c1514882281486",
+        "2d9ca466062694bcc220b90217e08fc82a9cfc0d",
+        "2115d568c8addcfa849e31231e1572c3b5f91dce",
+        "b5fb79547d69ef8c99800984da44ba0cf07a24a4",
+        "19e50c0a3331755a6ada2660b87a16b072767387",
+        "af8548979a2ada552ba6f4e59aaf12f1a1cb20a7",
+        "53b7711c41c0a2a1f09034aacd05f023aecb1ef3",
+        "7a5de470be7ef7675c4201455dff1c0f9c28cdb5",
+        "236020bdd30140b109a0839598024da0da1b9702",
+        "3678c4ed965497b9a4687275cee220efa8c6e5b6",
+        "8055af91fa0b7f643985005c9d972f063239a742"
+      ]
+    },
     {
       "date": "2026-01-07",
       "page": "/news/2026-01-07-sport.html",
