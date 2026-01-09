@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-08T06:32:21.094Z",
+  "updated_at": "2026-01-09T06:32:11.824Z",
   "days": [
+    {
+      "date": "2026-01-09",
+      "page": "/news/2026-01-09-news.html",
+      "teaser": "Top: Nov obsežen napad na Ukrajino: raketa poletela do Lviva",
+      "count": 12,
+      "ids": [
+        "8fda8be2e4dfeb7e3cb64f549ef306a7ac05a0f9",
+        "631e944ea5f1f5a8bed62208dd85b080ad476f47",
+        "e3eed405509be8b28b0a9b448568b556933b4d9d",
+        "690295d09d4efb7d435bf4406c40e717be1a4622",
+        "037c1a8f32eef1b358af2755d430d7e2d4e6856b",
+        "f42affa3b7fffe34b76ed11ed68d39b44347543c",
+        "cdfbc73620de6bdef3a52b34178158600bd58b02",
+        "55c61090839ff76650fc4328a8fe5195c826d74e",
+        "8334e7163e9d6bb1f11042c3ae3ea2a4930993f4",
+        "3a6982be2da2a272fe786693d8f76041a3026fd5",
+        "9c7aba80893dba096f43063c5160f5d6a4be9ee4",
+        "9a9393976fcde01e7b643d30860f03aa9e1e7fbf"
+      ]
+    },
     {
       "date": "2026-01-08",
       "page": "/news/2026-01-08-news.html",

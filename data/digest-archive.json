@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-08T06:32:09.137Z",
+  "updated_at": "2026-01-09T06:32:03.736Z",
   "days": [
+    {
+      "date": "2026-01-09",
+      "page": "/news/2026-01-09.html",
+      "teaser": "Top: NZXT Discount Codes: 50% Off in January 2026",
+      "count": 12,
+      "ids": [
+        "53aaee65a5b57fa6a19859f8cff000797f349606",
+        "8fda8be2e4dfeb7e3cb64f549ef306a7ac05a0f9",
+        "4bf0ace974d93a6b737c1f4206a044199ef5e265",
+        "0abe9c4608eab76a26011b4ada2da4b211ae2014",
+        "e3eed405509be8b28b0a9b448568b556933b4d9d",
+        "35040a8130e85407b58d52710dfceacfc95990fc",
+        "dbde52955cb2c1e947f74d5f42a3e3bbdaaef708",
+        "55c61090839ff76650fc4328a8fe5195c826d74e",
+        "9c7aba80893dba096f43063c5160f5d6a4be9ee4",
+        "a890d95eeae55661a3987fa93b1e2f92c65e0077",
+        "fda8f97e86ec38067535149b09c61f472d54308b",
+        "a7391b06f0ea972140c01798013be7c7205c48c8"
+      ]
+    },
     {
       "date": "2026-01-08",
       "page": "/news/2026-01-08.html",
