@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-09T06:32:03.736Z",
+  "updated_at": "2026-01-10T06:31:39.815Z",
   "days": [
+    {
+      "date": "2026-01-10",
+      "page": "/news/2026-01-10.html",
+      "teaser": "Top: How I Went From 'I'm Not a Hardware Person' to Reverse Engineering Devices",
+      "count": 12,
+      "ids": [
+        "106d3d8731ddee1e5e436afb4223ab99db676208",
+        "e0b6c5a669a6e09d1acbd1863fba625911b6af29",
+        "eea438617147792e4d38283607bdff8e5c5027f4",
+        "c7874e2c671971ccefdd8f25a8a723c73903d255",
+        "5f5d3dc9b4fc881344196aa2255dc4afcc68fef0",
+        "616644c36a83c63ee52d5ab953cea0ed3606a340",
+        "828b74a48b78a66fa22b9047ac2ad832364c1533",
+        "af7b2c925199f51ebe527389e8c3b005ddf6eac7",
+        "decef5e60b849f73fd79260b42131ca3f755f2f1",
+        "00082f23e8e81dfd4064b937c03a99198dcf6688",
+        "4bae664747b336bfb59d15837a03ac1b6498aa11",
+        "0e1a8b8dfa1deabf56bee79b2e60b59a06ced870"
+      ]
+    },
     {
       "date": "2026-01-09",
       "page": "/news/2026-01-09.html",

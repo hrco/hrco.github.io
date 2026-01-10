@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-09T06:32:18.072Z",
+  "updated_at": "2026-01-10T06:31:58.389Z",
   "days": [
+    {
+      "date": "2026-01-10",
+      "page": "/news/2026-01-10-sport.html",
+      "teaser": "Top: Indiana throttles Oregon, one win from first title",
+      "count": 12,
+      "ids": [
+        "dccddf0c1affaccfa56dafadceb5c3a108e50e5a",
+        "9538b1108c8a897bae9e83e405e0ea7a3df1d173",
+        "efd2a47c998c1bc5da97bf44db918982d0495505",
+        "3219a6c559b02f41ad0d701ef6780fbb0b37e4da",
+        "26576665d027642b5796860c002473a68e302a21",
+        "cc0b284b1be5dd49fc383a5a1a1528d11af96184",
+        "ed9d4d4aeee30706c25ac6524ebba241e1068427",
+        "2b1319ff81189c1541a5d3ca09b4fa20f4cd90ec",
+        "3c3e24425182fa54b7e49abf68f50e5386bfb288",
+        "c3998a7ad5392d6ec2f2663e532c10bda6e0a626",
+        "f2649e3adc8ee4915302275396eda16c213580ac",
+        "118725c2e894607ee8d33f62e07a835c7fd46c11"
+      ]
+    },
     {
       "date": "2026-01-09",
       "page": "/news/2026-01-09-sport.html",

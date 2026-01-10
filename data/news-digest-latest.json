@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-09",
-  "updated_at": "2026-01-09T06:32:11.824Z",
-  "page": "/news/2026-01-09-news.html",
+  "date": "2026-01-10",
+  "updated_at": "2026-01-10T06:31:52.235Z",
+  "page": "/news/2026-01-10-news.html",
   "count": 12,
   "items": [
     {
-      "id": "8fda8be2e4dfeb7e3cb64f549ef306a7ac05a0f9",
-      "title": "Nov obsežen napad na Ukrajino: raketa poletela do Lviva",
-      "url": "https://www.24ur.com/novice/tujina/nov-obsezen-napad-na-ukrajino-raketa-poletela-do-lviva.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-09T06:29:37.000Z",
-      "summary": "Summary: Nov obsežen napad na Ukrajino: raketa poletela do Lviva"
+      "id": "bea552f058186bef3b522e561d092bff683c32ed",
+      "title": "New video shows fatal Minnesota ICE shooting from officer's perspective",
+      "url": "https://www.npr.org/2026/01/10/g-s1-105387/new-video-minnesota-shooting-officer-perspective",
+      "source": "feeds.npr.org",
+      "published_at": "2026-01-10T06:18:03.000Z",
+      "summary": "Summary: New video shows fatal Minnesota ICE shooting from officer's perspective"
     },
     {
-      "id": "631e944ea5f1f5a8bed62208dd85b080ad476f47",
-      "title": "Does the EU now deem the US 'less reliable in terms of security, defence and trade'?",
-      "url": "https://www.france24.com/en/video/20260109-does-the-eu-now-deem-the-us-less-reliable-in-terms-of-security-defence-and-trade",
-      "source": "www.france24.com",
-      "published_at": "2026-01-09T06:25:53.000Z",
-      "summary": "Summary: Does the EU now deem the US 'less reliable in terms of security, defence and trade'?"
-    },
-    {
-      "id": "e3eed405509be8b28b0a9b448568b556933b4d9d",
-      "title": "Z Michaelom Jordanom so zmagovali, zdaj ne morejo niti na igrišče",
-      "url": "https://www.delo.si/sport/kosarka/z-michaelom-jordanom-so-zmagovali-zdaj-ne-morejo-niti-na-igrisce",
-      "source": "www.delo.si",
-      "published_at": "2026-01-09T06:25:00.000Z",
-      "summary": "Summary: Z Michaelom Jordanom so zmagovali, zdaj ne morejo niti na igrišče"
-    },
-    {
-      "id": "690295d09d4efb7d435bf4406c40e717be1a4622",
-      "title": "Storm Goretti live: danger to life warning as heavy rain, strong winds and snow batter UK",
-      "url": "https://www.theguardian.com/uk-news/live/2026/jan/09/storm-goretti-live-news-updates-uk-weather-snow-latest-met-office-warnings",
-      "source": "www.theguardian.com",
-      "published_at": "2026-01-09T06:24:07.000Z",
-      "summary": "Summary: Storm Goretti live: danger to life warning as heavy rain, strong winds and snow batter UK"
-    },
-    {
-      "id": "037c1a8f32eef1b358af2755d430d7e2d4e6856b",
-      "title": "Malaysian football body risks Fifa’s takeover amid forgery scandal",
-      "url": "https://www.scmp.com/week-asia/people/article/3339290/malaysian-football-body-risks-fifas-takeover-amid-forgery-scandal?utm_source=rss_feed",
+      "id": "5463295794a395a865a0a5f27d433abdb17bca31",
+      "title": "Australia declares state of disaster as bushfires rip through Victoria: ‘leave, go’",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3339429/australia-declares-state-disaster-bushfires-rip-through-victoria-state-leave-go?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-01-09T06:21:41.000Z",
-      "summary": "Summary: Malaysian football body risks Fifa’s takeover amid forgery scandal"
+      "published_at": "2026-01-10T06:11:49.000Z",
+      "summary": "Summary: Australia declares state of disaster as bushfires rip through Victoria: ‘leave, go’"
     },
     {
-      "id": "f42affa3b7fffe34b76ed11ed68d39b44347543c",
-      "title": "Portland leaders and Oregon lawmakers demand ICE leave city after immigration agents shoot two people – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/08/minneapolis-shooting-ice-minnesota-protests-vigils-donald-trump-latest-news-updates",
+      "id": "894d94f138f390686a9986d4ea74e5285980d3fe",
+      "title": "New bushfire warnings issued in Victoria and NSW as Townsville braces for cyclone – as it happened",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/10/australia-heatwave-updates-sydney-temperature-victorian-fires-bushfire-latest",
       "source": "www.theguardian.com",
-      "published_at": "2026-01-09T06:20:11.000Z",
-      "summary": "Summary: Portland leaders and Oregon lawmakers demand ICE leave city after immigration agents shoot two people – live"
+      "published_at": "2026-01-10T06:09:48.000Z",
+      "summary": "Summary: New bushfire warnings issued in Victoria and NSW as Townsville braces for cyclone – as it happened"
     },
     {
-      "id": "cdfbc73620de6bdef3a52b34178158600bd58b02",
-      "title": "Violence against Qld state school staff nearly quadruples in three years",
-      "url": "https://www.abc.net.au/news/2026-01-09/queensland-state-school-violence-against-teachers-quadruples/106214512",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-09T06:17:51.000Z",
-      "summary": "Summary: Violence against Qld state school staff nearly quadruples in three years"
-    },
-    {
-      "id": "55c61090839ff76650fc4328a8fe5195c826d74e",
-      "title": "Opoldne s kvalifikacijami začetek skakalnega praznika na Ljubnem",
-      "url": "https://www.rtvslo.si/sport/zimski-sporti/opoldne-s-kvalifikacijami-zacetek-skakalnega-praznika-na-ljubnem/769548",
+      "id": "5f5d3dc9b4fc881344196aa2255dc4afcc68fef0",
+      "title": "Ah, ta leta!: Pogledi generacij",
+      "url": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/ah-ta-leta-pogledi-generacij/769616",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-09T06:17:47.000Z",
-      "summary": "Summary: Opoldne s kvalifikacijami začetek skakalnega praznika na Ljubnem"
+      "published_at": "2026-01-10T06:08:30.000Z",
+      "summary": "Summary: Ah, ta leta!: Pogledi generacij"
     },
     {
-      "id": "8334e7163e9d6bb1f11042c3ae3ea2a4930993f4",
-      "title": "Chinese tourist in Malaysia accused of harassing rare turtle, killing sea slugs",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3339289/chinese-tourist-malaysia-accused-harassing-rare-turtle-killing-sea-slugs?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-09T06:16:31.000Z",
-      "summary": "Summary: Chinese tourist in Malaysia accused of harassing rare turtle, killing sea slugs"
-    },
-    {
-      "id": "3a6982be2da2a272fe786693d8f76041a3026fd5",
-      "title": "Syria declares ceasefire in Aleppo after deadly clashes with Kurdish forces",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3339287/syria-declares-ceasefire-aleppo-after-deadly-clashes-kurdish-forces?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-09T06:15:43.000Z",
-      "summary": "Summary: Syria declares ceasefire in Aleppo after deadly clashes with Kurdish forces"
-    },
-    {
-      "id": "9c7aba80893dba096f43063c5160f5d6a4be9ee4",
-      "title": "Kdo je na prvem soočenju govoril resnico, kdo lagal in kdo zavajal?",
-      "url": "https://www.24ur.com/novice/dejstva/kdo-je-na-prvem-soocenju-govoril-resnico-kdo-lagal-in-kdo-zavajal.html",
+      "id": "616644c36a83c63ee52d5ab953cea0ed3606a340",
+      "title": "'Tovrstna dejanja kažejo globljo zgodbo, ki je očem skrita'",
+      "url": "https://www.24ur.com/novice/slovenija/tovrstna-dejanja-kazejo-globljo-zgodbo-ki-je-ocem-skrita.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-09T06:13:54.000Z",
-      "summary": "Summary: Kdo je na prvem soočenju govoril resnico, kdo lagal in kdo zavajal?"
+      "published_at": "2026-01-10T06:07:20.000Z",
+      "summary": "Summary: 'Tovrstna dejanja kažejo globljo zgodbo, ki je očem skrita'"
     },
     {
-      "id": "9a9393976fcde01e7b643d30860f03aa9e1e7fbf",
-      "title": "Australia news live: black Saturday-affected towns told ‘prepare to leave’ as fire front hits Alexandra; mercury passes 46C in Mallee region",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/09/australia-news-live-victoria-catastrophic-bushfire-fire-ban-heatwave-tropical-cyclone-floods-royal-commission-antisemitism-bondi-anthony-albanese-ntwnfb",
+      "id": "12677cc2982f874f66e18e206495375d7e621e57",
+      "title": "Greenland claims: How close have NATO members come to fighting each other?",
+      "url": "https://www.aljazeera.com/news/2026/1/10/greenland-claims-how-close-have-nato-members-come-to-fighting-each-other?traffic_source=rss",
+      "source": "www.aljazeera.com",
+      "published_at": "2026-01-10T06:05:31.000Z",
+      "summary": "Summary: Greenland claims: How close have NATO members come to fighting each other?"
+    },
+    {
+      "id": "828b74a48b78a66fa22b9047ac2ad832364c1533",
+      "title": "Kam se bo nagnila tehtnica in kdo bo zmogel sestaviti vlado?",
+      "url": "https://www.24ur.com/novice/slovenija/kam-se-bo-nagnila-tehtnica-in-kdo-bo-zmogel-sestaviti-vlado.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-10T06:05:27.000Z",
+      "summary": "Summary: Kam se bo nagnila tehtnica in kdo bo zmogel sestaviti vlado?"
+    },
+    {
+      "id": "af7b2c925199f51ebe527389e8c3b005ddf6eac7",
+      "title": "Bucksi po infarktni končnici premagali Lakerse, Dončić tekmo končal predčasno",
+      "url": "https://www.24ur.com/sport/kosarka/lakersi-proti-milwaukeeju-doncic-proti-giannisu.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-10T06:01:51.000Z",
+      "summary": "Summary: Bucksi po infarktni končnici premagali Lakerse, Dončić tekmo končal predčasno"
+    },
+    {
+      "id": "9079e7283a20a5c9cb187ff5a67c2f58f556e40a",
+      "title": "Greenlanders unnerved as they find themselves in geopolitical storm",
+      "url": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-01-10T06:01:50.000Z",
+      "summary": "Summary: Greenlanders unnerved as they find themselves in geopolitical storm"
+    },
+    {
+      "id": "868d88fe010bb7f1e32691c3a91287e3a132c0a9",
+      "title": "Trump’s territorial ambition: new imperialism or a case of the emperor’s new clothes?",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jan/10/trump-territorial-ambition-imperialism",
       "source": "www.theguardian.com",
-      "published_at": "2026-01-09T06:13:06.000Z",
-      "summary": "Summary: Australia news live: black Saturday-affected towns told ‘prepare to leave’ as fire front hits Alexandra; mercury passes 46C in Mallee region"
+      "published_at": "2026-01-10T06:00:51.000Z",
+      "summary": "Summary: Trump’s territorial ambition: new imperialism or a case of the emperor’s new clothes?"
+    },
+    {
+      "id": "1f5dc64b6336946834c1fd505b0a2f564e210d92",
+      "title": "How China’s global investment model is changing – and what it means for the yuan",
+      "url": "https://www.scmp.com/economy/global-economy/article/3339333/how-chinas-global-investment-model-changing-and-what-it-means-yuan?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-10T06:00:19.000Z",
+      "summary": "Summary: How China’s global investment model is changing – and what it means for the yuan"
+    },
+    {
+      "id": "77e92de442c07e5b50363fa81c2b152952f208a9",
+      "title": "Self-taught China pupil impresses peers with TCM pulse diagnosis, garners praise online",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3338264/self-taught-china-pupil-impresses-peers-tcm-pulse-diagnosis-garners-praise-online?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-10T06:00:11.000Z",
+      "summary": "Summary: Self-taught China pupil impresses peers with TCM pulse diagnosis, garners praise online"
     }
   ]
 }

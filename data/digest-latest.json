@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-09",
-  "updated_at": "2026-01-09T06:32:03.736Z",
-  "page": "/news/2026-01-09.html",
+  "date": "2026-01-10",
+  "updated_at": "2026-01-10T06:31:39.815Z",
+  "page": "/news/2026-01-10.html",
   "count": 12,
   "items": [
     {
-      "id": "53aaee65a5b57fa6a19859f8cff000797f349606",
-      "title": "NZXT Discount Codes: 50% Off in January 2026",
-      "url": "https://www.wired.com/story/nzxt-discount-code/",
+      "id": "106d3d8731ddee1e5e436afb4223ab99db676208",
+      "title": "How I Went From 'I'm Not a Hardware Person' to Reverse Engineering Devices",
+      "url": "https://dev.to/numbpill3d/how-i-went-from-im-not-a-hardware-person-to-reverse-engineering-devices-894",
+      "source": "dev.to",
+      "published_at": "2026-01-10T06:13:16.000Z",
+      "summary": "Summary: How I Went From 'I'm Not a Hardware Person' to Reverse Engineering Devices"
+    },
+    {
+      "id": "e0b6c5a669a6e09d1acbd1863fba625911b6af29",
+      "title": "Linux Kernel Architecture: From Ring 0 to Network Stack & eBPF",
+      "url": "https://dev.to/kanywst/linux-kernel-architecture-from-ring-0-to-network-stack-ebpf-6o0",
+      "source": "dev.to",
+      "published_at": "2026-01-10T06:13:01.000Z",
+      "summary": "Summary: Linux Kernel Architecture: From Ring 0 to Network Stack & eBPF"
+    },
+    {
+      "id": "eea438617147792e4d38283607bdff8e5c5027f4",
+      "title": "How Does @Async Work Internally in Spring Boot?",
+      "url": "https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5",
+      "source": "dev.to",
+      "published_at": "2026-01-10T06:10:02.000Z",
+      "summary": "Summary: How Does @Async Work Internally in Spring Boot?"
+    },
+    {
+      "id": "c7874e2c671971ccefdd8f25a8a723c73903d255",
+      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+      "url": "https://www.wired.com/story/total-wireless-promo-code/",
       "source": "www.wired.com",
-      "published_at": "2026-01-09T06:30:00.000Z",
-      "summary": "Summary: NZXT Discount Codes: 50% Off in January 2026"
+      "published_at": "2026-01-10T06:10:00.000Z",
+      "summary": "Summary: Total Wireless Promo Codes & Deals: 50% Off Select Plans"
     },
     {
-      "id": "8fda8be2e4dfeb7e3cb64f549ef306a7ac05a0f9",
-      "title": "Nov obsežen napad na Ukrajino: raketa poletela do Lviva",
-      "url": "https://www.24ur.com/novice/tujina/nov-obsezen-napad-na-ukrajino-raketa-poletela-do-lviva.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-09T06:29:37.000Z",
-      "summary": "Summary: Nov obsežen napad na Ukrajino: raketa poletela do Lviva"
-    },
-    {
-      "id": "4bf0ace974d93a6b737c1f4206a044199ef5e265",
-      "title": "E-commerce: How to Build a Card Payment System with Blnk Finance",
-      "url": "https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k",
-      "source": "dev.to",
-      "published_at": "2026-01-09T06:28:05.000Z",
-      "summary": "Summary: E-commerce: How to Build a Card Payment System with Blnk Finance"
-    },
-    {
-      "id": "0abe9c4608eab76a26011b4ada2da4b211ae2014",
-      "title": "Docker Kanvas Challenges Helm and Kustomize for Kubernetes Dominance",
-      "url": "https://dev.to/latchudevops/docker-kanvas-challenges-helm-and-kustomize-for-kubernetes-dominance-2df0",
-      "source": "dev.to",
-      "published_at": "2026-01-09T06:25:56.000Z",
-      "summary": "Summary: Docker Kanvas Challenges Helm and Kustomize for Kubernetes Dominance"
-    },
-    {
-      "id": "e3eed405509be8b28b0a9b448568b556933b4d9d",
-      "title": "Z Michaelom Jordanom so zmagovali, zdaj ne morejo niti na igrišče",
-      "url": "https://www.delo.si/sport/kosarka/z-michaelom-jordanom-so-zmagovali-zdaj-ne-morejo-niti-na-igrisce",
-      "source": "www.delo.si",
-      "published_at": "2026-01-09T06:25:00.000Z",
-      "summary": "Summary: Z Michaelom Jordanom so zmagovali, zdaj ne morejo niti na igrišče"
-    },
-    {
-      "id": "35040a8130e85407b58d52710dfceacfc95990fc",
-      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in January",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-09T06:20:00.000Z",
-      "summary": "Summary: AT&T Promo Codes and Bundle Deals: Save $50 in January"
-    },
-    {
-      "id": "dbde52955cb2c1e947f74d5f42a3e3bbdaaef708",
-      "title": "What is cyber security and why is it important in today’s digital world?",
-      "url": "https://dev.to/ridhima_b7f6c7cbeef40f3b8/what-is-cyber-security-and-why-is-it-important-in-todays-digital-world-3jp3",
-      "source": "dev.to",
-      "published_at": "2026-01-09T06:18:08.000Z",
-      "summary": "Summary: What is cyber security and why is it important in today’s digital world?"
-    },
-    {
-      "id": "55c61090839ff76650fc4328a8fe5195c826d74e",
-      "title": "Opoldne s kvalifikacijami začetek skakalnega praznika na Ljubnem",
-      "url": "https://www.rtvslo.si/sport/zimski-sporti/opoldne-s-kvalifikacijami-zacetek-skakalnega-praznika-na-ljubnem/769548",
+      "id": "5f5d3dc9b4fc881344196aa2255dc4afcc68fef0",
+      "title": "Ah, ta leta!: Pogledi generacij",
+      "url": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/ah-ta-leta-pogledi-generacij/769616",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-09T06:17:47.000Z",
-      "summary": "Summary: Opoldne s kvalifikacijami začetek skakalnega praznika na Ljubnem"
+      "published_at": "2026-01-10T06:08:30.000Z",
+      "summary": "Summary: Ah, ta leta!: Pogledi generacij"
     },
     {
-      "id": "9c7aba80893dba096f43063c5160f5d6a4be9ee4",
-      "title": "Kdo je na prvem soočenju govoril resnico, kdo lagal in kdo zavajal?",
-      "url": "https://www.24ur.com/novice/dejstva/kdo-je-na-prvem-soocenju-govoril-resnico-kdo-lagal-in-kdo-zavajal.html",
+      "id": "616644c36a83c63ee52d5ab953cea0ed3606a340",
+      "title": "'Tovrstna dejanja kažejo globljo zgodbo, ki je očem skrita'",
+      "url": "https://www.24ur.com/novice/slovenija/tovrstna-dejanja-kazejo-globljo-zgodbo-ki-je-ocem-skrita.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-09T06:13:54.000Z",
-      "summary": "Summary: Kdo je na prvem soočenju govoril resnico, kdo lagal in kdo zavajal?"
+      "published_at": "2026-01-10T06:07:20.000Z",
+      "summary": "Summary: 'Tovrstna dejanja kažejo globljo zgodbo, ki je očem skrita'"
     },
     {
-      "id": "a890d95eeae55661a3987fa93b1e2f92c65e0077",
-      "title": "Natixis CIB’s Narain on APAC M&A Outlook",
-      "url": "https://www.bloomberg.com/news/videos/2026-01-09/natixis-cib-s-narain-on-apac-m-a-outlook-video",
+      "id": "828b74a48b78a66fa22b9047ac2ad832364c1533",
+      "title": "Kam se bo nagnila tehtnica in kdo bo zmogel sestaviti vlado?",
+      "url": "https://www.24ur.com/novice/slovenija/kam-se-bo-nagnila-tehtnica-in-kdo-bo-zmogel-sestaviti-vlado.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-10T06:05:27.000Z",
+      "summary": "Summary: Kam se bo nagnila tehtnica in kdo bo zmogel sestaviti vlado?"
+    },
+    {
+      "id": "af7b2c925199f51ebe527389e8c3b005ddf6eac7",
+      "title": "Bucksi po infarktni končnici premagali Lakerse, Dončić tekmo končal predčasno",
+      "url": "https://www.24ur.com/sport/kosarka/lakersi-proti-milwaukeeju-doncic-proti-giannisu.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-10T06:01:51.000Z",
+      "summary": "Summary: Bucksi po infarktni končnici premagali Lakerse, Dončić tekmo končal predčasno"
+    },
+    {
+      "id": "decef5e60b849f73fd79260b42131ca3f755f2f1",
+      "title": "Jeremy Clarkson zaradi težav s srcem shujšal za 19 kilogramov",
+      "url": "https://www.24ur.com/popin/tuja-scena/jeremy-clarkson-zaradi-tezav-s-srcem-shujsal-za-19-kilogramov.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-10T06:00:10.000Z",
+      "summary": "Summary: Jeremy Clarkson zaradi težav s srcem shujšal za 19 kilogramov"
+    },
+    {
+      "id": "00082f23e8e81dfd4064b937c03a99198dcf6688",
+      "title": "Switzerland’s Secret Sauce on Jobs Is a Model Merz Can Dream of",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-10/switzerland-s-secret-sauce-on-jobs-is-a-model-merz-can-dream-of",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-09T06:12:48.000Z",
-      "summary": "Summary: Natixis CIB’s Narain on APAC M&A Outlook"
+      "published_at": "2026-01-10T06:00:00.000Z",
+      "summary": "Summary: Switzerland’s Secret Sauce on Jobs Is a Model Merz Can Dream of"
     },
     {
-      "id": "fda8f97e86ec38067535149b09c61f472d54308b",
-      "title": "NordVPN Coupons and Deals: 77% Off in January 2026",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "id": "4bae664747b336bfb59d15837a03ac1b6498aa11",
+      "title": "KitchenAid Promo Code: 50% Off This Month",
+      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
       "source": "www.wired.com",
-      "published_at": "2026-01-09T06:10:00.000Z",
-      "summary": "Summary: NordVPN Coupons and Deals: 77% Off in January 2026"
+      "published_at": "2026-01-10T06:00:00.000Z",
+      "summary": "Summary: KitchenAid Promo Code: 50% Off This Month"
     },
     {
-      "id": "a7391b06f0ea972140c01798013be7c7205c48c8",
-      "title": "$20 Chewy Promo Code | January 2026",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-09T06:10:00.000Z",
-      "summary": "Summary: $20 Chewy Promo Code | January 2026"
+      "id": "0e1a8b8dfa1deabf56bee79b2e60b59a06ced870",
+      "title": "Le še en mesec do tekme leta, čas je za zasuk",
+      "url": "https://www.delo.si/sport/zimski-sporti/le-se-en-mesec-do-tekme-leta-cas-je-za-zasuk",
+      "source": "www.delo.si",
+      "published_at": "2026-01-10T06:00:00.000Z",
+      "summary": "Summary: Le še en mesec do tekme leta, čas je za zasuk"
     }
   ]
 }
