@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-10",
-  "updated_at": "2026-01-10T06:31:52.235Z",
-  "page": "/news/2026-01-10-news.html",
+  "date": "2026-01-11",
+  "updated_at": "2026-01-11T06:32:07.080Z",
+  "page": "/news/2026-01-11-news.html",
   "count": 12,
   "items": [
     {
-      "id": "bea552f058186bef3b522e561d092bff683c32ed",
-      "title": "New video shows fatal Minnesota ICE shooting from officer's perspective",
-      "url": "https://www.npr.org/2026/01/10/g-s1-105387/new-video-minnesota-shooting-officer-perspective",
-      "source": "feeds.npr.org",
-      "published_at": "2026-01-10T06:18:03.000Z",
-      "summary": "Summary: New video shows fatal Minnesota ICE shooting from officer's perspective"
-    },
-    {
-      "id": "5463295794a395a865a0a5f27d433abdb17bca31",
-      "title": "Australia declares state of disaster as bushfires rip through Victoria: ‘leave, go’",
-      "url": "https://www.scmp.com/news/asia/australasia/article/3339429/australia-declares-state-disaster-bushfires-rip-through-victoria-state-leave-go?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-10T06:11:49.000Z",
-      "summary": "Summary: Australia declares state of disaster as bushfires rip through Victoria: ‘leave, go’"
-    },
-    {
-      "id": "894d94f138f390686a9986d4ea74e5285980d3fe",
-      "title": "New bushfire warnings issued in Victoria and NSW as Townsville braces for cyclone – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/10/australia-heatwave-updates-sydney-temperature-victorian-fires-bushfire-latest",
-      "source": "www.theguardian.com",
-      "published_at": "2026-01-10T06:09:48.000Z",
-      "summary": "Summary: New bushfire warnings issued in Victoria and NSW as Townsville braces for cyclone – as it happened"
-    },
-    {
-      "id": "5f5d3dc9b4fc881344196aa2255dc4afcc68fef0",
-      "title": "Ah, ta leta!: Pogledi generacij",
-      "url": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/ah-ta-leta-pogledi-generacij/769616",
+      "id": "bae5423d0fe19708e8093429e96fdbebd20c61b7",
+      "title": "Svetovna serija 2026",
+      "url": "https://www.rtvslo.si/sport/kolesarstvo/svetovna-serija-2026/769411",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-10T06:08:30.000Z",
-      "summary": "Summary: Ah, ta leta!: Pogledi generacij"
+      "published_at": "2026-01-11T10:11:11.000Z",
+      "summary": "Summary: Svetovna serija 2026"
     },
     {
-      "id": "616644c36a83c63ee52d5ab953cea0ed3606a340",
-      "title": "'Tovrstna dejanja kažejo globljo zgodbo, ki je očem skrita'",
-      "url": "https://www.24ur.com/novice/slovenija/tovrstna-dejanja-kazejo-globljo-zgodbo-ki-je-ocem-skrita.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-10T06:07:20.000Z",
-      "summary": "Summary: 'Tovrstna dejanja kažejo globljo zgodbo, ki je očem skrita'"
+      "id": "c9730bef317798ee3991ce3f73f373fe67af307f",
+      "title": "Singapore businesses list rising costs and tariffs as their biggest challenges",
+      "url": "https://www.scmp.com/week-asia/economics/article/3339397/singapore-businesses-list-rising-costs-and-tariffs-their-biggest-challenges?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-11T06:30:09.000Z",
+      "summary": "Summary: Singapore businesses list rising costs and tariffs as their biggest challenges"
     },
     {
-      "id": "12677cc2982f874f66e18e206495375d7e621e57",
-      "title": "Greenland claims: How close have NATO members come to fighting each other?",
-      "url": "https://www.aljazeera.com/news/2026/1/10/greenland-claims-how-close-have-nato-members-come-to-fighting-each-other?traffic_source=rss",
-      "source": "www.aljazeera.com",
-      "published_at": "2026-01-10T06:05:31.000Z",
-      "summary": "Summary: Greenland claims: How close have NATO members come to fighting each other?"
+      "id": "149b783075094871eaaa0fc5f5684d44d4344832",
+      "title": "Pred dvorano je želel obračunati z Dončićem in dobil prepoved",
+      "url": "https://www.delo.si/sport/kosarka/pred-dvorano-je-zelel-obracunati-z-doncicem-in-dobil-tri-tekme-prepovedi",
+      "source": "www.delo.si",
+      "published_at": "2026-01-11T06:25:00.000Z",
+      "summary": "Summary: Pred dvorano je želel obračunati z Dončićem in dobil prepoved"
     },
     {
-      "id": "828b74a48b78a66fa22b9047ac2ad832364c1533",
-      "title": "Kam se bo nagnila tehtnica in kdo bo zmogel sestaviti vlado?",
-      "url": "https://www.24ur.com/novice/slovenija/kam-se-bo-nagnila-tehtnica-in-kdo-bo-zmogel-sestaviti-vlado.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-10T06:05:27.000Z",
-      "summary": "Summary: Kam se bo nagnila tehtnica in kdo bo zmogel sestaviti vlado?"
-    },
-    {
-      "id": "af7b2c925199f51ebe527389e8c3b005ddf6eac7",
-      "title": "Bucksi po infarktni končnici premagali Lakerse, Dončić tekmo končal predčasno",
-      "url": "https://www.24ur.com/sport/kosarka/lakersi-proti-milwaukeeju-doncic-proti-giannisu.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-10T06:01:51.000Z",
-      "summary": "Summary: Bucksi po infarktni končnici premagali Lakerse, Dončić tekmo končal predčasno"
-    },
-    {
-      "id": "9079e7283a20a5c9cb187ff5a67c2f58f556e40a",
-      "title": "Greenlanders unnerved as they find themselves in geopolitical storm",
-      "url": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&at_campaign=rss",
+      "id": "32444d341719a071315fad362773e1438e67af59",
+      "title": "Tories would ban under-16s from social media",
+      "url": "https://www.bbc.com/news/articles/cx2wyeqw3gpo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-10T06:01:50.000Z",
-      "summary": "Summary: Greenlanders unnerved as they find themselves in geopolitical storm"
+      "published_at": "2026-01-11T06:21:19.000Z",
+      "summary": "Summary: Tories would ban under-16s from social media"
     },
     {
-      "id": "868d88fe010bb7f1e32691c3a91287e3a132c0a9",
-      "title": "Trump’s territorial ambition: new imperialism or a case of the emperor’s new clothes?",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jan/10/trump-territorial-ambition-imperialism",
-      "source": "www.theguardian.com",
-      "published_at": "2026-01-10T06:00:51.000Z",
-      "summary": "Summary: Trump’s territorial ambition: new imperialism or a case of the emperor’s new clothes?"
+      "id": "bde3f93597b7579c952dc04f1cf073adf5e55201",
+      "title": "Ameriška vojska napadla Islamsko državo v Siriji",
+      "url": "https://www.24ur.com/novice/tujina/ameriska-vojska-napadla-islamsko-drzavo-v-siriji.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-11T06:19:46.000Z",
+      "summary": "Summary: Ameriška vojska napadla Islamsko državo v Siriji"
     },
     {
-      "id": "1f5dc64b6336946834c1fd505b0a2f564e210d92",
-      "title": "How China’s global investment model is changing – and what it means for the yuan",
-      "url": "https://www.scmp.com/economy/global-economy/article/3339333/how-chinas-global-investment-model-changing-and-what-it-means-yuan?utm_source=rss_feed",
+      "id": "c45ef6ffe528f5adc783adc9c8967b92825f6441",
+      "title": "‘ICE, Out for Good’ protests over fatal shooting erupt in Minneapolis, other US cities",
+      "url": "https://www.france24.com/en/americas/20260111-ice-out-for-good-protests-over-fatal-shooting-erupt-in-minneapolis-other-us-cities",
+      "source": "www.france24.com",
+      "published_at": "2026-01-11T06:14:19.000Z",
+      "summary": "Summary: ‘ICE, Out for Good’ protests over fatal shooting erupt in Minneapolis, other US cities"
+    },
+    {
+      "id": "ea8bd918faa3adda94bc94a4af35dc3751bfc039",
+      "title": "Trumpov napad na Grenlandijo ni neverjeten: bi bil to konec Nata?",
+      "url": "https://www.24ur.com/novice/tujina/grenlandija_2.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-11T06:12:55.000Z",
+      "summary": "Summary: Trumpov napad na Grenlandijo ni neverjeten: bi bil to konec Nata?"
+    },
+    {
+      "id": "cf2d6af62dab288f637d81f8ef9e66d6a691ccb3",
+      "title": "Pisanski: \"Učenec se nekoč ni mogel naučiti brez učitelja, zdaj ga vzgaja pametni telefon\"",
+      "url": "https://www.rtvslo.si/stevilke/pisanski-ucenec-se-nekoc-ni-mogel-nauciti-brez-ucitelja-zdaj-ga-vzgaja-pametni-telefon/769716",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-11T06:07:18.000Z",
+      "summary": "Summary: Pisanski: \"Učenec se nekoč ni mogel naučiti brez učitelja, zdaj ga vzgaja pametni telefon\""
+    },
+    {
+      "id": "ec78e922dc09a8184b16c345e221183388d17340",
+      "title": "The Papers:  UK becoming 'military pygmy' and 'Love Island wildfire crisis'",
+      "url": "https://www.bbc.com/news/articles/cd7zvz79w4do?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-01-11T06:06:47.000Z",
+      "summary": "Summary: The Papers:  UK becoming 'military pygmy' and 'Love Island wildfire crisis'"
+    },
+    {
+      "id": "b40828c77c919607cdc98a4ab88927869fbafbc0",
+      "title": "Po 18 letih Ljubljanska borza dočakala nov rekord osrednjega indeksa",
+      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/po-18-letih-ljubljanska-borza-docakala-nov-rekord-osrednjega-indeksa/769696",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-11T06:03:29.000Z",
+      "summary": "Summary: Po 18 letih Ljubljanska borza dočakala nov rekord osrednjega indeksa"
+    },
+    {
+      "id": "5593d1b375e76b914904adfc3fbce01842413a78",
+      "title": "'Use your nose': Health warnings as winds push Victorian bushfire smoke north",
+      "url": "https://www.abc.net.au/news/2026-01-11/smoke-and-air-quality-warnings-health-bushfires/106217952",
+      "source": "www.abc.net.au",
+      "published_at": "2026-01-11T06:01:16.000Z",
+      "summary": "Summary: 'Use your nose': Health warnings as winds push Victorian bushfire smoke north"
+    },
+    {
+      "id": "702fa3e5b42ff11c5b34f1ae0a726b9db2b99248",
+      "title": "China offers full-time job to top European immunologist Andrew Macpherson",
+      "url": "https://www.scmp.com/news/china/science/article/3339310/china-offers-full-time-job-top-european-immunologist-andrew-macpherson?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-01-10T06:00:19.000Z",
-      "summary": "Summary: How China’s global investment model is changing – and what it means for the yuan"
-    },
-    {
-      "id": "77e92de442c07e5b50363fa81c2b152952f208a9",
-      "title": "Self-taught China pupil impresses peers with TCM pulse diagnosis, garners praise online",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3338264/self-taught-china-pupil-impresses-peers-tcm-pulse-diagnosis-garners-praise-online?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-10T06:00:11.000Z",
-      "summary": "Summary: Self-taught China pupil impresses peers with TCM pulse diagnosis, garners praise online"
+      "published_at": "2026-01-11T06:00:18.000Z",
+      "summary": "Summary: China offers full-time job to top European immunologist Andrew Macpherson"
     }
   ]
 }

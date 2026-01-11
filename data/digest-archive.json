@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-10T06:31:39.815Z",
+  "updated_at": "2026-01-11T06:31:51.336Z",
   "days": [
+    {
+      "date": "2026-01-11",
+      "page": "/news/2026-01-11.html",
+      "teaser": "Top: Svetovna serija 2026",
+      "count": 12,
+      "ids": [
+        "bae5423d0fe19708e8093429e96fdbebd20c61b7",
+        "149b783075094871eaaa0fc5f5684d44d4344832",
+        "07e2c814cef57267c8e8fc0222d921b0e5de3e8d",
+        "bde3f93597b7579c952dc04f1cf073adf5e55201",
+        "05abb2fc9290a862dad4824a17f8a22ae065e627",
+        "ea8bd918faa3adda94bc94a4af35dc3751bfc039",
+        "cf2d6af62dab288f637d81f8ef9e66d6a691ccb3",
+        "a19a0cb55d5b408221b34625748b56c906759007",
+        "b40828c77c919607cdc98a4ab88927869fbafbc0",
+        "a943716e7725e4fa291a7c40f18e2f8a621816c0",
+        "1c18e435f8ebc089231dad05bac6dfd5fb46f45b",
+        "f6df7cef9160286bc323774766cb850368376dd5"
+      ]
+    },
     {
       "date": "2026-01-10",
       "page": "/news/2026-01-10.html",
