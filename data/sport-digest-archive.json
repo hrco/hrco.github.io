@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-11T06:32:12.116Z",
+  "updated_at": "2026-01-12T06:32:47.063Z",
   "days": [
+    {
+      "date": "2026-01-12",
+      "page": "/news/2026-01-12-sport.html",
+      "teaser": "Top: Our early primer for the divisional round matchups: How every team could win next weekend",
+      "count": 12,
+      "ids": [
+        "8bd163fb8381e145203dfadfdd589f0a459dc0ca",
+        "635a9495967be45096d18a71b8e387a52b3ff5fc",
+        "5f9761ebd574e1a79234bc7175d9344cef33c196",
+        "1fd71ee8e337fcc99202a0b85e338750028ff117",
+        "caeea0809637f39c22f3f9f890334b76adcd3943",
+        "097358fcbea82fabe0dff3b2765829daf918912b",
+        "091f56f9ff03ab48a18813d1b4eb0ec43970ceab",
+        "509e7f4b34d71da828ea082bce79e9bd5757f15a",
+        "0255b599dbaf64c248a5c954c6538b73140da49d",
+        "c19975829cd9d1691bff8386a0568dce37793daf",
+        "a44d7c6141ae7f03847da0066d1f32361fa157bc",
+        "07f6d117a21ad7a3690b0d1321f56537f37a0653"
+      ]
+    },
     {
       "date": "2026-01-11",
       "page": "/news/2026-01-11-sport.html",

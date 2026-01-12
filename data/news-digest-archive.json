@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-11T06:32:07.080Z",
+  "updated_at": "2026-01-12T06:32:42.448Z",
   "days": [
+    {
+      "date": "2026-01-12",
+      "page": "/news/2026-01-12-news.html",
+      "teaser": "Top: Chinese arms exporters may be the big winners in any Pakistan-Saudi JF-17 talks",
+      "count": 12,
+      "ids": [
+        "b84f6ce4f327094aa06e5e3a8663301dfe85b07a",
+        "35a9feb2733115ea42e5c5df13946e37b9f35588",
+        "9784ee613f0a12691b42ca8dbd79c073bbdbea22",
+        "5de4a1f651a950cd517822ae8be2905e164b55de",
+        "f04bd3cb08e708d8abb57821600f7a4c55ee3c0e",
+        "64b84444d2fdb91ad9293eaaa670061a1e25e669",
+        "e1fb14e0fd1812452f57ae9660ba70e25965cb9c",
+        "a276df85506d18da3bef241a87d791518bc90fb7",
+        "49787a1fdd16c8687aa0701671284d43b17d97aa",
+        "3aa3f92078e0f504a10e2e4bac73bf3fe4273763",
+        "6366a7bdc54d8e3fc55f87350d5f83010e572973",
+        "5701b07eba724fc1ef08c12ca8ec50a8f927eb10"
+      ]
+    },
     {
       "date": "2026-01-11",
       "page": "/news/2026-01-11-news.html",

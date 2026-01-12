@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-11",
-  "updated_at": "2026-01-11T06:31:51.336Z",
-  "page": "/news/2026-01-11.html",
+  "date": "2026-01-12",
+  "updated_at": "2026-01-12T06:32:30.808Z",
+  "page": "/news/2026-01-12.html",
   "count": 12,
   "items": [
     {
-      "id": "bae5423d0fe19708e8093429e96fdbebd20c61b7",
-      "title": "Svetovna serija 2026",
-      "url": "https://www.rtvslo.si/sport/kolesarstvo/svetovna-serija-2026/769411",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-11T10:11:11.000Z",
-      "summary": "Summary: Svetovna serija 2026"
+      "id": "aafa048104111bad4a82847118dc5ddca081bcee",
+      "title": "Hashicorp Vault: Transit Secrets Engine",
+      "url": "https://dev.to/admantium/hashicorp-vault-transit-secrets-engine-2kam",
+      "source": "dev.to",
+      "published_at": "2026-01-12T06:22:00.000Z",
+      "summary": "Summary: Hashicorp Vault: Transit Secrets Engine"
     },
     {
-      "id": "149b783075094871eaaa0fc5f5684d44d4344832",
-      "title": "Pred dvorano je želel obračunati z Dončićem in dobil prepoved",
-      "url": "https://www.delo.si/sport/kosarka/pred-dvorano-je-zelel-obracunati-z-doncicem-in-dobil-tri-tekme-prepovedi",
+      "id": "159701a74646dc1c5afa031612fc00c6efd921b2",
+      "title": "Why Version Control Exists: The Pen Drive Problem",
+      "url": "https://dev.to/anoop-rajoriya/why-version-control-exists-the-pen-drive-problem-327c",
+      "source": "dev.to",
+      "published_at": "2026-01-12T06:18:58.000Z",
+      "summary": "Summary: Why Version Control Exists: The Pen Drive Problem"
+    },
+    {
+      "id": "db995faf34119a14d444051143361ea4a511aeda",
+      "title": "Discovering n8n — Wish I Found It Sooner (Part 1 )",
+      "url": "https://dev.to/timleunghk/discovering-n8n-wish-i-found-it-sooner-part-1--171j",
+      "source": "dev.to",
+      "published_at": "2026-01-12T06:15:49.000Z",
+      "summary": "Summary: Discovering n8n — Wish I Found It Sooner (Part 1 )"
+    },
+    {
+      "id": "5701b07eba724fc1ef08c12ca8ec50a8f927eb10",
+      "title": "V Ljubljani odslej občutno dražje parkiranje",
+      "url": "https://www.delo.si/novice/slovenija/v-ljubljani-odslej-obcutno-drazje-parkiranje",
       "source": "www.delo.si",
-      "published_at": "2026-01-11T06:25:00.000Z",
-      "summary": "Summary: Pred dvorano je želel obračunati z Dončićem in dobil prepoved"
+      "published_at": "2026-01-12T06:06:04.000Z",
+      "summary": "Summary: V Ljubljani odslej občutno dražje parkiranje"
     },
     {
-      "id": "07e2c814cef57267c8e8fc0222d921b0e5de3e8d",
-      "title": "Who Owns This? Why Project Ownership Matters More Than Ever",
-      "url": "https://dev.to/sela_network/who-owns-this-why-project-ownership-matters-more-than-ever-cpk",
-      "source": "dev.to",
-      "published_at": "2026-01-11T06:24:27.000Z",
-      "summary": "Summary: Who Owns This? Why Project Ownership Matters More Than Ever"
-    },
-    {
-      "id": "bde3f93597b7579c952dc04f1cf073adf5e55201",
-      "title": "Ameriška vojska napadla Islamsko državo v Siriji",
-      "url": "https://www.24ur.com/novice/tujina/ameriska-vojska-napadla-islamsko-drzavo-v-siriji.html",
+      "id": "bd1214d15038864d04eb1d58784b4d5b81fa9ef1",
+      "title": "Novi akterji na političnem parketu pod drobnogledom: kdo govori resnico?",
+      "url": "https://www.24ur.com/novice/dejstva/novi-akterji-na-politicnem-parketu-pod-drobnogledom-kdo-govori-resnico.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-11T06:19:46.000Z",
-      "summary": "Summary: Ameriška vojska napadla Islamsko državo v Siriji"
+      "published_at": "2026-01-12T06:00:01.000Z",
+      "summary": "Summary: Novi akterji na političnem parketu pod drobnogledom: kdo govori resnico?"
     },
     {
-      "id": "05abb2fc9290a862dad4824a17f8a22ae065e627",
-      "title": "MCP Token Limits: The Hidden Cost of Tool Overload",
-      "url": "https://dev.to/piotr_hajdas/mcp-token-limits-the-hidden-cost-of-tool-overload-2d5",
-      "source": "dev.to",
-      "published_at": "2026-01-11T06:19:27.000Z",
-      "summary": "Summary: MCP Token Limits: The Hidden Cost of Tool Overload"
-    },
-    {
-      "id": "ea8bd918faa3adda94bc94a4af35dc3751bfc039",
-      "title": "Trumpov napad na Grenlandijo ni neverjeten: bi bil to konec Nata?",
-      "url": "https://www.24ur.com/novice/tujina/grenlandija_2.html",
+      "id": "b4d5e40074df53a6ebf7a25922ca7acca5315b9d",
+      "title": "Zet Arnolda Schwarzeneggerja ni prepričan, kaj narediti z njegovim darilom",
+      "url": "https://www.24ur.com/popin/tuja-scena/zet-arnolda-schwarzeneggerja-ni-preprocan-kaj-narediti-z-njegovim-darilom.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-11T06:12:55.000Z",
-      "summary": "Summary: Trumpov napad na Grenlandijo ni neverjeten: bi bil to konec Nata?"
+      "published_at": "2026-01-12T06:00:01.000Z",
+      "summary": "Summary: Zet Arnolda Schwarzeneggerja ni prepričan, kaj narediti z njegovim darilom"
     },
     {
-      "id": "cf2d6af62dab288f637d81f8ef9e66d6a691ccb3",
-      "title": "Pisanski: \"Učenec se nekoč ni mogel naučiti brez učitelja, zdaj ga vzgaja pametni telefon\"",
-      "url": "https://www.rtvslo.si/stevilke/pisanski-ucenec-se-nekoc-ni-mogel-nauciti-brez-ucitelja-zdaj-ga-vzgaja-pametni-telefon/769716",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-11T06:07:18.000Z",
-      "summary": "Summary: Pisanski: \"Učenec se nekoč ni mogel naučiti brez učitelja, zdaj ga vzgaja pametni telefon\""
-    },
-    {
-      "id": "a19a0cb55d5b408221b34625748b56c906759007",
-      "title": "SQL INJECTION",
-      "url": "https://dev.to/rodrino_adolfokupessala_/sql-injection-hga",
-      "source": "dev.to",
-      "published_at": "2026-01-11T06:05:00.000Z",
-      "summary": "Summary: SQL INJECTION"
-    },
-    {
-      "id": "b40828c77c919607cdc98a4ab88927869fbafbc0",
-      "title": "Po 18 letih Ljubljanska borza dočakala nov rekord osrednjega indeksa",
-      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/po-18-letih-ljubljanska-borza-docakala-nov-rekord-osrednjega-indeksa/769696",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-11T06:03:29.000Z",
-      "summary": "Summary: Po 18 letih Ljubljanska borza dočakala nov rekord osrednjega indeksa"
-    },
-    {
-      "id": "a943716e7725e4fa291a7c40f18e2f8a621816c0",
-      "title": "I can finally use MCPs without fear",
-      "url": "https://dev.to/andylbrummer/i-can-finally-use-mcps-without-fear-3pfl",
-      "source": "dev.to",
-      "published_at": "2026-01-11T06:03:02.000Z",
-      "summary": "Summary: I can finally use MCPs without fear"
-    },
-    {
-      "id": "1c18e435f8ebc089231dad05bac6dfd5fb46f45b",
-      "title": "Flick in Alonso v en glas pred 'el clasicom': Favorita ni",
-      "url": "https://www.24ur.com/sport/nogomet/flick-in-alonso-v-eno-pred-el-clasicom-favorita-na-tekmi-ni.html",
+      "id": "527f0ba4850b50238583ec2fa273777d4cec51de",
+      "title": "Trump: Iran se želi pogajati, utrujeni so od porazov s strani ZDA",
+      "url": "https://www.24ur.com/novice/tujina/trump-iran-se-zeli-pogajati-utrujeni-so-od-porazov-s-strani-zda.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-11T06:00:12.000Z",
-      "summary": "Summary: Flick in Alonso v en glas pred 'el clasicom': Favorita ni"
+      "published_at": "2026-01-12T05:59:40.000Z",
+      "summary": "Summary: Trump: Iran se želi pogajati, utrujeni so od porazov s strani ZDA"
     },
     {
-      "id": "f6df7cef9160286bc323774766cb850368376dd5",
-      "title": "Modni vrhunci na preteklih podelitvah zlatih globusov",
-      "url": "https://www.24ur.com/popin/tuja-scena/modni-vrhunci-na-preteklih-podelitvah-zlatih-globusov.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-11T06:00:12.000Z",
-      "summary": "Summary: Modni vrhunci na preteklih podelitvah zlatih globusov"
+      "id": "d4527c85210898eb2ef1ba0a6b19abbf07bc4a62",
+      "title": "Deutsche Bank’s $2.5 Billion India Retail Assets Draw Final Bids",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-12/deutsche-bank-s-2-5-billion-india-retail-assets-draw-final-bids",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-01-12T05:58:32.000Z",
+      "summary": "Summary: Deutsche Bank’s $2.5 Billion India Retail Assets Draw Final Bids"
+    },
+    {
+      "id": "4991f5c220a119dfc33c8489353d42c0f96a9c1e",
+      "title": "Tedenski jedilnik: TOP 5 domačih uspešnic, ki nas vedno razveselijo",
+      "url": "https://www.delo.si/magazin/kulinarika/r-tedenski-jedilnik-top-5-domacih-uspesnic-ki-nas-vedno-razveselijo",
+      "source": "www.delo.si",
+      "published_at": "2026-01-12T05:55:00.000Z",
+      "summary": "Summary: Tedenski jedilnik: TOP 5 domačih uspešnic, ki nas vedno razveselijo"
+    },
+    {
+      "id": "b9308b10cbe6cd6308da20275454627d81835786",
+      "title": "Multi-dimensional Arrays & Row-major Order: A Deep Dive",
+      "url": "https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e",
+      "source": "dev.to",
+      "published_at": "2026-01-12T05:54:22.000Z",
+      "summary": "Summary: Multi-dimensional Arrays & Row-major Order: A Deep Dive"
+    },
+    {
+      "id": "cc23bd37e1f0007a0203b115457047e3df79a069",
+      "title": "Stop telling me Python is \"too slow\" for the 2026 backend.",
+      "url": "https://dev.to/naved_shaikh/stop-telling-me-python-is-too-slow-for-the-2026-backend-5am4",
+      "source": "dev.to",
+      "published_at": "2026-01-12T05:51:48.000Z",
+      "summary": "Summary: Stop telling me Python is \"too slow\" for the 2026 backend."
+    },
+    {
+      "id": "859fc53e6e74fa19ee9f71b590e8970eac7a8087",
+      "title": "Backend Security for Express.js (With Nginx + VPS)",
+      "url": "https://dev.to/kmsaifullah/backend-security-for-expressjs-with-nginx-vps-4afm",
+      "source": "dev.to",
+      "published_at": "2026-01-12T05:47:11.000Z",
+      "summary": "Summary: Backend Security for Express.js (With Nginx + VPS)"
     }
   ]
 }

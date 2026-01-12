@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-11T06:31:51.336Z",
+  "updated_at": "2026-01-12T06:32:30.808Z",
   "days": [
+    {
+      "date": "2026-01-12",
+      "page": "/news/2026-01-12.html",
+      "teaser": "Top: Hashicorp Vault: Transit Secrets Engine",
+      "count": 12,
+      "ids": [
+        "aafa048104111bad4a82847118dc5ddca081bcee",
+        "159701a74646dc1c5afa031612fc00c6efd921b2",
+        "db995faf34119a14d444051143361ea4a511aeda",
+        "5701b07eba724fc1ef08c12ca8ec50a8f927eb10",
+        "bd1214d15038864d04eb1d58784b4d5b81fa9ef1",
+        "b4d5e40074df53a6ebf7a25922ca7acca5315b9d",
+        "527f0ba4850b50238583ec2fa273777d4cec51de",
+        "d4527c85210898eb2ef1ba0a6b19abbf07bc4a62",
+        "4991f5c220a119dfc33c8489353d42c0f96a9c1e",
+        "b9308b10cbe6cd6308da20275454627d81835786",
+        "cc23bd37e1f0007a0203b115457047e3df79a069",
+        "859fc53e6e74fa19ee9f71b590e8970eac7a8087"
+      ]
+    },
     {
       "date": "2026-01-11",
       "page": "/news/2026-01-11.html",
