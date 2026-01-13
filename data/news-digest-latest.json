@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-12",
-  "updated_at": "2026-01-12T06:32:42.448Z",
-  "page": "/news/2026-01-12-news.html",
+  "date": "2026-01-13",
+  "updated_at": "2026-01-13T06:32:16.594Z",
+  "page": "/news/2026-01-13-news.html",
   "count": 12,
   "items": [
     {
-      "id": "b84f6ce4f327094aa06e5e3a8663301dfe85b07a",
-      "title": "Chinese arms exporters may be the big winners in any Pakistan-Saudi JF-17 talks",
-      "url": "https://www.scmp.com/news/china/military/article/3339553/chinese-arms-exporters-may-be-big-winners-any-pakistan-saudi-jf-17-talks?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-12T06:29:32.000Z",
-      "summary": "Summary: Chinese arms exporters may be the big winners in any Pakistan-Saudi JF-17 talks"
-    },
-    {
-      "id": "35a9feb2733115ea42e5c5df13946e37b9f35588",
-      "title": "Anger has simmered in Iran for years — here's what lit the flame",
-      "url": "https://www.abc.net.au/news/2026-01-12/why-are-people-protesting-in-iran/106219374",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-12T06:25:52.000Z",
-      "summary": "Summary: Anger has simmered in Iran for years — here's what lit the flame"
-    },
-    {
-      "id": "9784ee613f0a12691b42ca8dbd79c073bbdbea22",
-      "title": "Death toll from protests in Iran increases as Trump says Iran wants to talk",
-      "url": "https://www.npr.org/2026/01/12/g-s1-105652/trump-says-iran-wants-to-talk",
-      "source": "feeds.npr.org",
-      "published_at": "2026-01-12T06:24:04.000Z",
-      "summary": "Summary: Death toll from protests in Iran increases as Trump says Iran wants to talk"
-    },
-    {
-      "id": "5de4a1f651a950cd517822ae8be2905e164b55de",
-      "title": "Labor pledges fertility treatment rebates ahead of election",
-      "url": "https://www.abc.net.au/news/2026-01-12/labor-ivf-fertility-rebate-election-pledge/106220664",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-12T06:21:39.000Z",
-      "summary": "Summary: Labor pledges fertility treatment rebates ahead of election"
-    },
-    {
-      "id": "f04bd3cb08e708d8abb57821600f7a4c55ee3c0e",
-      "title": "Australia news live: Jacinda Ardern pulls out of Adelaide writers’ week as fallout from Randa Abdel-Fattah’s axing continues",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/12/victoria-bushfires-adelaide-festival-writers-week-board-chair-resigns-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
+      "id": "cfece962ee5bdd519179f62928cfa6dc098132f0",
+      "title": "Australia news live: Queensland stock losses from floods and cyclone top 50,000 amid fears ‘that is only the beginning’, premier says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/13/anthony-albanese-labor-hate-speech-laws-politics-coalition-sussan-ley-adelaide-festival-writers-week-reactions-victoria-bushfires-queensland-floods-ntwnfb",
       "source": "www.theguardian.com",
-      "published_at": "2026-01-12T06:17:51.000Z",
-      "summary": "Summary: Australia news live: Jacinda Ardern pulls out of Adelaide writers’ week as fallout from Randa Abdel-Fattah’s axing continues"
+      "published_at": "2026-01-13T06:29:51.000Z",
+      "summary": "Summary: Australia news live: Queensland stock losses from floods and cyclone top 50,000 amid fears ‘that is only the beginning’, premier says"
     },
     {
-      "id": "64b84444d2fdb91ad9293eaaa670061a1e25e669",
-      "title": "Huge Roman villa uncovered under popular park in ‘amazing discovery’",
-      "url": "https://www.bbc.com/news/articles/cgk8j1gkxelo?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-12T06:13:10.000Z",
-      "summary": "Summary: Huge Roman villa uncovered under popular park in ‘amazing discovery’"
-    },
-    {
-      "id": "e1fb14e0fd1812452f57ae9660ba70e25965cb9c",
-      "title": "Adelaide Writers' Week 'hangs in the balance' as Jacinda Ardern joins list of authors boycotting event",
-      "url": "https://www.abc.net.au/news/2026-01-12/future-of-adelaide-writers-week-hangs-in-balance/106219462",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-12T06:09:35.000Z",
-      "summary": "Summary: Adelaide Writers' Week 'hangs in the balance' as Jacinda Ardern joins list of authors boycotting event"
-    },
-    {
-      "id": "a276df85506d18da3bef241a87d791518bc90fb7",
-      "title": "Live: Trump says Iran wants to 'negotiate' as US threatens military action after hundreds killed",
-      "url": "https://www.france24.com/en/middle-east/20260112-live-trump-says-iran-wants-to-negotiate-after-us-threatens-military-intervention",
-      "source": "www.france24.com",
-      "published_at": "2026-01-12T06:09:19.000Z",
-      "summary": "Summary: Live: Trump says Iran wants to 'negotiate' as US threatens military action after hundreds killed"
-    },
-    {
-      "id": "49787a1fdd16c8687aa0701671284d43b17d97aa",
-      "title": "Iran protests live: US rhetoric rises as Tehran announces 3-day mourning",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/12/iran-protests-live-us-rhetoric-rises-as-tehran-announces-3-days-mourning?traffic_source=rss",
-      "source": "www.aljazeera.com",
-      "published_at": "2026-01-12T06:08:49.000Z",
-      "summary": "Summary: Iran protests live: US rhetoric rises as Tehran announces 3-day mourning"
-    },
-    {
-      "id": "3aa3f92078e0f504a10e2e4bac73bf3fe4273763",
-      "title": "Malaysian police seize drug-laced drinks worth US$246,000, dealer may face death penalty",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3339554/malaysian-police-seize-drug-laced-drinks-worth-us246000-dealer-faces-death-penalty?utm_source=rss_feed",
+      "id": "7693511052a2489283a3a6a6b4fa3b534568f48c",
+      "title": "Malaysian streetwear boss suspended after car chase video draws cries of entitlement",
+      "url": "https://www.scmp.com/week-asia/people/article/3339704/malaysian-streetwear-boss-suspended-after-car-chase-video-draws-cries-entitlement?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-01-12T06:06:29.000Z",
-      "summary": "Summary: Malaysian police seize drug-laced drinks worth US$246,000, dealer may face death penalty"
+      "published_at": "2026-01-13T06:27:34.000Z",
+      "summary": "Summary: Malaysian streetwear boss suspended after car chase video draws cries of entitlement"
     },
     {
-      "id": "6366a7bdc54d8e3fc55f87350d5f83010e572973",
-      "title": "Watch: Timothée Chalamet, Teyana Taylor, Adolescence and other highlights from the Golden Globes",
-      "url": "https://www.bbc.com/news/videos/ckgnr12902no?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-12T06:06:24.000Z",
-      "summary": "Summary: Watch: Timothée Chalamet, Teyana Taylor, Adolescence and other highlights from the Golden Globes"
+      "id": "5168010abca8eab1e8e6327f2d047e1470641f39",
+      "title": "WHO, ex-Hong Kong leader CY Leung’s charity pledge to boost health ties",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3339703/who-ex-hong-kong-leader-cy-leungs-charity-pledge-boost-health-ties?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-13T06:24:36.000Z",
+      "summary": "Summary: WHO, ex-Hong Kong leader CY Leung’s charity pledge to boost health ties"
     },
     {
-      "id": "5701b07eba724fc1ef08c12ca8ec50a8f927eb10",
-      "title": "V Ljubljani odslej občutno dražje parkiranje",
-      "url": "https://www.delo.si/novice/slovenija/v-ljubljani-odslej-obcutno-drazje-parkiranje",
-      "source": "www.delo.si",
-      "published_at": "2026-01-12T06:06:04.000Z",
-      "summary": "Summary: V Ljubljani odslej občutno dražje parkiranje"
+      "id": "63060182beb181fcf2911e3aaccdce47d7c2be03",
+      "title": "French farmers drive tractors into Paris to protest EU-Mercosur trade deal",
+      "url": "https://www.france24.com/en/france/20260113-french-farmers-drive-tractors-into-paris-to-protest-eu-mercosur-trade-deal",
+      "source": "www.france24.com",
+      "published_at": "2026-01-13T06:22:05.000Z",
+      "summary": "Summary: French farmers drive tractors into Paris to protest EU-Mercosur trade deal"
+    },
+    {
+      "id": "96b57126fdc099f619d905ea5b2166decf7b96c8",
+      "title": "Asio chief given powers to recommend organisations be proscribed as hate groups under Labor’s new laws",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/13/asio-chief-given-powers-to-recommend-organisations-be-proscribed-as-hate-groups-under-labors-new-laws",
+      "source": "www.theguardian.com",
+      "published_at": "2026-01-13T06:15:43.000Z",
+      "summary": "Summary: Asio chief given powers to recommend organisations be proscribed as hate groups under Labor’s new laws"
+    },
+    {
+      "id": "0c20c4e63aaf22483ebfca68c4f37b6accf5e8fc",
+      "title": "Former US Navy sailor jailed for 16 years for selling ship secrets to Chinese contact",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3339702/former-us-navy-sailor-jailed-16-years-selling-ship-secrets-chinese-contact?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-13T06:15:03.000Z",
+      "summary": "Summary: Former US Navy sailor jailed for 16 years for selling ship secrets to Chinese contact"
+    },
+    {
+      "id": "1ed2528193eed7f408880afeab42478b962aebf4",
+      "title": "Nemški minister ne pričakuje vojaškega posredovanja na Grenlandiji",
+      "url": "https://www.24ur.com/novice/tujina/nemski-minister-ne-pricakujem-vojaskega-posredovanja-na-grenlandiji.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-13T06:02:53.000Z",
+      "summary": "Summary: Nemški minister ne pričakuje vojaškega posredovanja na Grenlandiji"
+    },
+    {
+      "id": "82cc0eec2c93b873b1a8debb00dc8b42e68410af",
+      "title": "China’s central bank sets onshore yuan fixing at strongest point in nearly 16 months",
+      "url": "https://www.scmp.com/economy/china-economy/article/3339699/chinas-central-bank-sets-onshore-yuan-fixing-strongest-point-nearly-16-months?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-13T06:00:15.000Z",
+      "summary": "Summary: China’s central bank sets onshore yuan fixing at strongest point in nearly 16 months"
+    },
+    {
+      "id": "3a8c4f8ec5686186cf1fe3dd0dce4a2a3947b559",
+      "title": "China girl, 12, pens essay to thank ‘second dad’ for support, offers him US$140 after job loss",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3339019/china-girl-12-pens-essay-thank-second-dad-support-offers-him-us140-after-job-loss?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-13T06:00:11.000Z",
+      "summary": "Summary: China girl, 12, pens essay to thank ‘second dad’ for support, offers him US$140 after job loss"
+    },
+    {
+      "id": "861daabc117da5f098c69bfb4f64442d9c3efa6c",
+      "title": "Blake Shelton naslovil govorice, da se z Gwen Stefani ločujeta",
+      "url": "https://www.24ur.com/popin/tuja-scena/blake-shelton-naslovil-govorice-da-se-z-gwen-stefani-locujeta.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-13T06:00:08.000Z",
+      "summary": "Summary: Blake Shelton naslovil govorice, da se z Gwen Stefani ločujeta"
+    },
+    {
+      "id": "661d7ca94a898a140e246f43225520c8845b1369",
+      "title": "Australian author Craig Silvey charged with possessing and distributing child exploitation material",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/13/australian-author-craig-silvey-charged-child-exploitation-ntwnfb",
+      "source": "www.theguardian.com",
+      "published_at": "2026-01-13T05:59:39.000Z",
+      "summary": "Summary: Australian author Craig Silvey charged with possessing and distributing child exploitation material"
+    },
+    {
+      "id": "e8c52d75e9d4409b5e48969393b955409fafa003",
+      "title": "Who will replace Rudd as US ambassador? Defence boss, career diplomat and former ministers in mix",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/13/who-will-replace-kevin-rudd-us-ambassador-australia",
+      "source": "www.theguardian.com",
+      "published_at": "2026-01-13T05:56:46.000Z",
+      "summary": "Summary: Who will replace Rudd as US ambassador? Defence boss, career diplomat and former ministers in mix"
     }
   ]
 }

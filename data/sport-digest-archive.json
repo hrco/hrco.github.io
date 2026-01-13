@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-12T06:32:47.063Z",
+  "updated_at": "2026-01-13T06:32:22.404Z",
   "days": [
+    {
+      "date": "2026-01-13",
+      "page": "/news/2026-01-13-sport.html",
+      "teaser": "Top: Texans' Collins carted off with concussion in win",
+      "count": 12,
+      "ids": [
+        "859e73c6d104b806017c1a1feb79f3fe2ae4fbbd",
+        "6c3b803776bde9df83524e74013626549d42192c",
+        "11d653054e51185eab488aa64d9b65d939ea50a3",
+        "5f321cdee6037724c119b3128892fe582d7ae625",
+        "9a7114a9b90fbd77fdeeb80a84f9bba7f8dbf4fc",
+        "176b1af80a1a95859e848a5b901b2f9e89ec9b9f",
+        "00a06957403a718caf5a06d065945be656d34189",
+        "fabd5840a9cf15969a9ab7e68f0f9fd6019c9d63",
+        "1223f2715155430c5b27ad7a5649ca264631af44",
+        "7456a1f887a05a7ca38d338aa88a9f7aff58ca1c",
+        "cfcdfdc64852af7c3bf956c77475f36a5448a06c",
+        "119b0361c6361a936b25bd2a7243537a086a7ea4"
+      ]
+    },
     {
       "date": "2026-01-12",
       "page": "/news/2026-01-12-sport.html",

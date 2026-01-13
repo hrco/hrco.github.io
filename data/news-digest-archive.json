@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-12T06:32:42.448Z",
+  "updated_at": "2026-01-13T06:32:16.594Z",
   "days": [
+    {
+      "date": "2026-01-13",
+      "page": "/news/2026-01-13-news.html",
+      "teaser": "Top: Australia news live: Queensland stock losses from floods and cyclone top 50,000 amid fears ‘that is only the beginning’, premier says",
+      "count": 12,
+      "ids": [
+        "cfece962ee5bdd519179f62928cfa6dc098132f0",
+        "7693511052a2489283a3a6a6b4fa3b534568f48c",
+        "5168010abca8eab1e8e6327f2d047e1470641f39",
+        "63060182beb181fcf2911e3aaccdce47d7c2be03",
+        "96b57126fdc099f619d905ea5b2166decf7b96c8",
+        "0c20c4e63aaf22483ebfca68c4f37b6accf5e8fc",
+        "1ed2528193eed7f408880afeab42478b962aebf4",
+        "82cc0eec2c93b873b1a8debb00dc8b42e68410af",
+        "3a8c4f8ec5686186cf1fe3dd0dce4a2a3947b559",
+        "861daabc117da5f098c69bfb4f64442d9c3efa6c",
+        "661d7ca94a898a140e246f43225520c8845b1369",
+        "e8c52d75e9d4409b5e48969393b955409fafa003"
+      ]
+    },
     {
       "date": "2026-01-12",
       "page": "/news/2026-01-12-news.html",
