@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-13",
-  "updated_at": "2026-01-13T06:32:05.523Z",
-  "page": "/news/2026-01-13.html",
+  "date": "2026-01-14",
+  "updated_at": "2026-01-14T06:32:07.256Z",
+  "page": "/news/2026-01-14.html",
   "count": 12,
   "items": [
     {
-      "id": "59f569f7cc16d4b72239299832bb9ee59cf4cdac",
-      "title": "Design Within Reach Promo Codes: 30% Off | January 2026",
-      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-13T06:30:00.000Z",
-      "summary": "Summary: Design Within Reach Promo Codes: 30% Off | January 2026"
+      "id": "44f6255e052f73909f68cdbbaf625aa5d03203a7",
+      "title": "Dončić razpoložen v prvem polčasu, James v drugem za konec črne serije",
+      "url": "https://www.24ur.com/sport/kosarka/los-angeles-lakers_2.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-14T06:31:37.000Z",
+      "summary": "Summary: Dončić razpoložen v prvem polčasu, James v drugem za konec črne serije"
     },
     {
-      "id": "20bf516867a2910d3415d656f2cef16bd39b8108",
-      "title": "In-Memory Databases Are Overrated — Here’s What Actually Matters for Speed\"",
-      "url": "https://dev.to/esproc_spl/in-memory-databases-are-overrated-heres-what-actually-matters-for-speed-3ho1",
+      "id": "71605db131b7fc9fcf66082e0c58438436accdf2",
+      "title": "Razigrani LeBron James povedel Los Angeles do visoke zmage",
+      "url": "https://www.delo.si/sport/kosarka/razigrani-lebron-james-vodil-lakers-do-visoke-zmage",
+      "source": "www.delo.si",
+      "published_at": "2026-01-14T06:26:00.000Z",
+      "summary": "Summary: Razigrani LeBron James povedel Los Angeles do visoke zmage"
+    },
+    {
+      "id": "a3df02442c0f238842aa0cd2577af604aaed43b9",
+      "title": "Claude Code Plugin CLI: The Missing Manual",
+      "url": "https://dev.to/garyj/claude-code-plugin-cli-the-missing-manual-40nf",
       "source": "dev.to",
-      "published_at": "2026-01-13T06:24:32.000Z",
-      "summary": "Summary: In-Memory Databases Are Overrated — Here’s What Actually Matters for Speed\""
+      "published_at": "2026-01-14T06:25:51.000Z",
+      "summary": "Summary: Claude Code Plugin CLI: The Missing Manual"
     },
     {
-      "id": "d8cf3b48cebb8bacd2b372387a7caa95733decb7",
-      "title": "Ask Our AI Experts: An AMA With Our Tech Leads",
-      "url": "https://dev.to/capestart/ask-our-ai-experts-an-ama-with-our-tech-leads-2cn6",
+      "id": "471dd128f1d034a504dba9da39f84f0a5a1e0b53",
+      "title": "Vidne in nevidne motnje, ki poganjajo umetnost",
+      "url": "https://www.rtvslo.si/kultura/vizualna-umetnost/vidne-in-nevidne-motnje-ki-poganjajo-umetnost/769983",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-14T06:24:07.000Z",
+      "summary": "Summary: Vidne in nevidne motnje, ki poganjajo umetnost"
+    },
+    {
+      "id": "6e2695d1d291ddc04d1b358eb1867eb20fb19678",
+      "title": "Recept dneva: Gosta piščančja obara (VIDEO)",
+      "url": "https://www.delo.si/magazin/kulinarika/r-recept-dneva-gosta-piscancja-obara-video",
+      "source": "www.delo.si",
+      "published_at": "2026-01-14T06:23:00.000Z",
+      "summary": "Summary: Recept dneva: Gosta piščančja obara (VIDEO)"
+    },
+    {
+      "id": "dc6bae42a33710cd359ffdb556efadf21996ddea",
+      "title": "Understanding the RAM Model of Computation",
+      "url": "https://dev.to/ali_algmass/understanding-the-ram-model-of-computation-224p",
       "source": "dev.to",
-      "published_at": "2026-01-13T06:24:09.000Z",
-      "summary": "Summary: Ask Our AI Experts: An AMA With Our Tech Leads"
+      "published_at": "2026-01-14T06:21:25.000Z",
+      "summary": "Summary: Understanding the RAM Model of Computation"
     },
     {
-      "id": "27e9a11990a9328f7bf591750f65d731f9be68c3",
-      "title": "Roebuck: Protests Alone Unlikely to Lead to Regime Change",
-      "url": "https://www.bloomberg.com/news/videos/2026-01-13/roebuck-protest-alone-unlikely-to-lead-to-regime-change-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-13T06:22:01.000Z",
-      "summary": "Summary: Roebuck: Protests Alone Unlikely to Lead to Regime Change"
+      "id": "79e062f3caa1b09581cb13fd03356d102bd33c5b",
+      "title": "Gradbeni žerjav padel na potniški vlak, ki je peljal mimo",
+      "url": "https://www.24ur.com/novice/tujina/gradbeni-zerjav-padel-na-premikajoci-se-potniski-vlak.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-14T06:19:54.000Z",
+      "summary": "Summary: Gradbeni žerjav padel na potniški vlak, ki je peljal mimo"
     },
     {
-      "id": "afdd1f8cfcd73b9a26d64b07e976e56dc9cff3a6",
-      "title": "WJb Solution Alive Samples – Minimal & Powerful Job Scheduling in .NET",
-      "url": "https://dev.to/ukrguru/wjb-solution-alive-samples-minimal-powerful-job-scheduling-in-net-1cpc",
+      "id": "1ebb1a6b95021b3d8c6aec328b7002fab9c6665f",
+      "title": "CES 2026: My top 5 picks!",
+      "url": "https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4",
       "source": "dev.to",
-      "published_at": "2026-01-13T06:21:47.000Z",
-      "summary": "Summary: WJb Solution Alive Samples – Minimal & Powerful Job Scheduling in .NET"
+      "published_at": "2026-01-14T06:13:02.000Z",
+      "summary": "Summary: CES 2026: My top 5 picks!"
     },
     {
-      "id": "78bc9f388893ccc128b73ab5fdec87ee53581d49",
-      "title": "Struyven: Very Focused on Actual Disruptions to Oil Supply",
-      "url": "https://www.bloomberg.com/news/videos/2026-01-13/struyven-focused-on-actual-disruptions-to-oil-supply-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-13T06:20:53.000Z",
-      "summary": "Summary: Struyven: Very Focused on Actual Disruptions to Oil Supply"
+      "id": "9d4dbc713eef40242b230043a32f5ba94269abbc",
+      "title": "The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel",
+      "url": "https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70",
+      "source": "dev.to",
+      "published_at": "2026-01-14T06:12:54.000Z",
+      "summary": "Summary: The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel"
     },
     {
-      "id": "85061693353cc0be13361c7736cc9aacb2c8f1da",
-      "title": "20% Off LG Promo Code & Coupons | January 2026",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-13T06:20:00.000Z",
-      "summary": "Summary: 20% Off LG Promo Code & Coupons | January 2026"
+      "id": "587de85caefd703c82af5d96d0edb0d256ce490d",
+      "title": "Tomlin se je po 19 letih poslovil od Pittsburgha",
+      "url": "https://www.rtvslo.si/sport/preostali-sporti/liga-nfl-v-ameriskem-nogometu/tomlin-se-je-po-19-letih-poslovil-od-pittsburgha/770034",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-14T06:11:28.000Z",
+      "summary": "Summary: Tomlin se je po 19 letih poslovil od Pittsburgha"
     },
     {
-      "id": "51764bf095c16bd50a33b7e4cf1268611534b001",
-      "title": "AirDoctor Coupon Codes: 40% Off | January 2026",
-      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-13T06:10:00.000Z",
-      "summary": "Summary: AirDoctor Coupon Codes: 40% Off | January 2026"
-    },
-    {
-      "id": "0713b10aad232db809a7f3b289f96cdfb67e0e21",
-      "title": "Detecting MIME Types in Go",
-      "url": "https://rnemeth90.github.io/posts/2024-03-27-golang-detect-file-type/",
+      "id": "436c5533025ac19fad2e05c7a3e5ab48255a8589",
+      "title": "Why We Don't Use AI",
+      "url": "https://yarnspinner.dev/blog/why-we-dont-use-ai/",
       "source": "lobste.rs",
-      "published_at": "2026-01-13T06:09:55.000Z",
-      "summary": "Summary: Detecting MIME Types in Go"
+      "published_at": "2026-01-14T06:10:18.000Z",
+      "summary": "Summary: Why We Don't Use AI"
     },
     {
-      "id": "1ed2528193eed7f408880afeab42478b962aebf4",
-      "title": "Nemški minister ne pričakuje vojaškega posredovanja na Grenlandiji",
-      "url": "https://www.24ur.com/novice/tujina/nemski-minister-ne-pricakujem-vojaskega-posredovanja-na-grenlandiji.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-13T06:02:53.000Z",
-      "summary": "Summary: Nemški minister ne pričakuje vojaškega posredovanja na Grenlandiji"
-    },
-    {
-      "id": "9b35fbf393e20d1f03d2d9613c087c59987a0594",
-      "title": "How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and Markdown",
-      "url": "https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2",
-      "source": "dev.to",
-      "published_at": "2026-01-13T06:00:35.000Z",
-      "summary": "Summary: How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and Markdown"
-    },
-    {
-      "id": "861daabc117da5f098c69bfb4f64442d9c3efa6c",
-      "title": "Blake Shelton naslovil govorice, da se z Gwen Stefani ločujeta",
-      "url": "https://www.24ur.com/popin/tuja-scena/blake-shelton-naslovil-govorice-da-se-z-gwen-stefani-locujeta.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-13T06:00:08.000Z",
-      "summary": "Summary: Blake Shelton naslovil govorice, da se z Gwen Stefani ločujeta"
+      "id": "7f25f8e754ab4c84f7539009132a23044829ffa5",
+      "title": "Lenovo Coupon Codes and Deals: $5,000+ Off",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-14T06:10:00.000Z",
+      "summary": "Summary: Lenovo Coupon Codes and Deals: $5,000+ Off"
     }
   ]
 }

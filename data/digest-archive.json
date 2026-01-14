@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-13T06:32:05.523Z",
+  "updated_at": "2026-01-14T06:32:07.256Z",
   "days": [
+    {
+      "date": "2026-01-14",
+      "page": "/news/2026-01-14.html",
+      "teaser": "Top: Dončić razpoložen v prvem polčasu, James v drugem za konec črne serije",
+      "count": 12,
+      "ids": [
+        "44f6255e052f73909f68cdbbaf625aa5d03203a7",
+        "71605db131b7fc9fcf66082e0c58438436accdf2",
+        "a3df02442c0f238842aa0cd2577af604aaed43b9",
+        "471dd128f1d034a504dba9da39f84f0a5a1e0b53",
+        "6e2695d1d291ddc04d1b358eb1867eb20fb19678",
+        "dc6bae42a33710cd359ffdb556efadf21996ddea",
+        "79e062f3caa1b09581cb13fd03356d102bd33c5b",
+        "1ebb1a6b95021b3d8c6aec328b7002fab9c6665f",
+        "9d4dbc713eef40242b230043a32f5ba94269abbc",
+        "587de85caefd703c82af5d96d0edb0d256ce490d",
+        "436c5533025ac19fad2e05c7a3e5ab48255a8589",
+        "7f25f8e754ab4c84f7539009132a23044829ffa5"
+      ]
+    },
     {
       "date": "2026-01-13",
       "page": "/news/2026-01-13.html",
