@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-14T06:32:18.855Z",
+  "updated_at": "2026-01-15T06:32:14.767Z",
   "days": [
+    {
+      "date": "2026-01-15",
+      "page": "/news/2026-01-15-news.html",
+      "teaser": "Top: Na prvi preizkušnji za novega trenerja tudi prvi šok",
+      "count": 12,
+      "ids": [
+        "9953818ababc6dd446c73942f9af0358e28bdc28",
+        "32d72ef024d9adca3a2c08630049ed41f29d79af",
+        "2025cc06ce1a6b03174d712666f6a21c9e0ad50b",
+        "24712a623c6c400ad1792e866f80d4c5a774a51c",
+        "b9d17400ce8007539dc0a6303701f54ed98a39a6",
+        "0a1164ac1d15ceb27ac43161c796806bbda07642",
+        "8b757062b514d5a42e548f586fa802e300ebe45e",
+        "087039f1c204d61bdfd340aa97206041db570ab0",
+        "8df9f5c209fa0fb059d088ff2843421a60302ba7",
+        "d93ef1ed3ad88b3378f4f4eb56861abbfe71b336",
+        "a68e4d2a324893c24e21eb5c52c4f339fba3ae77",
+        "522c3613006729994fcc14a37d23ba9690fb0add"
+      ]
+    },
     {
       "date": "2026-01-14",
       "page": "/news/2026-01-14-news.html",

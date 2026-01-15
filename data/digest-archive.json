@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-14T06:32:07.256Z",
+  "updated_at": "2026-01-15T06:32:04.078Z",
   "days": [
+    {
+      "date": "2026-01-15",
+      "page": "/news/2026-01-15.html",
+      "teaser": "Top: First-ever free Hytale servers are up thanks to Tubbo and Play Hosting collab",
+      "count": 12,
+      "ids": [
+        "d871bf13a0fc8a769bfe5361a1d1bb08c4a31849",
+        "9953818ababc6dd446c73942f9af0358e28bdc28",
+        "a97b91a0f595769b58c6f8d4b9a77928676b937a",
+        "32d72ef024d9adca3a2c08630049ed41f29d79af",
+        "548596859dbc02d657fa49ae8cf940cd83f8b7c1",
+        "f0bdbc6ec8ac29b9f9e84a3e5f40a465c43157b7",
+        "ac0d2747df4c4ff1adcc02ca5c5e0f3049e7ee8d",
+        "fd2fc1f84ebaa49ff7e0c11d5d41c85f9bc58ef2",
+        "4a5da777bb004b311df94c03e378506cc7b29ac6",
+        "075ebf14ead472e76b95ceca9d6f201687dc66ac",
+        "9aa022f7319971f478a6adf31524788c542e19ee",
+        "7ae1f2b0f80db8ad6f4b938adc444e29ce738245"
+      ]
+    },
     {
       "date": "2026-01-14",
       "page": "/news/2026-01-14.html",

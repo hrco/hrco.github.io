@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-14",
-  "updated_at": "2026-01-14T06:32:23.916Z",
-  "page": "/news/2026-01-14-sport.html",
+  "date": "2026-01-15",
+  "updated_at": "2026-01-15T06:32:20.179Z",
+  "page": "/news/2026-01-15-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "177e7761ba5a039a53fce1efa2dc110aaa402089",
-      "title": "England opener Salt set to join Welsh Fire",
-      "url": "https://www.bbc.com/sport/cricket/articles/c24gvvj0p08o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-14T06:21:33.000Z",
-      "summary": "Summary: England opener Salt set to join Welsh Fire"
+      "id": "d871bf13a0fc8a769bfe5361a1d1bb08c4a31849",
+      "title": "First-ever free Hytale servers are up thanks to Tubbo and Play Hosting collab",
+      "url": "https://dotesports.com/indies/news/tubbo-free-hytale-servers",
+      "source": "dotesports.com",
+      "published_at": "2026-01-15T06:31:29.000Z",
+      "summary": "Summary: First-ever free Hytale servers are up thanks to Tubbo and Play Hosting collab"
     },
     {
-      "id": "fc657e7fc9ae5b50dc6a7341c39473b7d5258fde",
-      "title": "Tomlin steps down; not expected to coach in '26",
-      "url": "https://www.espn.com/nfl/story/_/id/47600644/sources-mike-tomlin-step-steelers-head-coach",
-      "source": "www.espn.com",
-      "published_at": "2026-01-14T05:59:33.000Z",
-      "summary": "Summary: Tomlin steps down; not expected to coach in '26"
-    },
-    {
-      "id": "d90db1723c87a3d4a7838cb54173136e056bc657",
-      "title": "'Elite' Peterson, KU hand No. 2 Iowa St. 1st loss",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47605687/kansas-bounces-back-hands-iowa-state-first-loss-season",
-      "source": "www.espn.com",
-      "published_at": "2026-01-14T05:59:33.000Z",
-      "summary": "Summary: 'Elite' Peterson, KU hand No. 2 Iowa St. 1st loss"
-    },
-    {
-      "id": "e0351ff9ff5a62504f8920537a303b219d05ccfc",
-      "title": "Giannis boos fans back as Bucks drubbed at home",
-      "url": "https://www.espn.com/nba/story/_/id/47606001/giannis-antetokounmpo-boos-fans-back-bucks-drubbed-home",
-      "source": "www.espn.com",
-      "published_at": "2026-01-14T05:59:33.000Z",
-      "summary": "Summary: Giannis boos fans back as Bucks drubbed at home"
-    },
-    {
-      "id": "fd60263374ed629cb4c4d68d16aee22a2a122600",
-      "title": "Mavs' Davis won't have surgery; out six weeks",
-      "url": "https://www.espn.com/nba/story/_/id/47603292/sources-anthony-davis-forgoes-surgery-reevaluated-6-weeks",
-      "source": "www.espn.com",
-      "published_at": "2026-01-14T05:59:33.000Z",
-      "summary": "Summary: Mavs' Davis won't have surgery; out six weeks"
-    },
-    {
-      "id": "bdee7b2998dfa5057c15f1a8d148a0546900ccbe",
-      "title": "Tiger: 'Incredible' to have Koepka back on tour",
-      "url": "https://www.espn.com/golf/story/_/id/47603547/tiger-woods-happy-brooks-koepka-back-says-own-return-aways-off",
-      "source": "www.espn.com",
-      "published_at": "2026-01-14T05:59:33.000Z",
-      "summary": "Summary: Tiger: 'Incredible' to have Koepka back on tour"
-    },
-    {
-      "id": "bb0d8fba356333defc640323b23920d20930e628",
-      "title": "Sources: Mets offer Tucker in $50M AAV ballpark",
-      "url": "https://www.espn.com/mlb/story/_/id/47602351/sources-kyle-tucker-fields-offers-mets-blue-jays",
-      "source": "www.espn.com",
-      "published_at": "2026-01-14T05:59:33.000Z",
-      "summary": "Summary: Sources: Mets offer Tucker in $50M AAV ballpark"
-    },
-    {
-      "id": "e99921b51d792a1a88ed96d31587134055eb420c",
-      "title": "Sources: Oregon TE Sadiq to declare for NFL draft",
-      "url": "https://www.espn.com/college-football/story/_/id/47603248/oregon-te-kenyon-sadiq-declare-nfl-draft",
-      "source": "www.espn.com",
-      "published_at": "2026-01-14T05:59:33.000Z",
-      "summary": "Summary: Sources: Oregon TE Sadiq to declare for NFL draft"
-    },
-    {
-      "id": "b03258d4c743b3fb8eda4b3912a5fd858cf77250",
-      "title": "Sources: Freeman to stay at ND despite NFL jobs",
-      "url": "https://www.espn.com/college-football/story/_/id/47602410/sources-marcus-freeman-stay-notre-dame-interest-nfl",
-      "source": "www.espn.com",
-      "published_at": "2026-01-14T05:59:33.000Z",
-      "summary": "Summary: Sources: Freeman to stay at ND despite NFL jobs"
-    },
-    {
-      "id": "ec77db50b6dcf9507ed13c905c03f2c17c95f9df",
-      "title": "🏈 Best of bowl season: Mascots, mayhem, more",
-      "url": "https://www.espn.com/college-football/story/_/id/47593500/best-2025-college-football-bowl-games",
-      "source": "www.espn.com",
-      "published_at": "2026-01-14T05:59:33.000Z",
-      "summary": "Summary: 🏈 Best of bowl season: Mascots, mayhem, more"
-    },
-    {
-      "id": "1b7bbf823be731d1fecb7d2e55bf1c35b8c2105e",
-      "title": "UConn finally wins at Seton Hall, continues exorcising demons that plagued program last season",
-      "url": "https://www.cbssports.com/college-basketball/news/uconn-seton-hall-score-analysis-dan-hurley-game-recap-highlights/",
+      "id": "73b2b95473b1bb104382d2d68f671d48945d0edd",
+      "title": "Giants working to finalize deal and hire John Harbaugh as their next coach, per report",
+      "url": "https://www.cbssports.com/nfl/news/giants-to-finalize-deal-and-hire-john-harbaugh-next-coach-per-report/",
       "source": "www.cbssports.com",
-      "published_at": "2026-01-14T05:56:13.000Z",
-      "summary": "Summary: UConn finally wins at Seton Hall, continues exorcising demons that plagued program last season"
+      "published_at": "2026-01-15T06:28:09.000Z",
+      "summary": "Summary: Giants working to finalize deal and hire John Harbaugh as their next coach, per report"
     },
     {
-      "id": "a6499655acdfcf3504fad60fadc4ff743bdc3e09",
-      "title": "NBA sides with Celts' Mazzulla: Screen was illegal",
-      "url": "https://www.espn.com/nba/story/_/id/47602172/nba-sides-celtics-mazzulla-says-siakam-screen-illegal",
+      "id": "b63a3c50f0babe9d6bb794f557c0f41d9ca43bc9",
+      "title": "CFP National Championship game first look: Previewing Miami-Indiana",
+      "url": "https://www.espn.com/college-football/story/_/id/47560626/college-football-playoff-national-championship-preview-miami-indiana",
       "source": "www.espn.com",
-      "published_at": "2026-01-14T05:53:38.000Z",
-      "summary": "Summary: NBA sides with Celts' Mazzulla: Screen was illegal"
+      "published_at": "2026-01-15T06:06:57.000Z",
+      "summary": "Summary: CFP National Championship game first look: Previewing Miami-Indiana"
+    },
+    {
+      "id": "c5b83b8f86fb77208c267b951b3bd4f6e6d9b08e",
+      "title": "How Miami offensive coordinator Shannon Dawson emerged from nowhere",
+      "url": "https://www.espn.com/college-football/story/_/id/47590059/college-football-playoff-shannon-dawson-miami",
+      "source": "www.espn.com",
+      "published_at": "2026-01-15T06:06:56.000Z",
+      "summary": "Summary: How Miami offensive coordinator Shannon Dawson emerged from nowhere"
+    },
+    {
+      "id": "d36ee8470c428bd9b7259a6526832a0bb1cc91b7",
+      "title": "How To Watch UFC In Australia 2026",
+      "url": "https://www.ufc.com/news/how-to-watch-ufc-in-australia-2026",
+      "source": "www.ufc.com",
+      "published_at": "2026-01-15T06:00:00.000Z",
+      "summary": "Summary: How To Watch UFC In Australia 2026"
+    },
+    {
+      "id": "a614ead5a388fe50779efc4d8d87bae0649c5126",
+      "title": "How To Watch UFC In New Zealand 2026",
+      "url": "https://www.ufc.com/news/how-to-watch-ufc-in-new-zealand-2026",
+      "source": "www.ufc.com",
+      "published_at": "2026-01-15T06:00:00.000Z",
+      "summary": "Summary: How To Watch UFC In New Zealand 2026"
+    },
+    {
+      "id": "1ffd7e42d9e3e0d56d9621deebd061c21bdc5e15",
+      "title": "Mavs' Flagg exits loss to Nuggets with ankle sprain",
+      "url": "https://www.espn.com/nba/story/_/id/47615990/mavericks-cooper-flagg-exits-vs-nuggets-ankle-sprain",
+      "source": "www.espn.com",
+      "published_at": "2026-01-15T05:50:38.000Z",
+      "summary": "Summary: Mavs' Flagg exits loss to Nuggets with ankle sprain"
+    },
+    {
+      "id": "6fb67162479329e95b678cdf781e08df7dfe409d",
+      "title": "Young (MCL, quad) still out through All-Star break",
+      "url": "https://www.espn.com/nba/story/_/id/47611976/sources-wizards-trae-young-all-star-break",
+      "source": "www.espn.com",
+      "published_at": "2026-01-15T05:50:38.000Z",
+      "summary": "Summary: Young (MCL, quad) still out through All-Star break"
+    },
+    {
+      "id": "a300b629f11152cb6ebef09c4b7ab6e6c7bd0b4a",
+      "title": "Coco, Venus could meet early at Australian Open",
+      "url": "https://www.espn.com/tennis/story/_/id/47616332/australian-open-draw-coco-gauff-venus-williams-meet-2nd-round-jannik-sinner-novak-djokovic-potential-semifinal",
+      "source": "www.espn.com",
+      "published_at": "2026-01-15T05:50:38.000Z",
+      "summary": "Summary: Coco, Venus could meet early at Australian Open"
+    },
+    {
+      "id": "ffbdfccf9aba8bcb46ae5c0ae756d5862aaefbeb",
+      "title": "LB Styles joins Buckeyes stars declaring for draft",
+      "url": "https://www.espn.com/college-football/story/_/id/47613219/sonny-styles-joins-ohio-state-stars-declaring-nfl-draft",
+      "source": "www.espn.com",
+      "published_at": "2026-01-15T05:50:38.000Z",
+      "summary": "Summary: LB Styles joins Buckeyes stars declaring for draft"
+    },
+    {
+      "id": "eed1bcd4fb97a5e1b5f3c3617fd6378a8086930d",
+      "title": "🏈 Transfer portal: Teams that found best fits",
+      "url": "https://www.espn.com/college-football/story/_/id/47600962/ncaa-football-transfer-portal-teams-best-fits-2026",
+      "source": "www.espn.com",
+      "published_at": "2026-01-15T05:50:38.000Z",
+      "summary": "Summary: 🏈 Transfer portal: Teams that found best fits"
+    },
+    {
+      "id": "4456590fdba2c6bd6d4e454d24c567d098a8e2b3",
+      "title": "Texas knocks off No. 10 Vanderbilt in latest upset",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47616196/texas-men-basketball-deals-vanderbilt-first-loss-season",
+      "source": "www.espn.com",
+      "published_at": "2026-01-15T05:50:37.000Z",
+      "summary": "Summary: Texas knocks off No. 10 Vanderbilt in latest upset"
     }
   ]
 }

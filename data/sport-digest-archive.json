@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-14T06:32:23.916Z",
+  "updated_at": "2026-01-15T06:32:20.179Z",
   "days": [
+    {
+      "date": "2026-01-15",
+      "page": "/news/2026-01-15-sport.html",
+      "teaser": "Top: First-ever free Hytale servers are up thanks to Tubbo and Play Hosting collab",
+      "count": 12,
+      "ids": [
+        "d871bf13a0fc8a769bfe5361a1d1bb08c4a31849",
+        "73b2b95473b1bb104382d2d68f671d48945d0edd",
+        "b63a3c50f0babe9d6bb794f557c0f41d9ca43bc9",
+        "c5b83b8f86fb77208c267b951b3bd4f6e6d9b08e",
+        "d36ee8470c428bd9b7259a6526832a0bb1cc91b7",
+        "a614ead5a388fe50779efc4d8d87bae0649c5126",
+        "1ffd7e42d9e3e0d56d9621deebd061c21bdc5e15",
+        "6fb67162479329e95b678cdf781e08df7dfe409d",
+        "a300b629f11152cb6ebef09c4b7ab6e6c7bd0b4a",
+        "ffbdfccf9aba8bcb46ae5c0ae756d5862aaefbeb",
+        "eed1bcd4fb97a5e1b5f3c3617fd6378a8086930d",
+        "4456590fdba2c6bd6d4e454d24c567d098a8e2b3"
+      ]
+    },
     {
       "date": "2026-01-14",
       "page": "/news/2026-01-14-sport.html",
