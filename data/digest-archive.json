@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-15T06:32:04.078Z",
+  "updated_at": "2026-01-16T06:32:03.138Z",
   "days": [
+    {
+      "date": "2026-01-16",
+      "page": "/news/2026-01-16.html",
+      "teaser": "Top: Miran Tepeš: Popolno združevanje ženskih in moških tekem bi bilo napaka",
+      "count": 12,
+      "ids": [
+        "62c66c0dcb616c28ac26f0839f619b500730d4b0",
+        "9f1ec481fef49e645b53427f08e5ecd520a1ae54",
+        "9701158588cbb9f42af5d44b26e54392fa9c4aea",
+        "9266b5a9908dd4b86da48b7612ea0a39dacb08f9",
+        "35e03343b01a96c77843611cbe2d77e968fb1662",
+        "45afa23f72150de6ad2fdb62ee30a68825d0d1f5",
+        "fae4d0c9a1aee70c3daee80addbccaef02a8a442",
+        "6e43f9bb3bd763f908cdb8b63fd128160f1b5cba",
+        "cef8914e41a23d7c412c0d626d77748a6c1321d5",
+        "78d9dd7fe9d8e055e210c985d7ca4fce73fd5a2e",
+        "d76343ef0981a7c745d1ee0cb4d630e31dd6df93",
+        "f97b55c6ffc20dc0b54af9d23cb3bbfa08200dfc"
+      ]
+    },
     {
       "date": "2026-01-15",
       "page": "/news/2026-01-15.html",

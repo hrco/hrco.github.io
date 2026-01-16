@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-15",
-  "updated_at": "2026-01-15T06:32:04.078Z",
-  "page": "/news/2026-01-15.html",
+  "date": "2026-01-16",
+  "updated_at": "2026-01-16T06:32:03.138Z",
+  "page": "/news/2026-01-16.html",
   "count": 12,
   "items": [
     {
-      "id": "d871bf13a0fc8a769bfe5361a1d1bb08c4a31849",
-      "title": "First-ever free Hytale servers are up thanks to Tubbo and Play Hosting collab",
-      "url": "https://dotesports.com/indies/news/tubbo-free-hytale-servers",
-      "source": "dotesports.com",
-      "published_at": "2026-01-15T06:31:29.000Z",
-      "summary": "Summary: First-ever free Hytale servers are up thanks to Tubbo and Play Hosting collab"
-    },
-    {
-      "id": "9953818ababc6dd446c73942f9af0358e28bdc28",
-      "title": "Na prvi preizkušnji za novega trenerja tudi prvi šok",
-      "url": "https://www.delo.si/sport/nogomet/na-prvi-preizkusnji-za-novega-trenerja-tudi-prvi-sok",
-      "source": "www.delo.si",
-      "published_at": "2026-01-15T06:29:02.000Z",
-      "summary": "Summary: Na prvi preizkušnji za novega trenerja tudi prvi šok"
-    },
-    {
-      "id": "a97b91a0f595769b58c6f8d4b9a77928676b937a",
-      "title": "เพิ่มประสิทธิภาพการทำงาน ด้วย Agile process",
-      "url": "https://dev.to/__00/ephimprasiththiphaaphkaarthamngaan-dwy-agile-process-307o",
-      "source": "dev.to",
-      "published_at": "2026-01-15T06:28:07.000Z",
-      "summary": "Summary: เพิ่มประสิทธิภาพการทำงาน ด้วย Agile process"
-    },
-    {
-      "id": "32d72ef024d9adca3a2c08630049ed41f29d79af",
-      "title": "Nasa evakuirala štiri astronavte iz Mednarodne vesoljske postaje",
-      "url": "https://www.rtvslo.si/znanost-in-tehnologija/nasa-evakuirala-stiri-astronavte-iz-mednarodne-vesoljske-postaje/770150",
+      "id": "62c66c0dcb616c28ac26f0839f619b500730d4b0",
+      "title": "Miran Tepeš: Popolno združevanje ženskih in moških tekem bi bilo napaka",
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/miran-tepes-popolno-zdruzevanje-zenskih-in-moskih-tekem-bi-bilo-napaka/769969",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-15T06:23:06.000Z",
-      "summary": "Summary: Nasa evakuirala štiri astronavte iz Mednarodne vesoljske postaje"
+      "published_at": "2026-01-16T06:25:58.000Z",
+      "summary": "Summary: Miran Tepeš: Popolno združevanje ženskih in moških tekem bi bilo napaka"
     },
     {
-      "id": "548596859dbc02d657fa49ae8cf940cd83f8b7c1",
-      "title": "👗 StyleMatch - Your AI Personal Fashion Stylist",
-      "url": "https://dev.to/simranshaikh20_50/stylematch-your-ai-personal-fashion-stylist-247m",
+      "id": "9f1ec481fef49e645b53427f08e5ecd520a1ae54",
+      "title": "Histomat of F/OSS: We should reclaim LLMs, not reject them",
+      "url": "https://writings.hongminhee.org/2026/01/histomat-foss-llm/",
+      "source": "lobste.rs",
+      "published_at": "2026-01-16T06:24:49.000Z",
+      "summary": "Summary: Histomat of F/OSS: We should reclaim LLMs, not reject them"
+    },
+    {
+      "id": "9701158588cbb9f42af5d44b26e54392fa9c4aea",
+      "title": "V-Order optimization",
+      "url": "https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g",
       "source": "dev.to",
-      "published_at": "2026-01-15T06:21:32.000Z",
-      "summary": "Summary: 👗 StyleMatch - Your AI Personal Fashion Stylist"
+      "published_at": "2026-01-16T06:17:23.000Z",
+      "summary": "Summary: V-Order optimization"
     },
     {
-      "id": "f0bdbc6ec8ac29b9f9e84a3e5f40a465c43157b7",
-      "title": "The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month",
-      "url": "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi",
+      "id": "9266b5a9908dd4b86da48b7612ea0a39dacb08f9",
+      "title": "Na štajerski avtocesti umrl 28-letni voznik kombija",
+      "url": "https://www.24ur.com/novice/crna-kronika/v-trcenju-cisterne-in-kombija-umrl-28-letni-voznik.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-16T06:14:36.000Z",
+      "summary": "Summary: Na štajerski avtocesti umrl 28-letni voznik kombija"
+    },
+    {
+      "id": "35e03343b01a96c77843611cbe2d77e968fb1662",
+      "title": "From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka (KRaft) and ELK",
+      "url": "https://dev.to/srikantvs26/from-chaos-to-clarity-building-a-robust-log-aggregation-pipeline-with-kafka-kraft-and-elk-37bb",
       "source": "dev.to",
-      "published_at": "2026-01-15T06:20:54.000Z",
-      "summary": "Summary: The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month"
+      "published_at": "2026-01-16T06:12:51.000Z",
+      "summary": "Summary: From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka (KRaft) and ELK"
     },
     {
-      "id": "ac0d2747df4c4ff1adcc02ca5c5e0f3049e7ee8d",
-      "title": "Minneapolis Tensions Rise With Traffic Stop Shooting, Tear Gas",
-      "url": "https://www.bloomberg.com/news/videos/2026-01-15/minneapolis-traffic-stop-shooting-fuels-further-tensions-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-15T06:17:14.000Z",
-      "summary": "Summary: Minneapolis Tensions Rise With Traffic Stop Shooting, Tear Gas"
+      "id": "45afa23f72150de6ad2fdb62ee30a68825d0d1f5",
+      "title": "Level 0 of my DevOps journey",
+      "url": "https://dev.to/alok38/level-0-of-my-devops-journey-1em3",
+      "source": "dev.to",
+      "published_at": "2026-01-16T06:12:30.000Z",
+      "summary": "Summary: Level 0 of my DevOps journey"
     },
     {
-      "id": "fd2fc1f84ebaa49ff7e0c11d5d41c85f9bc58ef2",
-      "title": "Korea Cuts Naver and NCSoft Units From Intense Sovereign AI Race",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-15/korea-cuts-naver-and-ncsoft-units-from-intense-sovereign-ai-race",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-15T06:11:46.000Z",
-      "summary": "Summary: Korea Cuts Naver and NCSoft Units From Intense Sovereign AI Race"
+      "id": "fae4d0c9a1aee70c3daee80addbccaef02a8a442",
+      "title": "❌ Stop Using Singleton. You Don’t Need It (And It’s Quietly Hurting Your Code)",
+      "url": "https://dev.to/tech_rider/stop-using-singleton-you-dont-need-it-and-its-quietly-hurting-your-code-1dck",
+      "source": "dev.to",
+      "published_at": "2026-01-16T06:07:13.000Z",
+      "summary": "Summary: ❌ Stop Using Singleton. You Don’t Need It (And It’s Quietly Hurting Your Code)"
     },
     {
-      "id": "4a5da777bb004b311df94c03e378506cc7b29ac6",
-      "title": "India’s Russia Oil Trade May Dip Again, Stranding Cargoes at Sea",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-15/india-s-russia-oil-trade-may-dip-again-stranding-cargoes-at-sea",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-15T06:09:14.000Z",
-      "summary": "Summary: India’s Russia Oil Trade May Dip Again, Stranding Cargoes at Sea"
+      "id": "6e43f9bb3bd763f908cdb8b63fd128160f1b5cba",
+      "title": "The Ultimate Python Roadmap: Learn Step by Step",
+      "url": "https://dev.to/devshefali/the-ultimate-python-roadmap-learn-step-by-step-3jg3",
+      "source": "dev.to",
+      "published_at": "2026-01-16T06:06:24.000Z",
+      "summary": "Summary: The Ultimate Python Roadmap: Learn Step by Step"
     },
     {
-      "id": "075ebf14ead472e76b95ceca9d6f201687dc66ac",
-      "title": "Cartier Owner Richemont’s Sales Beat Expectations in Holiday Quarter",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-15/cartier-owner-richemont-s-sales-top-views-in-holiday-quarter",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-15T06:07:54.000Z",
-      "summary": "Summary: Cartier Owner Richemont’s Sales Beat Expectations in Holiday Quarter"
-    },
-    {
-      "id": "9aa022f7319971f478a6adf31524788c542e19ee",
-      "title": "Priljubljeni tiktoker ruši slovenske stereotipe: Če ljudi 'boli', nekaj delam prav",
-      "url": "https://www.24ur.com/novice/slovenija/priljubljeni-psiholog-in-komik-na-tiktoku-ce-ljudi-boli-nekaj-delam-prav.html",
+      "id": "cef8914e41a23d7c412c0d626d77748a6c1321d5",
+      "title": "Oskarjevka iskreno: Rekli so mi, da nisem dovolj lepa za Tarantinov film",
+      "url": "https://www.24ur.com/popin/film_tv/zvezdnica-iskreno-za-tarantinov-film-nisem-bila-dovolj-lepa.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-15T06:07:06.000Z",
-      "summary": "Summary: Priljubljeni tiktoker ruši slovenske stereotipe: Če ljudi 'boli', nekaj delam prav"
+      "published_at": "2026-01-16T06:00:06.000Z",
+      "summary": "Summary: Oskarjevka iskreno: Rekli so mi, da nisem dovolj lepa za Tarantinov film"
     },
     {
-      "id": "7ae1f2b0f80db8ad6f4b938adc444e29ce738245",
-      "title": "Štirje astronavti proti Luni že prihodnji mesec?",
-      "url": "https://www.24ur.com/novice/znanost-in-tehnologija/luna_3.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-15T06:06:49.000Z",
-      "summary": "Summary: Štirje astronavti proti Luni že prihodnji mesec?"
+      "id": "78d9dd7fe9d8e055e210c985d7ca4fce73fd5a2e",
+      "title": "15% Off Adidas Promo Code | January 2026",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-16T06:00:00.000Z",
+      "summary": "Summary: 15% Off Adidas Promo Code | January 2026"
+    },
+    {
+      "id": "d76343ef0981a7c745d1ee0cb4d630e31dd6df93",
+      "title": "Jezerniki niso imeli dovolj protiorožja za Sršene",
+      "url": "https://www.delo.si/sport/kosarka/jezerniki-niso-imeli-protiorozja-za-srsene",
+      "source": "www.delo.si",
+      "published_at": "2026-01-16T06:00:00.000Z",
+      "summary": "Summary: Jezerniki niso imeli dovolj protiorožja za Sršene"
+    },
+    {
+      "id": "f97b55c6ffc20dc0b54af9d23cb3bbfa08200dfc",
+      "title": "🧱 Building QRForge PRO with PySide6 (Beginner-Friendly Guide)",
+      "url": "https://dev.to/matetechnologie/building-qrforge-pro-with-pyside6-beginner-friendly-guide-53kb",
+      "source": "dev.to",
+      "published_at": "2026-01-16T05:59:17.000Z",
+      "summary": "Summary: 🧱 Building QRForge PRO with PySide6 (Beginner-Friendly Guide)"
     }
   ]
 }

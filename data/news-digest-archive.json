@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-15T06:32:14.767Z",
+  "updated_at": "2026-01-16T06:32:14.640Z",
   "days": [
+    {
+      "date": "2026-01-16",
+      "page": "/news/2026-01-16-news.html",
+      "teaser": "Top: 'We're in survival mode': The cost of milk price crisis to family dairy farms",
+      "count": 12,
+      "ids": [
+        "ebf431cd88f19f4651c3cd2741ae31a5acac5bfe",
+        "eec811b854086457b8ba4960f77e2835371418e2",
+        "62c66c0dcb616c28ac26f0839f619b500730d4b0",
+        "68df5cea2d4bffe9b8f29456c86c22f9433a45e6",
+        "7e3d71f6089dbfedf3c7862be85241fe5570be31",
+        "e29e74b3eb0e622afb05e1beb8cd129e5c27bfe1",
+        "74b31442309170d73893658081e6cc102387a799",
+        "c46d1688073a9a6128c4768747f4c12fa58aa5f4",
+        "3067884e0577b7fc8dc860fc7f014bd86b19eebc",
+        "9266b5a9908dd4b86da48b7612ea0a39dacb08f9",
+        "678c1089bf4083a66c2216047bc25cf02ed9d8b9",
+        "3db53aca8cf552b8f498ef92e6b8be21aac56506"
+      ]
+    },
     {
       "date": "2026-01-15",
       "page": "/news/2026-01-15-news.html",
