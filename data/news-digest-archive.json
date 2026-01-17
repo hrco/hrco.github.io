@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-16T06:32:14.640Z",
+  "updated_at": "2026-01-17T06:31:44.330Z",
   "days": [
+    {
+      "date": "2026-01-17",
+      "page": "/news/2026-01-17-news.html",
+      "teaser": "Top: The Papers: 'Spy Jenrick' and 'Badenoch says Britain not broken'",
+      "count": 12,
+      "ids": [
+        "d5be6be7e7b212268e19d59757051d76360be6ef",
+        "149d39da3e74d42a0a1b9a883fbbadd4a4949d27",
+        "c251265fbe62ef94c1e2b00a1408099a2cc43c02",
+        "66249445f14f2083f7c29c5b5a830f7e57be6b99",
+        "dfa15c4b77a05978158bb1ad1208179edba46ade",
+        "8f7e9384e3414a1c111729d951786a6d5bdd4b30",
+        "8f601dd25fdeeb410d07497500392d278aa95bf7",
+        "85bd481b12172121a78c5c4f7d19af82fcc5be60",
+        "c42f7bde7929528bb193936cd7e73d7ac3981108",
+        "1cfa1d7e2c6f9f8cdd07d99eed84874db22ee364",
+        "0036c516b9b3b35dc3473a63165b82a8a5eb3261",
+        "bd4675b016ebed711cd201081709f011a13e64f1"
+      ]
+    },
     {
       "date": "2026-01-16",
       "page": "/news/2026-01-16-news.html",

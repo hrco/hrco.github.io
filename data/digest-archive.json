@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-16T06:32:03.138Z",
+  "updated_at": "2026-01-17T06:31:32.718Z",
   "days": [
+    {
+      "date": "2026-01-17",
+      "page": "/news/2026-01-17.html",
+      "teaser": "Top: Luka Dončić zaradi poškodbe izpušča tekmo pri Portlandu",
+      "count": 12,
+      "ids": [
+        "c251265fbe62ef94c1e2b00a1408099a2cc43c02",
+        "fcda676ba24f271f6f702af95950dc29a368e7bf",
+        "1c4e6dfea517daca5d8e97bd4da8963f1a949f3d",
+        "c47ad0b6c08679dfde282ca72007b2e0b88f17b5",
+        "e1a99a54839d14fe1c9c43f978b6f74f84d0050d",
+        "66249445f14f2083f7c29c5b5a830f7e57be6b99",
+        "b3d35f0fcf5f2e420b0aaffde6504cb4523ce54c",
+        "f1065b7362f30135a746e973dc3d629db9a6f429",
+        "dfa15c4b77a05978158bb1ad1208179edba46ade",
+        "8f7e9384e3414a1c111729d951786a6d5bdd4b30",
+        "221372515dc83b7980af4feaea99a8748d1d444b",
+        "1cfa1d7e2c6f9f8cdd07d99eed84874db22ee364"
+      ]
+    },
     {
       "date": "2026-01-16",
       "page": "/news/2026-01-16.html",

@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-16",
-  "updated_at": "2026-01-16T06:32:03.138Z",
-  "page": "/news/2026-01-16.html",
+  "date": "2026-01-17",
+  "updated_at": "2026-01-17T06:31:32.718Z",
+  "page": "/news/2026-01-17.html",
   "count": 12,
   "items": [
     {
-      "id": "62c66c0dcb616c28ac26f0839f619b500730d4b0",
-      "title": "Miran Tepeš: Popolno združevanje ženskih in moških tekem bi bilo napaka",
-      "url": "https://www.rtvslo.si/sport/zimski-sporti/miran-tepes-popolno-zdruzevanje-zenskih-in-moskih-tekem-bi-bilo-napaka/769969",
+      "id": "c251265fbe62ef94c1e2b00a1408099a2cc43c02",
+      "title": "Luka Dončić zaradi poškodbe izpušča tekmo pri Portlandu",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/luka-doncic-zaradi-poskodbe-izpusca-tekmo-pri-portlandu/770410",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-16T06:25:58.000Z",
-      "summary": "Summary: Miran Tepeš: Popolno združevanje ženskih in moških tekem bi bilo napaka"
+      "published_at": "2026-01-17T06:17:49.000Z",
+      "summary": "Summary: Luka Dončić zaradi poškodbe izpušča tekmo pri Portlandu"
     },
     {
-      "id": "9f1ec481fef49e645b53427f08e5ecd520a1ae54",
-      "title": "Histomat of F/OSS: We should reclaim LLMs, not reject them",
-      "url": "https://writings.hongminhee.org/2026/01/histomat-foss-llm/",
+      "id": "fcda676ba24f271f6f702af95950dc29a368e7bf",
+      "title": "🚨 One filename change. Zero errors. Production broken.",
+      "url": "https://dev.to/devnamdev/one-filename-change-zero-errors-production-broken-2kp1",
+      "source": "dev.to",
+      "published_at": "2026-01-17T06:16:23.000Z",
+      "summary": "Summary: 🚨 One filename change. Zero errors. Production broken."
+    },
+    {
+      "id": "1c4e6dfea517daca5d8e97bd4da8963f1a949f3d",
+      "title": "Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don't have ethics at the centre, then your model will work but won't have any trust.",
+      "url": "https://dev.to/jaideepparashar/building-an-ai-saas-system-is-possible-however-when-you-build-the-saas-system-you-should-have-2kib",
+      "source": "dev.to",
+      "published_at": "2026-01-17T06:15:27.000Z",
+      "summary": "Summary: Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don't have ethics at the centre, then your model will work but won't have any trust."
+    },
+    {
+      "id": "c47ad0b6c08679dfde282ca72007b2e0b88f17b5",
+      "title": "Emoji Design Convergence Review: 2018 - 2026",
+      "url": "https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/",
       "source": "lobste.rs",
-      "published_at": "2026-01-16T06:24:49.000Z",
-      "summary": "Summary: Histomat of F/OSS: We should reclaim LLMs, not reject them"
+      "published_at": "2026-01-17T06:15:02.000Z",
+      "summary": "Summary: Emoji Design Convergence Review: 2018 - 2026"
     },
     {
-      "id": "9701158588cbb9f42af5d44b26e54392fa9c4aea",
-      "title": "V-Order optimization",
-      "url": "https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g",
+      "id": "e1a99a54839d14fe1c9c43f978b6f74f84d0050d",
+      "title": "What No One Tells You About Building an AI SaaS Business",
+      "url": "https://dev.to/jaideepparashar/what-no-one-tells-you-about-building-an-ai-saas-business-2nhe",
       "source": "dev.to",
-      "published_at": "2026-01-16T06:17:23.000Z",
-      "summary": "Summary: V-Order optimization"
+      "published_at": "2026-01-17T06:14:17.000Z",
+      "summary": "Summary: What No One Tells You About Building an AI SaaS Business"
     },
     {
-      "id": "9266b5a9908dd4b86da48b7612ea0a39dacb08f9",
-      "title": "Na štajerski avtocesti umrl 28-letni voznik kombija",
-      "url": "https://www.24ur.com/novice/crna-kronika/v-trcenju-cisterne-in-kombija-umrl-28-letni-voznik.html",
+      "id": "66249445f14f2083f7c29c5b5a830f7e57be6b99",
+      "title": "Pozitivna čustva omogočijo, da smo ustvarjalni, odprti, da vstopamo v odnose",
+      "url": "https://www.rtvslo.si/zdravje/pozitivna-custva-omogocijo-da-smo-ustvarjalni-odprti-da-vstopamo-v-odnose/770266",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-17T06:12:05.000Z",
+      "summary": "Summary: Pozitivna čustva omogočijo, da smo ustvarjalni, odprti, da vstopamo v odnose"
+    },
+    {
+      "id": "b3d35f0fcf5f2e420b0aaffde6504cb4523ce54c",
+      "title": "Backend Transitioning to AI Dev",
+      "url": "https://dev.to/sugam50/backend-transitioning-to-ai-dev-5d07",
+      "source": "dev.to",
+      "published_at": "2026-01-17T06:12:02.000Z",
+      "summary": "Summary: Backend Transitioning to AI Dev"
+    },
+    {
+      "id": "f1065b7362f30135a746e973dc3d629db9a6f429",
+      "title": "Did you know?",
+      "url": "https://dev.to/cloudraptor/did-you-know-1dpo",
+      "source": "dev.to",
+      "published_at": "2026-01-17T06:11:06.000Z",
+      "summary": "Summary: Did you know?"
+    },
+    {
+      "id": "dfa15c4b77a05978158bb1ad1208179edba46ade",
+      "title": "Bivanje doma tudi v pozni starosti",
+      "url": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/bivanje-doma-tudi-v-pozni-starosti/770399",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-17T06:10:33.000Z",
+      "summary": "Summary: Bivanje doma tudi v pozni starosti"
+    },
+    {
+      "id": "8f7e9384e3414a1c111729d951786a6d5bdd4b30",
+      "title": "Maša Jelušič si želi čim manj želja: \"Želje po materialnosti zelo obremenjujejo\"",
+      "url": "https://www.rtvslo.si/stevilke/masa-jelusic-si-zeli-cim-manj-zelja-zelje-po-materialnosti-zelo-obremenjujejo/770212",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-17T06:09:46.000Z",
+      "summary": "Summary: Maša Jelušič si želi čim manj želja: \"Želje po materialnosti zelo obremenjujejo\""
+    },
+    {
+      "id": "221372515dc83b7980af4feaea99a8748d1d444b",
+      "title": "Building a Smart Inbox: AI-Powered Message Routing on AWS EKS",
+      "url": "https://dev.to/prithiviraj_rengarajan/building-a-smart-inbox-ai-powered-message-routing-on-aws-eks-4g27",
+      "source": "dev.to",
+      "published_at": "2026-01-17T06:06:20.000Z",
+      "summary": "Summary: Building a Smart Inbox: AI-Powered Message Routing on AWS EKS"
+    },
+    {
+      "id": "1cfa1d7e2c6f9f8cdd07d99eed84874db22ee364",
+      "title": "Trump Minneapolisu grozi z vojsko",
+      "url": "https://www.24ur.com/novice/tujina/trump-minneapolisu-grozi-z-vojsko.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-16T06:14:36.000Z",
-      "summary": "Summary: Na štajerski avtocesti umrl 28-letni voznik kombija"
-    },
-    {
-      "id": "35e03343b01a96c77843611cbe2d77e968fb1662",
-      "title": "From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka (KRaft) and ELK",
-      "url": "https://dev.to/srikantvs26/from-chaos-to-clarity-building-a-robust-log-aggregation-pipeline-with-kafka-kraft-and-elk-37bb",
-      "source": "dev.to",
-      "published_at": "2026-01-16T06:12:51.000Z",
-      "summary": "Summary: From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka (KRaft) and ELK"
-    },
-    {
-      "id": "45afa23f72150de6ad2fdb62ee30a68825d0d1f5",
-      "title": "Level 0 of my DevOps journey",
-      "url": "https://dev.to/alok38/level-0-of-my-devops-journey-1em3",
-      "source": "dev.to",
-      "published_at": "2026-01-16T06:12:30.000Z",
-      "summary": "Summary: Level 0 of my DevOps journey"
-    },
-    {
-      "id": "fae4d0c9a1aee70c3daee80addbccaef02a8a442",
-      "title": "❌ Stop Using Singleton. You Don’t Need It (And It’s Quietly Hurting Your Code)",
-      "url": "https://dev.to/tech_rider/stop-using-singleton-you-dont-need-it-and-its-quietly-hurting-your-code-1dck",
-      "source": "dev.to",
-      "published_at": "2026-01-16T06:07:13.000Z",
-      "summary": "Summary: ❌ Stop Using Singleton. You Don’t Need It (And It’s Quietly Hurting Your Code)"
-    },
-    {
-      "id": "6e43f9bb3bd763f908cdb8b63fd128160f1b5cba",
-      "title": "The Ultimate Python Roadmap: Learn Step by Step",
-      "url": "https://dev.to/devshefali/the-ultimate-python-roadmap-learn-step-by-step-3jg3",
-      "source": "dev.to",
-      "published_at": "2026-01-16T06:06:24.000Z",
-      "summary": "Summary: The Ultimate Python Roadmap: Learn Step by Step"
-    },
-    {
-      "id": "cef8914e41a23d7c412c0d626d77748a6c1321d5",
-      "title": "Oskarjevka iskreno: Rekli so mi, da nisem dovolj lepa za Tarantinov film",
-      "url": "https://www.24ur.com/popin/film_tv/zvezdnica-iskreno-za-tarantinov-film-nisem-bila-dovolj-lepa.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-16T06:00:06.000Z",
-      "summary": "Summary: Oskarjevka iskreno: Rekli so mi, da nisem dovolj lepa za Tarantinov film"
-    },
-    {
-      "id": "78d9dd7fe9d8e055e210c985d7ca4fce73fd5a2e",
-      "title": "15% Off Adidas Promo Code | January 2026",
-      "url": "https://www.wired.com/story/adidas-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-16T06:00:00.000Z",
-      "summary": "Summary: 15% Off Adidas Promo Code | January 2026"
-    },
-    {
-      "id": "d76343ef0981a7c745d1ee0cb4d630e31dd6df93",
-      "title": "Jezerniki niso imeli dovolj protiorožja za Sršene",
-      "url": "https://www.delo.si/sport/kosarka/jezerniki-niso-imeli-protiorozja-za-srsene",
-      "source": "www.delo.si",
-      "published_at": "2026-01-16T06:00:00.000Z",
-      "summary": "Summary: Jezerniki niso imeli dovolj protiorožja za Sršene"
-    },
-    {
-      "id": "f97b55c6ffc20dc0b54af9d23cb3bbfa08200dfc",
-      "title": "🧱 Building QRForge PRO with PySide6 (Beginner-Friendly Guide)",
-      "url": "https://dev.to/matetechnologie/building-qrforge-pro-with-pyside6-beginner-friendly-guide-53kb",
-      "source": "dev.to",
-      "published_at": "2026-01-16T05:59:17.000Z",
-      "summary": "Summary: 🧱 Building QRForge PRO with PySide6 (Beginner-Friendly Guide)"
+      "published_at": "2026-01-17T06:04:28.000Z",
+      "summary": "Summary: Trump Minneapolisu grozi z vojsko"
     }
   ]
 }
