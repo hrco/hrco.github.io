@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-17T06:31:32.718Z",
+  "updated_at": "2026-01-18T06:31:41.982Z",
   "days": [
+    {
+      "date": "2026-01-18",
+      "page": "/news/2026-01-18.html",
+      "teaser": "Top: RCt2 – A Pragmatic Evolution of BDD for Software Test Cases",
+      "count": 12,
+      "ids": [
+        "86ad2894435b16d9adb1ae3c06d219c9c12c554b",
+        "5df2d8cbc3d799fa24767d65ac31ab0afe822cc5",
+        "9bd684720737a5a38c5c0127db509e03be6c5d06",
+        "e55ef06b5f06af1511e87283ed4a232d3df65e07",
+        "c93ed1daec7937b67e72f5d501213da4cdd1ebed",
+        "efcda3d2e171a1d941bb22044b4f5fd8d86d40a6",
+        "efe145ff10b7cac108f79704f92a0f226a4ae69f",
+        "30277cbb86ab60821371a04e935a4b74512fa8e5",
+        "c2c316de37d00d13e3ea173d3c77b443067768b9",
+        "9ee801161683b4d3b44ec0498d2eda988171ef65",
+        "ffa5e22d94ad51e6cd9b0cb152173efcba31072c",
+        "8c9ee1302c2a765f7e1d1c5a0a054060a1d6c85f"
+      ]
+    },
     {
       "date": "2026-01-17",
       "page": "/news/2026-01-17.html",

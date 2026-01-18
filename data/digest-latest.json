@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-17",
-  "updated_at": "2026-01-17T06:31:32.718Z",
-  "page": "/news/2026-01-17.html",
+  "date": "2026-01-18",
+  "updated_at": "2026-01-18T06:31:41.982Z",
+  "page": "/news/2026-01-18.html",
   "count": 12,
   "items": [
     {
-      "id": "c251265fbe62ef94c1e2b00a1408099a2cc43c02",
-      "title": "Luka Dončić zaradi poškodbe izpušča tekmo pri Portlandu",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/luka-doncic-zaradi-poskodbe-izpusca-tekmo-pri-portlandu/770410",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-17T06:17:49.000Z",
-      "summary": "Summary: Luka Dončić zaradi poškodbe izpušča tekmo pri Portlandu"
-    },
-    {
-      "id": "fcda676ba24f271f6f702af95950dc29a368e7bf",
-      "title": "🚨 One filename change. Zero errors. Production broken.",
-      "url": "https://dev.to/devnamdev/one-filename-change-zero-errors-production-broken-2kp1",
+      "id": "86ad2894435b16d9adb1ae3c06d219c9c12c554b",
+      "title": "RCt2 – A Pragmatic Evolution of BDD for Software Test Cases",
+      "url": "https://dev.to/rafael_cardoso_c438f2c879/rct2-a-pragmatic-evolution-of-bdd-for-software-test-cases-37go",
       "source": "dev.to",
-      "published_at": "2026-01-17T06:16:23.000Z",
-      "summary": "Summary: 🚨 One filename change. Zero errors. Production broken."
+      "published_at": "2026-01-18T06:23:38.000Z",
+      "summary": "Summary: RCt2 – A Pragmatic Evolution of BDD for Software Test Cases"
     },
     {
-      "id": "1c4e6dfea517daca5d8e97bd4da8963f1a949f3d",
-      "title": "Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don't have ethics at the centre, then your model will work but won't have any trust.",
-      "url": "https://dev.to/jaideepparashar/building-an-ai-saas-system-is-possible-however-when-you-build-the-saas-system-you-should-have-2kib",
-      "source": "dev.to",
-      "published_at": "2026-01-17T06:15:27.000Z",
-      "summary": "Summary: Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don't have ethics at the centre, then your model will work but won't have any trust."
-    },
-    {
-      "id": "c47ad0b6c08679dfde282ca72007b2e0b88f17b5",
-      "title": "Emoji Design Convergence Review: 2018 - 2026",
-      "url": "https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/",
-      "source": "lobste.rs",
-      "published_at": "2026-01-17T06:15:02.000Z",
-      "summary": "Summary: Emoji Design Convergence Review: 2018 - 2026"
-    },
-    {
-      "id": "e1a99a54839d14fe1c9c43f978b6f74f84d0050d",
-      "title": "What No One Tells You About Building an AI SaaS Business",
-      "url": "https://dev.to/jaideepparashar/what-no-one-tells-you-about-building-an-ai-saas-business-2nhe",
-      "source": "dev.to",
-      "published_at": "2026-01-17T06:14:17.000Z",
-      "summary": "Summary: What No One Tells You About Building an AI SaaS Business"
-    },
-    {
-      "id": "66249445f14f2083f7c29c5b5a830f7e57be6b99",
-      "title": "Pozitivna čustva omogočijo, da smo ustvarjalni, odprti, da vstopamo v odnose",
-      "url": "https://www.rtvslo.si/zdravje/pozitivna-custva-omogocijo-da-smo-ustvarjalni-odprti-da-vstopamo-v-odnose/770266",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-17T06:12:05.000Z",
-      "summary": "Summary: Pozitivna čustva omogočijo, da smo ustvarjalni, odprti, da vstopamo v odnose"
-    },
-    {
-      "id": "b3d35f0fcf5f2e420b0aaffde6504cb4523ce54c",
-      "title": "Backend Transitioning to AI Dev",
-      "url": "https://dev.to/sugam50/backend-transitioning-to-ai-dev-5d07",
-      "source": "dev.to",
-      "published_at": "2026-01-17T06:12:02.000Z",
-      "summary": "Summary: Backend Transitioning to AI Dev"
-    },
-    {
-      "id": "f1065b7362f30135a746e973dc3d629db9a6f429",
-      "title": "Did you know?",
-      "url": "https://dev.to/cloudraptor/did-you-know-1dpo",
-      "source": "dev.to",
-      "published_at": "2026-01-17T06:11:06.000Z",
-      "summary": "Summary: Did you know?"
-    },
-    {
-      "id": "dfa15c4b77a05978158bb1ad1208179edba46ade",
-      "title": "Bivanje doma tudi v pozni starosti",
-      "url": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/bivanje-doma-tudi-v-pozni-starosti/770399",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-17T06:10:33.000Z",
-      "summary": "Summary: Bivanje doma tudi v pozni starosti"
-    },
-    {
-      "id": "8f7e9384e3414a1c111729d951786a6d5bdd4b30",
-      "title": "Maša Jelušič si želi čim manj želja: \"Želje po materialnosti zelo obremenjujejo\"",
-      "url": "https://www.rtvslo.si/stevilke/masa-jelusic-si-zeli-cim-manj-zelja-zelje-po-materialnosti-zelo-obremenjujejo/770212",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-17T06:09:46.000Z",
-      "summary": "Summary: Maša Jelušič si želi čim manj želja: \"Želje po materialnosti zelo obremenjujejo\""
-    },
-    {
-      "id": "221372515dc83b7980af4feaea99a8748d1d444b",
-      "title": "Building a Smart Inbox: AI-Powered Message Routing on AWS EKS",
-      "url": "https://dev.to/prithiviraj_rengarajan/building-a-smart-inbox-ai-powered-message-routing-on-aws-eks-4g27",
-      "source": "dev.to",
-      "published_at": "2026-01-17T06:06:20.000Z",
-      "summary": "Summary: Building a Smart Inbox: AI-Powered Message Routing on AWS EKS"
-    },
-    {
-      "id": "1cfa1d7e2c6f9f8cdd07d99eed84874db22ee364",
-      "title": "Trump Minneapolisu grozi z vojsko",
-      "url": "https://www.24ur.com/novice/tujina/trump-minneapolisu-grozi-z-vojsko.html",
+      "id": "5df2d8cbc3d799fa24767d65ac31ab0afe822cc5",
+      "title": "Izjemni Domen Prevc nadaljuje pohod, v Sapporu je zmagal tudi na drugi tekmi",
+      "url": "https://www.24ur.com/sport/zimski_sporti/izjemni-domen-prevc-nadaljuje-pohod-v-sapporu-je-zmagal-tudi-na-drugi-tekmi.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-17T06:04:28.000Z",
-      "summary": "Summary: Trump Minneapolisu grozi z vojsko"
+      "published_at": "2026-01-18T06:22:45.000Z",
+      "summary": "Summary: Izjemni Domen Prevc nadaljuje pohod, v Sapporu je zmagal tudi na drugi tekmi"
+    },
+    {
+      "id": "9bd684720737a5a38c5c0127db509e03be6c5d06",
+      "title": "Vse glasnejša ugibanja o Trumpovem zdravju",
+      "url": "https://www.24ur.com/novice/tujina/vse-glasnejsa-ugibanja-o-trumpovem-zdravju.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-18T06:19:32.000Z",
+      "summary": "Summary: Vse glasnejša ugibanja o Trumpovem zdravju"
+    },
+    {
+      "id": "e55ef06b5f06af1511e87283ed4a232d3df65e07",
+      "title": "I Got Tired of \"It Works on My Machine\" So I Built a Time-Travel Debugger",
+      "url": "https://dev.to/ujwal240/i-got-tired-of-it-works-on-my-machine-so-i-built-a-time-travel-debugger-235h",
+      "source": "dev.to",
+      "published_at": "2026-01-18T06:17:35.000Z",
+      "summary": "Summary: I Got Tired of \"It Works on My Machine\" So I Built a Time-Travel Debugger"
+    },
+    {
+      "id": "c93ed1daec7937b67e72f5d501213da4cdd1ebed",
+      "title": "Lakersi so proti Portlandu doživeli peti poraz na zadnjih šestih tekmah",
+      "url": "https://www.24ur.com/sport/kosarka/lakersi-proti-portlandu-doziveli-peti-poraz-na-zadnjih-sestih-tekmah.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-18T06:17:18.000Z",
+      "summary": "Summary: Lakersi so proti Portlandu doživeli peti poraz na zadnjih šestih tekmah"
+    },
+    {
+      "id": "efcda3d2e171a1d941bb22044b4f5fd8d86d40a6",
+      "title": "Novi poraz Jezernikov, Dončića ustavila poškodba",
+      "url": "https://www.delo.si/sport/kosarka/novi-poraz-jezernikov-doncica-ustavila-poskodba",
+      "source": "www.delo.si",
+      "published_at": "2026-01-18T06:16:00.000Z",
+      "summary": "Summary: Novi poraz Jezernikov, Dončića ustavila poškodba"
+    },
+    {
+      "id": "efe145ff10b7cac108f79704f92a0f226a4ae69f",
+      "title": "Kdo bo dobil slalomu v Wengnu, tretjega od petih slalomov januarja?",
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/kdo-bo-dobil-slalomu-v-wengnu-tretjega-od-petih-slalomov-januarja/770474",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-18T06:10:58.000Z",
+      "summary": "Summary: Kdo bo dobil slalomu v Wengnu, tretjega od petih slalomov januarja?"
+    },
+    {
+      "id": "30277cbb86ab60821371a04e935a4b74512fa8e5",
+      "title": "Introduction to Git and Github",
+      "url": "https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e",
+      "source": "dev.to",
+      "published_at": "2026-01-18T06:08:48.000Z",
+      "summary": "Summary: Introduction to Git and Github"
+    },
+    {
+      "id": "c2c316de37d00d13e3ea173d3c77b443067768b9",
+      "title": "Srebrna mrzlica je šla že \"prek meja dobrega okusa\"",
+      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/srebrna-mrzlica-je-sla-ze-prek-meja-dobrega-okusa/770406",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-18T06:08:33.000Z",
+      "summary": "Summary: Srebrna mrzlica je šla že \"prek meja dobrega okusa\""
+    },
+    {
+      "id": "9ee801161683b4d3b44ec0498d2eda988171ef65",
+      "title": "Understanding Git and GitHub: A Biginners Guide",
+      "url": "https://dev.to/josepho_okwemba_a02e2378a/understanding-git-and-github-a-biginners-guide-4gho",
+      "source": "dev.to",
+      "published_at": "2026-01-18T06:06:06.000Z",
+      "summary": "Summary: Understanding Git and GitHub: A Biginners Guide"
+    },
+    {
+      "id": "ffa5e22d94ad51e6cd9b0cb152173efcba31072c",
+      "title": "Java Multithreading/Concurrency",
+      "url": "https://dev.to/achavan/java-multithreadingconcurrency-f4a",
+      "source": "dev.to",
+      "published_at": "2026-01-18T06:04:01.000Z",
+      "summary": "Summary: Java Multithreading/Concurrency"
+    },
+    {
+      "id": "8c9ee1302c2a765f7e1d1c5a0a054060a1d6c85f",
+      "title": "Hči Cristiana Ronalda osupnila: pokazala svoj pevski talent",
+      "url": "https://www.24ur.com/popin/tuja-scena/hci-cristiana-ronalda-osupnila-pokazala-svoj-pevski-talent.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-18T06:00:06.000Z",
+      "summary": "Summary: Hči Cristiana Ronalda osupnila: pokazala svoj pevski talent"
     }
   ]
 }
