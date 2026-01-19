@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-18",
-  "updated_at": "2026-01-18T06:31:41.982Z",
-  "page": "/news/2026-01-18.html",
+  "date": "2026-01-19",
+  "updated_at": "2026-01-19T06:32:34.116Z",
+  "page": "/news/2026-01-19.html",
   "count": 12,
   "items": [
     {
-      "id": "86ad2894435b16d9adb1ae3c06d219c9c12c554b",
-      "title": "RCt2 – A Pragmatic Evolution of BDD for Software Test Cases",
-      "url": "https://dev.to/rafael_cardoso_c438f2c879/rct2-a-pragmatic-evolution-of-bdd-for-software-test-cases-37go",
-      "source": "dev.to",
-      "published_at": "2026-01-18T06:23:38.000Z",
-      "summary": "Summary: RCt2 – A Pragmatic Evolution of BDD for Software Test Cases"
+      "id": "db27d21e23231b95801426969859a3c3b676debc",
+      "title": "Are arrays functions?",
+      "url": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
+      "source": "lobste.rs",
+      "published_at": "2026-01-19T06:28:55.000Z",
+      "summary": "Summary: Are arrays functions?"
     },
     {
-      "id": "5df2d8cbc3d799fa24767d65ac31ab0afe822cc5",
-      "title": "Izjemni Domen Prevc nadaljuje pohod, v Sapporu je zmagal tudi na drugi tekmi",
-      "url": "https://www.24ur.com/sport/zimski_sporti/izjemni-domen-prevc-nadaljuje-pohod-v-sapporu-je-zmagal-tudi-na-drugi-tekmi.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-18T06:22:45.000Z",
-      "summary": "Summary: Izjemni Domen Prevc nadaljuje pohod, v Sapporu je zmagal tudi na drugi tekmi"
-    },
-    {
-      "id": "9bd684720737a5a38c5c0127db509e03be6c5d06",
-      "title": "Vse glasnejša ugibanja o Trumpovem zdravju",
-      "url": "https://www.24ur.com/novice/tujina/vse-glasnejsa-ugibanja-o-trumpovem-zdravju.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-18T06:19:32.000Z",
-      "summary": "Summary: Vse glasnejša ugibanja o Trumpovem zdravju"
-    },
-    {
-      "id": "e55ef06b5f06af1511e87283ed4a232d3df65e07",
-      "title": "I Got Tired of \"It Works on My Machine\" So I Built a Time-Travel Debugger",
-      "url": "https://dev.to/ujwal240/i-got-tired-of-it-works-on-my-machine-so-i-built-a-time-travel-debugger-235h",
-      "source": "dev.to",
-      "published_at": "2026-01-18T06:17:35.000Z",
-      "summary": "Summary: I Got Tired of \"It Works on My Machine\" So I Built a Time-Travel Debugger"
-    },
-    {
-      "id": "c93ed1daec7937b67e72f5d501213da4cdd1ebed",
-      "title": "Lakersi so proti Portlandu doživeli peti poraz na zadnjih šestih tekmah",
-      "url": "https://www.24ur.com/sport/kosarka/lakersi-proti-portlandu-doziveli-peti-poraz-na-zadnjih-sestih-tekmah.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-18T06:17:18.000Z",
-      "summary": "Summary: Lakersi so proti Portlandu doživeli peti poraz na zadnjih šestih tekmah"
-    },
-    {
-      "id": "efcda3d2e171a1d941bb22044b4f5fd8d86d40a6",
-      "title": "Novi poraz Jezernikov, Dončića ustavila poškodba",
-      "url": "https://www.delo.si/sport/kosarka/novi-poraz-jezernikov-doncica-ustavila-poskodba",
+      "id": "c8c8ad1a8f9d52a989eca4b605279c3b7b4b01c6",
+      "title": "Hitro slovo Slovenke od Melbourna",
+      "url": "https://www.delo.si/sport/tenis/hitro-slovo-slovenke-od-melbourna",
       "source": "www.delo.si",
-      "published_at": "2026-01-18T06:16:00.000Z",
-      "summary": "Summary: Novi poraz Jezernikov, Dončića ustavila poškodba"
+      "published_at": "2026-01-19T06:27:30.000Z",
+      "summary": "Summary: Hitro slovo Slovenke od Melbourna"
     },
     {
-      "id": "efe145ff10b7cac108f79704f92a0f226a4ae69f",
-      "title": "Kdo bo dobil slalomu v Wengnu, tretjega od petih slalomov januarja?",
-      "url": "https://www.rtvslo.si/sport/zimski-sporti/kdo-bo-dobil-slalomu-v-wengnu-tretjega-od-petih-slalomov-januarja/770474",
+      "id": "e19e7f22128f49ae2a9fba94f8281c26094fc5c7",
+      "title": "V NSi-ju bodo obravnavali sporazum o sodelovanju s Fokusom in SLS-om in potrjevali kandidate",
+      "url": "https://www.rtvslo.si/slovenija/v-nsi-ju-bodo-obravnavali-sporazum-o-sodelovanju-s-fokusom-in-sls-om-in-potrjevali-kandidate/770533",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-18T06:10:58.000Z",
-      "summary": "Summary: Kdo bo dobil slalomu v Wengnu, tretjega od petih slalomov januarja?"
+      "published_at": "2026-01-19T06:24:41.000Z",
+      "summary": "Summary: V NSi-ju bodo obravnavali sporazum o sodelovanju s Fokusom in SLS-om in potrjevali kandidate"
     },
     {
-      "id": "30277cbb86ab60821371a04e935a4b74512fa8e5",
-      "title": "Introduction to Git and Github",
-      "url": "https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e",
+      "id": "080c6936e5c73fd7d25c830e23fc3c0f7e34cd13",
+      "title": "🌸 Bloom Update — New Features, Fixes, and a More Polished Experience",
+      "url": "https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii",
       "source": "dev.to",
-      "published_at": "2026-01-18T06:08:48.000Z",
-      "summary": "Summary: Introduction to Git and Github"
+      "published_at": "2026-01-19T06:20:51.000Z",
+      "summary": "Summary: 🌸 Bloom Update — New Features, Fixes, and a More Polished Experience"
     },
     {
-      "id": "c2c316de37d00d13e3ea173d3c77b443067768b9",
-      "title": "Srebrna mrzlica je šla že \"prek meja dobrega okusa\"",
-      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/srebrna-mrzlica-je-sla-ze-prek-meja-dobrega-okusa/770406",
+      "id": "89ed9bf15a87fbbfce9724deeb82c000cf5284fd",
+      "title": "Playwright Reporting Breaks Down as Your Suite Grows (and How a Test Dashboard Fixes It)",
+      "url": "https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20",
+      "source": "dev.to",
+      "published_at": "2026-01-19T06:19:16.000Z",
+      "summary": "Summary: Playwright Reporting Breaks Down as Your Suite Grows (and How a Test Dashboard Fixes It)"
+    },
+    {
+      "id": "71e2d7f914c0e10bf436476cf2a48e190c48c8f8",
+      "title": "Indonesia’s Danantara Mulls Raising $1.2 Billion in Fresh Funding Round",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-19/danantara-mulling-1-2-billion-in-new-funding-via-patriot-bonds",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-01-19T06:16:06.000Z",
+      "summary": "Summary: Indonesia’s Danantara Mulls Raising $1.2 Billion in Fresh Funding Round"
+    },
+    {
+      "id": "5f6889e253733cca047cbcf518043b540b36d7da",
+      "title": "Why do I come back to the same songs during hard moments?",
+      "url": "https://dev.to/luca_dark_rnb/why-do-i-come-back-to-the-same-songs-during-hard-moments-1kji",
+      "source": "dev.to",
+      "published_at": "2026-01-19T06:13:00.000Z",
+      "summary": "Summary: Why do I come back to the same songs during hard moments?"
+    },
+    {
+      "id": "64d4778354ab146b540cae1b4b87f7cdeac1266e",
+      "title": "Razstava štrukljev iz vlečenega, kvašenega in drugih vrst testa očarala z 69 okusi",
+      "url": "https://www.rtvslo.si/zabava-in-slog/kulinarika/razstava-strukljev-iz-vlecenega-kvasenega-in-drugih-vrst-testa-ocarala-z-69-okusi/770528",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-18T06:08:33.000Z",
-      "summary": "Summary: Srebrna mrzlica je šla že \"prek meja dobrega okusa\""
+      "published_at": "2026-01-19T06:10:50.000Z",
+      "summary": "Summary: Razstava štrukljev iz vlečenega, kvašenega in drugih vrst testa očarala z 69 okusi"
     },
     {
-      "id": "9ee801161683b4d3b44ec0498d2eda988171ef65",
-      "title": "Understanding Git and GitHub: A Biginners Guide",
-      "url": "https://dev.to/josepho_okwemba_a02e2378a/understanding-git-and-github-a-biginners-guide-4gho",
+      "id": "cb764b94f765253bb4c9e1b417828dfd7229143e",
+      "title": "How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform",
+      "url": "https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p",
       "source": "dev.to",
-      "published_at": "2026-01-18T06:06:06.000Z",
-      "summary": "Summary: Understanding Git and GitHub: A Biginners Guide"
+      "published_at": "2026-01-19T06:07:11.000Z",
+      "summary": "Summary: How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform"
     },
     {
-      "id": "ffa5e22d94ad51e6cd9b0cb152173efcba31072c",
-      "title": "Java Multithreading/Concurrency",
-      "url": "https://dev.to/achavan/java-multithreadingconcurrency-f4a",
+      "id": "2f6d2ec00f7d7d9be2122af33765c7cc7304eeed",
+      "title": "I'm making a solo, dungeon crawling card game!",
+      "url": "https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l",
       "source": "dev.to",
-      "published_at": "2026-01-18T06:04:01.000Z",
-      "summary": "Summary: Java Multithreading/Concurrency"
+      "published_at": "2026-01-19T06:07:01.000Z",
+      "summary": "Summary: I'm making a solo, dungeon crawling card game!"
     },
     {
-      "id": "8c9ee1302c2a765f7e1d1c5a0a054060a1d6c85f",
-      "title": "Hči Cristiana Ronalda osupnila: pokazala svoj pevski talent",
-      "url": "https://www.24ur.com/popin/tuja-scena/hci-cristiana-ronalda-osupnila-pokazala-svoj-pevski-talent.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-18T06:00:06.000Z",
-      "summary": "Summary: Hči Cristiana Ronalda osupnila: pokazala svoj pevski talent"
+      "id": "d594066a652c86a84be2e62aede7e8ef5cc2d6e3",
+      "title": "Razer AIKit: Open-Source, Local-First AI Workflows for Developers",
+      "url": "https://dev.to/mishmanners/razer-aikit-open-source-local-first-ai-workflows-for-developers-4nig",
+      "source": "dev.to",
+      "published_at": "2026-01-19T06:06:07.000Z",
+      "summary": "Summary: Razer AIKit: Open-Source, Local-First AI Workflows for Developers"
+    },
+    {
+      "id": "234c1b6c26d021d37c96afae332abad6c02fd991",
+      "title": "V trčenju hitrih vlakov v Španiji najmanj 24 mrtvih",
+      "url": "https://www.delo.si/novice/crna-kronika/v-trcenju-hitrih-vlakov-najmanj-24-mrtvih",
+      "source": "www.delo.si",
+      "published_at": "2026-01-19T06:02:00.000Z",
+      "summary": "Summary: V trčenju hitrih vlakov v Španiji najmanj 24 mrtvih"
     }
   ]
 }

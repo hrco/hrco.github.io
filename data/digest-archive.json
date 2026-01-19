@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-18T06:31:41.982Z",
+  "updated_at": "2026-01-19T06:32:34.116Z",
   "days": [
+    {
+      "date": "2026-01-19",
+      "page": "/news/2026-01-19.html",
+      "teaser": "Top: Are arrays functions?",
+      "count": 12,
+      "ids": [
+        "db27d21e23231b95801426969859a3c3b676debc",
+        "c8c8ad1a8f9d52a989eca4b605279c3b7b4b01c6",
+        "e19e7f22128f49ae2a9fba94f8281c26094fc5c7",
+        "080c6936e5c73fd7d25c830e23fc3c0f7e34cd13",
+        "89ed9bf15a87fbbfce9724deeb82c000cf5284fd",
+        "71e2d7f914c0e10bf436476cf2a48e190c48c8f8",
+        "5f6889e253733cca047cbcf518043b540b36d7da",
+        "64d4778354ab146b540cae1b4b87f7cdeac1266e",
+        "cb764b94f765253bb4c9e1b417828dfd7229143e",
+        "2f6d2ec00f7d7d9be2122af33765c7cc7304eeed",
+        "d594066a652c86a84be2e62aede7e8ef5cc2d6e3",
+        "234c1b6c26d021d37c96afae332abad6c02fd991"
+      ]
+    },
     {
       "date": "2026-01-18",
       "page": "/news/2026-01-18.html",

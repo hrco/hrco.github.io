@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-18T06:31:57.528Z",
+  "updated_at": "2026-01-19T06:32:51.023Z",
   "days": [
+    {
+      "date": "2026-01-19",
+      "page": "/news/2026-01-19-sport.html",
+      "teaser": "Top: Carrick gave fans 'taste' of Ferguson era - Rooney",
+      "count": 12,
+      "ids": [
+        "7f61342b81603053bb5abe884e6e55bba5e4f241",
+        "2e5280c09a07f797225a1c58d224f03a9183eef9",
+        "0a716adcfd2c9ed5bc7353d966683ffc4986a7e2",
+        "e52be90d1fa3b779424d01dc3ad9d0eb95e06543",
+        "7055cb0149a6f0b090024fd509863d2717c9cc7b",
+        "eb78d20c11de73b986c110ced7aec9a1cdd0596f",
+        "b3672b5f17eadede604424fe8b60c1506eee2a4f",
+        "d0176485d191a39ec937107e5dd2f4ab73deeff3",
+        "14423412b6cf3897cea53ee6ae1709165ec8e368",
+        "a233747dcb428047ef6f762fbc79242e32f835e6",
+        "e0aff850489590c2356e867864720856b46979bd",
+        "e86002c54767772ad6b520480d72aa5a58e04ba6"
+      ]
+    },
     {
       "date": "2026-01-18",
       "page": "/news/2026-01-18-sport.html",
