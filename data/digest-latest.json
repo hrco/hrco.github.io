@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-19",
-  "updated_at": "2026-01-19T06:32:34.116Z",
-  "page": "/news/2026-01-19.html",
+  "date": "2026-01-20",
+  "updated_at": "2026-01-20T06:32:15.922Z",
+  "page": "/news/2026-01-20.html",
   "count": 12,
   "items": [
     {
-      "id": "db27d21e23231b95801426969859a3c3b676debc",
-      "title": "Are arrays functions?",
-      "url": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
+      "id": "e7a27c96fde5849f0b2be40c6de654a32ead8b16",
+      "title": "Veleslalom na Kronplatzu: vrnitev Federice Brignone",
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/veleslalom-na-kronplatzu-vrnitev-federice-brignone/770607",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-20T06:31:05.000Z",
+      "summary": "Summary: Veleslalom na Kronplatzu: vrnitev Federice Brignone"
+    },
+    {
+      "id": "c8cc46086d8452491536a6d5e9373551dce736c1",
+      "title": "Recept dneva: Močnik ali mlečni sok – preprosta jed iz kuhinj naših babic",
+      "url": "https://www.delo.si/magazin/kulinarika/r-recept-dneva-mocnik-ali-mlecni-sok-preprosta-jed-iz-kuhinj-nasih-babic",
+      "source": "www.delo.si",
+      "published_at": "2026-01-20T06:30:00.000Z",
+      "summary": "Summary: Recept dneva: Močnik ali mlečni sok – preprosta jed iz kuhinj naših babic"
+    },
+    {
+      "id": "6b7fe44f79fb8c13be4eef638e4cc7bad8465a71",
+      "title": "ZDA že drugič uradno zapuščajo pariški sporazum o podnebju",
+      "url": "https://www.delo.si/novice/svet/trump-pariski-sporazum-izstop",
+      "source": "www.delo.si",
+      "published_at": "2026-01-20T06:27:00.000Z",
+      "summary": "Summary: ZDA že drugič uradno zapuščajo pariški sporazum o podnebju"
+    },
+    {
+      "id": "d8d999d309f2c6042a85c4e71424cfeb9955ed73",
+      "title": "What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies",
+      "url": "https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279",
+      "source": "dev.to",
+      "published_at": "2026-01-20T06:25:43.000Z",
+      "summary": "Summary: What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies"
+    },
+    {
+      "id": "76f4dcfc5aa25ad5f0aae9a730d43e7eb1feec25",
+      "title": "Poteka največji Sončev vihar v več kot 20 letih, ki bi lahko oviral komunikacije",
+      "url": "https://www.rtvslo.si/okolje/poteka-najvecji-soncev-vihar-v-vec-kot-20-letih-ki-bi-lahko-oviral-komunikacije/770647",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-20T06:23:32.000Z",
+      "summary": "Summary: Poteka največji Sončev vihar v več kot 20 letih, ki bi lahko oviral komunikacije"
+    },
+    {
+      "id": "9b19d509e8217c6df47990a92cea6dbfb48e1737",
+      "title": "Trump: Evropa ne bo pretirano nasprotovala ameriškemu nakupu Grenlandije",
+      "url": "https://www.24ur.com/novice/tujina/trump-evropa-ne-bo-pretirano-nasprotovala-ameriskemu-nakupu-grenlandije.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-20T06:21:07.000Z",
+      "summary": "Summary: Trump: Evropa ne bo pretirano nasprotovala ameriškemu nakupu Grenlandije"
+    },
+    {
+      "id": "4b7b6221db3aa22048a3752d3cc5e3c740e72317",
+      "title": "3D printing my laptop ergonomic setup",
+      "url": "https://ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/",
       "source": "lobste.rs",
-      "published_at": "2026-01-19T06:28:55.000Z",
-      "summary": "Summary: Are arrays functions?"
+      "published_at": "2026-01-20T06:08:05.000Z",
+      "summary": "Summary: 3D printing my laptop ergonomic setup"
     },
     {
-      "id": "c8c8ad1a8f9d52a989eca4b605279c3b7b4b01c6",
-      "title": "Hitro slovo Slovenke od Melbourna",
-      "url": "https://www.delo.si/sport/tenis/hitro-slovo-slovenke-od-melbourna",
+      "id": "83b434c9797ea1c457075ce05ec9055f1baa0e04",
+      "title": "The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)",
+      "url": "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51",
+      "source": "dev.to",
+      "published_at": "2026-01-20T06:06:19.000Z",
+      "summary": "Summary: The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)"
+    },
+    {
+      "id": "25ad2f75e0895f1797652acf354c44df3a455d0a",
+      "title": "Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables",
+      "url": "https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid",
+      "source": "dev.to",
+      "published_at": "2026-01-20T06:01:20.000Z",
+      "summary": "Summary: Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables"
+    },
+    {
+      "id": "0c42976ac0ad1b634cd6eb89099e4797a1f7d0af",
+      "title": "Liga prvakov je nazaj, koga umestiti v ekipo?",
+      "url": "https://www.24ur.com/sport/nogomet/ligaprvakov/liga-prvakov-je-nazaj-koga-umestiti-v-ekipo.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-20T06:00:20.000Z",
+      "summary": "Summary: Liga prvakov je nazaj, koga umestiti v ekipo?"
+    },
+    {
+      "id": "db7e7672323c69084385a3acfa1db45028fbff88",
+      "title": "Jubilejni 60. Super Bowl bo z nastopom odprla skupina Green Day",
+      "url": "https://www.24ur.com/popin/glasba/jubilejni-60-super-bowl-bo-z-nastopom-odprla-skupina-green-day.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-20T06:00:20.000Z",
+      "summary": "Summary: Jubilejni 60. Super Bowl bo z nastopom odprla skupina Green Day"
+    },
+    {
+      "id": "6591d23150ae4d43883addbb36371a62677ab2c9",
+      "title": "Cilj je jasen: utišati dvorano in napovedati boj za visoka mesta",
+      "url": "https://www.delo.si/sport/rokomet/ehf-euro-2026-ep-v-rokometu-ferski-otoki-zorman-horzen-vujovic-oslo",
       "source": "www.delo.si",
-      "published_at": "2026-01-19T06:27:30.000Z",
-      "summary": "Summary: Hitro slovo Slovenke od Melbourna"
-    },
-    {
-      "id": "e19e7f22128f49ae2a9fba94f8281c26094fc5c7",
-      "title": "V NSi-ju bodo obravnavali sporazum o sodelovanju s Fokusom in SLS-om in potrjevali kandidate",
-      "url": "https://www.rtvslo.si/slovenija/v-nsi-ju-bodo-obravnavali-sporazum-o-sodelovanju-s-fokusom-in-sls-om-in-potrjevali-kandidate/770533",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-19T06:24:41.000Z",
-      "summary": "Summary: V NSi-ju bodo obravnavali sporazum o sodelovanju s Fokusom in SLS-om in potrjevali kandidate"
-    },
-    {
-      "id": "080c6936e5c73fd7d25c830e23fc3c0f7e34cd13",
-      "title": "🌸 Bloom Update — New Features, Fixes, and a More Polished Experience",
-      "url": "https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii",
-      "source": "dev.to",
-      "published_at": "2026-01-19T06:20:51.000Z",
-      "summary": "Summary: 🌸 Bloom Update — New Features, Fixes, and a More Polished Experience"
-    },
-    {
-      "id": "89ed9bf15a87fbbfce9724deeb82c000cf5284fd",
-      "title": "Playwright Reporting Breaks Down as Your Suite Grows (and How a Test Dashboard Fixes It)",
-      "url": "https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20",
-      "source": "dev.to",
-      "published_at": "2026-01-19T06:19:16.000Z",
-      "summary": "Summary: Playwright Reporting Breaks Down as Your Suite Grows (and How a Test Dashboard Fixes It)"
-    },
-    {
-      "id": "71e2d7f914c0e10bf436476cf2a48e190c48c8f8",
-      "title": "Indonesia’s Danantara Mulls Raising $1.2 Billion in Fresh Funding Round",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-19/danantara-mulling-1-2-billion-in-new-funding-via-patriot-bonds",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-19T06:16:06.000Z",
-      "summary": "Summary: Indonesia’s Danantara Mulls Raising $1.2 Billion in Fresh Funding Round"
-    },
-    {
-      "id": "5f6889e253733cca047cbcf518043b540b36d7da",
-      "title": "Why do I come back to the same songs during hard moments?",
-      "url": "https://dev.to/luca_dark_rnb/why-do-i-come-back-to-the-same-songs-during-hard-moments-1kji",
-      "source": "dev.to",
-      "published_at": "2026-01-19T06:13:00.000Z",
-      "summary": "Summary: Why do I come back to the same songs during hard moments?"
-    },
-    {
-      "id": "64d4778354ab146b540cae1b4b87f7cdeac1266e",
-      "title": "Razstava štrukljev iz vlečenega, kvašenega in drugih vrst testa očarala z 69 okusi",
-      "url": "https://www.rtvslo.si/zabava-in-slog/kulinarika/razstava-strukljev-iz-vlecenega-kvasenega-in-drugih-vrst-testa-ocarala-z-69-okusi/770528",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-19T06:10:50.000Z",
-      "summary": "Summary: Razstava štrukljev iz vlečenega, kvašenega in drugih vrst testa očarala z 69 okusi"
-    },
-    {
-      "id": "cb764b94f765253bb4c9e1b417828dfd7229143e",
-      "title": "How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform",
-      "url": "https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p",
-      "source": "dev.to",
-      "published_at": "2026-01-19T06:07:11.000Z",
-      "summary": "Summary: How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform"
-    },
-    {
-      "id": "2f6d2ec00f7d7d9be2122af33765c7cc7304eeed",
-      "title": "I'm making a solo, dungeon crawling card game!",
-      "url": "https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l",
-      "source": "dev.to",
-      "published_at": "2026-01-19T06:07:01.000Z",
-      "summary": "Summary: I'm making a solo, dungeon crawling card game!"
-    },
-    {
-      "id": "d594066a652c86a84be2e62aede7e8ef5cc2d6e3",
-      "title": "Razer AIKit: Open-Source, Local-First AI Workflows for Developers",
-      "url": "https://dev.to/mishmanners/razer-aikit-open-source-local-first-ai-workflows-for-developers-4nig",
-      "source": "dev.to",
-      "published_at": "2026-01-19T06:06:07.000Z",
-      "summary": "Summary: Razer AIKit: Open-Source, Local-First AI Workflows for Developers"
-    },
-    {
-      "id": "234c1b6c26d021d37c96afae332abad6c02fd991",
-      "title": "V trčenju hitrih vlakov v Španiji najmanj 24 mrtvih",
-      "url": "https://www.delo.si/novice/crna-kronika/v-trcenju-hitrih-vlakov-najmanj-24-mrtvih",
-      "source": "www.delo.si",
-      "published_at": "2026-01-19T06:02:00.000Z",
-      "summary": "Summary: V trčenju hitrih vlakov v Španiji najmanj 24 mrtvih"
+      "published_at": "2026-01-20T06:00:00.000Z",
+      "summary": "Summary: Cilj je jasen: utišati dvorano in napovedati boj za visoka mesta"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-19",
-  "updated_at": "2026-01-19T06:32:46.439Z",
-  "page": "/news/2026-01-19-news.html",
+  "date": "2026-01-20",
+  "updated_at": "2026-01-20T06:32:24.986Z",
+  "page": "/news/2026-01-20-news.html",
   "count": 12,
   "items": [
     {
-      "id": "c8c8ad1a8f9d52a989eca4b605279c3b7b4b01c6",
-      "title": "Hitro slovo Slovenke od Melbourna",
-      "url": "https://www.delo.si/sport/tenis/hitro-slovo-slovenke-od-melbourna",
+      "id": "e7a27c96fde5849f0b2be40c6de654a32ead8b16",
+      "title": "Veleslalom na Kronplatzu: vrnitev Federice Brignone",
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/veleslalom-na-kronplatzu-vrnitev-federice-brignone/770607",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-20T06:31:05.000Z",
+      "summary": "Summary: Veleslalom na Kronplatzu: vrnitev Federice Brignone"
+    },
+    {
+      "id": "673829bc3240bd592c8d4fe9783096654e32e67e",
+      "title": "Former NT government worker not guilty of deaths of 71 cattle",
+      "url": "https://www.abc.net.au/news/2026-01-20/deborah-roberts-not-guilty-mass-cattle-death/106244294",
+      "source": "www.abc.net.au",
+      "published_at": "2026-01-20T06:30:19.000Z",
+      "summary": "Summary: Former NT government worker not guilty of deaths of 71 cattle"
+    },
+    {
+      "id": "c8cc46086d8452491536a6d5e9373551dce736c1",
+      "title": "Recept dneva: Močnik ali mlečni sok – preprosta jed iz kuhinj naših babic",
+      "url": "https://www.delo.si/magazin/kulinarika/r-recept-dneva-mocnik-ali-mlecni-sok-preprosta-jed-iz-kuhinj-nasih-babic",
       "source": "www.delo.si",
-      "published_at": "2026-01-19T06:27:30.000Z",
-      "summary": "Summary: Hitro slovo Slovenke od Melbourna"
+      "published_at": "2026-01-20T06:30:00.000Z",
+      "summary": "Summary: Recept dneva: Močnik ali mlečni sok – preprosta jed iz kuhinj naših babic"
     },
     {
-      "id": "166c463c6858998b521dba4fbd00e3018a894ebc",
-      "title": "Live: EU leaders to meet 'in coming days' to discuss US tariffs over Greenland",
-      "url": "https://www.france24.com/en/europe/20260119-live-eu-leaders-to-meet-in-the-coming-days-to-discuss-us-tariffs-over-greenland",
+      "id": "57cd4c0c581e4ea9877326d92ed4ef38afe245ea",
+      "title": "Hong Kong strives to be ‘fortress’ that safeguards digital security, I&T minister says",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3340519/hong-kong-strives-be-fortress-safeguards-digital-security-it-minister-says?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-20T06:28:39.000Z",
+      "summary": "Summary: Hong Kong strives to be ‘fortress’ that safeguards digital security, I&T minister says"
+    },
+    {
+      "id": "10623786648ef7379631f0fbf31df8c4e42f4110",
+      "title": "Think carefully before letting Woolworths' new AI system do your groceries",
+      "url": "https://www.abc.net.au/news/2026-01-20/woolworths-google-ai-items-shopping-groceries/106243642",
+      "source": "www.abc.net.au",
+      "published_at": "2026-01-20T06:28:35.000Z",
+      "summary": "Summary: Think carefully before letting Woolworths' new AI system do your groceries"
+    },
+    {
+      "id": "6b7fe44f79fb8c13be4eef638e4cc7bad8465a71",
+      "title": "ZDA že drugič uradno zapuščajo pariški sporazum o podnebju",
+      "url": "https://www.delo.si/novice/svet/trump-pariski-sporazum-izstop",
+      "source": "www.delo.si",
+      "published_at": "2026-01-20T06:27:00.000Z",
+      "summary": "Summary: ZDA že drugič uradno zapuščajo pariški sporazum o podnebju"
+    },
+    {
+      "id": "07694876809e76a03d5ad99d966a6e6cc608be51",
+      "title": "Live: Trump says Europeans won't 'push back too much' over Greenland",
+      "url": "https://www.france24.com/en/europe/20260120-live-trump-says-europeans-won-t-push-back-too-much-over-greenland",
       "source": "www.france24.com",
-      "published_at": "2026-01-19T06:24:57.000Z",
-      "summary": "Summary: Live: EU leaders to meet 'in coming days' to discuss US tariffs over Greenland"
+      "published_at": "2026-01-20T06:25:06.000Z",
+      "summary": "Summary: Live: Trump says Europeans won't 'push back too much' over Greenland"
     },
     {
-      "id": "e19e7f22128f49ae2a9fba94f8281c26094fc5c7",
-      "title": "V NSi-ju bodo obravnavali sporazum o sodelovanju s Fokusom in SLS-om in potrjevali kandidate",
-      "url": "https://www.rtvslo.si/slovenija/v-nsi-ju-bodo-obravnavali-sporazum-o-sodelovanju-s-fokusom-in-sls-om-in-potrjevali-kandidate/770533",
+      "id": "76f4dcfc5aa25ad5f0aae9a730d43e7eb1feec25",
+      "title": "Poteka največji Sončev vihar v več kot 20 letih, ki bi lahko oviral komunikacije",
+      "url": "https://www.rtvslo.si/okolje/poteka-najvecji-soncev-vihar-v-vec-kot-20-letih-ki-bi-lahko-oviral-komunikacije/770647",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-19T06:24:41.000Z",
-      "summary": "Summary: V NSi-ju bodo obravnavali sporazum o sodelovanju s Fokusom in SLS-om in potrjevali kandidate"
+      "published_at": "2026-01-20T06:23:32.000Z",
+      "summary": "Summary: Poteka največji Sončev vihar v več kot 20 letih, ki bi lahko oviral komunikacije"
     },
     {
-      "id": "c19deda5aa478e4f45f07894baae083a9eb7b111",
-      "title": "Eye-catching 'smack' of red jellyfish washes ashore on Melbourne beaches",
-      "url": "https://www.abc.net.au/news/2026-01-19/lions-mane-jellyfish-melbourne-port-phillip-bay/106244362",
+      "id": "c62d10c75de50779241cbb448273702ca79865c5",
+      "title": "Trump threatens 200% wine tariff to push France to join ‘Board of Peace’",
+      "url": "https://www.scmp.com/news/world/europe/article/3340517/trump-threatens-200-wine-tariff-push-france-join-board-peace?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-20T06:21:54.000Z",
+      "summary": "Summary: Trump threatens 200% wine tariff to push France to join ‘Board of Peace’"
+    },
+    {
+      "id": "3cdb38f5ded8e685a982514684f3c65aa3572221",
+      "title": "Breaking: Midnight Oil drummer Rob Hirst dies aged 70",
+      "url": "https://www.abc.net.au/news/2026-01-20/midnight-oil-drummer-rob-hirst-dies/106249816",
       "source": "www.abc.net.au",
-      "published_at": "2026-01-19T06:20:32.000Z",
-      "summary": "Summary: Eye-catching 'smack' of red jellyfish washes ashore on Melbourne beaches"
+      "published_at": "2026-01-20T06:21:22.000Z",
+      "summary": "Summary: Breaking: Midnight Oil drummer Rob Hirst dies aged 70"
     },
     {
-      "id": "8b69d082a176bc52bd0d1a6880f7cb50d7cf48f9",
-      "title": "Residents in WA community urged to stay out of floodwaters after weekend deluge",
-      "url": "https://www.abc.net.au/news/2026-01-19/wa-kimberley-kalumburu-on-flood-watch/106244930",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-19T06:20:30.000Z",
-      "summary": "Summary: Residents in WA community urged to stay out of floodwaters after weekend deluge"
+      "id": "9b19d509e8217c6df47990a92cea6dbfb48e1737",
+      "title": "Trump: Evropa ne bo pretirano nasprotovala ameriškemu nakupu Grenlandije",
+      "url": "https://www.24ur.com/novice/tujina/trump-evropa-ne-bo-pretirano-nasprotovala-ameriskemu-nakupu-grenlandije.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-20T06:21:07.000Z",
+      "summary": "Summary: Trump: Evropa ne bo pretirano nasprotovala ameriškemu nakupu Grenlandije"
     },
     {
-      "id": "3275575fda53d982e334d79d5df2cb82f0c933ef",
-      "title": "US believes its power matters more than international law, UN chief tells BBC",
-      "url": "https://www.bbc.com/news/articles/c4g0zx0llpzo?at_medium=RSS&at_campaign=rss",
+      "id": "6ae0cd25baae41967db1f6ac47d1898c70ae62fa",
+      "title": "'Just bad luck': The teenage cousins living with inoperable brain tumours",
+      "url": "https://www.bbc.com/news/articles/c5yqrwn5z3lo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-19T06:17:06.000Z",
-      "summary": "Summary: US believes its power matters more than international law, UN chief tells BBC"
-    },
-    {
-      "id": "ad895d6022351296357ed8d68351207cc4fea6e2",
-      "title": "How WA went from leader to loser in the illegal tobacco wars",
-      "url": "https://www.abc.net.au/news/2026-01-19/wa-losing-the-fight-to-control-illegal-cigarettes/106242556",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-19T06:17:01.000Z",
-      "summary": "Summary: How WA went from leader to loser in the illegal tobacco wars"
-    },
-    {
-      "id": "a7496726f6c04ba98fa9fbec9d7c6a9773b2e5de",
-      "title": "'I forgive these people': Bondi survivor's remarkable act after massacre",
-      "url": "https://www.abc.net.au/news/2026-01-19/bondi-terror-survivor-yaakov-tetleroyd-speaks-naveed-akram/106238196",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-19T06:15:17.000Z",
-      "summary": "Summary: 'I forgive these people': Bondi survivor's remarkable act after massacre"
-    },
-    {
-      "id": "fa441d6f053253004ed21997a79d0631f69ae2a6",
-      "title": "Australia news live: Hanson reveals ambition to turn One Nation into viable party of government after record poll showing",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/19/federal-parliament-returns-gun-control-measures-hate-speech-laws-anthony-albanese-labor-sussan-ley-coalition-greens-trump-board-for-peace-ntwnfb",
-      "source": "www.theguardian.com",
-      "published_at": "2026-01-19T06:11:33.000Z",
-      "summary": "Summary: Australia news live: Hanson reveals ambition to turn One Nation into viable party of government after record poll showing"
-    },
-    {
-      "id": "64d4778354ab146b540cae1b4b87f7cdeac1266e",
-      "title": "Razstava štrukljev iz vlečenega, kvašenega in drugih vrst testa očarala z 69 okusi",
-      "url": "https://www.rtvslo.si/zabava-in-slog/kulinarika/razstava-strukljev-iz-vlecenega-kvasenega-in-drugih-vrst-testa-ocarala-z-69-okusi/770528",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-19T06:10:50.000Z",
-      "summary": "Summary: Razstava štrukljev iz vlečenega, kvašenega in drugih vrst testa očarala z 69 okusi"
-    },
-    {
-      "id": "7f61342b81603053bb5abe884e6e55bba5e4f241",
-      "title": "Carrick gave fans 'taste' of Ferguson era - Rooney",
-      "url": "https://www.bbc.com/sport/football/articles/cly5gr43ww7o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-19T06:10:38.000Z",
-      "summary": "Summary: Carrick gave fans 'taste' of Ferguson era - Rooney"
-    },
-    {
-      "id": "2e5280c09a07f797225a1c58d224f03a9183eef9",
-      "title": "Sobbing Jones among Australian Open injuries",
-      "url": "https://www.bbc.com/sport/tennis/articles/c1kl0z9e27go?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-19T06:05:55.000Z",
-      "summary": "Summary: Sobbing Jones among Australian Open injuries"
+      "published_at": "2026-01-20T06:20:12.000Z",
+      "summary": "Summary: 'Just bad luck': The teenage cousins living with inoperable brain tumours"
     }
   ]
 }

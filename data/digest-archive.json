@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-19T06:32:34.116Z",
+  "updated_at": "2026-01-20T06:32:15.922Z",
   "days": [
+    {
+      "date": "2026-01-20",
+      "page": "/news/2026-01-20.html",
+      "teaser": "Top: Veleslalom na Kronplatzu: vrnitev Federice Brignone",
+      "count": 12,
+      "ids": [
+        "e7a27c96fde5849f0b2be40c6de654a32ead8b16",
+        "c8cc46086d8452491536a6d5e9373551dce736c1",
+        "6b7fe44f79fb8c13be4eef638e4cc7bad8465a71",
+        "d8d999d309f2c6042a85c4e71424cfeb9955ed73",
+        "76f4dcfc5aa25ad5f0aae9a730d43e7eb1feec25",
+        "9b19d509e8217c6df47990a92cea6dbfb48e1737",
+        "4b7b6221db3aa22048a3752d3cc5e3c740e72317",
+        "83b434c9797ea1c457075ce05ec9055f1baa0e04",
+        "25ad2f75e0895f1797652acf354c44df3a455d0a",
+        "0c42976ac0ad1b634cd6eb89099e4797a1f7d0af",
+        "db7e7672323c69084385a3acfa1db45028fbff88",
+        "6591d23150ae4d43883addbb36371a62677ab2c9"
+      ]
+    },
     {
       "date": "2026-01-19",
       "page": "/news/2026-01-19.html",
