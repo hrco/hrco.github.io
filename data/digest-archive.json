@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-20T06:32:15.922Z",
+  "updated_at": "2026-01-21T06:32:14.500Z",
   "days": [
+    {
+      "date": "2026-01-21",
+      "page": "/news/2026-01-21.html",
+      "teaser": "Top: Razpoloženi Dončić se je ustavil pri 38 točkah in trojnem dvojčku",
+      "count": 12,
+      "ids": [
+        "5f42b243934691bb079b76f53c146f86aced00a3",
+        "ca731e971349aa8fd15a925fa2c7737be2c9f017",
+        "b4e97023ef32555d9870c8997ebdfe1ea8aa4802",
+        "b3e55251abd82e5f635a3121438e906a7fe70505",
+        "2fcc4d80ad4cc5de78a036e42455dffae5d0008e",
+        "67a71cc39fcbc459998e7e71801edfa741dfcac3",
+        "8c49bf8e4cc8ba73eaeca6e9312d641a18808f22",
+        "d40fa23abe16809318167a97116b6eadd6d1d43d",
+        "1738a1b97f8cbd9f40cc08d6ea716b1a60a59da5",
+        "d2206be458fa83b2881ee0fdf1754c49dc121b6c",
+        "aecb9e944734f8ee924a84eead2894866980c5fa",
+        "3ba062d5fd1a3ec8d6033de2c5090106ba527b88"
+      ]
+    },
     {
       "date": "2026-01-20",
       "page": "/news/2026-01-20.html",

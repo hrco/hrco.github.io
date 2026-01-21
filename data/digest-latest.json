@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-20",
-  "updated_at": "2026-01-20T06:32:15.922Z",
-  "page": "/news/2026-01-20.html",
+  "date": "2026-01-21",
+  "updated_at": "2026-01-21T06:32:14.500Z",
+  "page": "/news/2026-01-21.html",
   "count": 12,
   "items": [
     {
-      "id": "e7a27c96fde5849f0b2be40c6de654a32ead8b16",
-      "title": "Veleslalom na Kronplatzu: vrnitev Federice Brignone",
-      "url": "https://www.rtvslo.si/sport/zimski-sporti/veleslalom-na-kronplatzu-vrnitev-federice-brignone/770607",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-20T06:31:05.000Z",
-      "summary": "Summary: Veleslalom na Kronplatzu: vrnitev Federice Brignone"
-    },
-    {
-      "id": "c8cc46086d8452491536a6d5e9373551dce736c1",
-      "title": "Recept dneva: Močnik ali mlečni sok – preprosta jed iz kuhinj naših babic",
-      "url": "https://www.delo.si/magazin/kulinarika/r-recept-dneva-mocnik-ali-mlecni-sok-preprosta-jed-iz-kuhinj-nasih-babic",
-      "source": "www.delo.si",
-      "published_at": "2026-01-20T06:30:00.000Z",
-      "summary": "Summary: Recept dneva: Močnik ali mlečni sok – preprosta jed iz kuhinj naših babic"
-    },
-    {
-      "id": "6b7fe44f79fb8c13be4eef638e4cc7bad8465a71",
-      "title": "ZDA že drugič uradno zapuščajo pariški sporazum o podnebju",
-      "url": "https://www.delo.si/novice/svet/trump-pariski-sporazum-izstop",
-      "source": "www.delo.si",
-      "published_at": "2026-01-20T06:27:00.000Z",
-      "summary": "Summary: ZDA že drugič uradno zapuščajo pariški sporazum o podnebju"
-    },
-    {
-      "id": "d8d999d309f2c6042a85c4e71424cfeb9955ed73",
-      "title": "What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies",
-      "url": "https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279",
-      "source": "dev.to",
-      "published_at": "2026-01-20T06:25:43.000Z",
-      "summary": "Summary: What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies"
-    },
-    {
-      "id": "76f4dcfc5aa25ad5f0aae9a730d43e7eb1feec25",
-      "title": "Poteka največji Sončev vihar v več kot 20 letih, ki bi lahko oviral komunikacije",
-      "url": "https://www.rtvslo.si/okolje/poteka-najvecji-soncev-vihar-v-vec-kot-20-letih-ki-bi-lahko-oviral-komunikacije/770647",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-20T06:23:32.000Z",
-      "summary": "Summary: Poteka največji Sončev vihar v več kot 20 letih, ki bi lahko oviral komunikacije"
-    },
-    {
-      "id": "9b19d509e8217c6df47990a92cea6dbfb48e1737",
-      "title": "Trump: Evropa ne bo pretirano nasprotovala ameriškemu nakupu Grenlandije",
-      "url": "https://www.24ur.com/novice/tujina/trump-evropa-ne-bo-pretirano-nasprotovala-ameriskemu-nakupu-grenlandije.html",
+      "id": "5f42b243934691bb079b76f53c146f86aced00a3",
+      "title": "Razpoloženi Dončić se je ustavil pri 38 točkah in trojnem dvojčku",
+      "url": "https://www.24ur.com/sport/kosarka/denver-nuggets-los-angeles-lakers-luka-doncic.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-20T06:21:07.000Z",
-      "summary": "Summary: Trump: Evropa ne bo pretirano nasprotovala ameriškemu nakupu Grenlandije"
+      "published_at": "2026-01-21T06:28:59.000Z",
+      "summary": "Summary: Razpoloženi Dončić se je ustavil pri 38 točkah in trojnem dvojčku"
     },
     {
-      "id": "4b7b6221db3aa22048a3752d3cc5e3c740e72317",
-      "title": "3D printing my laptop ergonomic setup",
-      "url": "https://ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/",
-      "source": "lobste.rs",
-      "published_at": "2026-01-20T06:08:05.000Z",
-      "summary": "Summary: 3D printing my laptop ergonomic setup"
-    },
-    {
-      "id": "83b434c9797ea1c457075ce05ec9055f1baa0e04",
-      "title": "The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)",
-      "url": "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51",
-      "source": "dev.to",
-      "published_at": "2026-01-20T06:06:19.000Z",
-      "summary": "Summary: The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)"
-    },
-    {
-      "id": "25ad2f75e0895f1797652acf354c44df3a455d0a",
-      "title": "Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables",
-      "url": "https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid",
-      "source": "dev.to",
-      "published_at": "2026-01-20T06:01:20.000Z",
-      "summary": "Summary: Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables"
-    },
-    {
-      "id": "0c42976ac0ad1b634cd6eb89099e4797a1f7d0af",
-      "title": "Liga prvakov je nazaj, koga umestiti v ekipo?",
-      "url": "https://www.24ur.com/sport/nogomet/ligaprvakov/liga-prvakov-je-nazaj-koga-umestiti-v-ekipo.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-20T06:00:20.000Z",
-      "summary": "Summary: Liga prvakov je nazaj, koga umestiti v ekipo?"
-    },
-    {
-      "id": "db7e7672323c69084385a3acfa1db45028fbff88",
-      "title": "Jubilejni 60. Super Bowl bo z nastopom odprla skupina Green Day",
-      "url": "https://www.24ur.com/popin/glasba/jubilejni-60-super-bowl-bo-z-nastopom-odprla-skupina-green-day.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-20T06:00:20.000Z",
-      "summary": "Summary: Jubilejni 60. Super Bowl bo z nastopom odprla skupina Green Day"
-    },
-    {
-      "id": "6591d23150ae4d43883addbb36371a62677ab2c9",
-      "title": "Cilj je jasen: utišati dvorano in napovedati boj za visoka mesta",
-      "url": "https://www.delo.si/sport/rokomet/ehf-euro-2026-ep-v-rokometu-ferski-otoki-zorman-horzen-vujovic-oslo",
+      "id": "ca731e971349aa8fd15a925fa2c7737be2c9f017",
+      "title": "Kralji slavili brez kapetana in prvega vratarja",
+      "url": "https://www.delo.si/sport/zimski-sporti/kralji-slavili-brez-kapetana-in-prvega-vratarja",
       "source": "www.delo.si",
-      "published_at": "2026-01-20T06:00:00.000Z",
-      "summary": "Summary: Cilj je jasen: utišati dvorano in napovedati boj za visoka mesta"
+      "published_at": "2026-01-21T06:28:05.000Z",
+      "summary": "Summary: Kralji slavili brez kapetana in prvega vratarja"
+    },
+    {
+      "id": "b4e97023ef32555d9870c8997ebdfe1ea8aa4802",
+      "title": "How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Line of Code",
+      "url": "https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc",
+      "source": "dev.to",
+      "published_at": "2026-01-21T06:25:57.000Z",
+      "summary": "Summary: How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Line of Code"
+    },
+    {
+      "id": "b3e55251abd82e5f635a3121438e906a7fe70505",
+      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+      "source": "huggingface.co",
+      "published_at": "2026-01-21T06:25:31.000Z",
+      "summary": "Summary: AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality"
+    },
+    {
+      "id": "2fcc4d80ad4cc5de78a036e42455dffae5d0008e",
+      "title": "Test",
+      "url": "https://dev.to/kaustubhyerkade/test-29na",
+      "source": "dev.to",
+      "published_at": "2026-01-21T06:23:49.000Z",
+      "summary": "Summary: Test"
+    },
+    {
+      "id": "67a71cc39fcbc459998e7e71801edfa741dfcac3",
+      "title": "Amagi slides in India debut, as cloud TV software firm tests investor appetite",
+      "url": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/",
+      "source": "techcrunch.com",
+      "published_at": "2026-01-21T06:23:46.000Z",
+      "summary": "Summary: Amagi slides in India debut, as cloud TV software firm tests investor appetite"
+    },
+    {
+      "id": "8c49bf8e4cc8ba73eaeca6e9312d641a18808f22",
+      "title": "Como estudar programação do jeito certo e não virar um copia e cola de código de tutoriais do YouTube",
+      "url": "https://dev.to/kaikcestari/como-estudar-programacao-do-jeito-certo-e-nao-virar-um-copia-e-cola-de-codigo-de-tutoriais-do-752",
+      "source": "dev.to",
+      "published_at": "2026-01-21T06:23:36.000Z",
+      "summary": "Summary: Como estudar programação do jeito certo e não virar um copia e cola de código de tutoriais do YouTube"
+    },
+    {
+      "id": "d40fa23abe16809318167a97116b6eadd6d1d43d",
+      "title": "Why Investors Are Worried About Japan’s Bond Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-21/why-investors-are-worried-about-japan-s-bond-market",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-01-21T06:21:30.000Z",
+      "summary": "Summary: Why Investors Are Worried About Japan’s Bond Market"
+    },
+    {
+      "id": "1738a1b97f8cbd9f40cc08d6ea716b1a60a59da5",
+      "title": "Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer",
+      "url": "https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb",
+      "source": "dev.to",
+      "published_at": "2026-01-21T06:21:16.000Z",
+      "summary": "Summary: Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer"
+    },
+    {
+      "id": "d2206be458fa83b2881ee0fdf1754c49dc121b6c",
+      "title": "RAG Pipeline Deep Dive: Ingestion, Chunking, Embedding, and Vector Search",
+      "url": "https://dev.to/derrickryangiggs/rag-pipeline-deep-dive-ingestion-chunking-embedding-and-vector-search-2877",
+      "source": "dev.to",
+      "published_at": "2026-01-21T06:20:43.000Z",
+      "summary": "Summary: RAG Pipeline Deep Dive: Ingestion, Chunking, Embedding, and Vector Search"
+    },
+    {
+      "id": "aecb9e944734f8ee924a84eead2894866980c5fa",
+      "title": "Purple Promo Codes and Deals: Up to 30% Off",
+      "url": "https://www.wired.com/story/purple-promo-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-21T06:20:00.000Z",
+      "summary": "Summary: Purple Promo Codes and Deals: Up to 30% Off"
+    },
+    {
+      "id": "3ba062d5fd1a3ec8d6033de2c5090106ba527b88",
+      "title": "Vse bolj prepričljivo, vse manj resnično?",
+      "url": "https://www.24ur.com/novice/slovenija/vse-bolj-prepricljivo-vse-manj-resnicno.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-21T06:19:15.000Z",
+      "summary": "Summary: Vse bolj prepričljivo, vse manj resnično?"
     }
   ]
 }

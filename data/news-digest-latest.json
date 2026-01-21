@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-20",
-  "updated_at": "2026-01-20T06:32:24.986Z",
-  "page": "/news/2026-01-20-news.html",
+  "date": "2026-01-21",
+  "updated_at": "2026-01-21T06:32:27.668Z",
+  "page": "/news/2026-01-21-news.html",
   "count": 12,
   "items": [
     {
-      "id": "e7a27c96fde5849f0b2be40c6de654a32ead8b16",
-      "title": "Veleslalom na Kronplatzu: vrnitev Federice Brignone",
-      "url": "https://www.rtvslo.si/sport/zimski-sporti/veleslalom-na-kronplatzu-vrnitev-federice-brignone/770607",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-20T06:31:05.000Z",
-      "summary": "Summary: Veleslalom na Kronplatzu: vrnitev Federice Brignone"
-    },
-    {
-      "id": "673829bc3240bd592c8d4fe9783096654e32e67e",
-      "title": "Former NT government worker not guilty of deaths of 71 cattle",
-      "url": "https://www.abc.net.au/news/2026-01-20/deborah-roberts-not-guilty-mass-cattle-death/106244294",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-20T06:30:19.000Z",
-      "summary": "Summary: Former NT government worker not guilty of deaths of 71 cattle"
-    },
-    {
-      "id": "c8cc46086d8452491536a6d5e9373551dce736c1",
-      "title": "Recept dneva: Močnik ali mlečni sok – preprosta jed iz kuhinj naših babic",
-      "url": "https://www.delo.si/magazin/kulinarika/r-recept-dneva-mocnik-ali-mlecni-sok-preprosta-jed-iz-kuhinj-nasih-babic",
-      "source": "www.delo.si",
-      "published_at": "2026-01-20T06:30:00.000Z",
-      "summary": "Summary: Recept dneva: Močnik ali mlečni sok – preprosta jed iz kuhinj naših babic"
-    },
-    {
-      "id": "57cd4c0c581e4ea9877326d92ed4ef38afe245ea",
-      "title": "Hong Kong strives to be ‘fortress’ that safeguards digital security, I&T minister says",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3340519/hong-kong-strives-be-fortress-safeguards-digital-security-it-minister-says?utm_source=rss_feed",
+      "id": "1d0329530f062ea6ac28349e0c364f1ca0470ed6",
+      "title": "Why Southeast Asia is wary of Trump’s ‘pay-to-play’ global peace board",
+      "url": "https://www.scmp.com/week-asia/politics/article/3340651/why-southeast-asia-wary-trumps-pay-play-global-peace-board?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-01-20T06:28:39.000Z",
-      "summary": "Summary: Hong Kong strives to be ‘fortress’ that safeguards digital security, I&T minister says"
+      "published_at": "2026-01-21T06:30:10.000Z",
+      "summary": "Summary: Why Southeast Asia is wary of Trump’s ‘pay-to-play’ global peace board"
     },
     {
-      "id": "10623786648ef7379631f0fbf31df8c4e42f4110",
-      "title": "Think carefully before letting Woolworths' new AI system do your groceries",
-      "url": "https://www.abc.net.au/news/2026-01-20/woolworths-google-ai-items-shopping-groceries/106243642",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-20T06:28:35.000Z",
-      "summary": "Summary: Think carefully before letting Woolworths' new AI system do your groceries"
-    },
-    {
-      "id": "6b7fe44f79fb8c13be4eef638e4cc7bad8465a71",
-      "title": "ZDA že drugič uradno zapuščajo pariški sporazum o podnebju",
-      "url": "https://www.delo.si/novice/svet/trump-pariski-sporazum-izstop",
-      "source": "www.delo.si",
-      "published_at": "2026-01-20T06:27:00.000Z",
-      "summary": "Summary: ZDA že drugič uradno zapuščajo pariški sporazum o podnebju"
-    },
-    {
-      "id": "07694876809e76a03d5ad99d966a6e6cc608be51",
-      "title": "Live: Trump says Europeans won't 'push back too much' over Greenland",
-      "url": "https://www.france24.com/en/europe/20260120-live-trump-says-europeans-won-t-push-back-too-much-over-greenland",
-      "source": "www.france24.com",
-      "published_at": "2026-01-20T06:25:06.000Z",
-      "summary": "Summary: Live: Trump says Europeans won't 'push back too much' over Greenland"
-    },
-    {
-      "id": "76f4dcfc5aa25ad5f0aae9a730d43e7eb1feec25",
-      "title": "Poteka največji Sončev vihar v več kot 20 letih, ki bi lahko oviral komunikacije",
-      "url": "https://www.rtvslo.si/okolje/poteka-najvecji-soncev-vihar-v-vec-kot-20-letih-ki-bi-lahko-oviral-komunikacije/770647",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-20T06:23:32.000Z",
-      "summary": "Summary: Poteka največji Sončev vihar v več kot 20 letih, ki bi lahko oviral komunikacije"
-    },
-    {
-      "id": "c62d10c75de50779241cbb448273702ca79865c5",
-      "title": "Trump threatens 200% wine tariff to push France to join ‘Board of Peace’",
-      "url": "https://www.scmp.com/news/world/europe/article/3340517/trump-threatens-200-wine-tariff-push-france-join-board-peace?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-20T06:21:54.000Z",
-      "summary": "Summary: Trump threatens 200% wine tariff to push France to join ‘Board of Peace’"
-    },
-    {
-      "id": "3cdb38f5ded8e685a982514684f3c65aa3572221",
-      "title": "Breaking: Midnight Oil drummer Rob Hirst dies aged 70",
-      "url": "https://www.abc.net.au/news/2026-01-20/midnight-oil-drummer-rob-hirst-dies/106249816",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-20T06:21:22.000Z",
-      "summary": "Summary: Breaking: Midnight Oil drummer Rob Hirst dies aged 70"
-    },
-    {
-      "id": "9b19d509e8217c6df47990a92cea6dbfb48e1737",
-      "title": "Trump: Evropa ne bo pretirano nasprotovala ameriškemu nakupu Grenlandije",
-      "url": "https://www.24ur.com/novice/tujina/trump-evropa-ne-bo-pretirano-nasprotovala-ameriskemu-nakupu-grenlandije.html",
+      "id": "5f42b243934691bb079b76f53c146f86aced00a3",
+      "title": "Razpoloženi Dončić se je ustavil pri 38 točkah in trojnem dvojčku",
+      "url": "https://www.24ur.com/sport/kosarka/denver-nuggets-los-angeles-lakers-luka-doncic.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-20T06:21:07.000Z",
-      "summary": "Summary: Trump: Evropa ne bo pretirano nasprotovala ameriškemu nakupu Grenlandije"
+      "published_at": "2026-01-21T06:28:59.000Z",
+      "summary": "Summary: Razpoloženi Dončić se je ustavil pri 38 točkah in trojnem dvojčku"
     },
     {
-      "id": "6ae0cd25baae41967db1f6ac47d1898c70ae62fa",
-      "title": "'Just bad luck': The teenage cousins living with inoperable brain tumours",
-      "url": "https://www.bbc.com/news/articles/c5yqrwn5z3lo?at_medium=RSS&at_campaign=rss",
+      "id": "ca731e971349aa8fd15a925fa2c7737be2c9f017",
+      "title": "Kralji slavili brez kapetana in prvega vratarja",
+      "url": "https://www.delo.si/sport/zimski-sporti/kralji-slavili-brez-kapetana-in-prvega-vratarja",
+      "source": "www.delo.si",
+      "published_at": "2026-01-21T06:28:05.000Z",
+      "summary": "Summary: Kralji slavili brez kapetana in prvega vratarja"
+    },
+    {
+      "id": "d7593817b1dbcee80774bea8a6d6af5f737e3ac1",
+      "title": "South Korea’s ex-PM Han gets 23 years in prison for insurrection tied to martial law",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3340661/south-koreas-ex-pm-han-gets-23-years-prison-insurrection-tied-martial-law?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-21T06:26:49.000Z",
+      "summary": "Summary: South Korea’s ex-PM Han gets 23 years in prison for insurrection tied to martial law"
+    },
+    {
+      "id": "05baaa95e581e4076874a91b7b87e403d61d74de",
+      "title": "Turkiye’s Sonmez storms into Australian Open 2026 third round",
+      "url": "https://www.aljazeera.com/sports/2026/1/21/turkiyes-sonmez-storms-into-australian-open-2026-third-round?traffic_source=rss",
+      "source": "www.aljazeera.com",
+      "published_at": "2026-01-21T06:23:37.000Z",
+      "summary": "Summary: Turkiye’s Sonmez storms into Australian Open 2026 third round"
+    },
+    {
+      "id": "1a7035f1ba3d1f299a15e93b85c98d5930c33477",
+      "title": "AFCON 2025: Thousands of fans flood the street of Dakar to celebrate victory",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260121-sport-afcon-2025-thousands-of-fans-flood-the-street-of-dakar-to-celebrate-victory",
+      "source": "www.france24.com",
+      "published_at": "2026-01-21T06:21:21.000Z",
+      "summary": "Summary: AFCON 2025: Thousands of fans flood the street of Dakar to celebrate victory"
+    },
+    {
+      "id": "d07545d0c7971721dc961bf2839842c10fbfc44d",
+      "title": "Australia news live: three Nationals frontbenchers resign from shadow cabinet after breaking ranks to oppose hate speech laws",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/21/hate-speech-laws-pass-senate-gun-reforms-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
+      "source": "www.theguardian.com",
+      "published_at": "2026-01-21T06:19:53.000Z",
+      "summary": "Summary: Australia news live: three Nationals frontbenchers resign from shadow cabinet after breaking ranks to oppose hate speech laws"
+    },
+    {
+      "id": "f739139712226c996306798d26760d559284e3b7",
+      "title": "Mum demands answers over son found dead with stab wounds in a Home Office flat",
+      "url": "https://www.bbc.com/news/articles/cp9j0p1v247o?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-20T06:20:12.000Z",
-      "summary": "Summary: 'Just bad luck': The teenage cousins living with inoperable brain tumours"
+      "published_at": "2026-01-21T06:19:16.000Z",
+      "summary": "Summary: Mum demands answers over son found dead with stab wounds in a Home Office flat"
+    },
+    {
+      "id": "3ba062d5fd1a3ec8d6033de2c5090106ba527b88",
+      "title": "Vse bolj prepričljivo, vse manj resnično?",
+      "url": "https://www.24ur.com/novice/slovenija/vse-bolj-prepricljivo-vse-manj-resnicno.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-21T06:19:15.000Z",
+      "summary": "Summary: Vse bolj prepričljivo, vse manj resnično?"
+    },
+    {
+      "id": "5a5668763ea8e902da8f87a293a06246075dba48",
+      "title": "'Rusija in Kitajska ne kažeta večjih ambicij po Grenlandiji'",
+      "url": "https://www.24ur.com/novice/slovenija/rusija-in-kitajska-ne-kazeta-vecjih-ambicij-po-grenlandiji.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-21T06:18:52.000Z",
+      "summary": "Summary: 'Rusija in Kitajska ne kažeta večjih ambicij po Grenlandiji'"
+    },
+    {
+      "id": "78f0b0b5d175d297fe65285517bf5da7a2470fe8",
+      "title": "ZDA zasegle že sedmi tanker z venezuelsko nafto",
+      "url": "https://www.24ur.com/novice/tujina/zda-zasegle-ze-sedmi-tanker-z-venezuelsko-nafto.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-21T06:18:17.000Z",
+      "summary": "Summary: ZDA zasegle že sedmi tanker z venezuelsko nafto"
+    },
+    {
+      "id": "c5eb710908c4ae66a6b32029598135f0053c955c",
+      "title": "V štajerski prestolnici bodo radar preselili na novo lokacijo",
+      "url": "https://www.rtvslo.si/lokalne-novice/maribor/v-stajerski-prestolnici-bodo-radar-preselili-na-novo-lokacijo/770767",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-21T06:14:11.000Z",
+      "summary": "Summary: V štajerski prestolnici bodo radar preselili na novo lokacijo"
     }
   ]
 }
