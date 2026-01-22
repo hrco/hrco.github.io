@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-21",
-  "updated_at": "2026-01-21T06:32:14.500Z",
-  "page": "/news/2026-01-21.html",
+  "date": "2026-01-22",
+  "updated_at": "2026-01-22T06:32:05.690Z",
+  "page": "/news/2026-01-22.html",
   "count": 12,
   "items": [
     {
-      "id": "5f42b243934691bb079b76f53c146f86aced00a3",
-      "title": "Razpoloženi Dončić se je ustavil pri 38 točkah in trojnem dvojčku",
-      "url": "https://www.24ur.com/sport/kosarka/denver-nuggets-los-angeles-lakers-luka-doncic.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-21T06:28:59.000Z",
-      "summary": "Summary: Razpoloženi Dončić se je ustavil pri 38 točkah in trojnem dvojčku"
-    },
-    {
-      "id": "ca731e971349aa8fd15a925fa2c7737be2c9f017",
-      "title": "Kralji slavili brez kapetana in prvega vratarja",
-      "url": "https://www.delo.si/sport/zimski-sporti/kralji-slavili-brez-kapetana-in-prvega-vratarja",
-      "source": "www.delo.si",
-      "published_at": "2026-01-21T06:28:05.000Z",
-      "summary": "Summary: Kralji slavili brez kapetana in prvega vratarja"
-    },
-    {
-      "id": "b4e97023ef32555d9870c8997ebdfe1ea8aa4802",
-      "title": "How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Line of Code",
-      "url": "https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc",
-      "source": "dev.to",
-      "published_at": "2026-01-21T06:25:57.000Z",
-      "summary": "Summary: How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Line of Code"
-    },
-    {
-      "id": "b3e55251abd82e5f635a3121438e906a7fe70505",
-      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-      "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-      "source": "huggingface.co",
-      "published_at": "2026-01-21T06:25:31.000Z",
-      "summary": "Summary: AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality"
-    },
-    {
-      "id": "2fcc4d80ad4cc5de78a036e42455dffae5d0008e",
-      "title": "Test",
-      "url": "https://dev.to/kaustubhyerkade/test-29na",
-      "source": "dev.to",
-      "published_at": "2026-01-21T06:23:49.000Z",
-      "summary": "Summary: Test"
-    },
-    {
-      "id": "67a71cc39fcbc459998e7e71801edfa741dfcac3",
-      "title": "Amagi slides in India debut, as cloud TV software firm tests investor appetite",
-      "url": "https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/",
-      "source": "techcrunch.com",
-      "published_at": "2026-01-21T06:23:46.000Z",
-      "summary": "Summary: Amagi slides in India debut, as cloud TV software firm tests investor appetite"
-    },
-    {
-      "id": "8c49bf8e4cc8ba73eaeca6e9312d641a18808f22",
-      "title": "Como estudar programação do jeito certo e não virar um copia e cola de código de tutoriais do YouTube",
-      "url": "https://dev.to/kaikcestari/como-estudar-programacao-do-jeito-certo-e-nao-virar-um-copia-e-cola-de-codigo-de-tutoriais-do-752",
-      "source": "dev.to",
-      "published_at": "2026-01-21T06:23:36.000Z",
-      "summary": "Summary: Como estudar programação do jeito certo e não virar um copia e cola de código de tutoriais do YouTube"
-    },
-    {
-      "id": "d40fa23abe16809318167a97116b6eadd6d1d43d",
-      "title": "Why Investors Are Worried About Japan’s Bond Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-21/why-investors-are-worried-about-japan-s-bond-market",
+      "id": "ee0d97b95cd5581b9d082c29c3fe68486dad91cb",
+      "title": "Air India Braces for Record $1.6 Billion Loss After Deadly Crash",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-22/air-india-braces-for-record-1-6-billion-loss-after-deadly-crash",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-21T06:21:30.000Z",
-      "summary": "Summary: Why Investors Are Worried About Japan’s Bond Market"
+      "published_at": "2026-01-22T06:19:52.000Z",
+      "summary": "Summary: Air India Braces for Record $1.6 Billion Loss After Deadly Crash"
     },
     {
-      "id": "1738a1b97f8cbd9f40cc08d6ea716b1a60a59da5",
-      "title": "Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer",
-      "url": "https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb",
-      "source": "dev.to",
-      "published_at": "2026-01-21T06:21:16.000Z",
-      "summary": "Summary: Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer"
-    },
-    {
-      "id": "d2206be458fa83b2881ee0fdf1754c49dc121b6c",
-      "title": "RAG Pipeline Deep Dive: Ingestion, Chunking, Embedding, and Vector Search",
-      "url": "https://dev.to/derrickryangiggs/rag-pipeline-deep-dive-ingestion-chunking-embedding-and-vector-search-2877",
-      "source": "dev.to",
-      "published_at": "2026-01-21T06:20:43.000Z",
-      "summary": "Summary: RAG Pipeline Deep Dive: Ingestion, Chunking, Embedding, and Vector Search"
-    },
-    {
-      "id": "aecb9e944734f8ee924a84eead2894866980c5fa",
-      "title": "Purple Promo Codes and Deals: Up to 30% Off",
-      "url": "https://www.wired.com/story/purple-promo-code/",
+      "id": "687b7ba02e9e7c9974c81f0fcc1c3c48b7fbd71a",
+      "title": "H&R Block Coupons and Deals: 20% Off Tax Prep in 2026",
+      "url": "https://www.wired.com/story/hr-block-coupon/",
       "source": "www.wired.com",
-      "published_at": "2026-01-21T06:20:00.000Z",
-      "summary": "Summary: Purple Promo Codes and Deals: Up to 30% Off"
+      "published_at": "2026-01-22T06:15:00.000Z",
+      "summary": "Summary: H&R Block Coupons and Deals: 20% Off Tax Prep in 2026"
     },
     {
-      "id": "3ba062d5fd1a3ec8d6033de2c5090106ba527b88",
-      "title": "Vse bolj prepričljivo, vse manj resnično?",
-      "url": "https://www.24ur.com/novice/slovenija/vse-bolj-prepricljivo-vse-manj-resnicno.html",
+      "id": "40ff638ecf0e1954b309fc7b7d44372c9ecbcf2f",
+      "title": "ReactJS Hook Pattern ~Debounce~",
+      "url": "https://dev.to/kkr0423/reactjs-hook-pattern-debounce-345j",
+      "source": "dev.to",
+      "published_at": "2026-01-22T06:14:22.000Z",
+      "summary": "Summary: ReactJS Hook Pattern ~Debounce~"
+    },
+    {
+      "id": "09f1deb5b96b69686183e92de7718327f29cc6d0",
+      "title": "Monitoring Linux servers without Grafana, Docker, or agents",
+      "url": "https://dev.to/nurulislamrimon/monitoring-linux-servers-without-grafana-docker-or-agents-37l5",
+      "source": "dev.to",
+      "published_at": "2026-01-22T06:10:47.000Z",
+      "summary": "Summary: Monitoring Linux servers without Grafana, Docker, or agents"
+    },
+    {
+      "id": "5ac6b41658c32b39da41d8adff331b43688337d9",
+      "title": "HBO Max Promo Code: 50% Off | January",
+      "url": "https://www.wired.com/story/max-promo-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-22T06:10:00.000Z",
+      "summary": "Summary: HBO Max Promo Code: 50% Off | January"
+    },
+    {
+      "id": "177b649f07eeef55c494e0ac403b880dc0ff2b7f",
+      "title": "Rotating Residential Proxy Evaluation Mini-Lab You Can Run in 90 Minutes",
+      "url": "https://dev.to/gabrielewayner/rotating-residential-proxy-evaluation-mini-lab-you-can-run-in-90-minutes-207d",
+      "source": "dev.to",
+      "published_at": "2026-01-22T06:07:54.000Z",
+      "summary": "Summary: Rotating Residential Proxy Evaluation Mini-Lab You Can Run in 90 Minutes"
+    },
+    {
+      "id": "2a4e9eee8950c267f28148e373feb79775212081",
+      "title": "DOM IN JAVASCRIPT",
+      "url": "https://dev.to/keerthigap/dom-in-javascript-3nll",
+      "source": "dev.to",
+      "published_at": "2026-01-22T06:01:55.000Z",
+      "summary": "Summary: DOM IN JAVASCRIPT"
+    },
+    {
+      "id": "cb5ba01f87ad73cef9916882589590ead3e7529d",
+      "title": "Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables",
+      "url": "https://dev.to/popcorn_movies/ringer-movies-another-48-hrs-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-2ekb",
+      "source": "dev.to",
+      "published_at": "2026-01-22T06:01:46.000Z",
+      "summary": "Summary: Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables"
+    },
+    {
+      "id": "84aeabf8d73eae477031392732f743fed3bf8ff1",
+      "title": "DOM in JS",
+      "url": "https://dev.to/sasirekaarumugam/dom-in-js-8gh",
+      "source": "dev.to",
+      "published_at": "2026-01-22T06:01:40.000Z",
+      "summary": "Summary: DOM in JS"
+    },
+    {
+      "id": "ab3b26a0dcf0fa41bac6eaeaac844df169f82ef2",
+      "title": "Solved: Migrate Evernote Notes to Obsidian: Converting HTML to Markdown",
+      "url": "https://dev.to/techresolve/solved-migrate-evernote-notes-to-obsidian-converting-html-to-markdown-pbm",
+      "source": "dev.to",
+      "published_at": "2026-01-22T06:00:15.000Z",
+      "summary": "Summary: Solved: Migrate Evernote Notes to Obsidian: Converting HTML to Markdown"
+    },
+    {
+      "id": "a89f13dc868f1cfa00da2ab39160fec619ef4f4d",
+      "title": "Jason Statham: Večkrat sem šel s kaskaderskimi podvigi predaleč",
+      "url": "https://www.24ur.com/popin/tuja-scena/jason-statham-veckrat-sem-sel-s-kaskaderskimi-podvigi-predalec.html",
       "source": "www.24ur.com",
-      "published_at": "2026-01-21T06:19:15.000Z",
-      "summary": "Summary: Vse bolj prepričljivo, vse manj resnično?"
+      "published_at": "2026-01-22T06:00:13.000Z",
+      "summary": "Summary: Jason Statham: Večkrat sem šel s kaskaderskimi podvigi predaleč"
+    },
+    {
+      "id": "954dc69ed64f25cff72e272b5bb6cde6ab912bcb",
+      "title": "Govee Discount Codes and Deals: 30% Off",
+      "url": "https://www.wired.com/story/govee-discount-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-22T06:00:00.000Z",
+      "summary": "Summary: Govee Discount Codes and Deals: 30% Off"
     }
   ]
 }

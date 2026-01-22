@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-21T06:32:27.668Z",
+  "updated_at": "2026-01-22T06:32:15.002Z",
   "days": [
+    {
+      "date": "2026-01-22",
+      "page": "/news/2026-01-22-news.html",
+      "teaser": "Top: Artificial intelligence’s practical uses, not race to AGI, is what counts, Jeffrey Ding says",
+      "count": 12,
+      "ids": [
+        "b3756d0c2c8867a930412febdc642b78677a672e",
+        "d9ce8f064695b2070e51517bf0467e3503b8dac2",
+        "919ab20c82b5217cf0b4769f01dcd0d2cdbc35f1",
+        "014557a6714c4d36e71a74d722ea5cfe196aed42",
+        "b47beb943c926461eceeb496f730dee796743e48",
+        "1d0a7eaa7dcb99fb581e8befa78db923442727ac",
+        "94659c961263f24e3e0a27c0c5dbe34f3730f11a",
+        "da1ed13ca99c3870b8c1d97d0c37ac390859265c",
+        "b0c80c27525517a0c942f8f8a706c963e0fefb93",
+        "4094d9d7d686e0b0898772ca7b1d8e2968abf9c0",
+        "d929a05d36af981f5f2fb31a50fd3f8a35e6f93b",
+        "baf40338652d673d6bceef3ab573669eb2338b01"
+      ]
+    },
     {
       "date": "2026-01-21",
       "page": "/news/2026-01-21-news.html",

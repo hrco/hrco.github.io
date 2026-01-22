@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-21T06:32:14.500Z",
+  "updated_at": "2026-01-22T06:32:05.690Z",
   "days": [
+    {
+      "date": "2026-01-22",
+      "page": "/news/2026-01-22.html",
+      "teaser": "Top: Air India Braces for Record $1.6 Billion Loss After Deadly Crash",
+      "count": 12,
+      "ids": [
+        "ee0d97b95cd5581b9d082c29c3fe68486dad91cb",
+        "687b7ba02e9e7c9974c81f0fcc1c3c48b7fbd71a",
+        "40ff638ecf0e1954b309fc7b7d44372c9ecbcf2f",
+        "09f1deb5b96b69686183e92de7718327f29cc6d0",
+        "5ac6b41658c32b39da41d8adff331b43688337d9",
+        "177b649f07eeef55c494e0ac403b880dc0ff2b7f",
+        "2a4e9eee8950c267f28148e373feb79775212081",
+        "cb5ba01f87ad73cef9916882589590ead3e7529d",
+        "84aeabf8d73eae477031392732f743fed3bf8ff1",
+        "ab3b26a0dcf0fa41bac6eaeaac844df169f82ef2",
+        "a89f13dc868f1cfa00da2ab39160fec619ef4f4d",
+        "954dc69ed64f25cff72e272b5bb6cde6ab912bcb"
+      ]
+    },
     {
       "date": "2026-01-21",
       "page": "/news/2026-01-21.html",
