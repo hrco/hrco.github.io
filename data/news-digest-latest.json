@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-22",
-  "updated_at": "2026-01-22T06:32:15.002Z",
-  "page": "/news/2026-01-22-news.html",
+  "date": "2026-01-23",
+  "updated_at": "2026-01-23T06:32:48.479Z",
+  "page": "/news/2026-01-23-news.html",
   "count": 12,
   "items": [
     {
-      "id": "b3756d0c2c8867a930412febdc642b78677a672e",
-      "title": "Artificial intelligence’s practical uses, not race to AGI, is what counts, Jeffrey Ding says",
-      "url": "https://www.scmp.com/plus/tech/tech-trends/article/3340790/artificial-intelligences-practical-uses-not-race-agi-what-counts-jeffrey-ding-says?utm_source=rss_feed",
+      "id": "9508ece4e72359a9169d02ddccdddba903791de6",
+      "title": "Recept dneva: Torta brownie tiramisu (VIDEO)",
+      "url": "https://www.delo.si/magazin/kulinarika/r-recept-dneva-torta-brownie-tiramisu-video",
+      "source": "www.delo.si",
+      "published_at": "2026-01-23T06:31:00.000Z",
+      "summary": "Summary: Recept dneva: Torta brownie tiramisu (VIDEO)"
+    },
+    {
+      "id": "7d6ab40fafb9befa1f90d512be9580ee9c23e864",
+      "title": "Moskva pravi, da trajni mir v Ukrajini ne bo mogoč brez rešitve ozemeljskega vprašanja",
+      "url": "https://www.rtvslo.si/svet/vojna-v-ukrajini/moskva-pravi-da-trajni-mir-v-ukrajini-ne-bo-mogoc-brez-resitve-ozemeljskega-vprasanja/770996",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-23T06:30:57.000Z",
+      "summary": "Summary: Moskva pravi, da trajni mir v Ukrajini ne bo mogoč brez rešitve ozemeljskega vprašanja"
+    },
+    {
+      "id": "3e2c4be495c2dcbe75da1c106e68971116f23412",
+      "title": "Žak Eržen prvič med elito v deseterici, sprint Welsfordu in Ineosu",
+      "url": "https://www.rtvslo.si/sport/kolesarstvo/zak-erzen-prvic-med-elito-v-deseterici-sprint-welsfordu-in-ineosu/770994",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-23T06:16:55.000Z",
+      "summary": "Summary: Žak Eržen prvič med elito v deseterici, sprint Welsfordu in Ineosu"
+    },
+    {
+      "id": "bb86f291754fc42d3acc743e659ad561691d8697",
+      "title": "Labubu maker Pop Mart rallies as new toy trend and state media spotlight spark confidence",
+      "url": "https://www.scmp.com/business/china-business/article/3340938/labubu-maker-pop-mart-rallies-new-toy-trend-and-state-media-spotlight-spark-confidence?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-01-22T06:30:13.000Z",
-      "summary": "Summary: Artificial intelligence’s practical uses, not race to AGI, is what counts, Jeffrey Ding says"
+      "published_at": "2026-01-23T06:15:20.000Z",
+      "summary": "Summary: Labubu maker Pop Mart rallies as new toy trend and state media spotlight spark confidence"
     },
     {
-      "id": "d9ce8f064695b2070e51517bf0467e3503b8dac2",
-      "title": "'Pioneer' gymnast Kinsella's rare return to elite competition after baby",
-      "url": "https://www.bbc.com/sport/gymnastics/articles/ckgzjyj4jkqo?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-22T06:26:28.000Z",
-      "summary": "Summary: 'Pioneer' gymnast Kinsella's rare return to elite competition after baby"
+      "id": "991238834df19a9b3ab7dcc8b0ad1857765bf735",
+      "title": "Trump Iranu zagrozil z vojaško silo, flota že na poti",
+      "url": "https://www.delo.si/novice/svet/ameriske-vojaske-flote-iran",
+      "source": "www.delo.si",
+      "published_at": "2026-01-23T06:15:14.000Z",
+      "summary": "Summary: Trump Iranu zagrozil z vojaško silo, flota že na poti"
     },
     {
-      "id": "919ab20c82b5217cf0b4769f01dcd0d2cdbc35f1",
-      "title": "Djokovic cruises into Australian Open third round",
-      "url": "https://www.bbc.com/sport/tennis/articles/c5y22d8ng29o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-22T06:23:06.000Z",
-      "summary": "Summary: Djokovic cruises into Australian Open third round"
+      "id": "4cf77703cee0099a9dd7fc3046cf58203d34f8c7",
+      "title": "Malaysia’s parliament tightens access rules for media interviews, sparking criticisms",
+      "url": "https://www.scmp.com/week-asia/politics/article/3340945/malaysias-parliament-tightens-access-rules-media-interviews-sparking-criticisms?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-23T06:13:39.000Z",
+      "summary": "Summary: Malaysia’s parliament tightens access rules for media interviews, sparking criticisms"
     },
     {
-      "id": "014557a6714c4d36e71a74d722ea5cfe196aed42",
-      "title": "LIVE: Trump to lead signing of charter for Gaza ‘Board of Peace’ in Davos",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/22/live-trump-to-lead-signing-of-charter-for-gaza-board-of-peace-in-davos?traffic_source=rss",
-      "source": "www.aljazeera.com",
-      "published_at": "2026-01-22T06:19:49.000Z",
-      "summary": "Summary: LIVE: Trump to lead signing of charter for Gaza ‘Board of Peace’ in Davos"
-    },
-    {
-      "id": "b47beb943c926461eceeb496f730dee796743e48",
-      "title": "Bondi day of mourning live: senior rabbi says ‘we don’t fight darkness by shouting’; heavy police presence at Sydney Opera House for memorial service",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/22/bondi-terror-attack-national-day-of-mourning-coalition-crisis-nationals-liberals-david-littleproud-sussan-ley-ntwnfb",
+      "id": "b29aa2609927652d7726edbea908f9cf02760726",
+      "title": "Australia news live: total fire ban for Victoria on Saturday as SA officials brace for dangerous conditions",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/23/australia-news-live-sussan-ley-liberals-coalition-nationals-littleproud-hastie-taylor-anthony-albanese-labor-spill-ntwnfb",
       "source": "www.theguardian.com",
-      "published_at": "2026-01-22T06:19:42.000Z",
-      "summary": "Summary: Bondi day of mourning live: senior rabbi says ‘we don’t fight darkness by shouting’; heavy police presence at Sydney Opera House for memorial service"
+      "published_at": "2026-01-23T06:11:51.000Z",
+      "summary": "Summary: Australia news live: total fire ban for Victoria on Saturday as SA officials brace for dangerous conditions"
     },
     {
-      "id": "1d0a7eaa7dcb99fb581e8befa78db923442727ac",
-      "title": "'Unique' Rogers looks to prove worth for Villa & England",
-      "url": "https://www.bbc.com/sport/football/articles/cedwx4w43dyo?at_medium=RSS&at_campaign=rss",
+      "id": "2761b5647b3eff2879ecf4a79feeec3b6534db55",
+      "title": "Trump Says Canada Is No Longer Welcome on Peace Board",
+      "url": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
+      "source": "rss.nytimes.com",
+      "published_at": "2026-01-23T06:11:00.000Z",
+      "summary": "Summary: Trump Says Canada Is No Longer Welcome on Peace Board"
+    },
+    {
+      "id": "5af16a05d5542fc0932929205f743121f1a758b3",
+      "title": "Costa glede odnosov z ZDA: EU bo branil sebe in svoje državljane pred vsakršnim izsiljevanjem",
+      "url": "https://www.rtvslo.si/evropska-unija/costa-glede-odnosov-z-zda-eu-bo-branil-sebe-in-svoje-drzavljane-pred-vsakrsnim-izsiljevanjem/770995",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-23T06:10:56.000Z",
+      "summary": "Summary: Costa glede odnosov z ZDA: EU bo branil sebe in svoje državljane pred vsakršnim izsiljevanjem"
+    },
+    {
+      "id": "70cdfad16b773373df9e578113dd68578cf54008",
+      "title": "Eight surprise takeaways from the Oscar nominations",
+      "url": "https://www.bbc.com/news/articles/cp3zzv40422o?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-22T06:17:12.000Z",
-      "summary": "Summary: 'Unique' Rogers looks to prove worth for Villa & England"
+      "published_at": "2026-01-23T06:07:32.000Z",
+      "summary": "Summary: Eight surprise takeaways from the Oscar nominations"
     },
     {
-      "id": "94659c961263f24e3e0a27c0c5dbe34f3730f11a",
-      "title": "Autopsy finds Cuban immigrant in ICE custody died of homicide due to asphyxia",
-      "url": "https://www.npr.org/2026/01/22/g-s1-106773/cuban-immigrant-ice-custody-died-homicide",
-      "source": "feeds.npr.org",
-      "published_at": "2026-01-22T06:15:56.000Z",
-      "summary": "Summary: Autopsy finds Cuban immigrant in ICE custody died of homicide due to asphyxia"
-    },
-    {
-      "id": "da1ed13ca99c3870b8c1d97d0c37ac390859265c",
-      "title": "Liverpool close in on Round of 16 with 3-0 win over Marseille",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260122-liverpool-close-in-on-round-of-16-with-3-0-win-over-marseille",
-      "source": "www.france24.com",
-      "published_at": "2026-01-22T06:14:55.000Z",
-      "summary": "Summary: Liverpool close in on Round of 16 with 3-0 win over Marseille"
-    },
-    {
-      "id": "b0c80c27525517a0c942f8f8a706c963e0fefb93",
-      "title": "We were lied to, demeaned and smeared, say hospital inquiry families",
-      "url": "https://www.bbc.com/news/articles/c4g4e17g7yyo?at_medium=RSS&at_campaign=rss",
+      "id": "aa32278bcb04c95d5abd7bb4859fff2bc5f35629",
+      "title": "'I gave last 46p': Young people tell how they felt pressure to donate to emerging church",
+      "url": "https://www.bbc.com/news/articles/c8e59zrxrypo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-22T06:07:23.000Z",
-      "summary": "Summary: We were lied to, demeaned and smeared, say hospital inquiry families"
+      "published_at": "2026-01-23T06:05:43.000Z",
+      "summary": "Summary: 'I gave last 46p': Young people tell how they felt pressure to donate to emerging church"
     },
     {
-      "id": "4094d9d7d686e0b0898772ca7b1d8e2968abf9c0",
-      "title": "Temperature records tipped to break when heatwave hits Victoria",
-      "url": "https://www.abc.net.au/news/2026-01-22/victoria-to-face-heatwave-conditions-temperatures-soar/106258280",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-22T06:04:50.000Z",
-      "summary": "Summary: Temperature records tipped to break when heatwave hits Victoria"
-    },
-    {
-      "id": "d929a05d36af981f5f2fb31a50fd3f8a35e6f93b",
-      "title": "Hong Kong tests student housing land sales as office market slowdown curbs tenders",
-      "url": "https://www.scmp.com/business/article/3340776/hong-kong-tests-student-housing-land-sales-office-market-slowdown-curbs-tenders?utm_source=rss_feed",
+      "id": "39267848aba5f14e7261cf336c443e6de045c633",
+      "title": "China’s analogue AI chip runs 12 times as fast on 1/200th the energy of digital rivals",
+      "url": "https://www.scmp.com/news/china/science/article/3340939/chinas-analogue-ai-chip-runs-12-times-fast-1/200th-energy-digital-rivals?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-01-22T06:00:27.000Z",
-      "summary": "Summary: Hong Kong tests student housing land sales as office market slowdown curbs tenders"
-    },
-    {
-      "id": "baf40338652d673d6bceef3ab573669eb2338b01",
-      "title": "Asthma has no cure. For some, the risk is in this gene, Chinese team finds",
-      "url": "https://www.scmp.com/news/china/science/article/3340553/asthma-has-no-cure-some-risk-written-gene-china-team-finds?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-22T06:00:22.000Z",
-      "summary": "Summary: Asthma has no cure. For some, the risk is in this gene, Chinese team finds"
+      "published_at": "2026-01-23T06:00:14.000Z",
+      "summary": "Summary: China’s analogue AI chip runs 12 times as fast on 1/200th the energy of digital rivals"
     }
   ]
 }

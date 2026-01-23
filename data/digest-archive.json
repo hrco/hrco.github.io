@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-22T06:32:05.690Z",
+  "updated_at": "2026-01-23T06:32:37.532Z",
   "days": [
+    {
+      "date": "2026-01-23",
+      "page": "/news/2026-01-23.html",
+      "teaser": "Top: Recept dneva: Torta brownie tiramisu (VIDEO)",
+      "count": 12,
+      "ids": [
+        "9508ece4e72359a9169d02ddccdddba903791de6",
+        "7d6ab40fafb9befa1f90d512be9580ee9c23e864",
+        "2e0b32ec7a6ec66a000d992b5be3599c527530a2",
+        "3c1f2553825adf18ba47cc35183f4021f1398dc2",
+        "f9b07b3f67c3ccaad3048c6458f95a7e6e8ae21d",
+        "80362c7b51cad4215fbefc81277414ff0930d091",
+        "993bbaed363a27742b6d44d3b676d9c52800bd97",
+        "9296fcf32a808fcd3810b6c36c93f892168c6606",
+        "6696f6efb0b649192872e1d67763a4a7e716e932",
+        "3e2c4be495c2dcbe75da1c106e68971116f23412",
+        "991238834df19a9b3ab7dcc8b0ad1857765bf735",
+        "01837240adb818ce5b6827e4b974435f71a8a6b4"
+      ]
+    },
     {
       "date": "2026-01-22",
       "page": "/news/2026-01-22.html",
@@ -579,26 +599,6 @@
         "01e0a7da4d1ca5c99621f25c2f827f74e1724a2b",
         "69deed41722b08e843697092771103370b2add7c",
         "be64761f62cbbbc96bc95acde5dbc798967f3661"
-      ]
-    },
-    {
-      "date": "2025-12-24",
-      "page": "/news/2025-12-24.html",
-      "teaser": "Top: AI Demand Top of Mind for PC, Hardware Giants in 2026",
-      "count": 12,
-      "ids": [
-        "00d298536e2e52dcc4e727a56d31afeec601b385",
-        "0edd66f499ca0875ae048e29751885f6cfdafa6b",
-        "2778212fbad1ba9c4fd83b701a52c6f346f95964",
-        "227c077381b2c08f3adacd95cebe136472139b2d",
-        "8775cc1cc98338aa30b6976a1b24a6d9ca319d72",
-        "5536c76a4678de4fcc0eeac12028b7c2ebf57d7e",
-        "d8374a881527e8952adaa7a49fa6e5a0acf68702",
-        "7c3ec9519dfc088c13c1b05cf2e9e855fcdcc518",
-        "9d49ddb4573a024f0c8f071e0d8dc73573e5922e",
-        "f222cbdf42050fc742658f85359b2146bc8f6800",
-        "aca5c1022bd7750eacffaff5b143fb710203deb5",
-        "4fa2da51a18a498a8d97a442d7b0aa2a17e2dec1"
       ]
     }
   ]

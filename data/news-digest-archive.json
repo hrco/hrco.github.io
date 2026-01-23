@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-22T06:32:15.002Z",
+  "updated_at": "2026-01-23T06:32:48.479Z",
   "days": [
+    {
+      "date": "2026-01-23",
+      "page": "/news/2026-01-23-news.html",
+      "teaser": "Top: Recept dneva: Torta brownie tiramisu (VIDEO)",
+      "count": 12,
+      "ids": [
+        "9508ece4e72359a9169d02ddccdddba903791de6",
+        "7d6ab40fafb9befa1f90d512be9580ee9c23e864",
+        "3e2c4be495c2dcbe75da1c106e68971116f23412",
+        "bb86f291754fc42d3acc743e659ad561691d8697",
+        "991238834df19a9b3ab7dcc8b0ad1857765bf735",
+        "4cf77703cee0099a9dd7fc3046cf58203d34f8c7",
+        "b29aa2609927652d7726edbea908f9cf02760726",
+        "2761b5647b3eff2879ecf4a79feeec3b6534db55",
+        "5af16a05d5542fc0932929205f743121f1a758b3",
+        "70cdfad16b773373df9e578113dd68578cf54008",
+        "aa32278bcb04c95d5abd7bb4859fff2bc5f35629",
+        "39267848aba5f14e7261cf336c443e6de045c633"
+      ]
+    },
     {
       "date": "2026-01-22",
       "page": "/news/2026-01-22-news.html",

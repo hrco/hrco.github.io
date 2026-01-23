@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-22",
-  "updated_at": "2026-01-22T06:32:05.690Z",
-  "page": "/news/2026-01-22.html",
+  "date": "2026-01-23",
+  "updated_at": "2026-01-23T06:32:37.532Z",
+  "page": "/news/2026-01-23.html",
   "count": 12,
   "items": [
     {
-      "id": "ee0d97b95cd5581b9d082c29c3fe68486dad91cb",
-      "title": "Air India Braces for Record $1.6 Billion Loss After Deadly Crash",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-22/air-india-braces-for-record-1-6-billion-loss-after-deadly-crash",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-01-22T06:19:52.000Z",
-      "summary": "Summary: Air India Braces for Record $1.6 Billion Loss After Deadly Crash"
+      "id": "9508ece4e72359a9169d02ddccdddba903791de6",
+      "title": "Recept dneva: Torta brownie tiramisu (VIDEO)",
+      "url": "https://www.delo.si/magazin/kulinarika/r-recept-dneva-torta-brownie-tiramisu-video",
+      "source": "www.delo.si",
+      "published_at": "2026-01-23T06:31:00.000Z",
+      "summary": "Summary: Recept dneva: Torta brownie tiramisu (VIDEO)"
     },
     {
-      "id": "687b7ba02e9e7c9974c81f0fcc1c3c48b7fbd71a",
-      "title": "H&R Block Coupons and Deals: 20% Off Tax Prep in 2026",
-      "url": "https://www.wired.com/story/hr-block-coupon/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-22T06:15:00.000Z",
-      "summary": "Summary: H&R Block Coupons and Deals: 20% Off Tax Prep in 2026"
+      "id": "7d6ab40fafb9befa1f90d512be9580ee9c23e864",
+      "title": "Moskva pravi, da trajni mir v Ukrajini ne bo mogoč brez rešitve ozemeljskega vprašanja",
+      "url": "https://www.rtvslo.si/svet/vojna-v-ukrajini/moskva-pravi-da-trajni-mir-v-ukrajini-ne-bo-mogoc-brez-resitve-ozemeljskega-vprasanja/770996",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-23T06:30:57.000Z",
+      "summary": "Summary: Moskva pravi, da trajni mir v Ukrajini ne bo mogoč brez rešitve ozemeljskega vprašanja"
     },
     {
-      "id": "40ff638ecf0e1954b309fc7b7d44372c9ecbcf2f",
-      "title": "ReactJS Hook Pattern ~Debounce~",
-      "url": "https://dev.to/kkr0423/reactjs-hook-pattern-debounce-345j",
+      "id": "2e0b32ec7a6ec66a000d992b5be3599c527530a2",
+      "title": "Implement Garmin Connect OAuth2 Authentication in React Native with Expo",
+      "url": "https://dev.to/alexanderhodes/implement-garmin-connect-oauth2-authentication-in-react-native-with-expo-1j55",
       "source": "dev.to",
-      "published_at": "2026-01-22T06:14:22.000Z",
-      "summary": "Summary: ReactJS Hook Pattern ~Debounce~"
+      "published_at": "2026-01-23T06:28:48.000Z",
+      "summary": "Summary: Implement Garmin Connect OAuth2 Authentication in React Native with Expo"
     },
     {
-      "id": "09f1deb5b96b69686183e92de7718327f29cc6d0",
-      "title": "Monitoring Linux servers without Grafana, Docker, or agents",
-      "url": "https://dev.to/nurulislamrimon/monitoring-linux-servers-without-grafana-docker-or-agents-37l5",
+      "id": "3c1f2553825adf18ba47cc35183f4021f1398dc2",
+      "title": "How to Develop Fintech App with Laravel: A Step-by-Step Guide",
+      "url": "https://dev.to/dhruvil_joshi14/how-to-develop-fintech-app-with-laravel-a-step-by-step-guide-45ke",
       "source": "dev.to",
-      "published_at": "2026-01-22T06:10:47.000Z",
-      "summary": "Summary: Monitoring Linux servers without Grafana, Docker, or agents"
+      "published_at": "2026-01-23T06:27:13.000Z",
+      "summary": "Summary: How to Develop Fintech App with Laravel: A Step-by-Step Guide"
     },
     {
-      "id": "5ac6b41658c32b39da41d8adff331b43688337d9",
-      "title": "HBO Max Promo Code: 50% Off | January",
-      "url": "https://www.wired.com/story/max-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-22T06:10:00.000Z",
-      "summary": "Summary: HBO Max Promo Code: 50% Off | January"
-    },
-    {
-      "id": "177b649f07eeef55c494e0ac403b880dc0ff2b7f",
-      "title": "Rotating Residential Proxy Evaluation Mini-Lab You Can Run in 90 Minutes",
-      "url": "https://dev.to/gabrielewayner/rotating-residential-proxy-evaluation-mini-lab-you-can-run-in-90-minutes-207d",
+      "id": "f9b07b3f67c3ccaad3048c6458f95a7e6e8ae21d",
+      "title": "What is DOM and virtual DOM with example?",
+      "url": "https://dev.to/suvankar_dash_0986b78420e/what-is-dom-and-virtual-dom-with-example-4ddi",
       "source": "dev.to",
-      "published_at": "2026-01-22T06:07:54.000Z",
-      "summary": "Summary: Rotating Residential Proxy Evaluation Mini-Lab You Can Run in 90 Minutes"
+      "published_at": "2026-01-23T06:24:57.000Z",
+      "summary": "Summary: What is DOM and virtual DOM with example?"
     },
     {
-      "id": "2a4e9eee8950c267f28148e373feb79775212081",
-      "title": "DOM IN JAVASCRIPT",
-      "url": "https://dev.to/keerthigap/dom-in-javascript-3nll",
+      "id": "80362c7b51cad4215fbefc81277414ff0930d091",
+      "title": "The HIDDEN Gem in the Google AI Challenge💎",
+      "url": "https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh",
       "source": "dev.to",
-      "published_at": "2026-01-22T06:01:55.000Z",
-      "summary": "Summary: DOM IN JAVASCRIPT"
+      "published_at": "2026-01-23T06:24:15.000Z",
+      "summary": "Summary: The HIDDEN Gem in the Google AI Challenge💎"
     },
     {
-      "id": "cb5ba01f87ad73cef9916882589590ead3e7529d",
-      "title": "Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables",
-      "url": "https://dev.to/popcorn_movies/ringer-movies-another-48-hrs-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-2ekb",
+      "id": "993bbaed363a27742b6d44d3b676d9c52800bd97",
+      "title": "What is Container and Containerization",
+      "url": "https://dev.to/sbkumbar024/what-is-container-and-containerization-5439",
       "source": "dev.to",
-      "published_at": "2026-01-22T06:01:46.000Z",
-      "summary": "Summary: Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables"
+      "published_at": "2026-01-23T06:21:24.000Z",
+      "summary": "Summary: What is Container and Containerization"
     },
     {
-      "id": "84aeabf8d73eae477031392732f743fed3bf8ff1",
-      "title": "DOM in JS",
-      "url": "https://dev.to/sasirekaarumugam/dom-in-js-8gh",
+      "id": "9296fcf32a808fcd3810b6c36c93f892168c6606",
+      "title": "Minimum Falling Path Sum: Coding Problem Explained",
+      "url": "https://dev.to/stack_overflowed/minimum-falling-path-sum-coding-problem-explained-3fh1",
       "source": "dev.to",
-      "published_at": "2026-01-22T06:01:40.000Z",
-      "summary": "Summary: DOM in JS"
+      "published_at": "2026-01-23T06:20:38.000Z",
+      "summary": "Summary: Minimum Falling Path Sum: Coding Problem Explained"
     },
     {
-      "id": "ab3b26a0dcf0fa41bac6eaeaac844df169f82ef2",
-      "title": "Solved: Migrate Evernote Notes to Obsidian: Converting HTML to Markdown",
-      "url": "https://dev.to/techresolve/solved-migrate-evernote-notes-to-obsidian-converting-html-to-markdown-pbm",
+      "id": "6696f6efb0b649192872e1d67763a4a7e716e932",
+      "title": "OutSystems vs Custom Development: The Real Cost Comparison",
+      "url": "https://dev.to/kartiki_kapile_0ff2243eb6/outsystems-vs-custom-development-the-real-cost-comparison-63e",
       "source": "dev.to",
-      "published_at": "2026-01-22T06:00:15.000Z",
-      "summary": "Summary: Solved: Migrate Evernote Notes to Obsidian: Converting HTML to Markdown"
+      "published_at": "2026-01-23T06:17:42.000Z",
+      "summary": "Summary: OutSystems vs Custom Development: The Real Cost Comparison"
     },
     {
-      "id": "a89f13dc868f1cfa00da2ab39160fec619ef4f4d",
-      "title": "Jason Statham: Večkrat sem šel s kaskaderskimi podvigi predaleč",
-      "url": "https://www.24ur.com/popin/tuja-scena/jason-statham-veckrat-sem-sel-s-kaskaderskimi-podvigi-predalec.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-22T06:00:13.000Z",
-      "summary": "Summary: Jason Statham: Večkrat sem šel s kaskaderskimi podvigi predaleč"
+      "id": "3e2c4be495c2dcbe75da1c106e68971116f23412",
+      "title": "Žak Eržen prvič med elito v deseterici, sprint Welsfordu in Ineosu",
+      "url": "https://www.rtvslo.si/sport/kolesarstvo/zak-erzen-prvic-med-elito-v-deseterici-sprint-welsfordu-in-ineosu/770994",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-23T06:16:55.000Z",
+      "summary": "Summary: Žak Eržen prvič med elito v deseterici, sprint Welsfordu in Ineosu"
     },
     {
-      "id": "954dc69ed64f25cff72e272b5bb6cde6ab912bcb",
-      "title": "Govee Discount Codes and Deals: 30% Off",
-      "url": "https://www.wired.com/story/govee-discount-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-01-22T06:00:00.000Z",
-      "summary": "Summary: Govee Discount Codes and Deals: 30% Off"
+      "id": "991238834df19a9b3ab7dcc8b0ad1857765bf735",
+      "title": "Trump Iranu zagrozil z vojaško silo, flota že na poti",
+      "url": "https://www.delo.si/novice/svet/ameriske-vojaske-flote-iran",
+      "source": "www.delo.si",
+      "published_at": "2026-01-23T06:15:14.000Z",
+      "summary": "Summary: Trump Iranu zagrozil z vojaško silo, flota že na poti"
+    },
+    {
+      "id": "01837240adb818ce5b6827e4b974435f71a8a6b4",
+      "title": "BASH Beats Complexity, AGI Hits 2026, Code's Cheap Now",
+      "url": "https://dev.to/urbanisierung/bash-beats-complexity-agi-hits-2026-codes-cheap-now-20og",
+      "source": "dev.to",
+      "published_at": "2026-01-23T06:12:40.000Z",
+      "summary": "Summary: BASH Beats Complexity, AGI Hits 2026, Code's Cheap Now"
     }
   ]
 }
