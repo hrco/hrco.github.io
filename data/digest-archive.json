@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-23T06:32:37.532Z",
+  "updated_at": "2026-01-24T06:31:42.311Z",
   "days": [
+    {
+      "date": "2026-01-24",
+      "page": "/news/2026-01-24.html",
+      "teaser": "Top: This portfolio isn’t perfect, but it’s 100% mine",
+      "count": 12,
+      "ids": [
+        "18aad78b6556a235d349b06c2c07c1b1ae7f7568",
+        "1d62251d562388629a23465279df11017ff5a399",
+        "492a0f6c0db06856f9c90a63858cfcf24969ef67",
+        "43d732eee5da56202c9f1b2a17320bf768eff34b",
+        "c96e8e390ffc99df3e44210bd3ec985806eca405",
+        "6ffe920fe1c891a407f6618bb9af632114fe2446",
+        "7378653bab8cf08ff6edece8fa5b6d1988c67035",
+        "faad998b6771b000bcbf51a27b2a451b4e95df5d",
+        "b3d76d3acb6ff7e452d42401f709b070d08a4e01",
+        "d341343247e7e8f9d0f3d2976acb17fa3cdf94b0",
+        "cdbb7ca22c374f450d63e464efe00f4fdbc3c0e2",
+        "2bdc5054d3541372e148e7f54515661241fdd14f"
+      ]
+    },
     {
       "date": "2026-01-23",
       "page": "/news/2026-01-23.html",
@@ -579,26 +599,6 @@
         "6888467804f53dac298360a07b612da58f366529",
         "c85c45f3bc3a1865a245f658a06936c4f5339d89",
         "1ad48ff39ef1a75f417691ff6f9491449c65790e"
-      ]
-    },
-    {
-      "date": "2025-12-25",
-      "page": "/news/2025-12-25.html",
-      "teaser": "Top: Ruby 4.0.0 Released",
-      "count": 12,
-      "ids": [
-        "936cb4fef25ec46e7a067685972962f02632f59a",
-        "bacb4289d18b46bcd6ec49a6a0f68ef527dbb927",
-        "2b3c1b896022bc822eb3d289c0d93ee9d1266ef2",
-        "8dda7b2dff1ca938c52ac8e3bb8f014ca4c8ed3e",
-        "3fb1d43c1f0cc49d41646cac98a21cae067b3d31",
-        "f41512dd1365f5b0e1d71e58a161cba0ee164d11",
-        "3e20acab14297fcfd7d941f516b9c784c30a6f06",
-        "1556f5f5d47fb2aeeb2eb578ea5372b83821db50",
-        "a3168b6dc3f431e53abab7abf5b5b74536fbc413",
-        "01e0a7da4d1ca5c99621f25c2f827f74e1724a2b",
-        "69deed41722b08e843697092771103370b2add7c",
-        "be64761f62cbbbc96bc95acde5dbc798967f3661"
       ]
     }
   ]

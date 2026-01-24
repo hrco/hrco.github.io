@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-23",
-  "updated_at": "2026-01-23T06:32:37.532Z",
-  "page": "/news/2026-01-23.html",
+  "date": "2026-01-24",
+  "updated_at": "2026-01-24T06:31:42.311Z",
+  "page": "/news/2026-01-24.html",
   "count": 12,
   "items": [
     {
-      "id": "9508ece4e72359a9169d02ddccdddba903791de6",
-      "title": "Recept dneva: Torta brownie tiramisu (VIDEO)",
-      "url": "https://www.delo.si/magazin/kulinarika/r-recept-dneva-torta-brownie-tiramisu-video",
-      "source": "www.delo.si",
-      "published_at": "2026-01-23T06:31:00.000Z",
-      "summary": "Summary: Recept dneva: Torta brownie tiramisu (VIDEO)"
+      "id": "18aad78b6556a235d349b06c2c07c1b1ae7f7568",
+      "title": "This portfolio isn’t perfect, but it’s 100% mine",
+      "url": "https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5",
+      "source": "dev.to",
+      "published_at": "2026-01-24T06:26:18.000Z",
+      "summary": "Summary: This portfolio isn’t perfect, but it’s 100% mine"
     },
     {
-      "id": "7d6ab40fafb9befa1f90d512be9580ee9c23e864",
-      "title": "Moskva pravi, da trajni mir v Ukrajini ne bo mogoč brez rešitve ozemeljskega vprašanja",
-      "url": "https://www.rtvslo.si/svet/vojna-v-ukrajini/moskva-pravi-da-trajni-mir-v-ukrajini-ne-bo-mogoc-brez-resitve-ozemeljskega-vprasanja/770996",
+      "id": "1d62251d562388629a23465279df11017ff5a399",
+      "title": "🌱 Bloom Roadmap — What’s Coming Next",
+      "url": "https://dev.to/codebunny20/bloom-roadmap-whats-coming-next-335a",
+      "source": "dev.to",
+      "published_at": "2026-01-24T06:25:49.000Z",
+      "summary": "Summary: 🌱 Bloom Roadmap — What’s Coming Next"
+    },
+    {
+      "id": "492a0f6c0db06856f9c90a63858cfcf24969ef67",
+      "title": "Ob 10.00 v Špindlerjevem Mlinu ženski veleslalom",
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/ob-10-00-v-spindlerjevem-mlinu-zenski-veleslalom/771125",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-23T06:30:57.000Z",
-      "summary": "Summary: Moskva pravi, da trajni mir v Ukrajini ne bo mogoč brez rešitve ozemeljskega vprašanja"
+      "published_at": "2026-01-24T06:24:44.000Z",
+      "summary": "Summary: Ob 10.00 v Špindlerjevem Mlinu ženski veleslalom"
     },
     {
-      "id": "2e0b32ec7a6ec66a000d992b5be3599c527530a2",
-      "title": "Implement Garmin Connect OAuth2 Authentication in React Native with Expo",
-      "url": "https://dev.to/alexanderhodes/implement-garmin-connect-oauth2-authentication-in-react-native-with-expo-1j55",
+      "id": "43d732eee5da56202c9f1b2a17320bf768eff34b",
+      "title": "TopResume Free Review, Discounts & Packages for 2026",
+      "url": "https://www.wired.com/story/topresume-discount-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-01-24T06:20:00.000Z",
+      "summary": "Summary: TopResume Free Review, Discounts & Packages for 2026"
+    },
+    {
+      "id": "c96e8e390ffc99df3e44210bd3ec985806eca405",
+      "title": "Socialna upravičenost višjih plač utemeljena, kaj pa ekonomska vzdržnost?",
+      "url": "https://www.24ur.com/novice/gospodarstvo/minimalna-placa-dvig.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-24T06:15:23.000Z",
+      "summary": "Summary: Socialna upravičenost višjih plač utemeljena, kaj pa ekonomska vzdržnost?"
+    },
+    {
+      "id": "6ffe920fe1c891a407f6618bb9af632114fe2446",
+      "title": "Lahko rubež socialnih pomoči povzroči porast stisk in kaznivih dejanj?",
+      "url": "https://www.24ur.com/novice/slovenija/lahko-rubez-socialnih-pomoci-povzroci-porast-socialnih-stisk-in-kaznivih-dejanj.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-24T06:15:04.000Z",
+      "summary": "Summary: Lahko rubež socialnih pomoči povzroči porast stisk in kaznivih dejanj?"
+    },
+    {
+      "id": "7378653bab8cf08ff6edece8fa5b6d1988c67035",
+      "title": "Štirje tjulnji spet v divjini Severnega morja",
+      "url": "https://www.24ur.com/novice/tujina/stirje-tjulnji-spet-v-divjini-severnega-morja.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-24T06:14:50.000Z",
+      "summary": "Summary: Štirje tjulnji spet v divjini Severnega morja"
+    },
+    {
+      "id": "faad998b6771b000bcbf51a27b2a451b4e95df5d",
+      "title": "Where Blockchain Data Actually Lives (IPFS, Arweave & The 2026 Storage War)",
+      "url": "https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka",
       "source": "dev.to",
-      "published_at": "2026-01-23T06:28:48.000Z",
-      "summary": "Summary: Implement Garmin Connect OAuth2 Authentication in React Native with Expo"
+      "published_at": "2026-01-24T06:09:56.000Z",
+      "summary": "Summary: Where Blockchain Data Actually Lives (IPFS, Arweave & The 2026 Storage War)"
     },
     {
-      "id": "3c1f2553825adf18ba47cc35183f4021f1398dc2",
-      "title": "How to Develop Fintech App with Laravel: A Step-by-Step Guide",
-      "url": "https://dev.to/dhruvil_joshi14/how-to-develop-fintech-app-with-laravel-a-step-by-step-guide-45ke",
-      "source": "dev.to",
-      "published_at": "2026-01-23T06:27:13.000Z",
-      "summary": "Summary: How to Develop Fintech App with Laravel: A Step-by-Step Guide"
-    },
-    {
-      "id": "f9b07b3f67c3ccaad3048c6458f95a7e6e8ae21d",
-      "title": "What is DOM and virtual DOM with example?",
-      "url": "https://dev.to/suvankar_dash_0986b78420e/what-is-dom-and-virtual-dom-with-example-4ddi",
-      "source": "dev.to",
-      "published_at": "2026-01-23T06:24:57.000Z",
-      "summary": "Summary: What is DOM and virtual DOM with example?"
-    },
-    {
-      "id": "80362c7b51cad4215fbefc81277414ff0930d091",
-      "title": "The HIDDEN Gem in the Google AI Challenge💎",
-      "url": "https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh",
-      "source": "dev.to",
-      "published_at": "2026-01-23T06:24:15.000Z",
-      "summary": "Summary: The HIDDEN Gem in the Google AI Challenge💎"
-    },
-    {
-      "id": "993bbaed363a27742b6d44d3b676d9c52800bd97",
-      "title": "What is Container and Containerization",
-      "url": "https://dev.to/sbkumbar024/what-is-container-and-containerization-5439",
-      "source": "dev.to",
-      "published_at": "2026-01-23T06:21:24.000Z",
-      "summary": "Summary: What is Container and Containerization"
-    },
-    {
-      "id": "9296fcf32a808fcd3810b6c36c93f892168c6606",
-      "title": "Minimum Falling Path Sum: Coding Problem Explained",
-      "url": "https://dev.to/stack_overflowed/minimum-falling-path-sum-coding-problem-explained-3fh1",
-      "source": "dev.to",
-      "published_at": "2026-01-23T06:20:38.000Z",
-      "summary": "Summary: Minimum Falling Path Sum: Coding Problem Explained"
-    },
-    {
-      "id": "6696f6efb0b649192872e1d67763a4a7e716e932",
-      "title": "OutSystems vs Custom Development: The Real Cost Comparison",
-      "url": "https://dev.to/kartiki_kapile_0ff2243eb6/outsystems-vs-custom-development-the-real-cost-comparison-63e",
-      "source": "dev.to",
-      "published_at": "2026-01-23T06:17:42.000Z",
-      "summary": "Summary: OutSystems vs Custom Development: The Real Cost Comparison"
-    },
-    {
-      "id": "3e2c4be495c2dcbe75da1c106e68971116f23412",
-      "title": "Žak Eržen prvič med elito v deseterici, sprint Welsfordu in Ineosu",
-      "url": "https://www.rtvslo.si/sport/kolesarstvo/zak-erzen-prvic-med-elito-v-deseterici-sprint-welsfordu-in-ineosu/770994",
+      "id": "b3d76d3acb6ff7e452d42401f709b070d08a4e01",
+      "title": "Ko predmeti spregovorijo o preteklosti",
+      "url": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/ko-predmeti-spregovorijo-o-preteklosti/771086",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-23T06:16:55.000Z",
-      "summary": "Summary: Žak Eržen prvič med elito v deseterici, sprint Welsfordu in Ineosu"
+      "published_at": "2026-01-24T06:09:34.000Z",
+      "summary": "Summary: Ko predmeti spregovorijo o preteklosti"
     },
     {
-      "id": "991238834df19a9b3ab7dcc8b0ad1857765bf735",
-      "title": "Trump Iranu zagrozil z vojaško silo, flota že na poti",
-      "url": "https://www.delo.si/novice/svet/ameriske-vojaske-flote-iran",
-      "source": "www.delo.si",
-      "published_at": "2026-01-23T06:15:14.000Z",
-      "summary": "Summary: Trump Iranu zagrozil z vojaško silo, flota že na poti"
-    },
-    {
-      "id": "01837240adb818ce5b6827e4b974435f71a8a6b4",
-      "title": "BASH Beats Complexity, AGI Hits 2026, Code's Cheap Now",
-      "url": "https://dev.to/urbanisierung/bash-beats-complexity-agi-hits-2026-codes-cheap-now-20og",
+      "id": "d341343247e7e8f9d0f3d2976acb17fa3cdf94b0",
+      "title": "The Tao of Architecture: Clearing the Fog of \"Names\" to Return to the Essence of \"Non-Being\"",
+      "url": "https://dev.to/xmaicode/the-tao-of-architecture-clearing-the-fog-of-names-to-return-to-the-essence-of-non-being-4e3l",
       "source": "dev.to",
-      "published_at": "2026-01-23T06:12:40.000Z",
-      "summary": "Summary: BASH Beats Complexity, AGI Hits 2026, Code's Cheap Now"
+      "published_at": "2026-01-24T06:08:00.000Z",
+      "summary": "Summary: The Tao of Architecture: Clearing the Fog of \"Names\" to Return to the Essence of \"Non-Being\""
+    },
+    {
+      "id": "cdbb7ca22c374f450d63e464efe00f4fdbc3c0e2",
+      "title": "paf cxn",
+      "url": "https://dev.to/nader_chmait_cfcd8e22303f/test-3con",
+      "source": "dev.to",
+      "published_at": "2026-01-24T06:07:03.000Z",
+      "summary": "Summary: paf cxn"
+    },
+    {
+      "id": "2bdc5054d3541372e148e7f54515661241fdd14f",
+      "title": "Stevanović in Resni.ca v lovu za volivci, ki se jim je 'zagnusila politika'",
+      "url": "https://www.24ur.com/novice/slovenija/zoran-stevanovic.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-24T06:05:31.000Z",
+      "summary": "Summary: Stevanović in Resni.ca v lovu za volivci, ki se jim je 'zagnusila politika'"
     }
   ]
 }

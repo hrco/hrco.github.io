@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-23T06:32:48.479Z",
+  "updated_at": "2026-01-24T06:31:55.710Z",
   "days": [
+    {
+      "date": "2026-01-24",
+      "page": "/news/2026-01-24-news.html",
+      "teaser": "Top: Ob 10.00 v Špindlerjevem Mlinu ženski veleslalom",
+      "count": 12,
+      "ids": [
+        "492a0f6c0db06856f9c90a63858cfcf24969ef67",
+        "2b6f30aa46da764a20bc0e6586c85df776761144",
+        "5032496d8001dfdf0e3f95381ee67b9c9598d524",
+        "916bd45ce6aeba3215a8479fa4525b4fd44ebea7",
+        "c96e8e390ffc99df3e44210bd3ec985806eca405",
+        "6ffe920fe1c891a407f6618bb9af632114fe2446",
+        "8f15638ac981c77c7e4bc34cce2c0a4625406f07",
+        "7378653bab8cf08ff6edece8fa5b6d1988c67035",
+        "b3d76d3acb6ff7e452d42401f709b070d08a4e01",
+        "2bdc5054d3541372e148e7f54515661241fdd14f",
+        "cf0d6cef48ff80318f928b9f318e45af3f82bf98",
+        "e989490d0b2c57c8a7d14780fcd9890f12744d7a"
+      ]
+    },
     {
       "date": "2026-01-23",
       "page": "/news/2026-01-23-news.html",

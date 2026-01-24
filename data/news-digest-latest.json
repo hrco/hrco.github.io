@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-23",
-  "updated_at": "2026-01-23T06:32:48.479Z",
-  "page": "/news/2026-01-23-news.html",
+  "date": "2026-01-24",
+  "updated_at": "2026-01-24T06:31:55.710Z",
+  "page": "/news/2026-01-24-news.html",
   "count": 12,
   "items": [
     {
-      "id": "9508ece4e72359a9169d02ddccdddba903791de6",
-      "title": "Recept dneva: Torta brownie tiramisu (VIDEO)",
-      "url": "https://www.delo.si/magazin/kulinarika/r-recept-dneva-torta-brownie-tiramisu-video",
-      "source": "www.delo.si",
-      "published_at": "2026-01-23T06:31:00.000Z",
-      "summary": "Summary: Recept dneva: Torta brownie tiramisu (VIDEO)"
-    },
-    {
-      "id": "7d6ab40fafb9befa1f90d512be9580ee9c23e864",
-      "title": "Moskva pravi, da trajni mir v Ukrajini ne bo mogoč brez rešitve ozemeljskega vprašanja",
-      "url": "https://www.rtvslo.si/svet/vojna-v-ukrajini/moskva-pravi-da-trajni-mir-v-ukrajini-ne-bo-mogoc-brez-resitve-ozemeljskega-vprasanja/770996",
+      "id": "492a0f6c0db06856f9c90a63858cfcf24969ef67",
+      "title": "Ob 10.00 v Špindlerjevem Mlinu ženski veleslalom",
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/ob-10-00-v-spindlerjevem-mlinu-zenski-veleslalom/771125",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-23T06:30:57.000Z",
-      "summary": "Summary: Moskva pravi, da trajni mir v Ukrajini ne bo mogoč brez rešitve ozemeljskega vprašanja"
+      "published_at": "2026-01-24T06:24:44.000Z",
+      "summary": "Summary: Ob 10.00 v Špindlerjevem Mlinu ženski veleslalom"
     },
     {
-      "id": "3e2c4be495c2dcbe75da1c106e68971116f23412",
-      "title": "Žak Eržen prvič med elito v deseterici, sprint Welsfordu in Ineosu",
-      "url": "https://www.rtvslo.si/sport/kolesarstvo/zak-erzen-prvic-med-elito-v-deseterici-sprint-welsfordu-in-ineosu/770994",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-23T06:16:55.000Z",
-      "summary": "Summary: Žak Eržen prvič med elito v deseterici, sprint Welsfordu in Ineosu"
+      "id": "2b6f30aa46da764a20bc0e6586c85df776761144",
+      "title": "Tottenham, Bayern and a stand made of chairs - Palhinha's story",
+      "url": "https://www.bbc.com/sport/football/articles/c62ww08l0n6o?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-01-24T06:21:37.000Z",
+      "summary": "Summary: Tottenham, Bayern and a stand made of chairs - Palhinha's story"
     },
     {
-      "id": "bb86f291754fc42d3acc743e659ad561691d8697",
-      "title": "Labubu maker Pop Mart rallies as new toy trend and state media spotlight spark confidence",
-      "url": "https://www.scmp.com/business/china-business/article/3340938/labubu-maker-pop-mart-rallies-new-toy-trend-and-state-media-spotlight-spark-confidence?utm_source=rss_feed",
+      "id": "5032496d8001dfdf0e3f95381ee67b9c9598d524",
+      "title": "Nvidia CEO tours Shanghai office amid fresh signs of China thaw",
+      "url": "https://www.scmp.com/tech/article/3341097/nvidia-ceo-tours-shanghai-office-amid-fresh-signs-china-thaw?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-01-23T06:15:20.000Z",
-      "summary": "Summary: Labubu maker Pop Mart rallies as new toy trend and state media spotlight spark confidence"
+      "published_at": "2026-01-24T06:20:46.000Z",
+      "summary": "Summary: Nvidia CEO tours Shanghai office amid fresh signs of China thaw"
     },
     {
-      "id": "991238834df19a9b3ab7dcc8b0ad1857765bf735",
-      "title": "Trump Iranu zagrozil z vojaško silo, flota že na poti",
-      "url": "https://www.delo.si/novice/svet/ameriske-vojaske-flote-iran",
-      "source": "www.delo.si",
-      "published_at": "2026-01-23T06:15:14.000Z",
-      "summary": "Summary: Trump Iranu zagrozil z vojaško silo, flota že na poti"
-    },
-    {
-      "id": "4cf77703cee0099a9dd7fc3046cf58203d34f8c7",
-      "title": "Malaysia’s parliament tightens access rules for media interviews, sparking criticisms",
-      "url": "https://www.scmp.com/week-asia/politics/article/3340945/malaysias-parliament-tightens-access-rules-media-interviews-sparking-criticisms?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-23T06:13:39.000Z",
-      "summary": "Summary: Malaysia’s parliament tightens access rules for media interviews, sparking criticisms"
-    },
-    {
-      "id": "b29aa2609927652d7726edbea908f9cf02760726",
-      "title": "Australia news live: total fire ban for Victoria on Saturday as SA officials brace for dangerous conditions",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/23/australia-news-live-sussan-ley-liberals-coalition-nationals-littleproud-hastie-taylor-anthony-albanese-labor-spill-ntwnfb",
+      "id": "916bd45ce6aeba3215a8479fa4525b4fd44ebea7",
+      "title": "Pentagon to reduce its role in deterrence of North Korea",
+      "url": "https://www.theguardian.com/world/2026/jan/24/north-korea-pentagon-to-reduce-role-deterrence",
       "source": "www.theguardian.com",
-      "published_at": "2026-01-23T06:11:51.000Z",
-      "summary": "Summary: Australia news live: total fire ban for Victoria on Saturday as SA officials brace for dangerous conditions"
+      "published_at": "2026-01-24T06:18:02.000Z",
+      "summary": "Summary: Pentagon to reduce its role in deterrence of North Korea"
     },
     {
-      "id": "2761b5647b3eff2879ecf4a79feeec3b6534db55",
-      "title": "Trump Says Canada Is No Longer Welcome on Peace Board",
-      "url": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
-      "source": "rss.nytimes.com",
-      "published_at": "2026-01-23T06:11:00.000Z",
-      "summary": "Summary: Trump Says Canada Is No Longer Welcome on Peace Board"
+      "id": "c96e8e390ffc99df3e44210bd3ec985806eca405",
+      "title": "Socialna upravičenost višjih plač utemeljena, kaj pa ekonomska vzdržnost?",
+      "url": "https://www.24ur.com/novice/gospodarstvo/minimalna-placa-dvig.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-24T06:15:23.000Z",
+      "summary": "Summary: Socialna upravičenost višjih plač utemeljena, kaj pa ekonomska vzdržnost?"
     },
     {
-      "id": "5af16a05d5542fc0932929205f743121f1a758b3",
-      "title": "Costa glede odnosov z ZDA: EU bo branil sebe in svoje državljane pred vsakršnim izsiljevanjem",
-      "url": "https://www.rtvslo.si/evropska-unija/costa-glede-odnosov-z-zda-eu-bo-branil-sebe-in-svoje-drzavljane-pred-vsakrsnim-izsiljevanjem/770995",
+      "id": "6ffe920fe1c891a407f6618bb9af632114fe2446",
+      "title": "Lahko rubež socialnih pomoči povzroči porast stisk in kaznivih dejanj?",
+      "url": "https://www.24ur.com/novice/slovenija/lahko-rubez-socialnih-pomoci-povzroci-porast-socialnih-stisk-in-kaznivih-dejanj.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-24T06:15:04.000Z",
+      "summary": "Summary: Lahko rubež socialnih pomoči povzroči porast stisk in kaznivih dejanj?"
+    },
+    {
+      "id": "8f15638ac981c77c7e4bc34cce2c0a4625406f07",
+      "title": "How 'lucky' Sinner became biggest winner in near 40C Melbourne heat",
+      "url": "https://www.bbc.com/sport/tennis/articles/c1ev96w4xv6o?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-01-24T06:14:57.000Z",
+      "summary": "Summary: How 'lucky' Sinner became biggest winner in near 40C Melbourne heat"
+    },
+    {
+      "id": "7378653bab8cf08ff6edece8fa5b6d1988c67035",
+      "title": "Štirje tjulnji spet v divjini Severnega morja",
+      "url": "https://www.24ur.com/novice/tujina/stirje-tjulnji-spet-v-divjini-severnega-morja.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-24T06:14:50.000Z",
+      "summary": "Summary: Štirje tjulnji spet v divjini Severnega morja"
+    },
+    {
+      "id": "b3d76d3acb6ff7e452d42401f709b070d08a4e01",
+      "title": "Ko predmeti spregovorijo o preteklosti",
+      "url": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/ko-predmeti-spregovorijo-o-preteklosti/771086",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-23T06:10:56.000Z",
-      "summary": "Summary: Costa glede odnosov z ZDA: EU bo branil sebe in svoje državljane pred vsakršnim izsiljevanjem"
+      "published_at": "2026-01-24T06:09:34.000Z",
+      "summary": "Summary: Ko predmeti spregovorijo o preteklosti"
     },
     {
-      "id": "70cdfad16b773373df9e578113dd68578cf54008",
-      "title": "Eight surprise takeaways from the Oscar nominations",
-      "url": "https://www.bbc.com/news/articles/cp3zzv40422o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-23T06:07:32.000Z",
-      "summary": "Summary: Eight surprise takeaways from the Oscar nominations"
+      "id": "2bdc5054d3541372e148e7f54515661241fdd14f",
+      "title": "Stevanović in Resni.ca v lovu za volivci, ki se jim je 'zagnusila politika'",
+      "url": "https://www.24ur.com/novice/slovenija/zoran-stevanovic.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-24T06:05:31.000Z",
+      "summary": "Summary: Stevanović in Resni.ca v lovu za volivci, ki se jim je 'zagnusila politika'"
     },
     {
-      "id": "aa32278bcb04c95d5abd7bb4859fff2bc5f35629",
-      "title": "'I gave last 46p': Young people tell how they felt pressure to donate to emerging church",
-      "url": "https://www.bbc.com/news/articles/c8e59zrxrypo?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-23T06:05:43.000Z",
-      "summary": "Summary: 'I gave last 46p': Young people tell how they felt pressure to donate to emerging church"
+      "id": "cf0d6cef48ff80318f928b9f318e45af3f82bf98",
+      "title": "LIVE: Kyiv, Kharkiv come under attack amid Russia-Ukraine peace talks",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/24/live-kyiv-kharkiv-come-under-attack-amid-russia-ukraine-peace-talks?traffic_source=rss",
+      "source": "www.aljazeera.com",
+      "published_at": "2026-01-24T06:04:24.000Z",
+      "summary": "Summary: LIVE: Kyiv, Kharkiv come under attack amid Russia-Ukraine peace talks"
     },
     {
-      "id": "39267848aba5f14e7261cf336c443e6de045c633",
-      "title": "China’s analogue AI chip runs 12 times as fast on 1/200th the energy of digital rivals",
-      "url": "https://www.scmp.com/news/china/science/article/3340939/chinas-analogue-ai-chip-runs-12-times-fast-1/200th-energy-digital-rivals?utm_source=rss_feed",
+      "id": "e989490d0b2c57c8a7d14780fcd9890f12744d7a",
+      "title": "Australian boy, 12, dies a week after shark attack in Sydney Harbour",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3341094/australian-boy-12-dies-week-after-shark-attack-sydney-harbour?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-01-23T06:00:14.000Z",
-      "summary": "Summary: China’s analogue AI chip runs 12 times as fast on 1/200th the energy of digital rivals"
+      "published_at": "2026-01-24T06:00:37.000Z",
+      "summary": "Summary: Australian boy, 12, dies a week after shark attack in Sydney Harbour"
     }
   ]
 }
