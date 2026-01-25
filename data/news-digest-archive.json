@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-24T06:31:55.710Z",
+  "updated_at": "2026-01-25T06:32:03.168Z",
   "days": [
+    {
+      "date": "2026-01-25",
+      "page": "/news/2026-01-25-news.html",
+      "teaser": "Top: Gaethje bloodies and breaks Pimblett's heart at UFC 324",
+      "count": 12,
+      "ids": [
+        "6f6f8bb1beb6674eccd975f3eb92d06394b05740",
+        "a20ee581b9e09470f5b5811fa172beb74e339464",
+        "e66a4504b38b5efeaf0f054a35efd8c52fd0bbb2",
+        "36703217d3408aea295f637cb7775f659862b326",
+        "a0770c77f102c38521f91b847ee9451f9069766a",
+        "8f268711611ccd34e9b85de6d2f39c40f1939ca7",
+        "e3d99d466f8965b88de8f349841f118d3a399193",
+        "c1c7dbd775b5cb6744ee7376b0824fd06cf3f233",
+        "73019dac123a6fba4ef730ecd8572653803da63a",
+        "fb8d89cfd07930fe36a0458917b54e40f7427e0e",
+        "3fb478da498ca62eab6e489092604c060788068c",
+        "fe794b7a3e9e78f47784f8c4da9336ef15e9263b"
+      ]
+    },
     {
       "date": "2026-01-24",
       "page": "/news/2026-01-24-news.html",

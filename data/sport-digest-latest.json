@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-24",
-  "updated_at": "2026-01-24T06:32:03.307Z",
-  "page": "/news/2026-01-24-sport.html",
+  "date": "2026-01-25",
+  "updated_at": "2026-01-25T06:32:08.573Z",
+  "page": "/news/2026-01-25-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "2b6f30aa46da764a20bc0e6586c85df776761144",
-      "title": "Tottenham, Bayern and a stand made of chairs - Palhinha's story",
-      "url": "https://www.bbc.com/sport/football/articles/c62ww08l0n6o?at_medium=RSS&at_campaign=rss",
+      "id": "6f6f8bb1beb6674eccd975f3eb92d06394b05740",
+      "title": "Gaethje bloodies and breaks Pimblett's heart at UFC 324",
+      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/c8j3xndjzn7o?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-24T06:21:37.000Z",
-      "summary": "Summary: Tottenham, Bayern and a stand made of chairs - Palhinha's story"
+      "published_at": "2026-01-25T06:30:04.000Z",
+      "summary": "Summary: Gaethje bloodies and breaks Pimblett's heart at UFC 324"
     },
     {
-      "id": "b9c335803ca70c2081e8412fc77d3d3c6b074078",
-      "title": "Scoring is up, freshmen are elite and more storylines shaping men's hoops",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47695101/mens-college-basketball-storylines-scoring-freshmen-surprises-disappointments-2025-2026",
+      "id": "853e3ee2c94042ac2031c0f617be13c73ea98439",
+      "title": "'Fantastic': Luka's clutch defense seals Lakers' win",
+      "url": "https://www.espn.com/nba/story/_/id/47721615/fantastic-luka-doncic-comes-big-33-points-clutch-late-defense",
       "source": "www.espn.com",
-      "published_at": "2026-01-24T06:19:20.000Z",
-      "summary": "Summary: Scoring is up, freshmen are elite and more storylines shaping men's hoops"
+      "published_at": "2026-01-25T06:26:02.000Z",
+      "summary": "Summary: 'Fantastic': Luka's clutch defense seals Lakers' win"
     },
     {
-      "id": "808e40bd0e8da0c4b5acfaaeaff8aa234dd11c4e",
-      "title": "8 years, 5 schools and a career-threatening condition: The story of Tyon Grant-Foster",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47687492/mens-college-basketball-tyon-grant-foster-career-gonzaga",
+      "id": "c6a3b59d2dc48fd06d02c49a43148a3416fd8ac6",
+      "title": "Warriors-Wolves ppd. after Minneapolis shooting",
+      "url": "https://www.espn.com/nba/story/_/id/47716472/warriors-timberwolves-postponed-amid-minneapolis-unrest",
       "source": "www.espn.com",
-      "published_at": "2026-01-24T06:19:20.000Z",
-      "summary": "Summary: 8 years, 5 schools and a career-threatening condition: The story of Tyon Grant-Foster"
+      "published_at": "2026-01-25T06:26:02.000Z",
+      "summary": "Summary: Warriors-Wolves ppd. after Minneapolis shooting"
     },
     {
-      "id": "e0912707db918009e4ab5389a9ad21835703b78b",
-      "title": "Two NFL conference title games, two matchup previews: We have predictions, score picks and X factors",
-      "url": "https://www.espn.com/nfl/story/_/page/viewersguide47674313/nfl-afc-nfc-conference-championships-predictions-schedule-odds-injuries-stats-2025-playoffs",
+      "id": "2d025ca771c4c6dc5d542ec2c85b17222eb71d2e",
+      "title": "Pistons clinch All-Star selection for Bickerstaff",
+      "url": "https://www.espn.com/nba/story/_/id/47721367/pistons-jb-bickerstaff-named-all-star-game-coach",
       "source": "www.espn.com",
-      "published_at": "2026-01-24T06:17:31.000Z",
-      "summary": "Summary: Two NFL conference title games, two matchup previews: We have predictions, score picks and X factors"
+      "published_at": "2026-01-25T06:26:02.000Z",
+      "summary": "Summary: Pistons clinch All-Star selection for Bickerstaff"
     },
     {
-      "id": "42861adb5b8e363ed54c6078df0b039a3e7ed0c8",
-      "title": "Spurs 'will get there soon' - Palhinha",
-      "url": "https://www.bbc.com/sport/football/videos/c05001dm152o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-24T06:15:52.000Z",
-      "summary": "Summary: Spurs 'will get there soon' - Palhinha"
-    },
-    {
-      "id": "8f15638ac981c77c7e4bc34cce2c0a4625406f07",
-      "title": "How 'lucky' Sinner became biggest winner in near 40C Melbourne heat",
-      "url": "https://www.bbc.com/sport/tennis/articles/c1ev96w4xv6o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-24T06:14:57.000Z",
-      "summary": "Summary: How 'lucky' Sinner became biggest winner in near 40C Melbourne heat"
-    },
-    {
-      "id": "41182a2f0d20df030f8ef2ea30770f58ace22a57",
-      "title": "Brighton inflict Everton's sixth straight home defeat in WSL",
-      "url": "https://www.bbc.com/sport/football/videos/cx2yjpy0v9qo?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-24T06:08:13.000Z",
-      "summary": "Summary: Brighton inflict Everton's sixth straight home defeat in WSL"
-    },
-    {
-      "id": "17e50af949f270ea9716774e4a1efb25f86961cd",
-      "title": "Why feds call former Olympic snowboarder a 'modern-day Pablo Escobar'",
-      "url": "https://www.espn.com/olympics/story/_/id/47707459/why-feds-call-olympic-snowboarder-modern-day-pablo-escobar",
+      "id": "94bad3534f1497f87b1a0ad1008da3c56cd6e1f1",
+      "title": "Morant out past trade deadline with elbow sprain",
+      "url": "https://www.espn.com/nba/story/_/id/47714492/grizzlies-ja-morant-trade-deadline-elbow-sprain",
       "source": "www.espn.com",
-      "published_at": "2026-01-24T06:05:41.000Z",
-      "summary": "Summary: Why feds call former Olympic snowboarder a 'modern-day Pablo Escobar'"
+      "published_at": "2026-01-25T06:26:02.000Z",
+      "summary": "Summary: Morant out past trade deadline with elbow sprain"
     },
     {
-      "id": "82b0adbc2ffc815ec66dc5f56b7ff7423b5eec86",
-      "title": "Ex-Heat employee gets 3 years for jersey thefts",
-      "url": "https://www.espn.com/nba/story/_/id/47707306/ex-heat-employee-gets-3-years-selling-stolen-memorabilia",
+      "id": "cf44e2ffe37c5a577be8b88ceabc05b97ac24329",
+      "title": "Giannis expects to miss 4-6 weeks with calf injury",
+      "url": "https://www.espn.com/nba/story/_/id/47711716/bucks-giannis-antetokounmpo-expects-miss-4-6-weeks-due-calf",
       "source": "www.espn.com",
-      "published_at": "2026-01-24T06:03:13.000Z",
-      "summary": "Summary: Ex-Heat employee gets 3 years for jersey thefts"
+      "published_at": "2026-01-25T06:26:02.000Z",
+      "summary": "Summary: Giannis expects to miss 4-6 weeks with calf injury"
     },
     {
-      "id": "06a9fd9c151d4f0f383c93a04b8f6962b0ea76cf",
-      "title": "Suns' Booker exits loss after rolling right ankle",
-      "url": "https://www.espn.com/nba/story/_/id/47710199/suns-devin-booker-exits-loss-hawks-rolling-right-ankle",
+      "id": "30cae23ed8a50d03b5587c6fce2e37f3562de232",
+      "title": "Emotional Rose sees Bulls' No. 1 jersey retired",
+      "url": "https://www.espn.com/nba/story/_/id/47721550/chicago-bulls-retire-derrick-rose-no-1-jersey-win",
       "source": "www.espn.com",
-      "published_at": "2026-01-24T06:03:13.000Z",
-      "summary": "Summary: Suns' Booker exits loss after rolling right ankle"
+      "published_at": "2026-01-25T06:11:53.000Z",
+      "summary": "Summary: Emotional Rose sees Bulls' No. 1 jersey retired"
     },
     {
-      "id": "534018fd957559801023a69a3933c41256cf3612",
-      "title": "Nuggets' Gordon (hamstring) exits vs. Bucks",
-      "url": "https://www.espn.com/nba/story/_/id/47711089/nuggets-gordon-exits-game-vs-bucks-hamstring-injury",
+      "id": "3ce08e1690d186e5f40d32217ad962091e5f3270",
+      "title": "Gaethje wins interim title in slugfest with Pimblett",
+      "url": "https://www.espn.com/mma/story/_/id/47721469/gaethje-wins-vacant-title-slugfest-pimblett-ufc-324",
       "source": "www.espn.com",
-      "published_at": "2026-01-24T06:03:13.000Z",
-      "summary": "Summary: Nuggets' Gordon (hamstring) exits vs. Bucks"
+      "published_at": "2026-01-25T06:11:53.000Z",
+      "summary": "Summary: Gaethje wins interim title in slugfest with Pimblett"
     },
     {
-      "id": "9ee9b0e0ae0a930ab964e073c333748ce235c7c3",
-      "title": "LeBron brushes off Buss report: 'Don't really care'",
-      "url": "https://www.espn.com/nba/story/_/id/47701838/lebron-buss-report-care-how-somebody-feels-me",
+      "id": "0b6c9d4f80042abcc6c498ccd1ea88ae9da10cc7",
+      "title": "Reinstated Bediako has 13 points in Bama return",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47720989/reinstated-charles-bediako-13-points-return-alabama",
       "source": "www.espn.com",
-      "published_at": "2026-01-24T06:03:13.000Z",
-      "summary": "Summary: LeBron brushes off Buss report: 'Don't really care'"
+      "published_at": "2026-01-25T06:11:53.000Z",
+      "summary": "Summary: Reinstated Bediako has 13 points in Bama return"
+    },
+    {
+      "id": "9de3eac8381323f829f7547753d7573bcf9e725e",
+      "title": "Steelers verbally agree with McCarthy as coach",
+      "url": "https://www.espn.com/nfl/story/_/id/47715749/sources-steelers-planning-hire-mike-mccarthy-head-coach",
+      "source": "www.espn.com",
+      "published_at": "2026-01-25T06:11:53.000Z",
+      "summary": "Summary: Steelers verbally agree with McCarthy as coach"
+    },
+    {
+      "id": "f394ee838953618406ea6300210f93beb40638a8",
+      "title": "Source: Ohio State to hire ex-Steelers OC Smith",
+      "url": "https://www.espn.com/college-football/story/_/id/47719237/source-ohio-state-hires-former-steelers-oc-arthur-smith",
+      "source": "www.espn.com",
+      "published_at": "2026-01-25T06:11:53.000Z",
+      "summary": "Summary: Source: Ohio State to hire ex-Steelers OC Smith"
+    },
+    {
+      "id": "fe916840e97a286ffd21142308528356813b232c",
+      "title": "Dybantsa's 1st 40-point effort lifts BYU over Utah",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47719618/dybantsa-sets-byu-freshman-scoring-record-cougars-cruise",
+      "source": "www.espn.com",
+      "published_at": "2026-01-25T06:11:53.000Z",
+      "summary": "Summary: Dybantsa's 1st 40-point effort lifts BYU over Utah"
     }
   ]
 }

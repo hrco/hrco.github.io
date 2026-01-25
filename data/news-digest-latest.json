@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-24",
-  "updated_at": "2026-01-24T06:31:55.710Z",
-  "page": "/news/2026-01-24-news.html",
+  "date": "2026-01-25",
+  "updated_at": "2026-01-25T06:32:03.168Z",
+  "page": "/news/2026-01-25-news.html",
   "count": 12,
   "items": [
     {
-      "id": "492a0f6c0db06856f9c90a63858cfcf24969ef67",
-      "title": "Ob 10.00 v Špindlerjevem Mlinu ženski veleslalom",
-      "url": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/ob-10-00-v-spindlerjevem-mlinu-zenski-veleslalom/771125",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-24T06:24:44.000Z",
-      "summary": "Summary: Ob 10.00 v Špindlerjevem Mlinu ženski veleslalom"
-    },
-    {
-      "id": "2b6f30aa46da764a20bc0e6586c85df776761144",
-      "title": "Tottenham, Bayern and a stand made of chairs - Palhinha's story",
-      "url": "https://www.bbc.com/sport/football/articles/c62ww08l0n6o?at_medium=RSS&at_campaign=rss",
+      "id": "6f6f8bb1beb6674eccd975f3eb92d06394b05740",
+      "title": "Gaethje bloodies and breaks Pimblett's heart at UFC 324",
+      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/c8j3xndjzn7o?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-24T06:21:37.000Z",
-      "summary": "Summary: Tottenham, Bayern and a stand made of chairs - Palhinha's story"
+      "published_at": "2026-01-25T06:30:04.000Z",
+      "summary": "Summary: Gaethje bloodies and breaks Pimblett's heart at UFC 324"
     },
     {
-      "id": "5032496d8001dfdf0e3f95381ee67b9c9598d524",
-      "title": "Nvidia CEO tours Shanghai office amid fresh signs of China thaw",
-      "url": "https://www.scmp.com/tech/article/3341097/nvidia-ceo-tours-shanghai-office-amid-fresh-signs-china-thaw?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-24T06:20:46.000Z",
-      "summary": "Summary: Nvidia CEO tours Shanghai office amid fresh signs of China thaw"
-    },
-    {
-      "id": "916bd45ce6aeba3215a8479fa4525b4fd44ebea7",
-      "title": "Pentagon to reduce its role in deterrence of North Korea",
-      "url": "https://www.theguardian.com/world/2026/jan/24/north-korea-pentagon-to-reduce-role-deterrence",
-      "source": "www.theguardian.com",
-      "published_at": "2026-01-24T06:18:02.000Z",
-      "summary": "Summary: Pentagon to reduce its role in deterrence of North Korea"
-    },
-    {
-      "id": "c96e8e390ffc99df3e44210bd3ec985806eca405",
-      "title": "Socialna upravičenost višjih plač utemeljena, kaj pa ekonomska vzdržnost?",
-      "url": "https://www.24ur.com/novice/gospodarstvo/minimalna-placa-dvig.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-24T06:15:23.000Z",
-      "summary": "Summary: Socialna upravičenost višjih plač utemeljena, kaj pa ekonomska vzdržnost?"
-    },
-    {
-      "id": "6ffe920fe1c891a407f6618bb9af632114fe2446",
-      "title": "Lahko rubež socialnih pomoči povzroči porast stisk in kaznivih dejanj?",
-      "url": "https://www.24ur.com/novice/slovenija/lahko-rubez-socialnih-pomoci-povzroci-porast-socialnih-stisk-in-kaznivih-dejanj.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-24T06:15:04.000Z",
-      "summary": "Summary: Lahko rubež socialnih pomoči povzroči porast stisk in kaznivih dejanj?"
-    },
-    {
-      "id": "8f15638ac981c77c7e4bc34cce2c0a4625406f07",
-      "title": "How 'lucky' Sinner became biggest winner in near 40C Melbourne heat",
-      "url": "https://www.bbc.com/sport/tennis/articles/c1ev96w4xv6o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-24T06:14:57.000Z",
-      "summary": "Summary: How 'lucky' Sinner became biggest winner in near 40C Melbourne heat"
-    },
-    {
-      "id": "7378653bab8cf08ff6edece8fa5b6d1988c67035",
-      "title": "Štirje tjulnji spet v divjini Severnega morja",
-      "url": "https://www.24ur.com/novice/tujina/stirje-tjulnji-spet-v-divjini-severnega-morja.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-24T06:14:50.000Z",
-      "summary": "Summary: Štirje tjulnji spet v divjini Severnega morja"
-    },
-    {
-      "id": "b3d76d3acb6ff7e452d42401f709b070d08a4e01",
-      "title": "Ko predmeti spregovorijo o preteklosti",
-      "url": "https://www.rtvslo.si/moja-generacija/ah-ta-leta/ko-predmeti-spregovorijo-o-preteklosti/771086",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-24T06:09:34.000Z",
-      "summary": "Summary: Ko predmeti spregovorijo o preteklosti"
-    },
-    {
-      "id": "2bdc5054d3541372e148e7f54515661241fdd14f",
-      "title": "Stevanović in Resni.ca v lovu za volivci, ki se jim je 'zagnusila politika'",
-      "url": "https://www.24ur.com/novice/slovenija/zoran-stevanovic.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-24T06:05:31.000Z",
-      "summary": "Summary: Stevanović in Resni.ca v lovu za volivci, ki se jim je 'zagnusila politika'"
-    },
-    {
-      "id": "cf0d6cef48ff80318f928b9f318e45af3f82bf98",
-      "title": "LIVE: Kyiv, Kharkiv come under attack amid Russia-Ukraine peace talks",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/24/live-kyiv-kharkiv-come-under-attack-amid-russia-ukraine-peace-talks?traffic_source=rss",
+      "id": "a20ee581b9e09470f5b5811fa172beb74e339464",
+      "title": "Sudan’s women break ‘traditional rules’ to survive",
+      "url": "https://www.aljazeera.com/news/2026/1/25/sudans-women-break-traditional-rules-to-survive?traffic_source=rss",
       "source": "www.aljazeera.com",
-      "published_at": "2026-01-24T06:04:24.000Z",
-      "summary": "Summary: LIVE: Kyiv, Kharkiv come under attack amid Russia-Ukraine peace talks"
+      "published_at": "2026-01-25T06:23:35.000Z",
+      "summary": "Summary: Sudan’s women break ‘traditional rules’ to survive"
     },
     {
-      "id": "e989490d0b2c57c8a7d14780fcd9890f12744d7a",
-      "title": "Australian boy, 12, dies a week after shark attack in Sydney Harbour",
-      "url": "https://www.scmp.com/news/asia/australasia/article/3341094/australian-boy-12-dies-week-after-shark-attack-sydney-harbour?utm_source=rss_feed",
+      "id": "e66a4504b38b5efeaf0f054a35efd8c52fd0bbb2",
+      "title": "Alcaraz rešil žogo za prvi niz in se prebil v četrtfinale",
+      "url": "https://www.rtvslo.si/sport/tenis/alcaraz-resil-zogo-za-prvi-niz-in-se-prebil-v-cetrtfinale/769712",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-01-25T06:22:42.000Z",
+      "summary": "Summary: Alcaraz rešil žogo za prvi niz in se prebil v četrtfinale"
+    },
+    {
+      "id": "36703217d3408aea295f637cb7775f659862b326",
+      "title": "Jensen Huang celebrates Lunar New Year with Nvidia employees in Shanghai",
+      "url": "https://www.scmp.com/tech/big-tech/article/3341148/jensen-huang-celebrates-lunar-new-year-nvidia-employees-shanghai?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-01-24T06:00:37.000Z",
-      "summary": "Summary: Australian boy, 12, dies a week after shark attack in Sydney Harbour"
+      "published_at": "2026-01-25T06:22:17.000Z",
+      "summary": "Summary: Jensen Huang celebrates Lunar New Year with Nvidia employees in Shanghai"
+    },
+    {
+      "id": "a0770c77f102c38521f91b847ee9451f9069766a",
+      "title": "Nika Prevc z rekordom skakalnice do nove zmage",
+      "url": "https://www.24ur.com/sport/zimski_sporti/nika-prevc-z-rekordom-skakalnice-do-nove-zmage.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-25T06:19:43.000Z",
+      "summary": "Summary: Nika Prevc z rekordom skakalnice do nove zmage"
+    },
+    {
+      "id": "8f268711611ccd34e9b85de6d2f39c40f1939ca7",
+      "title": "65-year-old Hong Kong woman dies after taxi overturns in early morning crash",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341147/65-year-old-hong-kong-woman-dies-after-taxi-overturns-early-morning-crash?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-01-25T06:17:43.000Z",
+      "summary": "Summary: 65-year-old Hong Kong woman dies after taxi overturns in early morning crash"
+    },
+    {
+      "id": "e3d99d466f8965b88de8f349841f118d3a399193",
+      "title": "Los Angeles Lakers po čudežnem preobratu prešerne volje iz Dallasa",
+      "url": "https://www.delo.si/sport/kosarka/los-angeles-lakers-po-cudeznem-preobratu-preserne-volje-iz-dallasa",
+      "source": "www.delo.si",
+      "published_at": "2026-01-25T06:11:00.000Z",
+      "summary": "Summary: Los Angeles Lakers po čudežnem preobratu prešerne volje iz Dallasa"
+    },
+    {
+      "id": "c1c7dbd775b5cb6744ee7376b0824fd06cf3f233",
+      "title": "Kangaroo causes crash chaos as Jay Vine taken out on final TDU stage",
+      "url": "https://www.abc.net.au/news/2026-01-25/kangaroo-crashes-into-tour-down-under-peloton-as-jay-vine-wins/106267096",
+      "source": "www.abc.net.au",
+      "published_at": "2026-01-25T06:09:18.000Z",
+      "summary": "Summary: Kangaroo causes crash chaos as Jay Vine taken out on final TDU stage"
+    },
+    {
+      "id": "73019dac123a6fba4ef730ecd8572653803da63a",
+      "title": "Stevanović pravnomočno obsojen",
+      "url": "https://www.24ur.com/stevanovic-pravnomocno-obsojen.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-25T06:09:09.000Z",
+      "summary": "Summary: Stevanović pravnomočno obsojen"
+    },
+    {
+      "id": "fb8d89cfd07930fe36a0458917b54e40f7427e0e",
+      "title": "'Populizem je zame politična doktrina, ki deluje v korist ljudem proti elitam'",
+      "url": "https://www.24ur.com/novice/slovenija/intervju-z-zoranom-stevanovicem.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-01-25T06:08:03.000Z",
+      "summary": "Summary: 'Populizem je zame politična doktrina, ki deluje v korist ljudem proti elitam'"
+    },
+    {
+      "id": "3fb478da498ca62eab6e489092604c060788068c",
+      "title": "Minneapolis shooting latest: Alex Pretti’s parents say ‘please get the truth out’ after son fatally shot by federal agents",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
+      "source": "www.theguardian.com",
+      "published_at": "2026-01-25T06:05:38.000Z",
+      "summary": "Summary: Minneapolis shooting latest: Alex Pretti’s parents say ‘please get the truth out’ after son fatally shot by federal agents"
+    },
+    {
+      "id": "fe794b7a3e9e78f47784f8c4da9336ef15e9263b",
+      "title": "Dingoes on Australia’s K’gari island to be euthanised after tragic death of Canadian tourist Piper James",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/25/dingoes-on-australias-kgari-island-to-be-euthanised-after-tragic-death-of-canadian-tourist-piper-james",
+      "source": "www.theguardian.com",
+      "published_at": "2026-01-25T06:04:29.000Z",
+      "summary": "Summary: Dingoes on Australia’s K’gari island to be euthanised after tragic death of Canadian tourist Piper James"
     }
   ]
 }

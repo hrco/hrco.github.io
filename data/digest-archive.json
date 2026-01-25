@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-24T06:31:42.311Z",
+  "updated_at": "2026-01-25T06:31:55.415Z",
   "days": [
+    {
+      "date": "2026-01-25",
+      "page": "/news/2026-01-25.html",
+      "teaser": "Top: Alcaraz rešil žogo za prvi niz in se prebil v četrtfinale",
+      "count": 12,
+      "ids": [
+        "e66a4504b38b5efeaf0f054a35efd8c52fd0bbb2",
+        "3c9a14cfbefecd6e0c9dce0452d88851fe37fa4b",
+        "3756a868baa78d3d53c7a60e84cf79e78693af57",
+        "a0770c77f102c38521f91b847ee9451f9069766a",
+        "36b6f40d628b38d4e5cf4ba5803fa7e4a4916e07",
+        "1c4ad0c166ce0ca8bf4908e1b50ce3dd61d019b0",
+        "e3d99d466f8965b88de8f349841f118d3a399193",
+        "36869df150bd62e59540a33f5086708ffa43ecc2",
+        "73019dac123a6fba4ef730ecd8572653803da63a",
+        "67caf6d0cfcd57a89ff6e25bc57923b065400828",
+        "fb8d89cfd07930fe36a0458917b54e40f7427e0e",
+        "938739d2bed8d41423073425d0439665b351b217"
+      ]
+    },
     {
       "date": "2026-01-24",
       "page": "/news/2026-01-24.html",
@@ -579,26 +599,6 @@
         "d746322b824892abdfcf510b7f1365e607f7b108",
         "f8160587713b4e0262dd57d2ff98696c38d7d309",
         "ebf83e0dd8c0e70b43a6d2705ff3db2a7af9e521"
-      ]
-    },
-    {
-      "date": "2025-12-26",
-      "page": "/news/2025-12-26.html",
-      "teaser": "Top: Rob Pike Goes Nuclear over GenAI",
-      "count": 12,
-      "ids": [
-        "b3281b76028bc9770bd3a9f2d7a75de045b1cfb3",
-        "c7b43e2810225ac6bea6dee33802508eb6f07800",
-        "e2fceecadaae5e384229e94deaec1ad395d6b3c6",
-        "f23b33e38c8a52a215d823210e4adcce76bff938",
-        "f001b772cf7413a5221c850cd6354eb8c794d05f",
-        "97886d3189115a75b103a0f760e301076a18582b",
-        "4cf9844348c242943bc6c97e4ea7716643073b3c",
-        "0417c6366be2c8f31d2f87f9b1dd799c9e00f509",
-        "cf998a4b5dc033760e7abe8cf59fff6644d56a53",
-        "6888467804f53dac298360a07b612da58f366529",
-        "c85c45f3bc3a1865a245f658a06936c4f5339d89",
-        "1ad48ff39ef1a75f417691ff6f9491449c65790e"
       ]
     }
   ]
