@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-25T06:32:08.573Z",
+  "updated_at": "2026-01-26T06:57:05.425Z",
   "days": [
+    {
+      "date": "2026-01-26",
+      "page": "/news/2026-01-26-sport.html",
+      "teaser": "Top: Surf Coast Classic course changed as Otways fire puts parts of original route under prepare to evacuate warnings",
+      "count": 12,
+      "ids": [
+        "1b6cb531b921e5b5b2492ca7c3eeb4432bc9ab46",
+        "df9fe860e2967d830c27327aeb576c41831234f2",
+        "fe398fd2d61c6aa59dc7e701dce4b73bb0a43f01",
+        "0f76e739760e04dc74afa969a55e94477bf929dd",
+        "d1fd0900028e47faa05dfc28233bdb48b27e11a1",
+        "d9eb48dd31a04e53267847bbba4686a48f6b0e4e",
+        "86250901cff883c8374837f479ba077ca7699110",
+        "3ad0e423c83077fea52a644115bc160079dcc25c",
+        "3ac4da89cbbb55d56b8672fc836523151ade2c38",
+        "369cf9306ad1081eb32195cec4b172484e4b84a4",
+        "7743d74615d0ed1f71f573782084ddebf75e27fe",
+        "19838e2796c1265a98c4ea4ccb8fa575a5fac59e"
+      ]
+    },
     {
       "date": "2026-01-25",
       "page": "/news/2026-01-25-sport.html",

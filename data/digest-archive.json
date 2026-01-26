@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-25T06:31:55.415Z",
+  "updated_at": "2026-01-26T06:56:50.524Z",
   "days": [
+    {
+      "date": "2026-01-26",
+      "page": "/news/2026-01-26.html",
+      "teaser": "Top: the browser is the sandbox",
+      "count": 12,
+      "ids": [
+        "ff8c8cbff96519716b394eb75db1b694ad8a6674",
+        "cd7a9f482882c1b358a1a5613d71b3f4f237ed29",
+        "d843348adb3edbbef56d13573313aaaf5558d636",
+        "3c0b974b4aed30d72b41f2b1fd5108ec0096c8e5",
+        "9cd324d139661397fa42ca068eeb1278f4ed0789",
+        "008577708093534825fb8f2333d3f324a31d45ee",
+        "cd36369dc37452e5b5822a162bc7e1ad15d1737f",
+        "e0bffa9a038ce1aefbfd40af96dd1a59076a3814",
+        "432072824b6032ab6a79f138673cca314c827c78",
+        "44168388f7329a639660be5ffaa9e442b636ae7f",
+        "cec8b6fc7070b82d40482d36dd92757c1b952a42",
+        "b81d81435338245fdf04982a13565938edd5db99"
+      ]
+    },
     {
       "date": "2026-01-25",
       "page": "/news/2026-01-25.html",
@@ -579,26 +599,6 @@
         "38cf2899cf27772c1502914420e729139c4d22c4",
         "f1708a65a5c58b25af90eb86f9fe51e18aa2b40a",
         "024e760d2ab75fe859052d2b5266938396c5c93e"
-      ]
-    },
-    {
-      "date": "2025-12-27",
-      "page": "/news/2025-12-27.html",
-      "teaser": "Top: CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy",
-      "count": 12,
-      "ids": [
-        "b3c1f5c03254a0f8181d0ff3632d23ddb618a90b",
-        "649c928d7205f7eac0a98024f2b38a4026fa5b86",
-        "370fa88a5979e69ffea18f8e17f6f635273437cd",
-        "7ca6c8131a8c811c1d1630f9ff5f1296216ea1e4",
-        "f4bcbbd40676e623ac799a2c50ae751c3f79daba",
-        "4748edaa03d9b467bcbf7a6c7eb0250cb3b54dc1",
-        "fd8992c1373b983f2c368e8081ad7960d7964bd7",
-        "8faf0e2166037a62ad06eb7a0e5850b77a5544c0",
-        "9d7bb76277c3558d8afd8f4c9a18de9254c2c1cc",
-        "d746322b824892abdfcf510b7f1365e607f7b108",
-        "f8160587713b4e0262dd57d2ff98696c38d7d309",
-        "ebf83e0dd8c0e70b43a6d2705ff3db2a7af9e521"
       ]
     }
   ]

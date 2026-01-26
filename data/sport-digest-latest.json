@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-25",
-  "updated_at": "2026-01-25T06:32:08.573Z",
-  "page": "/news/2026-01-25-sport.html",
+  "date": "2026-01-26",
+  "updated_at": "2026-01-26T06:57:05.425Z",
+  "page": "/news/2026-01-26-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "6f6f8bb1beb6674eccd975f3eb92d06394b05740",
-      "title": "Gaethje bloodies and breaks Pimblett's heart at UFC 324",
-      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/c8j3xndjzn7o?at_medium=RSS&at_campaign=rss",
+      "id": "1b6cb531b921e5b5b2492ca7c3eeb4432bc9ab46",
+      "title": "Surf Coast Classic course changed as Otways fire puts parts of original route under prepare to evacuate warnings",
+      "url": "https://www.cyclingnews.com/pro-cycling/surf-coast-classic-course-changed-as-otways-fire-puts-parts-of-original-route-under-prepare-to-evacuate-warnings/",
+      "source": "www.cyclingnews.com",
+      "published_at": "2026-01-26T06:45:31.000Z",
+      "summary": "Summary: Surf Coast Classic course changed as Otways fire puts parts of original route under prepare to evacuate warnings"
+    },
+    {
+      "id": "df9fe860e2967d830c27327aeb576c41831234f2",
+      "title": "F1 testing begins - but why all the secrecy?",
+      "url": "https://www.bbc.com/sport/formula1/articles/cgl8dxrr302o?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-01-25T06:30:04.000Z",
-      "summary": "Summary: Gaethje bloodies and breaks Pimblett's heart at UFC 324"
+      "published_at": "2026-01-26T06:33:23.000Z",
+      "summary": "Summary: F1 testing begins - but why all the secrecy?"
     },
     {
-      "id": "853e3ee2c94042ac2031c0f617be13c73ea98439",
-      "title": "'Fantastic': Luka's clutch defense seals Lakers' win",
-      "url": "https://www.espn.com/nba/story/_/id/47721615/fantastic-luka-doncic-comes-big-33-points-clutch-late-defense",
-      "source": "www.espn.com",
-      "published_at": "2026-01-25T06:26:02.000Z",
-      "summary": "Summary: 'Fantastic': Luka's clutch defense seals Lakers' win"
+      "id": "fe398fd2d61c6aa59dc7e701dce4b73bb0a43f01",
+      "title": "Man Utd have taken step towards winning formula - Rooney",
+      "url": "https://www.bbc.com/sport/football/articles/cm2y9663gmqo?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-01-26T06:18:37.000Z",
+      "summary": "Summary: Man Utd have taken step towards winning formula - Rooney"
     },
     {
-      "id": "c6a3b59d2dc48fd06d02c49a43148a3416fd8ac6",
-      "title": "Warriors-Wolves ppd. after Minneapolis shooting",
-      "url": "https://www.espn.com/nba/story/_/id/47716472/warriors-timberwolves-postponed-amid-minneapolis-unrest",
-      "source": "www.espn.com",
-      "published_at": "2026-01-25T06:26:02.000Z",
-      "summary": "Summary: Warriors-Wolves ppd. after Minneapolis shooting"
+      "id": "0f76e739760e04dc74afa969a55e94477bf929dd",
+      "title": "Pegula ends Keys title defence to win 'gross' apple pie bet",
+      "url": "https://www.bbc.com/sport/tennis/articles/cp3z8dxzjjdo?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-01-26T06:15:35.000Z",
+      "summary": "Summary: Pegula ends Keys title defence to win 'gross' apple pie bet"
     },
     {
-      "id": "2d025ca771c4c6dc5d542ec2c85b17222eb71d2e",
-      "title": "Pistons clinch All-Star selection for Bickerstaff",
-      "url": "https://www.espn.com/nba/story/_/id/47721367/pistons-jb-bickerstaff-named-all-star-game-coach",
+      "id": "d1fd0900028e47faa05dfc28233bdb48b27e11a1",
+      "title": "Is defeating Madison Keys the breakthrough Jessica Pegula needed?",
+      "url": "https://www.espn.com/tennis/story/_/id/47730491/australian-open-jessica-pegula-madison-keys",
       "source": "www.espn.com",
-      "published_at": "2026-01-25T06:26:02.000Z",
-      "summary": "Summary: Pistons clinch All-Star selection for Bickerstaff"
+      "published_at": "2026-01-26T06:06:53.000Z",
+      "summary": "Summary: Is defeating Madison Keys the breakthrough Jessica Pegula needed?"
     },
     {
-      "id": "94bad3534f1497f87b1a0ad1008da3c56cd6e1f1",
-      "title": "Morant out past trade deadline with elbow sprain",
-      "url": "https://www.espn.com/nba/story/_/id/47714492/grizzlies-ja-morant-trade-deadline-elbow-sprain",
+      "id": "d9eb48dd31a04e53267847bbba4686a48f6b0e4e",
+      "title": "Darnold, Seahawks outlast Rams to reach SB",
+      "url": "https://www.espn.com/nfl/story/_/id/47730596/darnold-seahawks-beat-rams-thriller-reach-super-bowl",
       "source": "www.espn.com",
-      "published_at": "2026-01-25T06:26:02.000Z",
-      "summary": "Summary: Morant out past trade deadline with elbow sprain"
+      "published_at": "2026-01-26T05:46:25.000Z",
+      "summary": "Summary: Darnold, Seahawks outlast Rams to reach SB"
     },
     {
-      "id": "cf44e2ffe37c5a577be8b88ceabc05b97ac24329",
-      "title": "Giannis expects to miss 4-6 weeks with calf injury",
-      "url": "https://www.espn.com/nba/story/_/id/47711716/bucks-giannis-antetokounmpo-expects-miss-4-6-weeks-due-calf",
+      "id": "86250901cff883c8374837f479ba077ca7699110",
+      "title": "Stafford mum on future as Rams left reeling in loss",
+      "url": "https://www.espn.com/nfl/story/_/id/47731346/matthew-stafford-mum-future-rams-left-reeling-loss",
       "source": "www.espn.com",
-      "published_at": "2026-01-25T06:26:02.000Z",
-      "summary": "Summary: Giannis expects to miss 4-6 weeks with calf injury"
+      "published_at": "2026-01-26T05:46:25.000Z",
+      "summary": "Summary: Stafford mum on future as Rams left reeling in loss"
     },
     {
-      "id": "30cae23ed8a50d03b5587c6fce2e37f3562de232",
-      "title": "Emotional Rose sees Bulls' No. 1 jersey retired",
-      "url": "https://www.espn.com/nba/story/_/id/47721550/chicago-bulls-retire-derrick-rose-no-1-jersey-win",
+      "id": "3ad0e423c83077fea52a644115bc160079dcc25c",
+      "title": "Vrabel: Pats' turnaround rooted in belief, identity",
+      "url": "https://www.espn.com/nfl/story/_/id/47728666/patriots-edge-broncos-win-afc-title-earn-super-bowl-lx-trip",
       "source": "www.espn.com",
-      "published_at": "2026-01-25T06:11:53.000Z",
-      "summary": "Summary: Emotional Rose sees Bulls' No. 1 jersey retired"
+      "published_at": "2026-01-26T05:46:25.000Z",
+      "summary": "Summary: Vrabel: Pats' turnaround rooted in belief, identity"
     },
     {
-      "id": "3ce08e1690d186e5f40d32217ad962091e5f3270",
-      "title": "Gaethje wins interim title in slugfest with Pimblett",
-      "url": "https://www.espn.com/mma/story/_/id/47721469/gaethje-wins-vacant-title-slugfest-pimblett-ufc-324",
+      "id": "3ac4da89cbbb55d56b8672fc836523151ade2c38",
+      "title": "Payton rues 4th-down call after stalling in snow",
+      "url": "https://www.espn.com/nfl/story/_/id/47730233/broncos-sean-payton-regrets-4th-call-loss-patriots",
       "source": "www.espn.com",
-      "published_at": "2026-01-25T06:11:53.000Z",
-      "summary": "Summary: Gaethje wins interim title in slugfest with Pimblett"
+      "published_at": "2026-01-26T05:46:25.000Z",
+      "summary": "Summary: Payton rues 4th-down call after stalling in snow"
     },
     {
-      "id": "0b6c9d4f80042abcc6c498ccd1ea88ae9da10cc7",
-      "title": "Reinstated Bediako has 13 points in Bama return",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47720989/reinstated-charles-bediako-13-points-return-alabama",
+      "id": "369cf9306ad1081eb32195cec4b172484e4b84a4",
+      "title": "'Disgusted' Stewart protests shooting with sign",
+      "url": "https://www.espn.com/wnba/story/_/id/47727308/breanna-stewart-protests-minneapolis-shooting-sign",
       "source": "www.espn.com",
-      "published_at": "2026-01-25T06:11:53.000Z",
-      "summary": "Summary: Reinstated Bediako has 13 points in Bama return"
+      "published_at": "2026-01-26T05:46:25.000Z",
+      "summary": "Summary: 'Disgusted' Stewart protests shooting with sign"
     },
     {
-      "id": "9de3eac8381323f829f7547753d7573bcf9e725e",
-      "title": "Steelers verbally agree with McCarthy as coach",
-      "url": "https://www.espn.com/nfl/story/_/id/47715749/sources-steelers-planning-hire-mike-mccarthy-head-coach",
+      "id": "7743d74615d0ed1f71f573782084ddebf75e27fe",
+      "title": "Sources: Giants hire Wilson as Harbaugh's DC",
+      "url": "https://www.espn.com/nfl/story/_/id/47727766/sources-giants-hire-dennard-wilson-john-harbaugh-dc",
       "source": "www.espn.com",
-      "published_at": "2026-01-25T06:11:53.000Z",
-      "summary": "Summary: Steelers verbally agree with McCarthy as coach"
+      "published_at": "2026-01-26T05:46:25.000Z",
+      "summary": "Summary: Sources: Giants hire Wilson as Harbaugh's DC"
     },
     {
-      "id": "f394ee838953618406ea6300210f93beb40638a8",
-      "title": "Source: Ohio State to hire ex-Steelers OC Smith",
-      "url": "https://www.espn.com/college-football/story/_/id/47719237/source-ohio-state-hires-former-steelers-oc-arthur-smith",
+      "id": "19838e2796c1265a98c4ea4ccb8fa575a5fac59e",
+      "title": "New year, same result: Scheffler wins AmEx by 4",
+      "url": "https://www.espn.com/golf/story/_/id/47729405/scottie-scheffler-wins-american-express-20th-pga-tour-title",
       "source": "www.espn.com",
-      "published_at": "2026-01-25T06:11:53.000Z",
-      "summary": "Summary: Source: Ohio State to hire ex-Steelers OC Smith"
-    },
-    {
-      "id": "fe916840e97a286ffd21142308528356813b232c",
-      "title": "Dybantsa's 1st 40-point effort lifts BYU over Utah",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47719618/dybantsa-sets-byu-freshman-scoring-record-cougars-cruise",
-      "source": "www.espn.com",
-      "published_at": "2026-01-25T06:11:53.000Z",
-      "summary": "Summary: Dybantsa's 1st 40-point effort lifts BYU over Utah"
+      "published_at": "2026-01-26T05:46:25.000Z",
+      "summary": "Summary: New year, same result: Scheffler wins AmEx by 4"
     }
   ]
 }

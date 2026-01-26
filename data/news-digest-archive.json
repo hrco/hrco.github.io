@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-25T06:32:03.168Z",
+  "updated_at": "2026-01-26T06:57:00.873Z",
   "days": [
+    {
+      "date": "2026-01-26",
+      "page": "/news/2026-01-26-news.html",
+      "teaser": "Top: US to step up coordination with Nigeria to pursue Islamic State group militants",
+      "count": 12,
+      "ids": [
+        "fda4be941a16df4999a18fbb2e388d76dff99d06",
+        "c8cab9b889626e4aecd98d1f54694075eb0cbb97",
+        "9cd324d139661397fa42ca068eeb1278f4ed0789",
+        "0656a5b8ac8720632907069a01e08b8a8f4a72bc",
+        "2776272f306b2151cc1eb4dcb9682a2919caa36a",
+        "28a8279d58619e1a63ecb3eb01faf705d89e5e08",
+        "008577708093534825fb8f2333d3f324a31d45ee",
+        "cd36369dc37452e5b5822a162bc7e1ad15d1737f",
+        "df9fe860e2967d830c27327aeb576c41831234f2",
+        "432072824b6032ab6a79f138673cca314c827c78",
+        "75028131ffdb7c9f30cc411b73cddd3a461f8646",
+        "6677318721942fd699f916d8cbbffaf0351b36a9"
+      ]
+    },
     {
       "date": "2026-01-25",
       "page": "/news/2026-01-25-news.html",
