@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-26T06:56:50.524Z",
+  "updated_at": "2026-01-27T06:55:48.921Z",
   "days": [
+    {
+      "date": "2026-01-27",
+      "page": "/news/2026-01-27.html",
+      "teaser": "Top: Francoski parlament podprl prepoved družbenih omrežij za mlajše od 15 let",
+      "count": 12,
+      "ids": [
+        "12a43b708825b945138fbda985b1872baf85ef7f",
+        "88c7f836c635d16145f80b724d1902692b3de367",
+        "9bc436270aac541194da14acd547af08bbf814d1",
+        "fb939bbc3f28758044aec36175ce26279a5ac005",
+        "3499b744baf61fc997da8b7c6741398a888339f1",
+        "70f3556debbd4b811df5f8d32c0557ccb8f072fd",
+        "00d65a8010973f01331b67ef8d59ea74d43b7250",
+        "68e4c1eb569e622e6bd6b383e73eca1892a6753d",
+        "d458809bf6d28a113964980d903f614125088e2c",
+        "ef7af66ac021335e65c36c6920964bc09b0b0647",
+        "a623be52da22fe4ccf376fc3089f20784e9cfaf2",
+        "99cda743beaf314982dae631ec4f40c77e73f5e5"
+      ]
+    },
     {
       "date": "2026-01-26",
       "page": "/news/2026-01-26.html",
@@ -579,26 +599,6 @@
         "9af42cb45fd31ab1dfa4a6ef1f213daaa2c34c41",
         "9af15f613f75c470a1c3a4025589981edd0d2355",
         "9368ae3ff7be9c2d71547dbfbc359d226d59ad20"
-      ]
-    },
-    {
-      "date": "2025-12-28",
-      "page": "/news/2025-12-28.html",
-      "teaser": "Top: Malaysia Army Chief Placed on Leave Amid Investigation: Bernama",
-      "count": 12,
-      "ids": [
-        "e3b9ff6dee2bb2bafd3476640f63e506162d545d",
-        "ecb00585c0e41798f7db469826df5419e61f568b",
-        "0cdf053b5647c35075ab01f3bfeb7a86099e733f",
-        "d49e2671471a5ae544989b1f68ab263a496783fa",
-        "0f10bdae1d26143c6898774fa843399c8f4b6df5",
-        "891200a54abda89e13a846bac60d61655aeb4ac4",
-        "b818066f1117250e5cfba8561adf6cd6f5728021",
-        "29cca56c8387e8e71dff2e12cfa75fb27f6582f9",
-        "fb8762d01911a36285373c8ab4c252c068375ba1",
-        "38cf2899cf27772c1502914420e729139c4d22c4",
-        "f1708a65a5c58b25af90eb86f9fe51e18aa2b40a",
-        "024e760d2ab75fe859052d2b5266938396c5c93e"
       ]
     }
   ]

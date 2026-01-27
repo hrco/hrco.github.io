@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-26T06:57:05.425Z",
+  "updated_at": "2026-01-27T06:56:02.418Z",
   "days": [
+    {
+      "date": "2026-01-27",
+      "page": "/news/2026-01-27-sport.html",
+      "teaser": "Top: Women's and men's Surf Coast Classics cancelled due to evolving bushfire and weather conditions, 'no identified impacts at this time' for Cadel Evans Great Ocean Road Races",
+      "count": 12,
+      "ids": [
+        "d6f8aba43870f74f1be223f94365840fbfa22a8d",
+        "cd33d14bea952c3dd90f6638680b15190f59ea39",
+        "561dad3b3c67254009ab929125506237f77c5d5e",
+        "88699de575fcec1a1b66d39a7167ac39af3bc485",
+        "343a90082a26f996cdc3b2fb7eedc06cdced3c90",
+        "926d429e22ef434e0a6232f6814c58067190afca",
+        "57236ceb0390bfe61a73475a6f51b692d004f222",
+        "b59728ee649b061f115ca06b1c289000d07289a6",
+        "10bc3e04b18c53d060d7f059923211885dc87d04",
+        "0940a127e1054ac9b0a877789f641d011139cd67",
+        "6fce7f3605725d9485207df325fb8167fd72dcab",
+        "45bca2010bad71b93bc0521bc97129597571a622"
+      ]
+    },
     {
       "date": "2026-01-26",
       "page": "/news/2026-01-26-sport.html",

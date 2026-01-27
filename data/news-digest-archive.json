@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-26T06:57:00.873Z",
+  "updated_at": "2026-01-27T06:55:57.009Z",
   "days": [
+    {
+      "date": "2026-01-27",
+      "page": "/news/2026-01-27-news.html",
+      "teaser": "Top: Fifty Labour MPs sign letter objecting to Burnham decision",
+      "count": 12,
+      "ids": [
+        "5f40b4522ee0869570a13a9b2206a3a403a267b0",
+        "cb36ce95c1d079fe68fe192ecdbb4f05fd1fd430",
+        "18c50ab216e0ae9992273d8f5ab957d456ce6496",
+        "12a43b708825b945138fbda985b1872baf85ef7f",
+        "88c7f836c635d16145f80b724d1902692b3de367",
+        "fb939bbc3f28758044aec36175ce26279a5ac005",
+        "1470bbe0c46e236e8eb498f20fe0260e8ea87719",
+        "3499b744baf61fc997da8b7c6741398a888339f1",
+        "8b4feb5585a6ac174569983f2a4c155507927348",
+        "70f3556debbd4b811df5f8d32c0557ccb8f072fd",
+        "b00e1bef0cc6b60b2d033c1070b862818fdb6068",
+        "4bbfbb2ec4210ff83bd32003d6e6facb026eeefe"
+      ]
+    },
     {
       "date": "2026-01-26",
       "page": "/news/2026-01-26-news.html",
