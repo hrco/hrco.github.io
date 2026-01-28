@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-27T06:56:02.418Z",
+  "updated_at": "2026-01-28T06:56:21.294Z",
   "days": [
+    {
+      "date": "2026-01-28",
+      "page": "/news/2026-01-28-sport.html",
+      "teaser": "Top: Why are Paris St-Germain struggling to hit top form?",
+      "count": 12,
+      "ids": [
+        "4605e2c0f8eb0630d979588734aef5a473a5a011",
+        "2722496c98d6f5170a21c4b64654db773bc30c7e",
+        "e97e9a05eceac86af66d12c959d8c4e0b7b04f74",
+        "d7cd193219c83c14d90b2017b98f94a1106a9c28",
+        "721a3956ea322e595555f87086996c4ac7e98a2b",
+        "8f45ee316d9ae93b40e382443af4289cd2cbc862",
+        "a916eb6e58e7934249584e8f817ef712a2f55c82",
+        "1543e639d2600a20c488687b0940821590a954fb",
+        "928fb18fce595c307a80bc75b43016d329f0605e",
+        "2b42458d59b8d47d5614ea86b715ea0ddc8c7f0d",
+        "3456f598b6f37e8d2eac6222e1c53b85079ecdd7",
+        "8b55fb629ea579b019bb279d970d05afa7fe6041"
+      ]
+    },
     {
       "date": "2026-01-27",
       "page": "/news/2026-01-27-sport.html",

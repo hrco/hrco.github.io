@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-27T06:55:48.921Z",
+  "updated_at": "2026-01-28T06:56:07.618Z",
   "days": [
+    {
+      "date": "2026-01-28",
+      "page": "/news/2026-01-28.html",
+      "teaser": "Top: Satish Divvi Portfolio",
+      "count": 12,
+      "ids": [
+        "9159b8db724a76c65d67cf2d5ebe65ea0b122101",
+        "33e9026da3ca78006589c381e9720b7b4919a42f",
+        "4bac36dbedde54bf6bf60d5aaa6edfb8a595d596",
+        "66a93a0b9c67e17cc36d034bb4c49422453c2121",
+        "e87cd51a222fcd26cafafed59fae76a430399829",
+        "653639fdf6ec15782b7198201bba520f105e0105",
+        "c8407916ee86122df0efedf6ffcdd1978012dc86",
+        "77618a115b3fa8332931a78a3401b2e1b6a927a3",
+        "9aafa2ce88775bc7f35386087fb8cef2b434e7d7",
+        "695b539705d2a88b1ad5aca603d6c1cb93707765",
+        "6c15b384fd397eefcdf1549ab8cc36f3bacd469a",
+        "45cc97e82046b58e3ce3c692fd0f0147bd243756"
+      ]
+    },
     {
       "date": "2026-01-27",
       "page": "/news/2026-01-27.html",
@@ -579,26 +599,6 @@
         "cc8a8c44847350fd83c4078a96fd34ae57523b5d",
         "53a59cefde730923ea7313e250647647e0984c3b",
         "3cc91785879b30b94f4b63c53016ccc29e2d5869"
-      ]
-    },
-    {
-      "date": "2025-12-29",
-      "page": "/news/2025-12-29.html",
-      "teaser": "Top: SoftBank Nears Deal for Data Center Investment Firm DigitalBridge",
-      "count": 12,
-      "ids": [
-        "726aa35a7808307c6cc407628d789d3e04c5969c",
-        "b0ddf7bbdf5b89a8ffefa61d91deecf9ef7dbc9d",
-        "25555204169577e776879744de1e096f336a19a5",
-        "746fae68fd8c0ef01e22914d040c0ce92a30dc67",
-        "fbb891377d302c70d0578dbf408d3d1c3018561c",
-        "1fb20e39ea801755e3e19bd9c9ca64c3acbee8b8",
-        "c29ecf64cd788577f083400e890c6e6eb080432c",
-        "3f81b369e4cab81ddd484cfb91695ee83afe735c",
-        "d61ca0e48c0cbdf059a61d038846cad8674866ca",
-        "9af42cb45fd31ab1dfa4a6ef1f213daaa2c34c41",
-        "9af15f613f75c470a1c3a4025589981edd0d2355",
-        "9368ae3ff7be9c2d71547dbfbc359d226d59ad20"
       ]
     }
   ]
