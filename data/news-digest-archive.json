@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-28T06:56:16.082Z",
+  "updated_at": "2026-01-29T07:08:57.639Z",
   "days": [
+    {
+      "date": "2026-01-29",
+      "page": "/news/2026-01-29-news.html",
+      "teaser": "Top: As ICE cracks down, some of America’s biggest names are speaking out",
+      "count": 12,
+      "ids": [
+        "21e2d9e81ab1e93da503430f0995da8210733c38",
+        "ae793560ea5213402023215075b88caf8c548979",
+        "e6c2ae20b303e72060229515ed7585cb53660959",
+        "3a850e58b7f4e7b84e6969eb23735afb2c11e7c9",
+        "06646075b9075f89839a8941ca4a35450ab74716",
+        "63f3bb3b00fbfc6735caacefcedccb0373032b8e",
+        "bc1904ed6a82917ab0959993aaebb6f209344edb",
+        "53cac64dcc8d1969745c088953c2c39ef69f2a2f",
+        "2979d83cdff92da861fb0864b383d7e68df121c6",
+        "ccc7b39c4ca01f0d0cbd4881f7e560db5f3ee05f",
+        "8d33bce8d26a0058a062ab5a68269969551fd356",
+        "71aa1816294bc73cd81b43a0c9593a1e86fea8e6"
+      ]
+    },
     {
       "date": "2026-01-28",
       "page": "/news/2026-01-28-news.html",

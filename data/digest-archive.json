@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-28T06:56:07.618Z",
+  "updated_at": "2026-01-29T07:08:48.409Z",
   "days": [
+    {
+      "date": "2026-01-29",
+      "page": "/news/2026-01-29.html",
+      "teaser": "Top: Trump izobesil fotografijo s Putinom, pod njo fotografija z vnukinjo",
+      "count": 12,
+      "ids": [
+        "e6c2ae20b303e72060229515ed7585cb53660959",
+        "bc4322d8ac2ed3623a3e18e9f61edac4161e281c",
+        "3a850e58b7f4e7b84e6969eb23735afb2c11e7c9",
+        "bc1904ed6a82917ab0959993aaebb6f209344edb",
+        "e5c4fccb0ef4fa7749f4b93678c0defc43e4532d",
+        "9cc458d381bedb93f77596d57ab1bbb4e4384619",
+        "1568143990734cabc0ee9f32c0f689bf92f97b3b",
+        "87fbe7d8c8e2bbf9d14cd5bdc9aa94bb8db43f61",
+        "2979d83cdff92da861fb0864b383d7e68df121c6",
+        "71aa1816294bc73cd81b43a0c9593a1e86fea8e6",
+        "dd97868c726f1ed48a36dc7dc27fd272a3426343",
+        "aef270e30e441e7f2d799651049fce51bf6ae72a"
+      ]
+    },
     {
       "date": "2026-01-28",
       "page": "/news/2026-01-28.html",
@@ -579,26 +599,6 @@
         "21fc358794ff941276ab915dd5f12e09c0a37f18",
         "4f705b7caa9a277219a72150e556e513fda7b66e",
         "935e25d0b2c52f4bb7884d13539e5823a10e206e"
-      ]
-    },
-    {
-      "date": "2025-12-30",
-      "page": "/news/2025-12-30.html",
-      "teaser": "Top: European Bank Stocks Had an Ace Year But Novo and Puma Lost Out",
-      "count": 12,
-      "ids": [
-        "83d7a386a26c57093d5f4fc5cfc4d9bcdad3f3b0",
-        "70402f5f9a811dedd0c1142e51e0999f26f5c8bf",
-        "748bc0a18ef701692a029053f3e43cf17bc9a051",
-        "cabe83bacc0e55321450741cab7ee2f399b22974",
-        "ab5922abf4d3af491abcbd2a1b9c9638eda31e67",
-        "7e8df167d7d3182afebd5c0d7f33235a822fba54",
-        "0b5bfeedf5ab7d70d348e902e203414da367cc2a",
-        "f36f60295725da0490988bf9c9af0b1cfa57ab2b",
-        "c74acbba210defea4184f507d78c55bb5d0a7063",
-        "cc8a8c44847350fd83c4078a96fd34ae57523b5d",
-        "53a59cefde730923ea7313e250647647e0984c3b",
-        "3cc91785879b30b94f4b63c53016ccc29e2d5869"
       ]
     }
   ]
