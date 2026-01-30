@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-29T07:09:02.666Z",
+  "updated_at": "2026-01-30T07:09:57.925Z",
   "days": [
+    {
+      "date": "2026-01-30",
+      "page": "/news/2026-01-30-sport.html",
+      "teaser": "Top: Results + Scorecards | Zuffa Boxing 02",
+      "count": 12,
+      "ids": [
+        "e62daa689c605e400d0ee06dc7b8cdc0d7b2b5d1",
+        "9bd4bdf0f899e1bf0b393aea4cdb93943b5000ea",
+        "6dfc958835515eb50f207d2915bf4cfb6d8769cf",
+        "350262ff5331329f939d040b53d1a1c395e8b4e4",
+        "c53ff1d7ec40c2a0c225774e3c56091dfe792449",
+        "fd3012dcfa195d1ef4acb5e307a8bb28d4e90751",
+        "314041c7db49d1fa740dc4cfbc737de830ed9154",
+        "c9e924830aa9fd1a33cb2cb174d3a11b7fc2fb69",
+        "83c3a7e4f8a997c39b33448198f977ec8f08cf79",
+        "d27b5cdba0c15e05a18902e6229269186ee38567",
+        "1522d953473cfd5c1f75233ab3edde7b212a5a6d",
+        "389268e808f3d15195c469c4cc84ac02e8ec4ed7"
+      ]
+    },
     {
       "date": "2026-01-29",
       "page": "/news/2026-01-29-sport.html",

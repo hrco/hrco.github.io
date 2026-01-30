@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-29T07:08:48.409Z",
+  "updated_at": "2026-01-30T07:09:42.512Z",
   "days": [
+    {
+      "date": "2026-01-30",
+      "page": "/news/2026-01-30.html",
+      "teaser": "Top: Master Your Workflow: Top Gemini CLI Commands You Should Know | Gemini CLI CheatSheet",
+      "count": 12,
+      "ids": [
+        "0522c0093399cdbc37376c4c803b81a0f766e771",
+        "43eafd45e8f9ca176eeb65a26c4d218d1b3bbb72",
+        "c7953224d6eb014cf1469706b37455708418bc7d",
+        "46631765f4eaecb9ed26f8a3364ad19baea5e16a",
+        "05aae60d6f4b8c11f817228c7e823c3469763754",
+        "1f2686ea9ff82adf563652df13de6aae9c2d0a66",
+        "dbfe5ac5237597227bc3591dc36d6acbb62f5e55",
+        "13ca12c63db3ee4063654680b88239478fa3302d",
+        "50d427c0fda033c086317f75663ab6897f1a18e5",
+        "0891cb94111c927f8af16fbef49ee6a842fb82d9",
+        "d231f418ae9b7f71311694275d6647721f78941c",
+        "37f3a6f44f0772a992916bd510754f306209616a"
+      ]
+    },
     {
       "date": "2026-01-29",
       "page": "/news/2026-01-29.html",
@@ -579,26 +599,6 @@
         "0ad0d52df5fc4e07e9ed8d9ae2619953f4bd9b58",
         "4cd47658e5b18986ee57bacdda972c86b5b15996",
         "d7b42bf2a9d91eb5638047aeabad4e2618c021c0"
-      ]
-    },
-    {
-      "date": "2025-12-31",
-      "page": "/news/2025-12-31.html",
-      "teaser": "Top: Fresnillo, Burberry Shine in Best Year for UK Stocks Since 2009",
-      "count": 12,
-      "ids": [
-        "4e848b27e724ce42570181b62bb0405eb931414b",
-        "f379051afcae0124d9f1fd62226a8575ab830a55",
-        "a4d3aa4be1dbb607f04ab83f9d9f43e724e62348",
-        "2083e1515d5d115b3d7a46ab46d5a0ecd0571dc1",
-        "8c1730f7245df0e4e077d76e7eadb6ef6749921a",
-        "33865658502a151b0ebb27f00c3b80a85e0fdd65",
-        "eefcc918e2c3b7745ac92b10ccf1e7329a554daf",
-        "7cd7f3017d43198a1d732ee69f1c16cc1ec2816b",
-        "52d9f5ec8a43b1f12960c98c2dd52f2daf0473d2",
-        "21fc358794ff941276ab915dd5f12e09c0a37f18",
-        "4f705b7caa9a277219a72150e556e513fda7b66e",
-        "935e25d0b2c52f4bb7884d13539e5823a10e206e"
       ]
     }
   ]

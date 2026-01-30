@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-29T07:08:57.639Z",
+  "updated_at": "2026-01-30T07:09:53.328Z",
   "days": [
+    {
+      "date": "2026-01-30",
+      "page": "/news/2026-01-30-news.html",
+      "teaser": "Top: Singapore begins ban on ‘undesirable’ visitors as airline boarding rules take effect",
+      "count": 12,
+      "ids": [
+        "636aee22ecb9e1116fccf2a87708cfec84d87a94",
+        "2ee8c6b66cf7ce1375d0199663665782827c085d",
+        "21d6b9794432e845713fec94e11986bc8b879713",
+        "f80d02b3c3985b4420876bd61b7a488e444dab14",
+        "43eafd45e8f9ca176eeb65a26c4d218d1b3bbb72",
+        "c7953224d6eb014cf1469706b37455708418bc7d",
+        "46631765f4eaecb9ed26f8a3364ad19baea5e16a",
+        "05aae60d6f4b8c11f817228c7e823c3469763754",
+        "dbfe5ac5237597227bc3591dc36d6acbb62f5e55",
+        "49b2a83141e25becd9cce6d0252da2e4c91c260f",
+        "22c45ab8e6d1dc1fd4dcfd949670eb664df6fa9c",
+        "13ca12c63db3ee4063654680b88239478fa3302d"
+      ]
+    },
     {
       "date": "2026-01-29",
       "page": "/news/2026-01-29-news.html",
