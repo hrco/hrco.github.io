@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-30T07:09:57.925Z",
+  "updated_at": "2026-01-31T06:59:43.449Z",
   "days": [
+    {
+      "date": "2026-01-31",
+      "page": "/news/2026-01-31-sport.html",
+      "teaser": "Top: Main Card Results | UFC 325: Volkanovski vs Lopes 2",
+      "count": 12,
+      "ids": [
+        "933f5d06ecf9ce4e51ae73acb4fc0e28f60cb79b",
+        "78a0685187a6e0ffa058208c37b2c54de103d403",
+        "311249fd697b3e8407b2082a91d1181d07f431d1",
+        "9e402f0cf540d18ac08207b9b28438ced4edbcab",
+        "8af3dcfdc0883696b2d5c07e872dae36a605e486",
+        "654f1b4a41165998d5a2c5b8d4b1eb88d27ff023",
+        "e72140592c6b425fe8feb4ddf1ac3c146ecf6a32",
+        "622e30401382df6739e78270badd9b28caf31638",
+        "e0f955c72b1662f3ca87ddd30965e2ae1d115181",
+        "76875619eecb56bc65d69b457c320421e430ddff",
+        "dcf69ee4cf9ed41b0752d4e68381c8174299334d",
+        "4dacda57525921c81668b8c2ee397a6f0897d9b2"
+      ]
+    },
     {
       "date": "2026-01-30",
       "page": "/news/2026-01-30-sport.html",

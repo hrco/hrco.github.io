@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-30T07:09:42.512Z",
+  "updated_at": "2026-01-31T06:59:32.039Z",
   "days": [
+    {
+      "date": "2026-01-31",
+      "page": "/news/2026-01-31.html",
+      "teaser": "Top: Benetke bodo zaplesale v ritmu karnevala. Ta je letos v znamenju Olimpa.",
+      "count": 12,
+      "ids": [
+        "82a9d3155ad374faf8fefda7be8feb6e35e87bef",
+        "94e68ef08c68b01fdb17e68956f9ae7ed9fd4d38",
+        "64e8da3f75a69aa1e06ee6b6b44e47fe2d1982c7",
+        "9798ae32e0b0d5699eefa386a43e3195fb2908ee",
+        "22918b643da8fa2d9ffda0e8673ec4e7915e5641",
+        "2abd1fd5842f2ac6a639b8e7299a8d7b00e31b9d",
+        "f3c4b163a8a60f6b8b361ba5ad6136d9e2246ba3",
+        "62e50e6e43d28d0676c5f2677db46ce1487c6dc5",
+        "7b9297ac822a9fa3f4b80b54146679dcf5021cff",
+        "ce7989c62d0ec316c1d575a289600940fbd94e9d",
+        "60bf41e2aa68895da515b3501c2f368f3c374c2a",
+        "69475f4d0425a4f64c67300a07c1d3fe4831faf2"
+      ]
+    },
     {
       "date": "2026-01-30",
       "page": "/news/2026-01-30.html",
@@ -579,26 +599,6 @@
         "82b0a0c17541be856a0ffcc15f4777b7ed09aad2",
         "f4b57f56cbd5ae10db9e4160d9ec5e3fe0683b9d",
         "e03c43d9d5f1ba18e6e8f75a27bd003ebd48d22b"
-      ]
-    },
-    {
-      "date": "2026-01-01",
-      "page": "/news/2026-01-01.html",
-      "teaser": "Top: Indian Cigarette Maker ITC Slumps After India Raises Tobacco Tax",
-      "count": 12,
-      "ids": [
-        "326a66bcb61b77f80da68e11eaa7e4c1596d4ee2",
-        "ed4f9ee982d774a1c8c66708f92b0e28d88eca98",
-        "f7c8d0a589294783209806d61f847e4565125259",
-        "ae5e3c5e8e902787522a2f80b5612b9c716b0f72",
-        "b79e8a12eea74eeca129c8d8c507aca8a25e64ef",
-        "4b68b5f353eff6e99441107f1bf142fd71bb0b78",
-        "562f06bdd6f78e4555eedb025533183e9bb0b764",
-        "0de49ca7177ff9bb6952d1edad0453d36d2ee711",
-        "30b0bb9400b985fd48b571e5b1a8e52215b254bd",
-        "0ad0d52df5fc4e07e9ed8d9ae2619953f4bd9b58",
-        "4cd47658e5b18986ee57bacdda972c86b5b15996",
-        "d7b42bf2a9d91eb5638047aeabad4e2618c021c0"
       ]
     }
   ]

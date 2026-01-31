@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-30T07:09:53.328Z",
+  "updated_at": "2026-01-31T06:59:39.158Z",
   "days": [
+    {
+      "date": "2026-01-31",
+      "page": "/news/2026-01-31-news.html",
+      "teaser": "Top: Benetke bodo zaplesale v ritmu karnevala. Ta je letos v znamenju Olimpa.",
+      "count": 12,
+      "ids": [
+        "82a9d3155ad374faf8fefda7be8feb6e35e87bef",
+        "802f1dc1206ce59e45a01dbed682f5c7feb16cd8",
+        "94e68ef08c68b01fdb17e68956f9ae7ed9fd4d38",
+        "1f694e5c57a74cf0fd3fefac47554d9163f510bc",
+        "64e8da3f75a69aa1e06ee6b6b44e47fe2d1982c7",
+        "9798ae32e0b0d5699eefa386a43e3195fb2908ee",
+        "41ac52c83734baf35951c245094d142931776558",
+        "119f659d623d660c580ebae88938800d213c3e22",
+        "62e50e6e43d28d0676c5f2677db46ce1487c6dc5",
+        "7b9297ac822a9fa3f4b80b54146679dcf5021cff",
+        "60bf41e2aa68895da515b3501c2f368f3c374c2a",
+        "c5d288a08699dc3b16faccd3a77898a98a664540"
+      ]
+    },
     {
       "date": "2026-01-30",
       "page": "/news/2026-01-30-news.html",
