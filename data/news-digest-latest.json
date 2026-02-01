@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-31",
-  "updated_at": "2026-01-31T06:59:39.158Z",
-  "page": "/news/2026-01-31-news.html",
+  "date": "2026-02-01",
+  "updated_at": "2026-02-01T07:07:44.866Z",
+  "page": "/news/2026-02-01-news.html",
   "count": 12,
   "items": [
     {
-      "id": "82a9d3155ad374faf8fefda7be8feb6e35e87bef",
-      "title": "Benetke bodo zaplesale v ritmu karnevala. Ta je letos v znamenju Olimpa.",
-      "url": "https://www.rtvslo.si/zabava-in-slog/ture-avanture/benetke-bodo-zaplesale-v-ritmu-karnevala-ta-je-letos-v-znamenju-olimpa/771883",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-31T06:57:18.000Z",
-      "summary": "Summary: Benetke bodo zaplesale v ritmu karnevala. Ta je letos v znamenju Olimpa."
+      "id": "a668f5564fa6dfed32fd5f74ed88e4c6e26e1b93",
+      "title": "How forensics uncovered the murder behind bones found at a beauty spot",
+      "url": "https://www.bbc.com/news/articles/cpqyp8yw8wyo?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-02-01T07:06:58.000Z",
+      "summary": "Summary: How forensics uncovered the murder behind bones found at a beauty spot"
     },
     {
-      "id": "802f1dc1206ce59e45a01dbed682f5c7feb16cd8",
-      "title": "Are the West's tightening oil sanctions finally taking their toll on Russia’s economy?",
-      "url": "https://www.france24.com/en/europe/20260131-are-the-west-tightening-oil-sanctions-finally-taking-toll-russia-economy",
+      "id": "0e6667a173a834204bd517aa75d3cc653b49f9f7",
+      "title": "Alex Volkanovski got the moment he wanted at UFC 325",
+      "url": "https://www.abc.net.au/news/2026-02-01/ufc-325-alex-volkanovski-result-diego-lopes/106292786",
+      "source": "www.abc.net.au",
+      "published_at": "2026-02-01T07:00:32.000Z",
+      "summary": "Summary: Alex Volkanovski got the moment he wanted at UFC 325"
+    },
+    {
+      "id": "e29bc62e5bf632d33652fe6501c3652f5e15f83b",
+      "title": "Smejalo se je tekmecu z nabora",
+      "url": "https://www.delo.si/sport/kosarka/smejalo-se-je-tekmecu-z-nabora",
+      "source": "www.delo.si",
+      "published_at": "2026-02-01T07:00:00.000Z",
+      "summary": "Summary: Smejalo se je tekmecu z nabora"
+    },
+    {
+      "id": "884e1d872ab070424a8f53c3ad3db910efc7b276",
+      "title": "Toni Mulec: To je pobeg od realnosti",
+      "url": "https://www.delo.si/nedelo/toni-mulec-to-je-pobeg-od-realnosti",
+      "source": "www.delo.si",
+      "published_at": "2026-02-01T07:00:00.000Z",
+      "summary": "Summary: Toni Mulec: To je pobeg od realnosti"
+    },
+    {
+      "id": "f65edd2032db17bfa8157d355aed5e94104328a2",
+      "title": "Alenka Tetičkovič: Romantika je v majhnih stvareh, smešnih stvareh",
+      "url": "https://www.delo.si/magazin/vikend/alenka-tetickovic-igralka-komedija-iscem-moza-rok-kunaver-aleksandar-rajakovic",
+      "source": "www.delo.si",
+      "published_at": "2026-02-01T07:00:00.000Z",
+      "summary": "Summary: Alenka Tetičkovič: Romantika je v majhnih stvareh, smešnih stvareh"
+    },
+    {
+      "id": "ca8468d8771d5d5cf7ff4861aeec9b37709fbdcc",
+      "title": "Maksim Mrvica: Kri na klavirskih tipkah",
+      "url": "https://www.delo.si/magazin/vikend/maksim-mrvica-klavir-crossover-krizanke-segmenti",
+      "source": "www.delo.si",
+      "published_at": "2026-02-01T07:00:00.000Z",
+      "summary": "Summary: Maksim Mrvica: Kri na klavirskih tipkah"
+    },
+    {
+      "id": "9cf0c04c21d46d1dff575a919645da5e372d13eb",
+      "title": "Nedeljsko kosilo: Ideja za prilogo, ki je hitro pripravljena in vsestranska",
+      "url": "https://www.delo.si/magazin/kulinarika/r-nedeljsko-kosilo-ideja-za-prilogo-ki-je-hitro-pripravljena-in-vsestranska",
+      "source": "www.delo.si",
+      "published_at": "2026-02-01T06:55:00.000Z",
+      "summary": "Summary: Nedeljsko kosilo: Ideja za prilogo, ki je hitro pripravljena in vsestranska"
+    },
+    {
+      "id": "aa6e46812bd9a75dc7a46365802099ed11694a31",
+      "title": "Charlotte ustavil Wembanyamo in zmagal šestič zapored",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/charlotte-ustavil-wembanyamo-in-zmagal-sestic-zapored/771958",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-01T06:51:22.000Z",
+      "summary": "Summary: Charlotte ustavil Wembanyamo in zmagal šestič zapored"
+    },
+    {
+      "id": "759dd6019945e3e2e623008f2d651f35a723771c",
+      "title": "Iran says it now considers all EU armies to be 'terrorist groups'",
+      "url": "https://www.france24.com/en/asia-pacific/20260201-live-qatar-s-top-diplomat-holds-talks-in-iran-aiming-to-reduce-tensions",
       "source": "www.france24.com",
-      "published_at": "2026-01-31T06:56:35.000Z",
-      "summary": "Summary: Are the West's tightening oil sanctions finally taking their toll on Russia’s economy?"
+      "published_at": "2026-02-01T06:51:11.000Z",
+      "summary": "Summary: Iran says it now considers all EU armies to be 'terrorist groups'"
     },
     {
-      "id": "94e68ef08c68b01fdb17e68956f9ae7ed9fd4d38",
-      "title": "Hiška grajskih otrok: pravljična kuhinja z dušo ob ruševinah Haasberga",
-      "url": "https://www.delo.si/razno/r-hiska-grajskih-otrok-pravljicna-kuhinja-z-duso-ob-rusevinah-haasberga",
+      "id": "8ef814df070a3465f8bb5257fb206fb45f4c3615",
+      "title": "Slovenski reprezentant je iz Turčije odšel na Ciper",
+      "url": "https://www.delo.si/sport/nogomet/slovenski-reprezentant-je-iz-turcije-odsel-na-ciper",
       "source": "www.delo.si",
-      "published_at": "2026-01-31T06:55:00.000Z",
-      "summary": "Summary: Hiška grajskih otrok: pravljična kuhinja z dušo ob ruševinah Haasberga"
+      "published_at": "2026-02-01T06:45:00.000Z",
+      "summary": "Summary: Slovenski reprezentant je iz Turčije odšel na Ciper"
     },
     {
-      "id": "1f694e5c57a74cf0fd3fefac47554d9163f510bc",
-      "title": "Brook says he lied to protect England teammates in NZ nightclub incident",
-      "url": "https://www.abc.net.au/news/2026-01-31/brook-says-he-lied-to-protect-england-teammates-in-nz-incident/106291544",
+      "id": "4672f5a4caedf28af968109aee745812708655c6",
+      "title": "Kje bo končal presežek – 143 milijonov evrov, zbranih za dolgotrajno oskrbo?",
+      "url": "https://www.24ur.com/novice/dejstva/kje-bo-koncal-presezek-143-milijonov-evrov-zbranih-za-dolgotrajno-oskrbo.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-01T06:44:39.000Z",
+      "summary": "Summary: Kje bo končal presežek – 143 milijonov evrov, zbranih za dolgotrajno oskrbo?"
+    },
+    {
+      "id": "4587f01398ff2e3ce16c237d9cde5c4bea848f3c",
+      "title": "South Korea boycott would be 'devastating' for Asian Cup",
+      "url": "https://www.abc.net.au/news/2026-02-01/south-korea-asian-cup-boycott-would-be-devastating/106293118",
       "source": "www.abc.net.au",
-      "published_at": "2026-01-31T06:44:29.000Z",
-      "summary": "Summary: Brook says he lied to protect England teammates in NZ nightclub incident"
-    },
-    {
-      "id": "64e8da3f75a69aa1e06ee6b6b44e47fe2d1982c7",
-      "title": "Bolj zdrava Amerika: Trumpova vlada spreminja prehransko piramido",
-      "url": "https://www.24ur.com/novice/tujina/bolj-zdrava-amerika-trumpova-vlada-spreminja-prehransko-piramido.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-31T06:44:04.000Z",
-      "summary": "Summary: Bolj zdrava Amerika: Trumpova vlada spreminja prehransko piramido"
-    },
-    {
-      "id": "9798ae32e0b0d5699eefa386a43e3195fb2908ee",
-      "title": "Na Celjskem v dveh prometnih nesrečah trije mrtvi",
-      "url": "https://www.rtvslo.si/crna-kronika/na-celjskem-v-dveh-prometnih-nesrecah-trije-mrtvi/771884",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-31T06:42:28.000Z",
-      "summary": "Summary: Na Celjskem v dveh prometnih nesrečah trije mrtvi"
-    },
-    {
-      "id": "41ac52c83734baf35951c245094d142931776558",
-      "title": "Live: Sabalenka's mission to reclaim Aus Open crown ends in final against Rybakina",
-      "url": "https://www.abc.net.au/news/2026-01-31/australian-open-womens-singles-final-live-sabalenka-rybakina/106291584",
-      "source": "www.abc.net.au",
-      "published_at": "2026-01-31T06:41:52.000Z",
-      "summary": "Summary: Live: Sabalenka's mission to reclaim Aus Open crown ends in final against Rybakina"
-    },
-    {
-      "id": "119f659d623d660c580ebae88938800d213c3e22",
-      "title": "Hong Kong health chief seeks to speed up Medical Council’s complaint handling",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3341933/hong-kong-health-chief-seeks-speed-medical-councils-complaint-handling?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-01-31T06:38:21.000Z",
-      "summary": "Summary: Hong Kong health chief seeks to speed up Medical Council’s complaint handling"
-    },
-    {
-      "id": "62e50e6e43d28d0676c5f2677db46ce1487c6dc5",
-      "title": "Na Celjskem v dveh prometnih nesrečah umrle tri osebe",
-      "url": "https://www.24ur.com/novice/crna-kronika/tragicno-na-celjskem-v-dveh-prometnih-nesrecah-umrle-tri-osebe.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-31T06:36:22.000Z",
-      "summary": "Summary: Na Celjskem v dveh prometnih nesrečah umrle tri osebe"
-    },
-    {
-      "id": "7b9297ac822a9fa3f4b80b54146679dcf5021cff",
-      "title": "Tragična noč na Celjskem: v dveh prometnih nesrečah umrle tri osebe",
-      "url": "https://www.delo.si/novice/crna-kronika/tragicna-noc-na-celjskem-v-dveh-prometnih-nesrecah-umrle-tri-osebe",
-      "source": "www.delo.si",
-      "published_at": "2026-01-31T06:35:00.000Z",
-      "summary": "Summary: Tragična noč na Celjskem: v dveh prometnih nesrečah umrle tri osebe"
-    },
-    {
-      "id": "60bf41e2aa68895da515b3501c2f368f3c374c2a",
-      "title": "Šeško v finale mladinskega Melbourna brez izgubljenega niza",
-      "url": "https://www.rtvslo.si/sport/tenis/teniski-turnirji/sesko-v-finale-mladinskega-melbourna-brez-izgubljenega-niza/771885",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-31T06:34:06.000Z",
-      "summary": "Summary: Šeško v finale mladinskega Melbourna brez izgubljenega niza"
-    },
-    {
-      "id": "c5d288a08699dc3b16faccd3a77898a98a664540",
-      "title": "Pravljica se nadaljuje: Šeško v finalu OP Avstralije",
-      "url": "https://www.24ur.com/sport/ostalo/pravljica-se-nadaljuje-sesko-v-finalu-op-avstralije.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-31T06:31:58.000Z",
-      "summary": "Summary: Pravljica se nadaljuje: Šeško v finalu OP Avstralije"
+      "published_at": "2026-02-01T06:43:43.000Z",
+      "summary": "Summary: South Korea boycott would be 'devastating' for Asian Cup"
     }
   ]
 }

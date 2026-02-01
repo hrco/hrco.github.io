@@ -1,104 +1,104 @@
 {
-  "date": "2026-01-31",
-  "updated_at": "2026-01-31T06:59:32.039Z",
-  "page": "/news/2026-01-31.html",
+  "date": "2026-02-01",
+  "updated_at": "2026-02-01T07:07:34.529Z",
+  "page": "/news/2026-02-01.html",
   "count": 12,
   "items": [
     {
-      "id": "82a9d3155ad374faf8fefda7be8feb6e35e87bef",
-      "title": "Benetke bodo zaplesale v ritmu karnevala. Ta je letos v znamenju Olimpa.",
-      "url": "https://www.rtvslo.si/zabava-in-slog/ture-avanture/benetke-bodo-zaplesale-v-ritmu-karnevala-ta-je-letos-v-znamenju-olimpa/771883",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-31T06:57:18.000Z",
-      "summary": "Summary: Benetke bodo zaplesale v ritmu karnevala. Ta je letos v znamenju Olimpa."
+      "id": "04b3e125a54b73b092391f73e8e15c695613a2ab",
+      "title": "Gallery: Wildcards, Challengers Alike Get Flexed at Unruly Pipeline",
+      "url": "https://www.surfer.com/news/lexus-pipe-challenger-day-2-recap",
+      "source": "www.surfer.com",
+      "published_at": "2026-02-01T07:01:02.000Z",
+      "summary": "Summary: Gallery: Wildcards, Challengers Alike Get Flexed at Unruly Pipeline"
     },
     {
-      "id": "94e68ef08c68b01fdb17e68956f9ae7ed9fd4d38",
-      "title": "Hiška grajskih otrok: pravljična kuhinja z dušo ob ruševinah Haasberga",
-      "url": "https://www.delo.si/razno/r-hiska-grajskih-otrok-pravljicna-kuhinja-z-duso-ob-rusevinah-haasberga",
+      "id": "6c7f26cdd9f6ad143d3350c85542dc277cfe7d38",
+      "title": "Meet the new European unicorns of 2026",
+      "url": "https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/",
+      "source": "techcrunch.com",
+      "published_at": "2026-02-01T07:00:00.000Z",
+      "summary": "Summary: Meet the new European unicorns of 2026"
+    },
+    {
+      "id": "e29bc62e5bf632d33652fe6501c3652f5e15f83b",
+      "title": "Smejalo se je tekmecu z nabora",
+      "url": "https://www.delo.si/sport/kosarka/smejalo-se-je-tekmecu-z-nabora",
       "source": "www.delo.si",
-      "published_at": "2026-01-31T06:55:00.000Z",
-      "summary": "Summary: Hiška grajskih otrok: pravljična kuhinja z dušo ob ruševinah Haasberga"
+      "published_at": "2026-02-01T07:00:00.000Z",
+      "summary": "Summary: Smejalo se je tekmecu z nabora"
     },
     {
-      "id": "64e8da3f75a69aa1e06ee6b6b44e47fe2d1982c7",
-      "title": "Bolj zdrava Amerika: Trumpova vlada spreminja prehransko piramido",
-      "url": "https://www.24ur.com/novice/tujina/bolj-zdrava-amerika-trumpova-vlada-spreminja-prehransko-piramido.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-31T06:44:04.000Z",
-      "summary": "Summary: Bolj zdrava Amerika: Trumpova vlada spreminja prehransko piramido"
-    },
-    {
-      "id": "9798ae32e0b0d5699eefa386a43e3195fb2908ee",
-      "title": "Na Celjskem v dveh prometnih nesrečah trije mrtvi",
-      "url": "https://www.rtvslo.si/crna-kronika/na-celjskem-v-dveh-prometnih-nesrecah-trije-mrtvi/771884",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-01-31T06:42:28.000Z",
-      "summary": "Summary: Na Celjskem v dveh prometnih nesrečah trije mrtvi"
-    },
-    {
-      "id": "22918b643da8fa2d9ffda0e8673ec4e7915e5641",
-      "title": "Zero-Budget Email Flow Validation: How a Security Researcher Leveraged Docker for Efficient Testing",
-      "url": "https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-email-flow-validation-how-a-security-researcher-leveraged-docker-for-efficient-testing-4fab",
-      "source": "dev.to",
-      "published_at": "2026-01-31T06:40:55.000Z",
-      "summary": "Summary: Zero-Budget Email Flow Validation: How a Security Researcher Leveraged Docker for Efficient Testing"
-    },
-    {
-      "id": "2abd1fd5842f2ac6a639b8e7299a8d7b00e31b9d",
-      "title": "Leveraging Linux for Bypassing Gated Content During High-Traffic Events",
-      "url": "https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-for-bypassing-gated-content-during-high-traffic-events-9im",
-      "source": "dev.to",
-      "published_at": "2026-01-31T06:40:24.000Z",
-      "summary": "Summary: Leveraging Linux for Bypassing Gated Content During High-Traffic Events"
-    },
-    {
-      "id": "f3c4b163a8a60f6b8b361ba5ad6136d9e2246ba3",
-      "title": "Top 5 DevOps Platforms of 2026: Why Stateless IaC is the New Standard",
-      "url": "https://dev.to/mechcloud/top-5-devops-platforms-of-2026-why-stateless-iac-is-the-new-standard-27ae",
-      "source": "dev.to",
-      "published_at": "2026-01-31T06:37:47.000Z",
-      "summary": "Summary: Top 5 DevOps Platforms of 2026: Why Stateless IaC is the New Standard"
-    },
-    {
-      "id": "62e50e6e43d28d0676c5f2677db46ce1487c6dc5",
-      "title": "Na Celjskem v dveh prometnih nesrečah umrle tri osebe",
-      "url": "https://www.24ur.com/novice/crna-kronika/tragicno-na-celjskem-v-dveh-prometnih-nesrecah-umrle-tri-osebe.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-01-31T06:36:22.000Z",
-      "summary": "Summary: Na Celjskem v dveh prometnih nesrečah umrle tri osebe"
-    },
-    {
-      "id": "7b9297ac822a9fa3f4b80b54146679dcf5021cff",
-      "title": "Tragična noč na Celjskem: v dveh prometnih nesrečah umrle tri osebe",
-      "url": "https://www.delo.si/novice/crna-kronika/tragicna-noc-na-celjskem-v-dveh-prometnih-nesrecah-umrle-tri-osebe",
+      "id": "884e1d872ab070424a8f53c3ad3db910efc7b276",
+      "title": "Toni Mulec: To je pobeg od realnosti",
+      "url": "https://www.delo.si/nedelo/toni-mulec-to-je-pobeg-od-realnosti",
       "source": "www.delo.si",
-      "published_at": "2026-01-31T06:35:00.000Z",
-      "summary": "Summary: Tragična noč na Celjskem: v dveh prometnih nesrečah umrle tri osebe"
+      "published_at": "2026-02-01T07:00:00.000Z",
+      "summary": "Summary: Toni Mulec: To je pobeg od realnosti"
     },
     {
-      "id": "ce7989c62d0ec316c1d575a289600940fbd94e9d",
-      "title": "Streamlining Legacy Databases with React: A Lead QA Engineer's Approach to Clutter Control",
-      "url": "https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-with-react-a-lead-qa-engineers-approach-to-clutter-control-1jp9",
+      "id": "f65edd2032db17bfa8157d355aed5e94104328a2",
+      "title": "Alenka Tetičkovič: Romantika je v majhnih stvareh, smešnih stvareh",
+      "url": "https://www.delo.si/magazin/vikend/alenka-tetickovic-igralka-komedija-iscem-moza-rok-kunaver-aleksandar-rajakovic",
+      "source": "www.delo.si",
+      "published_at": "2026-02-01T07:00:00.000Z",
+      "summary": "Summary: Alenka Tetičkovič: Romantika je v majhnih stvareh, smešnih stvareh"
+    },
+    {
+      "id": "ca8468d8771d5d5cf7ff4861aeec9b37709fbdcc",
+      "title": "Maksim Mrvica: Kri na klavirskih tipkah",
+      "url": "https://www.delo.si/magazin/vikend/maksim-mrvica-klavir-crossover-krizanke-segmenti",
+      "source": "www.delo.si",
+      "published_at": "2026-02-01T07:00:00.000Z",
+      "summary": "Summary: Maksim Mrvica: Kri na klavirskih tipkah"
+    },
+    {
+      "id": "f86b82613735856fda164dee7bdf182c4411a399",
+      "title": "How Is This “Static” Website Doing P2P Chat, Rooms, and Video Calls?",
+      "url": "https://dev.to/ranikumari889/how-is-this-static-website-doing-p2p-chat-rooms-and-video-calls-22mf",
       "source": "dev.to",
-      "published_at": "2026-01-31T06:34:13.000Z",
-      "summary": "Summary: Streamlining Legacy Databases with React: A Lead QA Engineer's Approach to Clutter Control"
+      "published_at": "2026-02-01T06:56:07.000Z",
+      "summary": "Summary: How Is This “Static” Website Doing P2P Chat, Rooms, and Video Calls?"
     },
     {
-      "id": "60bf41e2aa68895da515b3501c2f368f3c374c2a",
-      "title": "Šeško v finale mladinskega Melbourna brez izgubljenega niza",
-      "url": "https://www.rtvslo.si/sport/tenis/teniski-turnirji/sesko-v-finale-mladinskega-melbourna-brez-izgubljenega-niza/771885",
+      "id": "5db88cce236073d070b8957d118b732d0f7d03c0",
+      "title": "[Boost]",
+      "url": "https://dev.to/anthonymax/-2b07",
+      "source": "dev.to",
+      "published_at": "2026-02-01T06:56:06.000Z",
+      "summary": "Summary: [Boost]"
+    },
+    {
+      "id": "9cf0c04c21d46d1dff575a919645da5e372d13eb",
+      "title": "Nedeljsko kosilo: Ideja za prilogo, ki je hitro pripravljena in vsestranska",
+      "url": "https://www.delo.si/magazin/kulinarika/r-nedeljsko-kosilo-ideja-za-prilogo-ki-je-hitro-pripravljena-in-vsestranska",
+      "source": "www.delo.si",
+      "published_at": "2026-02-01T06:55:00.000Z",
+      "summary": "Summary: Nedeljsko kosilo: Ideja za prilogo, ki je hitro pripravljena in vsestranska"
+    },
+    {
+      "id": "aa6e46812bd9a75dc7a46365802099ed11694a31",
+      "title": "Charlotte ustavil Wembanyamo in zmagal šestič zapored",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/charlotte-ustavil-wembanyamo-in-zmagal-sestic-zapored/771958",
       "source": "www.rtvslo.si",
-      "published_at": "2026-01-31T06:34:06.000Z",
-      "summary": "Summary: Šeško v finale mladinskega Melbourna brez izgubljenega niza"
+      "published_at": "2026-02-01T06:51:22.000Z",
+      "summary": "Summary: Charlotte ustavil Wembanyamo in zmagal šestič zapored"
     },
     {
-      "id": "69475f4d0425a4f64c67300a07c1d3fe4831faf2",
-      "title": "I Built a Multi-Service Kubernetes App and Here's What Actually Broke",
-      "url": "https://dev.to/adil-khan-723/i-built-a-multi-service-kubernetes-app-and-heres-what-actually-broke-4f99",
+      "id": "129a990acb66408166ad7555142a895a9275ce48",
+      "title": "Altra Promo Codes: Get 20% Off Plus Free Shipping",
+      "url": "https://www.wired.com/story/altra-promo-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-02-01T06:51:00.000Z",
+      "summary": "Summary: Altra Promo Codes: Get 20% Off Plus Free Shipping"
+    },
+    {
+      "id": "11bee1210f5a3a421619bed5c1fbc17c0b38d0c6",
+      "title": "Securing Test Environments: Tackling PII Leaks in Legacy Code with TypeScript",
+      "url": "https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-tackling-pii-leaks-in-legacy-code-with-typescript-3o20",
       "source": "dev.to",
-      "published_at": "2026-01-31T06:32:21.000Z",
-      "summary": "Summary: I Built a Multi-Service Kubernetes App and Here's What Actually Broke"
+      "published_at": "2026-02-01T06:49:25.000Z",
+      "summary": "Summary: Securing Test Environments: Tackling PII Leaks in Legacy Code with TypeScript"
     }
   ]
 }

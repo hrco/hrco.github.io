@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-01-31T06:59:39.158Z",
+  "updated_at": "2026-02-01T07:07:44.866Z",
   "days": [
+    {
+      "date": "2026-02-01",
+      "page": "/news/2026-02-01-news.html",
+      "teaser": "Top: How forensics uncovered the murder behind bones found at a beauty spot",
+      "count": 12,
+      "ids": [
+        "a668f5564fa6dfed32fd5f74ed88e4c6e26e1b93",
+        "0e6667a173a834204bd517aa75d3cc653b49f9f7",
+        "e29bc62e5bf632d33652fe6501c3652f5e15f83b",
+        "884e1d872ab070424a8f53c3ad3db910efc7b276",
+        "f65edd2032db17bfa8157d355aed5e94104328a2",
+        "ca8468d8771d5d5cf7ff4861aeec9b37709fbdcc",
+        "9cf0c04c21d46d1dff575a919645da5e372d13eb",
+        "aa6e46812bd9a75dc7a46365802099ed11694a31",
+        "759dd6019945e3e2e623008f2d651f35a723771c",
+        "8ef814df070a3465f8bb5257fb206fb45f4c3615",
+        "4672f5a4caedf28af968109aee745812708655c6",
+        "4587f01398ff2e3ce16c237d9cde5c4bea848f3c"
+      ]
+    },
     {
       "date": "2026-01-31",
       "page": "/news/2026-01-31-news.html",
