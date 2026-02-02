@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-01T07:07:34.529Z",
+  "updated_at": "2026-02-02T07:18:46.324Z",
   "days": [
+    {
+      "date": "2026-02-02",
+      "page": "/news/2026-02-02.html",
+      "teaser": "Top: Kljub ubijalskim kritikam film Melania zaslužil nad pričakovanji",
+      "count": 12,
+      "ids": [
+        "8bd16299d5da526ff259887c3cefb5456fd82946",
+        "49e6f879e979b8e2e090e3d4a0298b22e16502f0",
+        "983d930644ee6a6f73731850a59545a7bc5f6e93",
+        "ddd5ebe0f83caa10baff155c5a6d930412e7b5e6",
+        "a62926d98ea47cdd4aaa6043ec58f01d3c946cfe",
+        "14256cd6c917078d6f7e1b7b7260f8cb5e9286ba",
+        "450c0bdeded7686ba6f90eae5e348684e0f3566b",
+        "83105306f8aa7a1695f79125b269d01bdb985c95",
+        "d4bb9cf9d7925e3cf822a1134f859a3c44c63e41",
+        "d5f20193f172f5efce207c4c0b56a0761e20e8ac",
+        "bca5e6234637afed4e5529b3a39a83fa053d0ad4",
+        "d2ff6d5133c79ec1f1f15d4da7116cfec7a392d4"
+      ]
+    },
     {
       "date": "2026-02-01",
       "page": "/news/2026-02-01.html",
@@ -579,26 +599,6 @@
         "457c7d4d828de4f84e410a4622982564cd1f6e51",
         "27f3122189f6cb1b03f4483734225d48f18f4638",
         "d7299b0f5d016d3b66884b981a88ce1f79ba6629"
-      ]
-    },
-    {
-      "date": "2026-01-03",
-      "page": "/news/2026-01-03.html",
-      "teaser": "Top: LeBron in Luka povedla Lakerse do zmage nad Memphisom",
-      "count": 12,
-      "ids": [
-        "59f89b27f83c68a91ba4da125115513723c13778",
-        "549ae453c50de391c25172d31ffa8c5e331e2ab0",
-        "c7b6878bbf5512b0aa660fbcb47a8f6c7e96bf45",
-        "6aa960e63c518db6527658ca6e63ba626c7ce353",
-        "f466df0f33d69a434db8260e919a01bf7e404270",
-        "ed609192692d0ce569e27f17cd8cb7813729e15a",
-        "eded7d23ee7d0e7273ca86dacaf938669ab99a01",
-        "d3b45f756967ba722ef1897dfc2d30456e3ed913",
-        "934ecae95a27673c26c473e4204b074d2a344730",
-        "05c025020c80d8f5d89058b53af66867fae14190",
-        "6c300e7b8d2bb9163d074f43cc4d8ae34722b033",
-        "be0966730fd7f24632b52e5cf089cc37bb63f40d"
       ]
     }
   ]

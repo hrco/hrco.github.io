@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-01",
-  "updated_at": "2026-02-01T07:07:34.529Z",
-  "page": "/news/2026-02-01.html",
+  "date": "2026-02-02",
+  "updated_at": "2026-02-02T07:18:46.324Z",
+  "page": "/news/2026-02-02.html",
   "count": 12,
   "items": [
     {
-      "id": "04b3e125a54b73b092391f73e8e15c695613a2ab",
-      "title": "Gallery: Wildcards, Challengers Alike Get Flexed at Unruly Pipeline",
-      "url": "https://www.surfer.com/news/lexus-pipe-challenger-day-2-recap",
-      "source": "www.surfer.com",
-      "published_at": "2026-02-01T07:01:02.000Z",
-      "summary": "Summary: Gallery: Wildcards, Challengers Alike Get Flexed at Unruly Pipeline"
-    },
-    {
-      "id": "6c7f26cdd9f6ad143d3350c85542dc277cfe7d38",
-      "title": "Meet the new European unicorns of 2026",
-      "url": "https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/",
-      "source": "techcrunch.com",
-      "published_at": "2026-02-01T07:00:00.000Z",
-      "summary": "Summary: Meet the new European unicorns of 2026"
-    },
-    {
-      "id": "e29bc62e5bf632d33652fe6501c3652f5e15f83b",
-      "title": "Smejalo se je tekmecu z nabora",
-      "url": "https://www.delo.si/sport/kosarka/smejalo-se-je-tekmecu-z-nabora",
+      "id": "8bd16299d5da526ff259887c3cefb5456fd82946",
+      "title": "Kljub ubijalskim kritikam film Melania zaslužil nad pričakovanji",
+      "url": "https://www.delo.si/magazin/zanimivosti/film-melania-zasluzil-nad-pricakovanji",
       "source": "www.delo.si",
-      "published_at": "2026-02-01T07:00:00.000Z",
-      "summary": "Summary: Smejalo se je tekmecu z nabora"
+      "published_at": "2026-02-02T07:14:49.000Z",
+      "summary": "Summary: Kljub ubijalskim kritikam film Melania zaslužil nad pričakovanji"
     },
     {
-      "id": "884e1d872ab070424a8f53c3ad3db910efc7b276",
-      "title": "Toni Mulec: To je pobeg od realnosti",
-      "url": "https://www.delo.si/nedelo/toni-mulec-to-je-pobeg-od-realnosti",
-      "source": "www.delo.si",
-      "published_at": "2026-02-01T07:00:00.000Z",
-      "summary": "Summary: Toni Mulec: To je pobeg od realnosti"
-    },
-    {
-      "id": "f65edd2032db17bfa8157d355aed5e94104328a2",
-      "title": "Alenka Tetičkovič: Romantika je v majhnih stvareh, smešnih stvareh",
-      "url": "https://www.delo.si/magazin/vikend/alenka-tetickovic-igralka-komedija-iscem-moza-rok-kunaver-aleksandar-rajakovic",
-      "source": "www.delo.si",
-      "published_at": "2026-02-01T07:00:00.000Z",
-      "summary": "Summary: Alenka Tetičkovič: Romantika je v majhnih stvareh, smešnih stvareh"
-    },
-    {
-      "id": "ca8468d8771d5d5cf7ff4861aeec9b37709fbdcc",
-      "title": "Maksim Mrvica: Kri na klavirskih tipkah",
-      "url": "https://www.delo.si/magazin/vikend/maksim-mrvica-klavir-crossover-krizanke-segmenti",
-      "source": "www.delo.si",
-      "published_at": "2026-02-01T07:00:00.000Z",
-      "summary": "Summary: Maksim Mrvica: Kri na klavirskih tipkah"
-    },
-    {
-      "id": "f86b82613735856fda164dee7bdf182c4411a399",
-      "title": "How Is This “Static” Website Doing P2P Chat, Rooms, and Video Calls?",
-      "url": "https://dev.to/ranikumari889/how-is-this-static-website-doing-p2p-chat-rooms-and-video-calls-22mf",
+      "id": "49e6f879e979b8e2e090e3d4a0298b22e16502f0",
+      "title": "Cpu Work (2)",
+      "url": "https://dev.to/ikhwanal/cpu-work-2-12am",
       "source": "dev.to",
-      "published_at": "2026-02-01T06:56:07.000Z",
-      "summary": "Summary: How Is This “Static” Website Doing P2P Chat, Rooms, and Video Calls?"
+      "published_at": "2026-02-02T07:11:38.000Z",
+      "summary": "Summary: Cpu Work (2)"
     },
     {
-      "id": "5db88cce236073d070b8957d118b732d0f7d03c0",
-      "title": "[Boost]",
-      "url": "https://dev.to/anthonymax/-2b07",
+      "id": "983d930644ee6a6f73731850a59545a7bc5f6e93",
+      "title": "Mastering Memory Leak Debugging in Node.js: A DevOps Approach Without Documentation",
+      "url": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-memory-leak-debugging-in-nodejs-a-devops-approach-without-documentation-19lk",
       "source": "dev.to",
-      "published_at": "2026-02-01T06:56:06.000Z",
-      "summary": "Summary: [Boost]"
+      "published_at": "2026-02-02T07:09:59.000Z",
+      "summary": "Summary: Mastering Memory Leak Debugging in Node.js: A DevOps Approach Without Documentation"
     },
     {
-      "id": "9cf0c04c21d46d1dff575a919645da5e372d13eb",
-      "title": "Nedeljsko kosilo: Ideja za prilogo, ki je hitro pripravljena in vsestranska",
-      "url": "https://www.delo.si/magazin/kulinarika/r-nedeljsko-kosilo-ideja-za-prilogo-ki-je-hitro-pripravljena-in-vsestranska",
-      "source": "www.delo.si",
-      "published_at": "2026-02-01T06:55:00.000Z",
-      "summary": "Summary: Nedeljsko kosilo: Ideja za prilogo, ki je hitro pripravljena in vsestranska"
-    },
-    {
-      "id": "aa6e46812bd9a75dc7a46365802099ed11694a31",
-      "title": "Charlotte ustavil Wembanyamo in zmagal šestič zapored",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/charlotte-ustavil-wembanyamo-in-zmagal-sestic-zapored/771958",
+      "id": "ddd5ebe0f83caa10baff155c5a6d930412e7b5e6",
+      "title": "Radijska igra: Ko se boji sveta zrcalijo v bojih posameznika",
+      "url": "https://www.rtvslo.si/kultura/drugo/radijska-igra-ko-se-boji-sveta-zrcalijo-v-bojih-posameznika/772027",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-01T06:51:22.000Z",
-      "summary": "Summary: Charlotte ustavil Wembanyamo in zmagal šestič zapored"
+      "published_at": "2026-02-02T07:07:25.000Z",
+      "summary": "Summary: Radijska igra: Ko se boji sveta zrcalijo v bojih posameznika"
     },
     {
-      "id": "129a990acb66408166ad7555142a895a9275ce48",
-      "title": "Altra Promo Codes: Get 20% Off Plus Free Shipping",
-      "url": "https://www.wired.com/story/altra-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-02-01T06:51:00.000Z",
-      "summary": "Summary: Altra Promo Codes: Get 20% Off Plus Free Shipping"
-    },
-    {
-      "id": "11bee1210f5a3a421619bed5c1fbc17c0b38d0c6",
-      "title": "Securing Test Environments: Tackling PII Leaks in Legacy Code with TypeScript",
-      "url": "https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-tackling-pii-leaks-in-legacy-code-with-typescript-3o20",
+      "id": "a62926d98ea47cdd4aaa6043ec58f01d3c946cfe",
+      "title": "Understanding Semantic Search: Vector Embeddings and Similarity Search",
+      "url": "https://dev.to/derrickryangiggs/understanding-semantic-search-vector-embeddings-and-similarity-search-2ahp",
       "source": "dev.to",
-      "published_at": "2026-02-01T06:49:25.000Z",
-      "summary": "Summary: Securing Test Environments: Tackling PII Leaks in Legacy Code with TypeScript"
+      "published_at": "2026-02-02T07:06:39.000Z",
+      "summary": "Summary: Understanding Semantic Search: Vector Embeddings and Similarity Search"
+    },
+    {
+      "id": "14256cd6c917078d6f7e1b7b7260f8cb5e9286ba",
+      "title": "Zaradi kaosa na sodiščih številni ločenci morda še vedno poročeni",
+      "url": "https://www.delo.si/novice/svet/zaradi-kaosa-na-sodiscih-mnogi-locenci-morda-se-vedno-poroceni",
+      "source": "www.delo.si",
+      "published_at": "2026-02-02T07:03:00.000Z",
+      "summary": "Summary: Zaradi kaosa na sodiščih številni ločenci morda še vedno poročeni"
+    },
+    {
+      "id": "450c0bdeded7686ba6f90eae5e348684e0f3566b",
+      "title": "Hamenej svari pred regionalno vojno v primeru napada ZDA, Trump izraža upanje na dogovor",
+      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/hamenej-svari-pred-regionalno-vojno-v-primeru-napada-zda-trump-izraza-upanje-na-dogovor/772026",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-02T07:02:23.000Z",
+      "summary": "Summary: Hamenej svari pred regionalno vojno v primeru napada ZDA, Trump izraža upanje na dogovor"
+    },
+    {
+      "id": "83105306f8aa7a1695f79125b269d01bdb985c95",
+      "title": "Inside My AI‑Native Portfolio: How I Built Dual Agents, Live Architecture Diagrams, and a Multi‑Planetary Theme Engine",
+      "url": "https://dev.to/awesomeananth/inside-my-ai-native-portfolio-how-i-built-dual-agents-live-architecture-diagrams-and-a-1c5h",
+      "source": "dev.to",
+      "published_at": "2026-02-02T07:02:20.000Z",
+      "summary": "Summary: Inside My AI‑Native Portfolio: How I Built Dual Agents, Live Architecture Diagrams, and a Multi‑Planetary Theme Engine"
+    },
+    {
+      "id": "d4bb9cf9d7925e3cf822a1134f859a3c44c63e41",
+      "title": "Schemas & Data Modelling in Power BI",
+      "url": "https://dev.to/kinyywa-data-analyst/schemas-and-data-modelling-in-power-bi-55no",
+      "source": "dev.to",
+      "published_at": "2026-02-02T07:00:59.000Z",
+      "summary": "Summary: Schemas & Data Modelling in Power BI"
+    },
+    {
+      "id": "d5f20193f172f5efce207c4c0b56a0761e20e8ac",
+      "title": "Alight Taps SEB for £34 Million Financing to Fund UK Solar Parks",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-02/alight-taps-seb-for-34-million-financing-to-fund-uk-solar-parks",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-02T07:00:01.000Z",
+      "summary": "Summary: Alight Taps SEB for £34 Million Financing to Fund UK Solar Parks"
+    },
+    {
+      "id": "bca5e6234637afed4e5529b3a39a83fa053d0ad4",
+      "title": "UK Chiefs’ Confidence Jumps in Latest Sign of Economic Momentum",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-02/uk-chiefs-confidence-jumps-in-latest-sign-of-economic-momentum",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-02T07:00:00.000Z",
+      "summary": "Summary: UK Chiefs’ Confidence Jumps in Latest Sign of Economic Momentum"
+    },
+    {
+      "id": "d2ff6d5133c79ec1f1f15d4da7116cfec7a392d4",
+      "title": "Naj se že enkrat zmenijo",
+      "url": "https://www.delo.si/mnenja/pisma-bralcev/naj-se-ze-enkrat-zmenijo",
+      "source": "www.delo.si",
+      "published_at": "2026-02-02T07:00:00.000Z",
+      "summary": "Summary: Naj se že enkrat zmenijo"
     }
   ]
 }

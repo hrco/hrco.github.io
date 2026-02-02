@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-01T07:07:44.866Z",
+  "updated_at": "2026-02-02T07:18:55.564Z",
   "days": [
+    {
+      "date": "2026-02-02",
+      "page": "/news/2026-02-02-news.html",
+      "teaser": "Top: Kljub ubijalskim kritikam film Melania zaslužil nad pričakovanji",
+      "count": 12,
+      "ids": [
+        "8bd16299d5da526ff259887c3cefb5456fd82946",
+        "a7feaf11040436ad5866af733ce030662dd80eea",
+        "ddd5ebe0f83caa10baff155c5a6d930412e7b5e6",
+        "827bfc88bdd6079758489a3fe137e34bf4ae727c",
+        "50b165161ca5cb9a95e81b7fb11870523d9a4bfb",
+        "e6428cd6e90fc3539f5dd4e747aa3477d38ddc43",
+        "14256cd6c917078d6f7e1b7b7260f8cb5e9286ba",
+        "450c0bdeded7686ba6f90eae5e348684e0f3566b",
+        "1cedc9fb5a6b18fa436eae237449d1ee83cd912e",
+        "90f7d6bc85035b7ca71e255b597fed8e3f2b82c5",
+        "96df07ba95bb6e589faf2d5f0f374076e33d7ba5",
+        "10f8d986e14b60693e8e5b493e189ef6b504db7b"
+      ]
+    },
     {
       "date": "2026-02-01",
       "page": "/news/2026-02-01-news.html",

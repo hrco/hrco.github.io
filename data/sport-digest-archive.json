@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-01T07:07:49.486Z",
+  "updated_at": "2026-02-02T07:19:00.702Z",
   "days": [
+    {
+      "date": "2026-02-02",
+      "page": "/news/2026-02-02-sport.html",
+      "teaser": "Top: LeBron named All-Star reserve, extending record",
+      "count": 12,
+      "ids": [
+        "4c5f499b363ce09c998f1619d6940e4697fb1994",
+        "1196efd75db900511f0d9aece65ba6f5d078d811",
+        "d2821bfd75dd5748ab87b9606b3707be0c111308",
+        "7b4b107a25c8bbdfa6a40c091839e79135e86553",
+        "46153ba7b841b560efa3222a5146385bd2beb16d",
+        "7e55794fff3e07438c3ff161be6bd00d6137b049",
+        "e9f729b9f6b8ade4793519d90aef2df7127fe0d1",
+        "7f967e74a3e1f39bdfd016eed88dca4b50e982da",
+        "b77f1c079d5f13ace0c4fb4860b8e802ca95db47",
+        "d36d722215a19eea3c487b18f1b0482118ee8e80",
+        "3e420b22dc4feb7789ed7bfa407dcb7996f644cc",
+        "f259512647aa00844905e79fc6e6fa395c577b5f"
+      ]
+    },
     {
       "date": "2026-02-01",
       "page": "/news/2026-02-01-sport.html",
