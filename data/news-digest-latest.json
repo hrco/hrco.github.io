@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-02",
-  "updated_at": "2026-02-02T07:18:55.564Z",
-  "page": "/news/2026-02-02-news.html",
+  "date": "2026-02-03",
+  "updated_at": "2026-02-03T07:12:18.063Z",
+  "page": "/news/2026-02-03-news.html",
   "count": 12,
   "items": [
     {
-      "id": "8bd16299d5da526ff259887c3cefb5456fd82946",
-      "title": "Kljub ubijalskim kritikam film Melania zaslužil nad pričakovanji",
-      "url": "https://www.delo.si/magazin/zanimivosti/film-melania-zasluzil-nad-pricakovanji",
-      "source": "www.delo.si",
-      "published_at": "2026-02-02T07:14:49.000Z",
-      "summary": "Summary: Kljub ubijalskim kritikam film Melania zaslužil nad pričakovanji"
+      "id": "cf3db463fbc057dfeed9eda7a5667f85c052496f",
+      "title": "A-League star snapped up by European giant Juventus",
+      "url": "https://www.abc.net.au/news/2026-02-03/annalise-rasmussen-central-coast-mariners-signs-with-juventus/106300846",
+      "source": "www.abc.net.au",
+      "published_at": "2026-02-03T07:08:09.000Z",
+      "summary": "Summary: A-League star snapped up by European giant Juventus"
     },
     {
-      "id": "a7feaf11040436ad5866af733ce030662dd80eea",
-      "title": "Stars hit red carpet at Grammy Awards show",
-      "url": "https://www.bbc.com/news/articles/cqj2kyp29l7o?at_medium=RSS&at_campaign=rss",
+      "id": "575eed02c3241527e68254e592af13e714d690be",
+      "title": "Trump seeks $1bn in damages from Harvard",
+      "url": "https://www.bbc.com/news/articles/crkryely657o?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-02T07:13:41.000Z",
-      "summary": "Summary: Stars hit red carpet at Grammy Awards show"
+      "published_at": "2026-02-03T07:08:03.000Z",
+      "summary": "Summary: Trump seeks $1bn in damages from Harvard"
     },
     {
-      "id": "ddd5ebe0f83caa10baff155c5a6d930412e7b5e6",
-      "title": "Radijska igra: Ko se boji sveta zrcalijo v bojih posameznika",
-      "url": "https://www.rtvslo.si/kultura/drugo/radijska-igra-ko-se-boji-sveta-zrcalijo-v-bojih-posameznika/772027",
+      "id": "eabd9077430aa6bb45c60af3d5e61ac42b977de5",
+      "title": "Trevi Fountain fee takes effect as Rome seeks to manage tourist crowds",
+      "url": "https://www.npr.org/2026/02/03/g-s1-108471/trevi-fountain-fee-takes-effect",
+      "source": "feeds.npr.org",
+      "published_at": "2026-02-03T07:07:08.000Z",
+      "summary": "Summary: Trevi Fountain fee takes effect as Rome seeks to manage tourist crowds"
+    },
+    {
+      "id": "28c8a068970aee1be9ba9b5351fbc34df82ddcf4",
+      "title": "Plan to prevent violence in schools revealed by Tasmanian government",
+      "url": "https://www.abc.net.au/news/2026-02-03/tasmanian-governments-plan-to-address-violence-in-schools/106298632",
+      "source": "www.abc.net.au",
+      "published_at": "2026-02-03T07:05:48.000Z",
+      "summary": "Summary: Plan to prevent violence in schools revealed by Tasmanian government"
+    },
+    {
+      "id": "f435208014a34006e3db2b71f65d28e637d432a6",
+      "title": "Princesa iz zloglasnih dosjejev",
+      "url": "https://www.24ur.com/novice/tujina/princesa-iz-zloglasnih-dosjejev.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-03T07:03:16.000Z",
+      "summary": "Summary: Princesa iz zloglasnih dosjejev"
+    },
+    {
+      "id": "65988bc391f6de14ac98254618b8658c0c489975",
+      "title": "Clippersi prodajajo Hardna, Bucksi višajo ceno za Janisa",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/clippersi-prodajajo-hardna-bucksi-visajo-ceno-za-janisa/772155",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-02T07:07:25.000Z",
-      "summary": "Summary: Radijska igra: Ko se boji sveta zrcalijo v bojih posameznika"
+      "published_at": "2026-02-03T07:02:42.000Z",
+      "summary": "Summary: Clippersi prodajajo Hardna, Bucksi višajo ceno za Janisa"
     },
     {
-      "id": "827bfc88bdd6079758489a3fe137e34bf4ae727c",
-      "title": "Knicks beat Lakers; spoil LeBron James’s 32nd game at Madison Square Garden",
-      "url": "https://www.aljazeera.com/sports/2026/2/2/knicks-beat-lakers-spoil-lebron-jamess-32nd-game-at-madison-square-garden?traffic_source=rss",
-      "source": "www.aljazeera.com",
-      "published_at": "2026-02-02T07:06:54.000Z",
-      "summary": "Summary: Knicks beat Lakers; spoil LeBron James’s 32nd game at Madison Square Garden"
-    },
-    {
-      "id": "50b165161ca5cb9a95e81b7fb11870523d9a4bfb",
-      "title": "Costa Rica elects tough-talking right-winger for president",
-      "url": "https://www.scmp.com/news/world/americas/article/3342075/costa-rica-elects-tough-talking-right-winger-president?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-02-02T07:06:50.000Z",
-      "summary": "Summary: Costa Rica elects tough-talking right-winger for president"
-    },
-    {
-      "id": "e6428cd6e90fc3539f5dd4e747aa3477d38ddc43",
-      "title": "Broadcaster James Valentine retires from ABC after nearly 40 years due to cancer",
-      "url": "https://www.theguardian.com/media/2026/feb/02/james-valentine-retirement-abc-cancer",
+      "id": "46d24d6c85367bbcb34277651ec5881aa96d7984",
+      "title": "Australia news live: major Sydney Mardi Gras event cancelled; man charged over allegedly giving Nazi salute to Jewish students at Melbourne airport",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/03/australia-politics-live-anthony-albanese-sussan-ley-labor-liberal-coalition-nationals-rba-interest-rates-decision-cost-of-living-leadership-spill-ntwnfb",
       "source": "www.theguardian.com",
-      "published_at": "2026-02-02T07:05:13.000Z",
-      "summary": "Summary: Broadcaster James Valentine retires from ABC after nearly 40 years due to cancer"
+      "published_at": "2026-02-03T07:02:33.000Z",
+      "summary": "Summary: Australia news live: major Sydney Mardi Gras event cancelled; man charged over allegedly giving Nazi salute to Jewish students at Melbourne airport"
     },
     {
-      "id": "14256cd6c917078d6f7e1b7b7260f8cb5e9286ba",
-      "title": "Zaradi kaosa na sodiščih številni ločenci morda še vedno poročeni",
-      "url": "https://www.delo.si/novice/svet/zaradi-kaosa-na-sodiscih-mnogi-locenci-morda-se-vedno-poroceni",
+      "id": "e966d23dacf72cfed4791b55c304d532be5b6a56",
+      "title": "Aid cuts could cause 22m avoidable deaths by 2030, study finds",
+      "url": "https://www.theguardian.com/global-development/2026/feb/03/aid-cuts-avoidable-deaths-study-children-uk-us-donor-countries",
+      "source": "www.theguardian.com",
+      "published_at": "2026-02-03T07:00:31.000Z",
+      "summary": "Summary: Aid cuts could cause 22m avoidable deaths by 2030, study finds"
+    },
+    {
+      "id": "e43c41c87524a56f1427d1569026ef7a1763829e",
+      "title": "Trump says he is seeking $1bn in damages in Harvard dispute",
+      "url": "https://www.theguardian.com/us-news/2026/feb/03/trump-harvard-dispute-seeking-1bn-damages-settlement",
+      "source": "www.theguardian.com",
+      "published_at": "2026-02-03T07:00:22.000Z",
+      "summary": "Summary: Trump says he is seeking $1bn in damages in Harvard dispute"
+    },
+    {
+      "id": "9c08acdb45924508677fcca2b088fbb4aff53c97",
+      "title": "Kako je šlo Melanii pri nas? Ne odlično, ne pa grozno",
+      "url": "https://www.delo.si/magazin/vikend/kinolestvica-melania-film-dokumentarec-donald-trump-brett-ratner",
       "source": "www.delo.si",
-      "published_at": "2026-02-02T07:03:00.000Z",
-      "summary": "Summary: Zaradi kaosa na sodiščih številni ločenci morda še vedno poročeni"
+      "published_at": "2026-02-03T07:00:00.000Z",
+      "summary": "Summary: Kako je šlo Melanii pri nas? Ne odlično, ne pa grozno"
     },
     {
-      "id": "450c0bdeded7686ba6f90eae5e348684e0f3566b",
-      "title": "Hamenej svari pred regionalno vojno v primeru napada ZDA, Trump izraža upanje na dogovor",
-      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/hamenej-svari-pred-regionalno-vojno-v-primeru-napada-zda-trump-izraza-upanje-na-dogovor/772026",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-02T07:02:23.000Z",
-      "summary": "Summary: Hamenej svari pred regionalno vojno v primeru napada ZDA, Trump izraža upanje na dogovor"
+      "id": "129947c743353ee81f75c9a40c73d2e893d24974",
+      "title": "Starši ne vedo, kaj se dogaja: skriti hazard v otroških igrah",
+      "url": "https://www.delo.si/novice/slovenija/starsi-ne-vedo-kaj-se-dogaja-skriti-hazard-v-otroskih-igrah",
+      "source": "www.delo.si",
+      "published_at": "2026-02-03T07:00:00.000Z",
+      "summary": "Summary: Starši ne vedo, kaj se dogaja: skriti hazard v otroških igrah"
     },
     {
-      "id": "1cedc9fb5a6b18fa436eae237449d1ee83cd912e",
-      "title": "Zhang Youxia investigation to end ‘watered down’ capability of China’s military: PLA Daily",
-      "url": "https://www.scmp.com/news/china/politics/article/3342072/zhang-youxia-investigation-end-watered-down-capability-chinas-military?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-02-02T07:01:12.000Z",
-      "summary": "Summary: Zhang Youxia investigation to end ‘watered down’ capability of China’s military: PLA Daily"
-    },
-    {
-      "id": "90f7d6bc85035b7ca71e255b597fed8e3f2b82c5",
-      "title": "Twelve miners killed by Russian strike in Ukraine, officials say",
-      "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-02T07:00:55.000Z",
-      "summary": "Summary: Twelve miners killed by Russian strike in Ukraine, officials say"
-    },
-    {
-      "id": "96df07ba95bb6e589faf2d5f0f374076e33d7ba5",
-      "title": "‘Pure apocalypse’: a photographer’s journey through the Pantanal wildfires",
-      "url": "https://www.theguardian.com/artanddesign/2026/feb/02/lalo-de-almeida-photographer-journey-through-pantanal-wildfires-brazil",
-      "source": "www.theguardian.com",
-      "published_at": "2026-02-02T07:00:50.000Z",
-      "summary": "Summary: ‘Pure apocalypse’: a photographer’s journey through the Pantanal wildfires"
-    },
-    {
-      "id": "10f8d986e14b60693e8e5b493e189ef6b504db7b",
-      "title": "Chinese EV makers’ shares skid as sales slide after tax incentive ends",
-      "url": "https://www.scmp.com/business/china-business/article/3342066/chinese-ev-makers-shares-skid-sales-slide-after-tax-incentive-ends?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-02-02T07:00:09.000Z",
-      "summary": "Summary: Chinese EV makers’ shares skid as sales slide after tax incentive ends"
+      "id": "a715800e8e2c75da08d34edb73acf6d955bbe476",
+      "title": "Clintons agree to testify in House Epstein investigation ahead of contempt of Congress vote",
+      "url": "https://www.npr.org/2026/02/03/nx-s1-5697831/clintons-agree-testify-house-epstein-investigation-contempt-congress-vote",
+      "source": "feeds.npr.org",
+      "published_at": "2026-02-03T06:55:46.000Z",
+      "summary": "Summary: Clintons agree to testify in House Epstein investigation ahead of contempt of Congress vote"
     }
   ]
 }

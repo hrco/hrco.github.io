@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-02T07:18:55.564Z",
+  "updated_at": "2026-02-03T07:12:18.063Z",
   "days": [
+    {
+      "date": "2026-02-03",
+      "page": "/news/2026-02-03-news.html",
+      "teaser": "Top: A-League star snapped up by European giant Juventus",
+      "count": 12,
+      "ids": [
+        "cf3db463fbc057dfeed9eda7a5667f85c052496f",
+        "575eed02c3241527e68254e592af13e714d690be",
+        "eabd9077430aa6bb45c60af3d5e61ac42b977de5",
+        "28c8a068970aee1be9ba9b5351fbc34df82ddcf4",
+        "f435208014a34006e3db2b71f65d28e637d432a6",
+        "65988bc391f6de14ac98254618b8658c0c489975",
+        "46d24d6c85367bbcb34277651ec5881aa96d7984",
+        "e966d23dacf72cfed4791b55c304d532be5b6a56",
+        "e43c41c87524a56f1427d1569026ef7a1763829e",
+        "9c08acdb45924508677fcca2b088fbb4aff53c97",
+        "129947c743353ee81f75c9a40c73d2e893d24974",
+        "a715800e8e2c75da08d34edb73acf6d955bbe476"
+      ]
+    },
     {
       "date": "2026-02-02",
       "page": "/news/2026-02-02-news.html",
@@ -579,26 +599,6 @@
         "cddcb07e17bad4acd48dfe86423b6b881de3746a",
         "cdf8793ab7801b202826b12d4581d24de032783f",
         "ac9e305e4a1817e1f45810f9c7d878c8313ebb23"
-      ]
-    },
-    {
-      "date": "2026-01-04",
-      "page": "/news/2026-01-04-news.html",
-      "teaser": "Top: Uradno je: Dove Cameron in Damiano David potrdila zaroko",
-      "count": 12,
-      "ids": [
-        "bb29b17df9c15c40cc8018906d623ab805216940",
-        "160a78ae098d839361b7f37093a1b01686b5695f",
-        "034f11e7851891b3126a112c862752b5fbe26d79",
-        "8fb6c1861928e1f4d837923e1e028a0e69ba5e47",
-        "73819437f471e6aad7194aea34889cfa1dd817ef",
-        "735186d1ce31c709a04016927c455ad57f55ffba",
-        "2822e6665740bcd34bdcf2327bda07433992936b",
-        "72727bdd75fdb76d6e9ad12dfdcd91190a5a6816",
-        "af8dc0e622c9fe7b88126db30dc5a5cc625e715c",
-        "87ea6d79ccd13e5b38e38cf6bfb7ba84ea70009b",
-        "24c896792ab1e67bbc6e09fa324b55d11104efc1",
-        "3c67413b372e3c2790469d2e7f9adc3f62f1c2a8"
       ]
     }
   ]

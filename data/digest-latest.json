@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-02",
-  "updated_at": "2026-02-02T07:18:46.324Z",
-  "page": "/news/2026-02-02.html",
+  "date": "2026-02-03",
+  "updated_at": "2026-02-03T07:12:08.477Z",
+  "page": "/news/2026-02-03.html",
   "count": 12,
   "items": [
     {
-      "id": "8bd16299d5da526ff259887c3cefb5456fd82946",
-      "title": "Kljub ubijalskim kritikam film Melania zaslužil nad pričakovanji",
-      "url": "https://www.delo.si/magazin/zanimivosti/film-melania-zasluzil-nad-pricakovanji",
-      "source": "www.delo.si",
-      "published_at": "2026-02-02T07:14:49.000Z",
-      "summary": "Summary: Kljub ubijalskim kritikam film Melania zaslužil nad pričakovanji"
-    },
-    {
-      "id": "49e6f879e979b8e2e090e3d4a0298b22e16502f0",
-      "title": "Cpu Work (2)",
-      "url": "https://dev.to/ikhwanal/cpu-work-2-12am",
-      "source": "dev.to",
-      "published_at": "2026-02-02T07:11:38.000Z",
-      "summary": "Summary: Cpu Work (2)"
-    },
-    {
-      "id": "983d930644ee6a6f73731850a59545a7bc5f6e93",
-      "title": "Mastering Memory Leak Debugging in Node.js: A DevOps Approach Without Documentation",
-      "url": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-memory-leak-debugging-in-nodejs-a-devops-approach-without-documentation-19lk",
-      "source": "dev.to",
-      "published_at": "2026-02-02T07:09:59.000Z",
-      "summary": "Summary: Mastering Memory Leak Debugging in Node.js: A DevOps Approach Without Documentation"
-    },
-    {
-      "id": "ddd5ebe0f83caa10baff155c5a6d930412e7b5e6",
-      "title": "Radijska igra: Ko se boji sveta zrcalijo v bojih posameznika",
-      "url": "https://www.rtvslo.si/kultura/drugo/radijska-igra-ko-se-boji-sveta-zrcalijo-v-bojih-posameznika/772027",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-02T07:07:25.000Z",
-      "summary": "Summary: Radijska igra: Ko se boji sveta zrcalijo v bojih posameznika"
-    },
-    {
-      "id": "a62926d98ea47cdd4aaa6043ec58f01d3c946cfe",
-      "title": "Understanding Semantic Search: Vector Embeddings and Similarity Search",
-      "url": "https://dev.to/derrickryangiggs/understanding-semantic-search-vector-embeddings-and-similarity-search-2ahp",
-      "source": "dev.to",
-      "published_at": "2026-02-02T07:06:39.000Z",
-      "summary": "Summary: Understanding Semantic Search: Vector Embeddings and Similarity Search"
-    },
-    {
-      "id": "14256cd6c917078d6f7e1b7b7260f8cb5e9286ba",
-      "title": "Zaradi kaosa na sodiščih številni ločenci morda še vedno poročeni",
-      "url": "https://www.delo.si/novice/svet/zaradi-kaosa-na-sodiscih-mnogi-locenci-morda-se-vedno-poroceni",
-      "source": "www.delo.si",
-      "published_at": "2026-02-02T07:03:00.000Z",
-      "summary": "Summary: Zaradi kaosa na sodiščih številni ločenci morda še vedno poročeni"
-    },
-    {
-      "id": "450c0bdeded7686ba6f90eae5e348684e0f3566b",
-      "title": "Hamenej svari pred regionalno vojno v primeru napada ZDA, Trump izraža upanje na dogovor",
-      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/hamenej-svari-pred-regionalno-vojno-v-primeru-napada-zda-trump-izraza-upanje-na-dogovor/772026",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-02T07:02:23.000Z",
-      "summary": "Summary: Hamenej svari pred regionalno vojno v primeru napada ZDA, Trump izraža upanje na dogovor"
-    },
-    {
-      "id": "83105306f8aa7a1695f79125b269d01bdb985c95",
-      "title": "Inside My AI‑Native Portfolio: How I Built Dual Agents, Live Architecture Diagrams, and a Multi‑Planetary Theme Engine",
-      "url": "https://dev.to/awesomeananth/inside-my-ai-native-portfolio-how-i-built-dual-agents-live-architecture-diagrams-and-a-1c5h",
-      "source": "dev.to",
-      "published_at": "2026-02-02T07:02:20.000Z",
-      "summary": "Summary: Inside My AI‑Native Portfolio: How I Built Dual Agents, Live Architecture Diagrams, and a Multi‑Planetary Theme Engine"
-    },
-    {
-      "id": "d4bb9cf9d7925e3cf822a1134f859a3c44c63e41",
-      "title": "Schemas & Data Modelling in Power BI",
-      "url": "https://dev.to/kinyywa-data-analyst/schemas-and-data-modelling-in-power-bi-55no",
-      "source": "dev.to",
-      "published_at": "2026-02-02T07:00:59.000Z",
-      "summary": "Summary: Schemas & Data Modelling in Power BI"
-    },
-    {
-      "id": "d5f20193f172f5efce207c4c0b56a0761e20e8ac",
-      "title": "Alight Taps SEB for £34 Million Financing to Fund UK Solar Parks",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-02/alight-taps-seb-for-34-million-financing-to-fund-uk-solar-parks",
+      "id": "1eefede90e7e493ddc802b5b4f268d02822c8639",
+      "title": "The China Show 2/3/2026 (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-02-03/the-china-show-2-3-2026-video",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-02T07:00:01.000Z",
-      "summary": "Summary: Alight Taps SEB for £34 Million Financing to Fund UK Solar Parks"
+      "published_at": "2026-02-03T07:09:10.000Z",
+      "summary": "Summary: The China Show 2/3/2026 (Video)"
     },
     {
-      "id": "bca5e6234637afed4e5529b3a39a83fa053d0ad4",
-      "title": "UK Chiefs’ Confidence Jumps in Latest Sign of Economic Momentum",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-02/uk-chiefs-confidence-jumps-in-latest-sign-of-economic-momentum",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-02T07:00:00.000Z",
-      "summary": "Summary: UK Chiefs’ Confidence Jumps in Latest Sign of Economic Momentum"
+      "id": "bf1b6721f58f8b012a55fb8fa81e9dc01843a3c6",
+      "title": "AfroIntroductions: An Honest Look at One of the Top African Dating Apps",
+      "url": "https://dev.to/muzmatch/afrointroductions-an-honest-look-at-one-of-the-top-african-dating-apps-37ll",
+      "source": "dev.to",
+      "published_at": "2026-02-03T07:05:41.000Z",
+      "summary": "Summary: AfroIntroductions: An Honest Look at One of the Top African Dating Apps"
     },
     {
-      "id": "d2ff6d5133c79ec1f1f15d4da7116cfec7a392d4",
-      "title": "Naj se že enkrat zmenijo",
-      "url": "https://www.delo.si/mnenja/pisma-bralcev/naj-se-ze-enkrat-zmenijo",
+      "id": "b9b6edcad6e024872c719d87d3e58b78a4eae353",
+      "title": "The Switch is now Nintendo’s best-selling console of all time",
+      "url": "https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds",
+      "source": "www.theverge.com",
+      "published_at": "2026-02-03T07:05:22.000Z",
+      "summary": "Summary: The Switch is now Nintendo’s best-selling console of all time"
+    },
+    {
+      "id": "f435208014a34006e3db2b71f65d28e637d432a6",
+      "title": "Princesa iz zloglasnih dosjejev",
+      "url": "https://www.24ur.com/novice/tujina/princesa-iz-zloglasnih-dosjejev.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-03T07:03:16.000Z",
+      "summary": "Summary: Princesa iz zloglasnih dosjejev"
+    },
+    {
+      "id": "65988bc391f6de14ac98254618b8658c0c489975",
+      "title": "Clippersi prodajajo Hardna, Bucksi višajo ceno za Janisa",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/clippersi-prodajajo-hardna-bucksi-visajo-ceno-za-janisa/772155",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-03T07:02:42.000Z",
+      "summary": "Summary: Clippersi prodajajo Hardna, Bucksi višajo ceno za Janisa"
+    },
+    {
+      "id": "9c08acdb45924508677fcca2b088fbb4aff53c97",
+      "title": "Kako je šlo Melanii pri nas? Ne odlično, ne pa grozno",
+      "url": "https://www.delo.si/magazin/vikend/kinolestvica-melania-film-dokumentarec-donald-trump-brett-ratner",
       "source": "www.delo.si",
-      "published_at": "2026-02-02T07:00:00.000Z",
-      "summary": "Summary: Naj se že enkrat zmenijo"
+      "published_at": "2026-02-03T07:00:00.000Z",
+      "summary": "Summary: Kako je šlo Melanii pri nas? Ne odlično, ne pa grozno"
+    },
+    {
+      "id": "129947c743353ee81f75c9a40c73d2e893d24974",
+      "title": "Starši ne vedo, kaj se dogaja: skriti hazard v otroških igrah",
+      "url": "https://www.delo.si/novice/slovenija/starsi-ne-vedo-kaj-se-dogaja-skriti-hazard-v-otroskih-igrah",
+      "source": "www.delo.si",
+      "published_at": "2026-02-03T07:00:00.000Z",
+      "summary": "Summary: Starši ne vedo, kaj se dogaja: skriti hazard v otroških igrah"
+    },
+    {
+      "id": "58f457bd2f850bffeadb0299ac09cca23b573c68",
+      "title": "UBS Joint Venture Triggers Uproar Revaluing China Silver Fund",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-03/ubs-joint-venture-triggers-uproar-revaluing-china-silver-fund",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-03T06:58:43.000Z",
+      "summary": "Summary: UBS Joint Venture Triggers Uproar Revaluing China Silver Fund"
+    },
+    {
+      "id": "32755ea1706d07c418fa8702a999541744ae9adb",
+      "title": "Cheveley: Long Term Factors for Precious Metals in Play",
+      "url": "https://www.bloomberg.com/news/videos/2026-02-03/cheveley-long-term-factors-for-precious-metals-in-play-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-03T06:56:38.000Z",
+      "summary": "Summary: Cheveley: Long Term Factors for Precious Metals in Play"
+    },
+    {
+      "id": "4ee588f178492308f3ecfff1eb2450f8c31cc9c7",
+      "title": "Najprej se je sprl, potem odšel k navečjim tekmecem",
+      "url": "https://www.delo.si/sport/nogomet/najprej-se-je-sprl-potem-odsel-k-navecjim-tekmecem",
+      "source": "www.delo.si",
+      "published_at": "2026-02-03T06:53:00.000Z",
+      "summary": "Summary: Najprej se je sprl, potem odšel k navečjim tekmecem"
+    },
+    {
+      "id": "ee50416b3d940e5e60650287c3e98748479b38f0",
+      "title": "Elon Musk s svojim podjetjem kupuje ... svoje podjetje",
+      "url": "https://www.delo.si/novice/znanoteh/muskov-spacex-kupil-muskov-xai",
+      "source": "www.delo.si",
+      "published_at": "2026-02-03T06:52:00.000Z",
+      "summary": "Summary: Elon Musk s svojim podjetjem kupuje ... svoje podjetje"
+    },
+    {
+      "id": "1502bee17efcb717efab7df939312542b7d865bd",
+      "title": "Understanding `useState` in React",
+      "url": "https://dev.to/msnmongare/understanding-usestate-in-react-17l4",
+      "source": "dev.to",
+      "published_at": "2026-02-03T06:50:00.000Z",
+      "summary": "Summary: Understanding `useState` in React"
     }
   ]
 }
