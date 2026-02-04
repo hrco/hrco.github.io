@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-03T07:12:18.063Z",
+  "updated_at": "2026-02-04T07:12:27.953Z",
   "days": [
+    {
+      "date": "2026-02-04",
+      "page": "/news/2026-02-04-news.html",
+      "teaser": "Top: Escort’s disappearance ‘not taken seriously', sister tells inquest",
+      "count": 12,
+      "ids": [
+        "26af22b90ff0cf78001b1336637e20514850a925",
+        "583d7d179684c9f031980de55b3cd18b2fc15f1a",
+        "4ba042155d68547fd7769ea1babfe455e8c6b19d",
+        "d325840e037bac1d8f952128aa8b3ee58ed2b2e7",
+        "8915219c8730aa8336c7f84fccffe385dea877b4",
+        "bd6d0759db15252dfb017557983d70218fd41018",
+        "b1856d4895ce096f0d4451c77385c533b17da80b",
+        "82e42edfafcd6bdc49c5c54c8e9d7e2c75ac7b13",
+        "5cfd55eb085dd2546f66963dbe68af0f0bca5a6b",
+        "7d3b5e95ec375c27c71b708a835b43b766af2099",
+        "393b08cef9775dc772da2731f3e3a79c5ae97b8b",
+        "e1f0da9bbd9b7ccdab5fd6e07dfbc8ba4cfa013b"
+      ]
+    },
     {
       "date": "2026-02-03",
       "page": "/news/2026-02-03-news.html",
@@ -579,26 +599,6 @@
         "b98a0dff1ef889e7da4aeee8c282ef008bf11cc3",
         "56b4e1fee0247915ca15b99a9493435b33307334",
         "ce5fe1c041816d02850b66cf5e4cd71369c00a41"
-      ]
-    },
-    {
-      "date": "2026-01-05",
-      "page": "/news/2026-01-05-news.html",
-      "teaser": "Top: Chinese automotive chipmaker Black Sesame’s Huashan A2000 clears US review hurdle",
-      "count": 12,
-      "ids": [
-        "f3c2c5aa4099bbc025da97480cb220575109db0f",
-        "0e08c21be120aa9afa878ab4c98a76e34bd9e88c",
-        "145a7a865d8bbb821fc5dea3b41da71ed228777e",
-        "a7ad5defb7ad795b0a24a2b981573ba5a5559bf3",
-        "ac900e7037301a7441241f33483d8d18b6308a45",
-        "cae5de0d3501cfc0b1db8b4c3a8e75428b876b90",
-        "af20116c2fd6140a668c1b9721b48c173a1583f9",
-        "e288efc9dd0f81419938662152fa6401cdb556a7",
-        "5e21d56424683bff69cd7d9029e3e22565601c38",
-        "cddcb07e17bad4acd48dfe86423b6b881de3746a",
-        "cdf8793ab7801b202826b12d4581d24de032783f",
-        "ac9e305e4a1817e1f45810f9c7d878c8313ebb23"
       ]
     }
   ]

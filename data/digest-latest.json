@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-03",
-  "updated_at": "2026-02-03T07:12:08.477Z",
-  "page": "/news/2026-02-03.html",
+  "date": "2026-02-04",
+  "updated_at": "2026-02-04T07:12:18.570Z",
+  "page": "/news/2026-02-04.html",
   "count": 12,
   "items": [
     {
-      "id": "1eefede90e7e493ddc802b5b4f268d02822c8639",
-      "title": "The China Show 2/3/2026 (Video)",
-      "url": "https://www.bloomberg.com/news/videos/2026-02-03/the-china-show-2-3-2026-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-03T07:09:10.000Z",
-      "summary": "Summary: The China Show 2/3/2026 (Video)"
-    },
-    {
-      "id": "bf1b6721f58f8b012a55fb8fa81e9dc01843a3c6",
-      "title": "AfroIntroductions: An Honest Look at One of the Top African Dating Apps",
-      "url": "https://dev.to/muzmatch/afrointroductions-an-honest-look-at-one-of-the-top-african-dating-apps-37ll",
-      "source": "dev.to",
-      "published_at": "2026-02-03T07:05:41.000Z",
-      "summary": "Summary: AfroIntroductions: An Honest Look at One of the Top African Dating Apps"
-    },
-    {
-      "id": "b9b6edcad6e024872c719d87d3e58b78a4eae353",
-      "title": "The Switch is now Nintendo’s best-selling console of all time",
-      "url": "https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds",
-      "source": "www.theverge.com",
-      "published_at": "2026-02-03T07:05:22.000Z",
-      "summary": "Summary: The Switch is now Nintendo’s best-selling console of all time"
-    },
-    {
-      "id": "f435208014a34006e3db2b71f65d28e637d432a6",
-      "title": "Princesa iz zloglasnih dosjejev",
-      "url": "https://www.24ur.com/novice/tujina/princesa-iz-zloglasnih-dosjejev.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-03T07:03:16.000Z",
-      "summary": "Summary: Princesa iz zloglasnih dosjejev"
-    },
-    {
-      "id": "65988bc391f6de14ac98254618b8658c0c489975",
-      "title": "Clippersi prodajajo Hardna, Bucksi višajo ceno za Janisa",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/clippersi-prodajajo-hardna-bucksi-visajo-ceno-za-janisa/772155",
+      "id": "583d7d179684c9f031980de55b3cd18b2fc15f1a",
+      "title": "Aleš Jelenko: Socialna omrežja",
+      "url": "https://www.rtvslo.si/kultura/beremo/ales-jelenko-socialna-omrezja/772277",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-03T07:02:42.000Z",
-      "summary": "Summary: Clippersi prodajajo Hardna, Bucksi višajo ceno za Janisa"
+      "published_at": "2026-02-04T07:06:14.000Z",
+      "summary": "Summary: Aleš Jelenko: Socialna omrežja"
     },
     {
-      "id": "9c08acdb45924508677fcca2b088fbb4aff53c97",
-      "title": "Kako je šlo Melanii pri nas? Ne odlično, ne pa grozno",
-      "url": "https://www.delo.si/magazin/vikend/kinolestvica-melania-film-dokumentarec-donald-trump-brett-ratner",
-      "source": "www.delo.si",
-      "published_at": "2026-02-03T07:00:00.000Z",
-      "summary": "Summary: Kako je šlo Melanii pri nas? Ne odlično, ne pa grozno"
-    },
-    {
-      "id": "129947c743353ee81f75c9a40c73d2e893d24974",
-      "title": "Starši ne vedo, kaj se dogaja: skriti hazard v otroških igrah",
-      "url": "https://www.delo.si/novice/slovenija/starsi-ne-vedo-kaj-se-dogaja-skriti-hazard-v-otroskih-igrah",
-      "source": "www.delo.si",
-      "published_at": "2026-02-03T07:00:00.000Z",
-      "summary": "Summary: Starši ne vedo, kaj se dogaja: skriti hazard v otroških igrah"
-    },
-    {
-      "id": "58f457bd2f850bffeadb0299ac09cca23b573c68",
-      "title": "UBS Joint Venture Triggers Uproar Revaluing China Silver Fund",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-03/ubs-joint-venture-triggers-uproar-revaluing-china-silver-fund",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-03T06:58:43.000Z",
-      "summary": "Summary: UBS Joint Venture Triggers Uproar Revaluing China Silver Fund"
-    },
-    {
-      "id": "32755ea1706d07c418fa8702a999541744ae9adb",
-      "title": "Cheveley: Long Term Factors for Precious Metals in Play",
-      "url": "https://www.bloomberg.com/news/videos/2026-02-03/cheveley-long-term-factors-for-precious-metals-in-play-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-03T06:56:38.000Z",
-      "summary": "Summary: Cheveley: Long Term Factors for Precious Metals in Play"
-    },
-    {
-      "id": "4ee588f178492308f3ecfff1eb2450f8c31cc9c7",
-      "title": "Najprej se je sprl, potem odšel k navečjim tekmecem",
-      "url": "https://www.delo.si/sport/nogomet/najprej-se-je-sprl-potem-odsel-k-navecjim-tekmecem",
-      "source": "www.delo.si",
-      "published_at": "2026-02-03T06:53:00.000Z",
-      "summary": "Summary: Najprej se je sprl, potem odšel k navečjim tekmecem"
-    },
-    {
-      "id": "ee50416b3d940e5e60650287c3e98748479b38f0",
-      "title": "Elon Musk s svojim podjetjem kupuje ... svoje podjetje",
-      "url": "https://www.delo.si/novice/znanoteh/muskov-spacex-kupil-muskov-xai",
-      "source": "www.delo.si",
-      "published_at": "2026-02-03T06:52:00.000Z",
-      "summary": "Summary: Elon Musk s svojim podjetjem kupuje ... svoje podjetje"
-    },
-    {
-      "id": "1502bee17efcb717efab7df939312542b7d865bd",
-      "title": "Understanding `useState` in React",
-      "url": "https://dev.to/msnmongare/understanding-usestate-in-react-17l4",
+      "id": "bc3defba627603a02bab85668e123a2c68dd2743",
+      "title": "Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production",
+      "url": "https://dev.to/jinpyo181/zero-downtime-deployments-blue-green-vs-canary-strategies-in-production-3e65",
       "source": "dev.to",
-      "published_at": "2026-02-03T06:50:00.000Z",
-      "summary": "Summary: Understanding `useState` in React"
+      "published_at": "2026-02-04T07:01:17.000Z",
+      "summary": "Summary: Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production"
+    },
+    {
+      "id": "ed09fd6bc8a757e593435cf255bf376cda6e5a2c",
+      "title": "Chinese Solar Shares Rally on Report of Musk’s Team Visits",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-04/chinese-solar-shares-rally-on-report-of-musk-s-team-visits",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-04T07:01:06.000Z",
+      "summary": "Summary: Chinese Solar Shares Rally on Report of Musk’s Team Visits"
+    },
+    {
+      "id": "3e82d2a3fa900d3cac9394f4275ed275cd7d9908",
+      "title": "Software Development Services Contracts: How to Protect Your IP Without Scaring Clients",
+      "url": "https://dev.to/hypertools/software-development-services-contracts-how-to-protect-your-ip-without-scaring-clients-4n5a",
+      "source": "dev.to",
+      "published_at": "2026-02-04T07:00:40.000Z",
+      "summary": "Summary: Software Development Services Contracts: How to Protect Your IP Without Scaring Clients"
+    },
+    {
+      "id": "244e710eb7f0489fe195506720f6c7a7f48d88c7",
+      "title": "rust-dlopen: A dynamic linker fully implemented in Rust",
+      "url": "https://github.com/weizhiao/rust-dlopen",
+      "source": "lobste.rs",
+      "published_at": "2026-02-04T07:00:18.000Z",
+      "summary": "Summary: rust-dlopen: A dynamic linker fully implemented in Rust"
+    },
+    {
+      "id": "9ec976c61cd308159aabdf545d24375d25abd88b",
+      "title": "Serve Markdown to AI Agents (10x Smaller Payloads)",
+      "url": "https://dev.to/evoleinik/serve-markdown-to-ai-agents-10x-smaller-payloads-44di",
+      "source": "dev.to",
+      "published_at": "2026-02-04T07:00:02.000Z",
+      "summary": "Summary: Serve Markdown to AI Agents (10x Smaller Payloads)"
+    },
+    {
+      "id": "41aea852e38ef778f49cfb7bde82fe4e2b75fb28",
+      "title": "i've been running autonomous coding loops while i sleep",
+      "url": "https://dev.to/jestersimpps/ive-been-running-autonomous-coding-loops-while-i-sleep-5a5m",
+      "source": "dev.to",
+      "published_at": "2026-02-04T07:00:01.000Z",
+      "summary": "Summary: i've been running autonomous coding loops while i sleep"
+    },
+    {
+      "id": "b1856d4895ce096f0d4451c77385c533b17da80b",
+      "title": "Žvižgaču, ki je razkril resne napake in ostal brez službe, 750 evrov mesečnega nadomestila",
+      "url": "https://www.delo.si/novice/slovenija/zvizgacu-ki-je-razkril-resne-napake-in-ostal-brez-sluzbe-750-evrov-mesecnega-nadomestila",
+      "source": "www.delo.si",
+      "published_at": "2026-02-04T07:00:00.000Z",
+      "summary": "Summary: Žvižgaču, ki je razkril resne napake in ostal brez službe, 750 evrov mesečnega nadomestila"
+    },
+    {
+      "id": "82e42edfafcd6bdc49c5c54c8e9d7e2c75ac7b13",
+      "title": "Filzmoos: gorska idila visoko med oblaki",
+      "url": "https://www.delo.si/magazin/potovanja/filzmoos-gorska-idila-visoko-med-oblaki",
+      "source": "www.delo.si",
+      "published_at": "2026-02-04T07:00:00.000Z",
+      "summary": "Summary: Filzmoos: gorska idila visoko med oblaki"
+    },
+    {
+      "id": "5cfd55eb085dd2546f66963dbe68af0f0bca5a6b",
+      "title": "Draga televizija, kje je Saša Jerković in zakaj ves čas predvajate Irino Palm?",
+      "url": "https://www.delo.si/magazin/vikend/draga-televizija-inkognito-vse-nase-igre-irina-palm-zlati-sanjski-moski",
+      "source": "www.delo.si",
+      "published_at": "2026-02-04T07:00:00.000Z",
+      "summary": "Summary: Draga televizija, kje je Saša Jerković in zakaj ves čas predvajate Irino Palm?"
+    },
+    {
+      "id": "f2bdec4f1d37e62c41a793a09a76ebdd98f29d94",
+      "title": "From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis - Part 4 : Optimization Pillars",
+      "url": "https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--1775",
+      "source": "dev.to",
+      "published_at": "2026-02-04T06:59:57.000Z",
+      "summary": "Summary: From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis - Part 4 : Optimization Pillars"
+    },
+    {
+      "id": "94b20ef02c0754f9eeebc559f6fa17cfcd0a3927",
+      "title": "Bulk Operations in EF Core 10: Beyond SaveChanges()",
+      "url": "https://dev.to/adrianbailador/bulk-operations-in-ef-core-10-beyond-savechanges-2388",
+      "source": "dev.to",
+      "published_at": "2026-02-04T06:57:48.000Z",
+      "summary": "Summary: Bulk Operations in EF Core 10: Beyond SaveChanges()"
     }
   ]
 }

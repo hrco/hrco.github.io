@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-03T07:12:08.477Z",
+  "updated_at": "2026-02-04T07:12:18.570Z",
   "days": [
+    {
+      "date": "2026-02-04",
+      "page": "/news/2026-02-04.html",
+      "teaser": "Top: Aleš Jelenko: Socialna omrežja",
+      "count": 12,
+      "ids": [
+        "583d7d179684c9f031980de55b3cd18b2fc15f1a",
+        "bc3defba627603a02bab85668e123a2c68dd2743",
+        "ed09fd6bc8a757e593435cf255bf376cda6e5a2c",
+        "3e82d2a3fa900d3cac9394f4275ed275cd7d9908",
+        "244e710eb7f0489fe195506720f6c7a7f48d88c7",
+        "9ec976c61cd308159aabdf545d24375d25abd88b",
+        "41aea852e38ef778f49cfb7bde82fe4e2b75fb28",
+        "b1856d4895ce096f0d4451c77385c533b17da80b",
+        "82e42edfafcd6bdc49c5c54c8e9d7e2c75ac7b13",
+        "5cfd55eb085dd2546f66963dbe68af0f0bca5a6b",
+        "f2bdec4f1d37e62c41a793a09a76ebdd98f29d94",
+        "94b20ef02c0754f9eeebc559f6fa17cfcd0a3927"
+      ]
+    },
     {
       "date": "2026-02-03",
       "page": "/news/2026-02-03.html",
@@ -579,26 +599,6 @@
         "583d2f39915b610359bf8212f3189d291199452d",
         "a97fe77092b4bf083fb2781f130fbff39ce9501b",
         "9d0e32d00444729c44746a9ebc454f30b3264fa7"
-      ]
-    },
-    {
-      "date": "2026-01-05",
-      "page": "/news/2026-01-05.html",
-      "teaser": "Top: Donald Trump posvaril Delcy Rodríguez in zagrozil tudi Kolumbiji",
-      "count": 12,
-      "ids": [
-        "0e08c21be120aa9afa878ab4c98a76e34bd9e88c",
-        "f6a74d4e36980f6aab6b1952cfbc2d2cde1b26b7",
-        "93309cafcca754f696ad315860c2580dacc30ce7",
-        "2b4bb0a2cc1d9e06a7fa31876c672ee803fc3cc6",
-        "0778ffa7f01d76e5af84c40402c47ef8ced99f4e",
-        "84dd3f6f69cd5ddb4862c5f03eead5ffb8b8c948",
-        "563e01d132bd0634f891c0de91b1432911ac68b3",
-        "af4caee95efdab3d1b80ecc647dd15bc309516c5",
-        "eccb765cdcdf72ad066a56427c9ef0184ce58bcb",
-        "5a03dc83ab54eae10efe4933ae5fd5c2a8c7c5f1",
-        "366529d0ccaa4b61222b10eef4ad777f486c21c6",
-        "6fd3a6c0509f751b306682e807797c9c16d308c0"
       ]
     }
   ]
