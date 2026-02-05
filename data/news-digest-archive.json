@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-04T07:12:27.953Z",
+  "updated_at": "2026-02-05T07:18:27.009Z",
   "days": [
+    {
+      "date": "2026-02-05",
+      "page": "/news/2026-02-05-news.html",
+      "teaser": "Top: Sedem let po smrti modne ikone sorodniki v boj za njegove milijone",
+      "count": 12,
+      "ids": [
+        "413d9faa6d4d886cd2e0f7ff800dc1f639da9767",
+        "4853d2924a29782b0fe9e28cf8a72869aa582076",
+        "2c0ccc568c35b23a2f796a99fb0e2943fde329f2",
+        "e2f4c260ae48c2c4e49379b1370980ee8f8264ff",
+        "4ef9c0d5e7155cb3e42f7ec516bd1041f0b04dd7",
+        "629b91dc06922c8777700117016b84a24bf7d475",
+        "0002b557fda7684207d835886bed67938cef82c1",
+        "68a5fc4d01a41b432f557d3e66a0921ebb9fbb54",
+        "f500425acb61bc2cc6c64d3e867f78b81e5cefec",
+        "f894540f77f9c4023128092c010e35d48f719a83",
+        "36f1d9418360b402c9343805c46501322e8ba87a",
+        "8cc3ede9cee853bb964c465d51c282f5e6517f9a"
+      ]
+    },
     {
       "date": "2026-02-04",
       "page": "/news/2026-02-04-news.html",
@@ -579,26 +599,6 @@
         "cc0fd40af686329fe3a06300eb807d78b5eb94da",
         "e579b00d2aba181127996b003d2d8ed15797b42c",
         "1a990464eb35dba4bcdd818e50285915bd426704"
-      ]
-    },
-    {
-      "date": "2026-01-06",
-      "page": "/news/2026-01-06-news.html",
-      "teaser": "Top: China premier urges Guangdong to ignite economic growth amid intensified competition",
-      "count": 12,
-      "ids": [
-        "cf1929f6e70401e140dd1430c17c84d1826ab1c5",
-        "3d721060a3cc267d16e7d73d58c8b6de60945de9",
-        "c96705acc45926d3bde8daec2cbbad8307cc957d",
-        "2b75facc5ad004e54236aed2716c0c07068d14f1",
-        "bdf357fef2817c6992f2359fc1d363941084eb39",
-        "786d509de019f517456796ea53ee2ef86ce4f428",
-        "97e06c0382607a0537d3045946f827ccff5c992e",
-        "c64d055d3bf660d93cb75a0c9605defb8b821af9",
-        "76f8b73065f5f7dff128e7b6a6888b691731e358",
-        "b98a0dff1ef889e7da4aeee8c282ef008bf11cc3",
-        "56b4e1fee0247915ca15b99a9493435b33307334",
-        "ce5fe1c041816d02850b66cf5e4cd71369c00a41"
       ]
     }
   ]

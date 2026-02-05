@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-04",
-  "updated_at": "2026-02-04T07:12:18.570Z",
-  "page": "/news/2026-02-04.html",
+  "date": "2026-02-05",
+  "updated_at": "2026-02-05T07:18:16.190Z",
+  "page": "/news/2026-02-05.html",
   "count": 12,
   "items": [
     {
-      "id": "583d7d179684c9f031980de55b3cd18b2fc15f1a",
-      "title": "Aleš Jelenko: Socialna omrežja",
-      "url": "https://www.rtvslo.si/kultura/beremo/ales-jelenko-socialna-omrezja/772277",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-04T07:06:14.000Z",
-      "summary": "Summary: Aleš Jelenko: Socialna omrežja"
-    },
-    {
-      "id": "bc3defba627603a02bab85668e123a2c68dd2743",
-      "title": "Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production",
-      "url": "https://dev.to/jinpyo181/zero-downtime-deployments-blue-green-vs-canary-strategies-in-production-3e65",
+      "id": "ad29248f57e52d647333f503899ced8f4dbb74f2",
+      "title": "Introduction to serializers in Django Rest Framework (DRF) Part II",
+      "url": "https://dev.to/prabodh_tuladhar/introduction-to-serializers-in-django-rest-framework-drf-part-ii-448n",
       "source": "dev.to",
-      "published_at": "2026-02-04T07:01:17.000Z",
-      "summary": "Summary: Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production"
+      "published_at": "2026-02-05T07:14:31.000Z",
+      "summary": "Summary: Introduction to serializers in Django Rest Framework (DRF) Part II"
     },
     {
-      "id": "ed09fd6bc8a757e593435cf255bf376cda6e5a2c",
-      "title": "Chinese Solar Shares Rally on Report of Musk’s Team Visits",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-04/chinese-solar-shares-rally-on-report-of-musk-s-team-visits",
+      "id": "701ceb9743b0c5cd75dc8cd6c1baa3ca7813a7d8",
+      "title": "Pickering Sees ECB Keep Interest Rates on Hold in 2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-02-05/pickering-sees-ecb-keep-interest-rates-on-hold-in-2026-video",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-04T07:01:06.000Z",
-      "summary": "Summary: Chinese Solar Shares Rally on Report of Musk’s Team Visits"
+      "published_at": "2026-02-05T07:11:24.000Z",
+      "summary": "Summary: Pickering Sees ECB Keep Interest Rates on Hold in 2026"
     },
     {
-      "id": "3e82d2a3fa900d3cac9394f4275ed275cd7d9908",
-      "title": "Software Development Services Contracts: How to Protect Your IP Without Scaring Clients",
-      "url": "https://dev.to/hypertools/software-development-services-contracts-how-to-protect-your-ip-without-scaring-clients-4n5a",
-      "source": "dev.to",
-      "published_at": "2026-02-04T07:00:40.000Z",
-      "summary": "Summary: Software Development Services Contracts: How to Protect Your IP Without Scaring Clients"
-    },
-    {
-      "id": "244e710eb7f0489fe195506720f6c7a7f48d88c7",
-      "title": "rust-dlopen: A dynamic linker fully implemented in Rust",
-      "url": "https://github.com/weizhiao/rust-dlopen",
-      "source": "lobste.rs",
-      "published_at": "2026-02-04T07:00:18.000Z",
-      "summary": "Summary: rust-dlopen: A dynamic linker fully implemented in Rust"
-    },
-    {
-      "id": "9ec976c61cd308159aabdf545d24375d25abd88b",
-      "title": "Serve Markdown to AI Agents (10x Smaller Payloads)",
-      "url": "https://dev.to/evoleinik/serve-markdown-to-ai-agents-10x-smaller-payloads-44di",
-      "source": "dev.to",
-      "published_at": "2026-02-04T07:00:02.000Z",
-      "summary": "Summary: Serve Markdown to AI Agents (10x Smaller Payloads)"
-    },
-    {
-      "id": "41aea852e38ef778f49cfb7bde82fe4e2b75fb28",
-      "title": "i've been running autonomous coding loops while i sleep",
-      "url": "https://dev.to/jestersimpps/ive-been-running-autonomous-coding-loops-while-i-sleep-5a5m",
-      "source": "dev.to",
-      "published_at": "2026-02-04T07:00:01.000Z",
-      "summary": "Summary: i've been running autonomous coding loops while i sleep"
-    },
-    {
-      "id": "b1856d4895ce096f0d4451c77385c533b17da80b",
-      "title": "Žvižgaču, ki je razkril resne napake in ostal brez službe, 750 evrov mesečnega nadomestila",
-      "url": "https://www.delo.si/novice/slovenija/zvizgacu-ki-je-razkril-resne-napake-in-ostal-brez-sluzbe-750-evrov-mesecnega-nadomestila",
+      "id": "4853d2924a29782b0fe9e28cf8a72869aa582076",
+      "title": "Drugod več spoštovanja do umetnika",
+      "url": "https://www.delo.si/kultura/razno/drugod-vec-spostovanja-do-umetnika",
       "source": "www.delo.si",
-      "published_at": "2026-02-04T07:00:00.000Z",
-      "summary": "Summary: Žvižgaču, ki je razkril resne napake in ostal brez službe, 750 evrov mesečnega nadomestila"
+      "published_at": "2026-02-05T07:10:40.000Z",
+      "summary": "Summary: Drugod več spoštovanja do umetnika"
     },
     {
-      "id": "82e42edfafcd6bdc49c5c54c8e9d7e2c75ac7b13",
-      "title": "Filzmoos: gorska idila visoko med oblaki",
-      "url": "https://www.delo.si/magazin/potovanja/filzmoos-gorska-idila-visoko-med-oblaki",
-      "source": "www.delo.si",
-      "published_at": "2026-02-04T07:00:00.000Z",
-      "summary": "Summary: Filzmoos: gorska idila visoko med oblaki"
-    },
-    {
-      "id": "5cfd55eb085dd2546f66963dbe68af0f0bca5a6b",
-      "title": "Draga televizija, kje je Saša Jerković in zakaj ves čas predvajate Irino Palm?",
-      "url": "https://www.delo.si/magazin/vikend/draga-televizija-inkognito-vse-nase-igre-irina-palm-zlati-sanjski-moski",
-      "source": "www.delo.si",
-      "published_at": "2026-02-04T07:00:00.000Z",
-      "summary": "Summary: Draga televizija, kje je Saša Jerković in zakaj ves čas predvajate Irino Palm?"
-    },
-    {
-      "id": "f2bdec4f1d37e62c41a793a09a76ebdd98f29d94",
-      "title": "From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis - Part 4 : Optimization Pillars",
-      "url": "https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--1775",
+      "id": "8c0bb802f93f5bb0877c0e0fbcbd424e58a82fe1",
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
       "source": "dev.to",
-      "published_at": "2026-02-04T06:59:57.000Z",
-      "summary": "Summary: From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis - Part 4 : Optimization Pillars"
+      "published_at": "2026-02-05T07:08:59.000Z",
+      "summary": "Summary: How I Built Graft: An Overlay Engine for Terraform Modules"
     },
     {
-      "id": "94b20ef02c0754f9eeebc559f6fa17cfcd0a3927",
-      "title": "Bulk Operations in EF Core 10: Beyond SaveChanges()",
-      "url": "https://dev.to/adrianbailador/bulk-operations-in-ef-core-10-beyond-savechanges-2388",
+      "id": "8ccb70a97979797ff57c85299a749e1e73e93eac",
+      "title": "Vodafone Misses Growth Expectations in Largest Market Germany",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-05/vodafone-misses-growth-expectations-in-largest-market-germany",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-05T07:08:21.000Z",
+      "summary": "Summary: Vodafone Misses Growth Expectations in Largest Market Germany"
+    },
+    {
+      "id": "927e22ad630345f5d418d271c675fdc36290d6e8",
+      "title": "Dubai’s Financial Hub Posts Record Growth on Hedge Fund Boom",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-05/dubai-s-financial-hub-posts-record-growth-on-hedge-fund-boom",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-05T07:02:51.000Z",
+      "summary": "Summary: Dubai’s Financial Hub Posts Record Growth on Hedge Fund Boom"
+    },
+    {
+      "id": "0002b557fda7684207d835886bed67938cef82c1",
+      "title": "Kaj gledata Vesna Pernarčič in Matej Puc? Detektive ...",
+      "url": "https://www.delo.si/magazin/vikend/kaj-gledajo-znani-vesna-pernarcic-matej-puc-odprti-zakon-komedija",
+      "source": "www.delo.si",
+      "published_at": "2026-02-05T07:00:00.000Z",
+      "summary": "Summary: Kaj gledata Vesna Pernarčič in Matej Puc? Detektive ..."
+    },
+    {
+      "id": "f894540f77f9c4023128092c010e35d48f719a83",
+      "title": "Tone Partljič: Voranc",
+      "url": "https://www.rtvslo.si/kultura/beremo/tone-partljic-voranc/772416",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-05T06:58:12.000Z",
+      "summary": "Summary: Tone Partljič: Voranc"
+    },
+    {
+      "id": "36f1d9418360b402c9343805c46501322e8ba87a",
+      "title": "Brunson v drugem podaljšku poskrbel za zmago Knicksov nad Denverjem",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/brunson-v-drugem-podaljsku-poskrbel-za-zmago-knicksov-nad-denverjem/772415",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-05T06:56:41.000Z",
+      "summary": "Summary: Brunson v drugem podaljšku poskrbel za zmago Knicksov nad Denverjem"
+    },
+    {
+      "id": "8cc3ede9cee853bb964c465d51c282f5e6517f9a",
+      "title": "Portugalci se bodo v finalu (pričakovano) udarili s Španci",
+      "url": "https://www.24ur.com/sport/futsal/hrvati-s-spanci-za-finale-obljubljamo-da-bomo-tekmo-koncali-s-krvavimi-koleni.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-05T06:54:44.000Z",
+      "summary": "Summary: Portugalci se bodo v finalu (pričakovano) udarili s Španci"
+    },
+    {
+      "id": "16d9a2ad2467b13e812c632707f8ed872a3d23a9",
+      "title": "Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide",
+      "url": "https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18",
       "source": "dev.to",
-      "published_at": "2026-02-04T06:57:48.000Z",
-      "summary": "Summary: Bulk Operations in EF Core 10: Beyond SaveChanges()"
+      "published_at": "2026-02-05T06:51:32.000Z",
+      "summary": "Summary: Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide"
+    },
+    {
+      "id": "39e563888549bb41df0a8ce4599a50b428373a32",
+      "title": "Policija prijela osumljenca, ki je na Čolićevo vilo odvrgel ročno bombo",
+      "url": "https://www.24ur.com/popin/tuja-scena/policija-prijela-osumljenca-ki-je-na-colicevo-vilo-odvrgel-rocno-bombo.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-05T06:51:27.000Z",
+      "summary": "Summary: Policija prijela osumljenca, ki je na Čolićevo vilo odvrgel ročno bombo"
     }
   ]
 }

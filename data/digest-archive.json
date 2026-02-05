@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-04T07:12:18.570Z",
+  "updated_at": "2026-02-05T07:18:16.190Z",
   "days": [
+    {
+      "date": "2026-02-05",
+      "page": "/news/2026-02-05.html",
+      "teaser": "Top: Introduction to serializers in Django Rest Framework (DRF) Part II",
+      "count": 12,
+      "ids": [
+        "ad29248f57e52d647333f503899ced8f4dbb74f2",
+        "701ceb9743b0c5cd75dc8cd6c1baa3ca7813a7d8",
+        "4853d2924a29782b0fe9e28cf8a72869aa582076",
+        "8c0bb802f93f5bb0877c0e0fbcbd424e58a82fe1",
+        "8ccb70a97979797ff57c85299a749e1e73e93eac",
+        "927e22ad630345f5d418d271c675fdc36290d6e8",
+        "0002b557fda7684207d835886bed67938cef82c1",
+        "f894540f77f9c4023128092c010e35d48f719a83",
+        "36f1d9418360b402c9343805c46501322e8ba87a",
+        "8cc3ede9cee853bb964c465d51c282f5e6517f9a",
+        "16d9a2ad2467b13e812c632707f8ed872a3d23a9",
+        "39e563888549bb41df0a8ce4599a50b428373a32"
+      ]
+    },
     {
       "date": "2026-02-04",
       "page": "/news/2026-02-04.html",
@@ -579,26 +599,6 @@
         "1a990464eb35dba4bcdd818e50285915bd426704",
         "c3d3c078809bb5682bb1ee6a894fc45ea1f68ba0",
         "99b1b3e49397e4058b451f0a7c7662c5fa40d6aa"
-      ]
-    },
-    {
-      "date": "2026-01-06",
-      "page": "/news/2026-01-06.html",
-      "teaser": "Top: 10 Cool CodePen Demos (December 2025)",
-      "count": 12,
-      "ids": [
-        "14cff1f7f5e0a6d20effc05c6b8510fc2aae413b",
-        "163d6135d86443c7222bd9545f227847682d955b",
-        "c96705acc45926d3bde8daec2cbbad8307cc957d",
-        "eac8b5503df3d8e8879f5f0f69a15dc03bcb0047",
-        "85d61e46401efea9d3e210236af874140211c562",
-        "ce5fe1c041816d02850b66cf5e4cd71369c00a41",
-        "8baf30cbdc0c1f479f71a5eeeefede5a90628e6c",
-        "5f458448e683cf228f273d68b7172d809cca68c6",
-        "1f9c625224210643c192e16e1121953a5ae09a20",
-        "583d2f39915b610359bf8212f3189d291199452d",
-        "a97fe77092b4bf083fb2781f130fbff39ce9501b",
-        "9d0e32d00444729c44746a9ebc454f30b3264fa7"
       ]
     }
   ]

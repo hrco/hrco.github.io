@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-04",
-  "updated_at": "2026-02-04T07:12:33.114Z",
-  "page": "/news/2026-02-04-sport.html",
+  "date": "2026-02-05",
+  "updated_at": "2026-02-05T07:18:33.560Z",
+  "page": "/news/2026-02-05-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "1ae789f980dcec064c0626ef6abab4274d94f85c",
-      "title": "Testing protocol for prostate cancer 'alarming' - Hislop",
-      "url": "https://www.bbc.com/sport/football/articles/c62r1d7e7g1o?at_medium=RSS&at_campaign=rss",
+      "id": "c79a99a84761ece3f7e8924c8adb745e29bd9a82",
+      "title": "Sources: Dubs deal Kuminga, Hield for Porzingis",
+      "url": "https://www.espn.com/nba/story/_/id/47834519/warriors-trading-jonathan-kuminga-buddy-hield-hawks-kristaps-porzingis",
+      "source": "www.espn.com",
+      "published_at": "2026-02-05T07:11:08.000Z",
+      "summary": "Summary: Sources: Dubs deal Kuminga, Hield for Porzingis"
+    },
+    {
+      "id": "8822bbde6d0916b6a70ca8bd5ff16aa47202abd6",
+      "title": "Sources: Tigers land Valdez for 3 years, $115M",
+      "url": "https://www.espn.com/mlb/story/_/id/47832764/framber-valdez-detroit-tigers-agree-3-year-115-million-contract",
+      "source": "www.espn.com",
+      "published_at": "2026-02-05T07:11:08.000Z",
+      "summary": "Summary: Sources: Tigers land Valdez for 3 years, $115M"
+    },
+    {
+      "id": "74b3a68ba6a519474e7b8ceea93231d1925e2bdb",
+      "title": "NCAA denies appeal for Ole Miss QB Chambliss",
+      "url": "https://www.espn.com/college-football/story/_/id/47833892/ncaa-denies-appeal-ole-miss-qb-chambliss",
+      "source": "www.espn.com",
+      "published_at": "2026-02-05T07:11:08.000Z",
+      "summary": "Summary: NCAA denies appeal for Ole Miss QB Chambliss"
+    },
+    {
+      "id": "e75200f0a9794e336625911261915d99eb127ae2",
+      "title": "Sources: Mavs overhaul again, trade AD to Wiz",
+      "url": "https://www.espn.com/nba/story/_/id/47828122/mavericks-trade-anthony-davis-wizards-sources-say",
+      "source": "www.espn.com",
+      "published_at": "2026-02-05T07:11:08.000Z",
+      "summary": "Summary: Sources: Mavs overhaul again, trade AD to Wiz"
+    },
+    {
+      "id": "b5ec9153474a0ade39f969a6e504caaa2dcdd43d",
+      "title": "Sources: Lonzo to become free agent after trade",
+      "url": "https://www.espn.com/nba/story/_/id/47830358/sources-jazz-acquire-lonzo-ball-trade-away-jock-landale",
+      "source": "www.espn.com",
+      "published_at": "2026-02-05T07:11:08.000Z",
+      "summary": "Summary: Sources: Lonzo to become free agent after trade"
+    },
+    {
+      "id": "675093df935ec88801c460e4a0e22741f2bc7ef7",
+      "title": "Portland, led by injured HC, stuns No. 6 Gonzaga",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47835455/portland-led-injured-coach-takes-no-6-gonzaga",
+      "source": "www.espn.com",
+      "published_at": "2026-02-05T07:11:08.000Z",
+      "summary": "Summary: Portland, led by injured HC, stuns No. 6 Gonzaga"
+    },
+    {
+      "id": "6759384255888b16dda7b1b43560d1075c58000d",
+      "title": "Sources: Paul lands with Raptors in 3-team trade",
+      "url": "https://www.espn.com/nba/story/_/id/47829886/sources-clippers-chris-paul-lands-raptors-3-team-trade",
+      "source": "www.espn.com",
+      "published_at": "2026-02-05T07:11:08.000Z",
+      "summary": "Summary: Sources: Paul lands with Raptors in 3-team trade"
+    },
+    {
+      "id": "67a72aabf7424864e53ac7962b72b432d481b5f9",
+      "title": "Izzo threatens to bench Fears after critical tech",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47835044/izzo-threatens-bench-fears-tech-michigan-state-loss",
+      "source": "www.espn.com",
+      "published_at": "2026-02-05T07:11:08.000Z",
+      "summary": "Summary: Izzo threatens to bench Fears after critical tech"
+    },
+    {
+      "id": "368392ea57d5501096fb713b852579115e178125",
+      "title": "✨ Top 10 MLB prospect rankings for every team",
+      "url": "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel",
+      "source": "www.espn.com",
+      "published_at": "2026-02-05T07:11:08.000Z",
+      "summary": "Summary: ✨ Top 10 MLB prospect rankings for every team"
+    },
+    {
+      "id": "629b91dc06922c8777700117016b84a24bf7d475",
+      "title": "'More chaos in races' from new F1 rules - Norris",
+      "url": "https://www.bbc.com/sport/formula1/articles/c2d79pekr5eo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-04T06:44:40.000Z",
-      "summary": "Summary: Testing protocol for prostate cancer 'alarming' - Hislop"
+      "published_at": "2026-02-05T07:00:03.000Z",
+      "summary": "Summary: 'More chaos in races' from new F1 rules - Norris"
     },
     {
-      "id": "b83ac2e627ffd5ed6b67d881e08a0dcc2fb8b782",
-      "title": "Sources: Rebuilding Grizz trade Jackson to Jazz",
-      "url": "https://www.espn.com/nba/story/_/id/47818224/sources-grizzlies-trade-jaren-jackson-jr-jazz-8-player-deal",
+      "id": "c1ccf7a2171f594123b1c1022151916d51244c81",
+      "title": "Grading every NBA trade: Which teams have fared best?",
+      "url": "https://www.espn.com/nba/story/_/id/47464779/nba-trade-grades-2026-biggest-deadline-deals-explained-contracts-draft-picks",
       "source": "www.espn.com",
-      "published_at": "2026-02-04T06:40:08.000Z",
-      "summary": "Summary: Sources: Rebuilding Grizz trade Jackson to Jazz"
+      "published_at": "2026-02-05T06:52:20.000Z",
+      "summary": "Summary: Grading every NBA trade: Which teams have fared best?"
     },
     {
-      "id": "9593563615be7a65dda3ff021a7bf601fbebbb0f",
-      "title": "Reaves' return boosts Lakers in trip-ending win",
-      "url": "https://www.espn.com/nba/story/_/id/47820371/lakers-austin-reaves-calf-back-action-nets",
+      "id": "3714b03e03f2bbc098a95692dec9278304acbab8",
+      "title": "Watson (hamstring) latest injury for Nuggets",
+      "url": "https://www.espn.com/nba/story/_/id/47834965/peyton-watson-hamstring-latest-injury-nuggets",
       "source": "www.espn.com",
-      "published_at": "2026-02-04T06:40:08.000Z",
-      "summary": "Summary: Reaves' return boosts Lakers in trip-ending win"
-    },
-    {
-      "id": "fd33aba6699566fb4f82b94ec9bb228952f4370f",
-      "title": "Sources: Green involved in Warriors' trade talks",
-      "url": "https://www.espn.com/nba/story/_/id/47818425/sources-draymond-green-involved-warriors-trade-talks",
-      "source": "www.espn.com",
-      "published_at": "2026-02-04T06:40:08.000Z",
-      "summary": "Summary: Sources: Green involved in Warriors' trade talks"
-    },
-    {
-      "id": "cfdf1d0f3593fa10ebfc354fc0443c013c3f4ae8",
-      "title": "Huerter to Pistons, Ivey to Bulls in 3-team trade",
-      "url": "https://www.espn.com/nba/story/_/id/47818548/pistons-get-kevin-huerter-trade-bulls-timberwolves",
-      "source": "www.espn.com",
-      "published_at": "2026-02-04T06:40:08.000Z",
-      "summary": "Summary: Huerter to Pistons, Ivey to Bulls in 3-team trade"
-    },
-    {
-      "id": "c5b4222091ea8b4bd7da0161b05baad72eb3f77b",
-      "title": "🤔 The biggest All-Star surprises and snubs",
-      "url": "https://www.espn.com/nba/story/_/id/47747474/nba-2025-2026-season-all-star-roster-reserves-reactions-snubs",
-      "source": "www.espn.com",
-      "published_at": "2026-02-04T06:40:08.000Z",
-      "summary": "Summary: 🤔 The biggest All-Star surprises and snubs"
-    },
-    {
-      "id": "1a71c03c522a1724922069807f004d00566408f0",
-      "title": "'No bigger game' - Rees-Zammit on England v Wales",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cy8pzd5z4l9o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-04T06:26:49.000Z",
-      "summary": "Summary: 'No bigger game' - Rees-Zammit on England v Wales"
-    },
-    {
-      "id": "e7dc84bf452cc1571e228c19b620b1247af29d3c",
-      "title": "Is the evil empire back? How the Patriots rebuilt a broken dynasty",
-      "url": "https://www.bbc.com/sport/american-football/articles/c4gvly11656o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-04T06:05:57.000Z",
-      "summary": "Summary: Is the evil empire back? How the Patriots rebuilt a broken dynasty"
-    },
-    {
-      "id": "ee628919cbc9472ee8aaaf2903f7708199dfb5d7",
-      "title": "‘So Dangerous’: Nathan Florence Dodges Dry Reef at Undisclosed Tropical Locale",
-      "url": "https://www.surfer.com/culture/nathan-florence-explores-undisclosed-reef-slab",
-      "source": "www.surfer.com",
-      "published_at": "2026-02-04T05:57:12.000Z",
-      "summary": "Summary: ‘So Dangerous’: Nathan Florence Dodges Dry Reef at Undisclosed Tropical Locale"
-    },
-    {
-      "id": "b05ed9638071d771763654ab5a30053624a364d4",
-      "title": "Jaren Jackson Jr. trade grades: Why Grizzlies earn slightly better mark than Jazz",
-      "url": "https://www.cbssports.com/nba/news/jaren-jackson-jr-trade-grades-grizzlies-jazz/",
-      "source": "www.cbssports.com",
-      "published_at": "2026-02-04T05:53:58.000Z",
-      "summary": "Summary: Jaren Jackson Jr. trade grades: Why Grizzlies earn slightly better mark than Jazz"
-    },
-    {
-      "id": "92adb33ae287e014780c72c9ba50054aff557b9c",
-      "title": "Harden headed to Cavs: Excited to chase 1st title",
-      "url": "https://www.espn.com/nba/story/_/id/47820850/clippers-deal-james-harden-cavs-land-darius-garland",
-      "source": "www.espn.com",
-      "published_at": "2026-02-04T05:24:18.000Z",
-      "summary": "Summary: Harden headed to Cavs: Excited to chase 1st title"
-    },
-    {
-      "id": "15d1318f73fc95052b4a93b17272f7136bb34d8b",
-      "title": "Sources: LeBron expects to finish year with Lakers",
-      "url": "https://www.espn.com/nba/story/_/id/47820642/james-expects-stay-lakers-season",
-      "source": "www.espn.com",
-      "published_at": "2026-02-04T05:24:18.000Z",
-      "summary": "Summary: Sources: LeBron expects to finish year with Lakers"
+      "published_at": "2026-02-05T06:38:21.000Z",
+      "summary": "Summary: Watson (hamstring) latest injury for Nuggets"
     }
   ]
 }
