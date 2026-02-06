@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-05T07:18:27.009Z",
+  "updated_at": "2026-02-06T07:14:46.501Z",
   "days": [
+    {
+      "date": "2026-02-06",
+      "page": "/news/2026-02-06-news.html",
+      "teaser": "Top: Trump se je zavzel za nov sporazum, ki bi nadomestil pogodbo Novi Start",
+      "count": 12,
+      "ids": [
+        "1e2ffa5713890ae3a44afc761cb07d53edd35c84",
+        "cb8e41512f8d985a6a84f91bfe82ae308903bcc6",
+        "c5a43a4d1e0af8d08e1d47b4ecd6d93ead7df54e",
+        "0d9690c12c162928ad6ecefdd6dca68bd6a353ff",
+        "998f6d81bf58f2991ad38949cc5df851635deb6a",
+        "c3adabb1b9f305616519bba39994db8207332fe1",
+        "e298c42dbea8699e9a91eb9e4f7a2b70ecff93d2",
+        "607b2db780559c627b08aea3bc4b8ef92184e0d8",
+        "76a82a5024b19c59468ade520e186ed0d971f853",
+        "777f52329e9f5c45c581c6482a089d345981b28b",
+        "859247a993e647fcc2160fb1d4ffcc1064dd5997",
+        "356671fd1f6e09cb7ebc7b24a7fdafc25bbc2cbf"
+      ]
+    },
     {
       "date": "2026-02-05",
       "page": "/news/2026-02-05-news.html",
@@ -579,26 +599,6 @@
         "505fbbde734d1bdffef1c739aee7ffb6378eebc0",
         "d99c5c9086c2f6711f9317081daae7c79da0c86d",
         "ed8782e3a91b130250430eddadb7c52d0682b98b"
-      ]
-    },
-    {
-      "date": "2026-01-07",
-      "page": "/news/2026-01-07-news.html",
-      "teaser": "Top: Po nasvet k slovitemu Škotu",
-      "count": 12,
-      "ids": [
-        "d059a07a22fa42ce20520eda54bca260125dec77",
-        "60e965347979cee9518ce9b9068d7c90e63d0516",
-        "dcb45a1aedb793e9cde158a8399ae3edc1e882ad",
-        "645acdd7a0cf5f49bfd5efab31e5fa9334286b13",
-        "82f2b536ac7673c9bf20ac8658f1e71269bf4520",
-        "43f2ce1a77b13a5343f83366b0420b15cf65b025",
-        "442b2e416dc36747a8ea4cc8553f53c033a576bf",
-        "a91c14c2ab0936c1cc2061c6a26266ed53f56e4a",
-        "b1874984a8d66efdcb53fbc3e6591e3e29bb9423",
-        "cc0fd40af686329fe3a06300eb807d78b5eb94da",
-        "e579b00d2aba181127996b003d2d8ed15797b42c",
-        "1a990464eb35dba4bcdd818e50285915bd426704"
       ]
     }
   ]

@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-05",
-  "updated_at": "2026-02-05T07:18:16.190Z",
-  "page": "/news/2026-02-05.html",
+  "date": "2026-02-06",
+  "updated_at": "2026-02-06T07:14:23.213Z",
+  "page": "/news/2026-02-06.html",
   "count": 12,
   "items": [
     {
-      "id": "ad29248f57e52d647333f503899ced8f4dbb74f2",
-      "title": "Introduction to serializers in Django Rest Framework (DRF) Part II",
-      "url": "https://dev.to/prabodh_tuladhar/introduction-to-serializers-in-django-rest-framework-drf-part-ii-448n",
-      "source": "dev.to",
-      "published_at": "2026-02-05T07:14:31.000Z",
-      "summary": "Summary: Introduction to serializers in Django Rest Framework (DRF) Part II"
-    },
-    {
-      "id": "701ceb9743b0c5cd75dc8cd6c1baa3ca7813a7d8",
-      "title": "Pickering Sees ECB Keep Interest Rates on Hold in 2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-02-05/pickering-sees-ecb-keep-interest-rates-on-hold-in-2026-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-05T07:11:24.000Z",
-      "summary": "Summary: Pickering Sees ECB Keep Interest Rates on Hold in 2026"
-    },
-    {
-      "id": "4853d2924a29782b0fe9e28cf8a72869aa582076",
-      "title": "Drugod več spoštovanja do umetnika",
-      "url": "https://www.delo.si/kultura/razno/drugod-vec-spostovanja-do-umetnika",
-      "source": "www.delo.si",
-      "published_at": "2026-02-05T07:10:40.000Z",
-      "summary": "Summary: Drugod več spoštovanja do umetnika"
-    },
-    {
-      "id": "8c0bb802f93f5bb0877c0e0fbcbd424e58a82fe1",
-      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
-      "url": "https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i",
-      "source": "dev.to",
-      "published_at": "2026-02-05T07:08:59.000Z",
-      "summary": "Summary: How I Built Graft: An Overlay Engine for Terraform Modules"
-    },
-    {
-      "id": "8ccb70a97979797ff57c85299a749e1e73e93eac",
-      "title": "Vodafone Misses Growth Expectations in Largest Market Germany",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-05/vodafone-misses-growth-expectations-in-largest-market-germany",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-05T07:08:21.000Z",
-      "summary": "Summary: Vodafone Misses Growth Expectations in Largest Market Germany"
-    },
-    {
-      "id": "927e22ad630345f5d418d271c675fdc36290d6e8",
-      "title": "Dubai’s Financial Hub Posts Record Growth on Hedge Fund Boom",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-05/dubai-s-financial-hub-posts-record-growth-on-hedge-fund-boom",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-05T07:02:51.000Z",
-      "summary": "Summary: Dubai’s Financial Hub Posts Record Growth on Hedge Fund Boom"
-    },
-    {
-      "id": "0002b557fda7684207d835886bed67938cef82c1",
-      "title": "Kaj gledata Vesna Pernarčič in Matej Puc? Detektive ...",
-      "url": "https://www.delo.si/magazin/vikend/kaj-gledajo-znani-vesna-pernarcic-matej-puc-odprti-zakon-komedija",
-      "source": "www.delo.si",
-      "published_at": "2026-02-05T07:00:00.000Z",
-      "summary": "Summary: Kaj gledata Vesna Pernarčič in Matej Puc? Detektive ..."
-    },
-    {
-      "id": "f894540f77f9c4023128092c010e35d48f719a83",
-      "title": "Tone Partljič: Voranc",
-      "url": "https://www.rtvslo.si/kultura/beremo/tone-partljic-voranc/772416",
+      "id": "1e2ffa5713890ae3a44afc761cb07d53edd35c84",
+      "title": "Trump se je zavzel za nov sporazum, ki bi nadomestil pogodbo Novi Start",
+      "url": "https://www.rtvslo.si/svet/trump-se-je-zavzel-za-nov-sporazum-ki-bi-nadomestil-pogodbo-novi-start/772554",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-05T06:58:12.000Z",
-      "summary": "Summary: Tone Partljič: Voranc"
+      "published_at": "2026-02-06T07:08:48.000Z",
+      "summary": "Summary: Trump se je zavzel za nov sporazum, ki bi nadomestil pogodbo Novi Start"
     },
     {
-      "id": "36f1d9418360b402c9343805c46501322e8ba87a",
-      "title": "Brunson v drugem podaljšku poskrbel za zmago Knicksov nad Denverjem",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/brunson-v-drugem-podaljsku-poskrbel-za-zmago-knicksov-nad-denverjem/772415",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-05T06:56:41.000Z",
-      "summary": "Summary: Brunson v drugem podaljšku poskrbel za zmago Knicksov nad Denverjem"
+      "id": "457ca6cd5d2fecd58d53ce430d9d4febb7d10a9c",
+      "title": "VW Sees ‘Make-or-Break’ Year for South Africa Pick-Up Plan",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-06/vw-sees-make-or-break-year-for-south-africa-pick-up-plan",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-06T07:08:25.000Z",
+      "summary": "Summary: VW Sees ‘Make-or-Break’ Year for South Africa Pick-Up Plan"
     },
     {
-      "id": "8cc3ede9cee853bb964c465d51c282f5e6517f9a",
-      "title": "Portugalci se bodo v finalu (pričakovano) udarili s Španci",
-      "url": "https://www.24ur.com/sport/futsal/hrvati-s-spanci-za-finale-obljubljamo-da-bomo-tekmo-koncali-s-krvavimi-koleni.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-05T06:54:44.000Z",
-      "summary": "Summary: Portugalci se bodo v finalu (pričakovano) udarili s Španci"
+      "id": "b4d18380b0deb89430075234bddb001e6d0d6923",
+      "title": "German Industrial Production Drops in Setback for Recovery Hopes",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-06/german-industrial-production-drops-in-setback-for-recovery-hopes",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-06T07:07:50.000Z",
+      "summary": "Summary: German Industrial Production Drops in Setback for Recovery Hopes"
     },
     {
-      "id": "16d9a2ad2467b13e812c632707f8ed872a3d23a9",
-      "title": "Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide",
-      "url": "https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18",
+      "id": "79fc42c19354f2b3bbf26c74d5bb72f4e405fcd2",
+      "title": "LiteLLM vs Bifrost: Comparing Python and Go for Production LLM Gateways",
+      "url": "https://dev.to/hadil/litellm-vs-bifrost-comparing-python-and-go-for-production-llm-gateways-4dg5",
       "source": "dev.to",
-      "published_at": "2026-02-05T06:51:32.000Z",
-      "summary": "Summary: Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide"
+      "published_at": "2026-02-06T07:04:51.000Z",
+      "summary": "Summary: LiteLLM vs Bifrost: Comparing Python and Go for Production LLM Gateways"
     },
     {
-      "id": "39e563888549bb41df0a8ce4599a50b428373a32",
-      "title": "Policija prijela osumljenca, ki je na Čolićevo vilo odvrgel ročno bombo",
-      "url": "https://www.24ur.com/popin/tuja-scena/policija-prijela-osumljenca-ki-je-na-colicevo-vilo-odvrgel-rocno-bombo.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-05T06:51:27.000Z",
-      "summary": "Summary: Policija prijela osumljenca, ki je na Čolićevo vilo odvrgel ročno bombo"
+      "id": "97d0ba73f08bfebae4750ec08ca2489a293e0fbd",
+      "title": "Understanding strlen() Internally by Writing It From Scratch in C",
+      "url": "https://dev.to/hassaansyed/understanding-strlen-internally-by-writing-it-from-scratch-in-c-2gj5",
+      "source": "dev.to",
+      "published_at": "2026-02-06T07:04:42.000Z",
+      "summary": "Summary: Understanding strlen() Internally by Writing It From Scratch in C"
+    },
+    {
+      "id": "1b46258de128e8db9daae168e532528741cd13a0",
+      "title": "monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "url": "https://github.com/pydantic/monty",
+      "source": "lobste.rs",
+      "published_at": "2026-02-06T07:00:55.000Z",
+      "summary": "Summary: monty: A minimal, secure Python interpreter written in Rust for use by AI"
+    },
+    {
+      "id": "cf54f7cbbcf91ce1213b7dda86134f6f778f1eeb",
+      "title": "تفاوت متد‌های Write و WriteLine در Console سی‌شارپ",
+      "url": "https://dev.to/mahdi_harouni/tfwt-mtdhy-write-w-writeline-dr-console-syshrp-2po0",
+      "source": "dev.to",
+      "published_at": "2026-02-06T07:00:24.000Z",
+      "summary": "Summary: تفاوت متد‌های Write و WriteLine در Console سی‌شارپ"
+    },
+    {
+      "id": "9cc2811a83fd6e1f10977cb9cd8f1208842dec71",
+      "title": "Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation",
+      "url": "https://dev.to/paperium/autoregressive-model-beats-diffusion-llama-for-scalable-image-generation-4m68",
+      "source": "dev.to",
+      "published_at": "2026-02-06T07:00:06.000Z",
+      "summary": "Summary: Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation"
+    },
+    {
+      "id": "e298c42dbea8699e9a91eb9e4f7a2b70ecff93d2",
+      "title": "Čakanja je konec: zvečer odprtje 25. zimskih olimpijskih iger",
+      "url": "https://www.rtvslo.si/sport/oi-2026/cakanja-je-konec-zvecer-odprtje-25-zimskih-olimpijskih-iger/772551",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-06T07:00:01.000Z",
+      "summary": "Summary: Čakanja je konec: zvečer odprtje 25. zimskih olimpijskih iger"
+    },
+    {
+      "id": "607b2db780559c627b08aea3bc4b8ef92184e0d8",
+      "title": "Jure Košir: Na olimpijske igre prvič po koncu smučarske kariere",
+      "url": "https://www.delo.si/magazin/vikend/jure-kosir-olimijske-igre-alpsko-smucanje-natasa-bokal-ilka-stuhec",
+      "source": "www.delo.si",
+      "published_at": "2026-02-06T07:00:00.000Z",
+      "summary": "Summary: Jure Košir: Na olimpijske igre prvič po koncu smučarske kariere"
+    },
+    {
+      "id": "76a82a5024b19c59468ade520e186ed0d971f853",
+      "title": "Premier Golob spet posvaril pred orbanizacijo Slovenije",
+      "url": "https://www.delo.si/novice/slovenija/premier-golob-spet-posvaril-pred-orbanizacijo-slovenije",
+      "source": "www.delo.si",
+      "published_at": "2026-02-06T06:56:00.000Z",
+      "summary": "Summary: Premier Golob spet posvaril pred orbanizacijo Slovenije"
+    },
+    {
+      "id": "18d247a323a341284cca97667323cdae4650c66b",
+      "title": "Building a D&D inspired Dungeon Crawler with GitHub Copilot CLI",
+      "url": "https://dev.to/austin_amento_860aebb9f55/building-a-dd-inspired-dungeon-crawler-with-github-copilot-cli-9d8",
+      "source": "dev.to",
+      "published_at": "2026-02-06T06:55:54.000Z",
+      "summary": "Summary: Building a D&D inspired Dungeon Crawler with GitHub Copilot CLI"
     }
   ]
 }
