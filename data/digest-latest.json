@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-06",
-  "updated_at": "2026-02-06T07:14:23.213Z",
-  "page": "/news/2026-02-06.html",
+  "date": "2026-02-07",
+  "updated_at": "2026-02-07T07:03:29.880Z",
+  "page": "/news/2026-02-07.html",
   "count": 12,
   "items": [
     {
-      "id": "1e2ffa5713890ae3a44afc761cb07d53edd35c84",
-      "title": "Trump se je zavzel za nov sporazum, ki bi nadomestil pogodbo Novi Start",
-      "url": "https://www.rtvslo.si/svet/trump-se-je-zavzel-za-nov-sporazum-ki-bi-nadomestil-pogodbo-novi-start/772554",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-06T07:08:48.000Z",
-      "summary": "Summary: Trump se je zavzel za nov sporazum, ki bi nadomestil pogodbo Novi Start"
+      "id": "f12617912e1b4e622904b99507f61b1a2c1208d4",
+      "title": "Ugrizi grobosti",
+      "url": "https://www.delo.si/mnenja/pisma-bralcev/ugrizi-grobosti",
+      "source": "www.delo.si",
+      "published_at": "2026-02-07T07:00:00.000Z",
+      "summary": "Summary: Ugrizi grobosti"
     },
     {
-      "id": "457ca6cd5d2fecd58d53ce430d9d4febb7d10a9c",
-      "title": "VW Sees ‘Make-or-Break’ Year for South Africa Pick-Up Plan",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-06/vw-sees-make-or-break-year-for-south-africa-pick-up-plan",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-06T07:08:25.000Z",
-      "summary": "Summary: VW Sees ‘Make-or-Break’ Year for South Africa Pick-Up Plan"
+      "id": "ac0256ea5e6065e54446166de804ae56046d7bfa",
+      "title": "Monarhija v primežu škandalov",
+      "url": "https://www.delo.si/nedelo/monarhija-v-primezu-skandalov",
+      "source": "www.delo.si",
+      "published_at": "2026-02-07T07:00:00.000Z",
+      "summary": "Summary: Monarhija v primežu škandalov"
     },
     {
-      "id": "b4d18380b0deb89430075234bddb001e6d0d6923",
-      "title": "German Industrial Production Drops in Setback for Recovery Hopes",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-06/german-industrial-production-drops-in-setback-for-recovery-hopes",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-06T07:07:50.000Z",
-      "summary": "Summary: German Industrial Production Drops in Setback for Recovery Hopes"
-    },
-    {
-      "id": "79fc42c19354f2b3bbf26c74d5bb72f4e405fcd2",
-      "title": "LiteLLM vs Bifrost: Comparing Python and Go for Production LLM Gateways",
-      "url": "https://dev.to/hadil/litellm-vs-bifrost-comparing-python-and-go-for-production-llm-gateways-4dg5",
-      "source": "dev.to",
-      "published_at": "2026-02-06T07:04:51.000Z",
-      "summary": "Summary: LiteLLM vs Bifrost: Comparing Python and Go for Production LLM Gateways"
-    },
-    {
-      "id": "97d0ba73f08bfebae4750ec08ca2489a293e0fbd",
-      "title": "Understanding strlen() Internally by Writing It From Scratch in C",
-      "url": "https://dev.to/hassaansyed/understanding-strlen-internally-by-writing-it-from-scratch-in-c-2gj5",
-      "source": "dev.to",
-      "published_at": "2026-02-06T07:04:42.000Z",
-      "summary": "Summary: Understanding strlen() Internally by Writing It From Scratch in C"
-    },
-    {
-      "id": "1b46258de128e8db9daae168e532528741cd13a0",
-      "title": "monty: A minimal, secure Python interpreter written in Rust for use by AI",
-      "url": "https://github.com/pydantic/monty",
+      "id": "c4265cc6ac85dba7997f25aa49212779f64664aa",
+      "title": "It’s 2026, Just Use Postgres | Tiger Data",
+      "url": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
       "source": "lobste.rs",
-      "published_at": "2026-02-06T07:00:55.000Z",
-      "summary": "Summary: monty: A minimal, secure Python interpreter written in Rust for use by AI"
+      "published_at": "2026-02-07T06:57:24.000Z",
+      "summary": "Summary: It’s 2026, Just Use Postgres | Tiger Data"
     },
     {
-      "id": "cf54f7cbbcf91ce1213b7dda86134f6f778f1eeb",
-      "title": "تفاوت متد‌های Write و WriteLine در Console سی‌شارپ",
-      "url": "https://dev.to/mahdi_harouni/tfwt-mtdhy-write-w-writeline-dr-console-syshrp-2po0",
+      "id": "f5fb2e970fb7c1164ccc31c06f4fbdd9f3f48f57",
+      "title": "Zaprli ljubljansko železniško postajo",
+      "url": "https://www.24ur.com/novice/slovenija/osrednji-del-ljubljanske-zelezniske-postaje-zaprt-do-ponedeljka.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-07T06:55:58.000Z",
+      "summary": "Summary: Zaprli ljubljansko železniško postajo"
+    },
+    {
+      "id": "422d89f73fe284f84f71a5834733ea311615456b",
+      "title": "Teh pet jedi se v restavraciji nikoli ne splača naročiti",
+      "url": "https://www.delo.si/magazin/kulinarika/r-teh-pet-jedi-se-v-restavraciji-nikoli-ne-splaca-narociti",
+      "source": "www.delo.si",
+      "published_at": "2026-02-07T06:55:00.000Z",
+      "summary": "Summary: Teh pet jedi se v restavraciji nikoli ne splača naročiti"
+    },
+    {
+      "id": "2b7831c8f285896ee10849a8bbeaef01c6a0c99d",
+      "title": "I Built a Global Store That Automatically Adjusts Price and Language (No JSON Files Required)",
+      "url": "https://dev.to/coderotakux/i-built-a-global-store-that-automatically-adjusts-price-and-language-no-json-files-required-f7h",
       "source": "dev.to",
-      "published_at": "2026-02-06T07:00:24.000Z",
-      "summary": "Summary: تفاوت متد‌های Write و WriteLine در Console سی‌شارپ"
+      "published_at": "2026-02-07T06:54:30.000Z",
+      "summary": "Summary: I Built a Global Store That Automatically Adjusts Price and Language (No JSON Files Required)"
     },
     {
-      "id": "9cc2811a83fd6e1f10977cb9cd8f1208842dec71",
-      "title": "Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation",
-      "url": "https://dev.to/paperium/autoregressive-model-beats-diffusion-llama-for-scalable-image-generation-4m68",
+      "id": "fb165cba120029a9c4242acf6c0cc1ae5fedd327",
+      "title": "Trump izbrisal rasistični posnetek",
+      "url": "https://www.delo.si/novice/svet/trump-izbrisal-rasisticni-posnetek",
+      "source": "www.delo.si",
+      "published_at": "2026-02-07T06:52:20.000Z",
+      "summary": "Summary: Trump izbrisal rasistični posnetek"
+    },
+    {
+      "id": "642f3fbb7c7a484d8cd3cb46dc84d66036838f11",
+      "title": "Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works",
+      "url": "https://dev.to/__artilce/shipping-a-location-based-app-in-nyc-subway-dead-zones-urban-canyons-and-what-actually-works-3l51",
       "source": "dev.to",
-      "published_at": "2026-02-06T07:00:06.000Z",
-      "summary": "Summary: Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation"
+      "published_at": "2026-02-07T06:51:54.000Z",
+      "summary": "Summary: Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works"
     },
     {
-      "id": "e298c42dbea8699e9a91eb9e4f7a2b70ecff93d2",
-      "title": "Čakanja je konec: zvečer odprtje 25. zimskih olimpijskih iger",
-      "url": "https://www.rtvslo.si/sport/oi-2026/cakanja-je-konec-zvecer-odprtje-25-zimskih-olimpijskih-iger/772551",
+      "id": "74e290a884bc0e61cee37b4c682e060a38488c07",
+      "title": "Umazani prizori: balkanski biser znova duši na tone smeti",
+      "url": "https://www.24ur.com/novice/tujina/umazani-prizori-balkanski-biser-znova-dusi-na-tone-smeti.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-07T06:51:24.000Z",
+      "summary": "Summary: Umazani prizori: balkanski biser znova duši na tone smeti"
+    },
+    {
+      "id": "1abe64171f8946230bfa7ae159763c699006b1e4",
+      "title": "The Financial Reporting Paradox and ClearVoro Analysis of MicroStrategy’s Q4 Loss",
+      "url": "https://dev.to/clearvoro/the-financial-reporting-paradox-and-clearvoro-analysis-of-microstrategys-q4-loss-2101",
+      "source": "dev.to",
+      "published_at": "2026-02-07T06:36:47.000Z",
+      "summary": "Summary: The Financial Reporting Paradox and ClearVoro Analysis of MicroStrategy’s Q4 Loss"
+    },
+    {
+      "id": "ce9bc4a9626a6263dbc9b5bbfa3b9b29b53fda9e",
+      "title": "🧠 JavaScript Type Coercion — A Question That Teaches",
+      "url": "https://dev.to/manasa_bolisetti_8f262624/javascript-type-coercion-a-question-that-teaches-5edj",
+      "source": "dev.to",
+      "published_at": "2026-02-07T06:33:58.000Z",
+      "summary": "Summary: 🧠 JavaScript Type Coercion — A Question That Teaches"
+    },
+    {
+      "id": "0adf143bf5cf071ce8334c1888e212b6c3369bcf",
+      "title": "Ljubljanska železniška postaja bo do ponedeljka popolnoma zaprta",
+      "url": "https://www.rtvslo.si/slovenija/ljubljanska-zelezniska-postaja-bo-do-ponedeljka-popolnoma-zaprta/772656",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-06T07:00:01.000Z",
-      "summary": "Summary: Čakanja je konec: zvečer odprtje 25. zimskih olimpijskih iger"
-    },
-    {
-      "id": "607b2db780559c627b08aea3bc4b8ef92184e0d8",
-      "title": "Jure Košir: Na olimpijske igre prvič po koncu smučarske kariere",
-      "url": "https://www.delo.si/magazin/vikend/jure-kosir-olimijske-igre-alpsko-smucanje-natasa-bokal-ilka-stuhec",
-      "source": "www.delo.si",
-      "published_at": "2026-02-06T07:00:00.000Z",
-      "summary": "Summary: Jure Košir: Na olimpijske igre prvič po koncu smučarske kariere"
-    },
-    {
-      "id": "76a82a5024b19c59468ade520e186ed0d971f853",
-      "title": "Premier Golob spet posvaril pred orbanizacijo Slovenije",
-      "url": "https://www.delo.si/novice/slovenija/premier-golob-spet-posvaril-pred-orbanizacijo-slovenije",
-      "source": "www.delo.si",
-      "published_at": "2026-02-06T06:56:00.000Z",
-      "summary": "Summary: Premier Golob spet posvaril pred orbanizacijo Slovenije"
-    },
-    {
-      "id": "18d247a323a341284cca97667323cdae4650c66b",
-      "title": "Building a D&D inspired Dungeon Crawler with GitHub Copilot CLI",
-      "url": "https://dev.to/austin_amento_860aebb9f55/building-a-dd-inspired-dungeon-crawler-with-github-copilot-cli-9d8",
-      "source": "dev.to",
-      "published_at": "2026-02-06T06:55:54.000Z",
-      "summary": "Summary: Building a D&D inspired Dungeon Crawler with GitHub Copilot CLI"
+      "published_at": "2026-02-07T06:31:16.000Z",
+      "summary": "Summary: Ljubljanska železniška postaja bo do ponedeljka popolnoma zaprta"
     }
   ]
 }

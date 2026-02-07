@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-06T07:14:23.213Z",
+  "updated_at": "2026-02-07T07:03:29.880Z",
   "days": [
+    {
+      "date": "2026-02-07",
+      "page": "/news/2026-02-07.html",
+      "teaser": "Top: Ugrizi grobosti",
+      "count": 12,
+      "ids": [
+        "f12617912e1b4e622904b99507f61b1a2c1208d4",
+        "ac0256ea5e6065e54446166de804ae56046d7bfa",
+        "c4265cc6ac85dba7997f25aa49212779f64664aa",
+        "f5fb2e970fb7c1164ccc31c06f4fbdd9f3f48f57",
+        "422d89f73fe284f84f71a5834733ea311615456b",
+        "2b7831c8f285896ee10849a8bbeaef01c6a0c99d",
+        "fb165cba120029a9c4242acf6c0cc1ae5fedd327",
+        "642f3fbb7c7a484d8cd3cb46dc84d66036838f11",
+        "74e290a884bc0e61cee37b4c682e060a38488c07",
+        "1abe64171f8946230bfa7ae159763c699006b1e4",
+        "ce9bc4a9626a6263dbc9b5bbfa3b9b29b53fda9e",
+        "0adf143bf5cf071ce8334c1888e212b6c3369bcf"
+      ]
+    },
     {
       "date": "2026-02-06",
       "page": "/news/2026-02-06.html",
@@ -579,26 +599,6 @@
         "a890d95eeae55661a3987fa93b1e2f92c65e0077",
         "fda8f97e86ec38067535149b09c61f472d54308b",
         "a7391b06f0ea972140c01798013be7c7205c48c8"
-      ]
-    },
-    {
-      "date": "2026-01-08",
-      "page": "/news/2026-01-08.html",
-      "teaser": "Top: JPMorgan Chase becomes the new issuer of the Apple Card",
-      "count": 12,
-      "ids": [
-        "0aad4c47e13eac3a056af51b4170239fa7b664f5",
-        "f4be7962ca54aef000ad6d7dc1fb6260d3e86434",
-        "bbf51ca20a3338738eaf37fde6ce624d609332ca",
-        "9335226fdd76a90b89f6b371c9ba5e58a45c236d",
-        "b869a6bd79e4d4d18332c175b878f927012eb7df",
-        "1b854f87df942090ffd03643044cf6105514fb5a",
-        "3b22e68b37ec6bce898115d0fbbf0931358920a9",
-        "7aae894ede13c4bba88071e1ea8851bb8ea035c5",
-        "8d4e9af53fa273f97c71a5d0ae706fcb28eb50c4",
-        "90dd528a8844978dc21ad091fdbea097a88f7f61",
-        "8522697a02fb304ac75ef45af9e521fe1854601e",
-        "3707394396d226d67d4c18d3e1f5e771581629c8"
       ]
     }
   ]

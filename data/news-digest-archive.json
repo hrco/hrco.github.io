@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-06T07:14:46.501Z",
+  "updated_at": "2026-02-07T07:03:39.984Z",
   "days": [
+    {
+      "date": "2026-02-07",
+      "page": "/news/2026-02-07-news.html",
+      "teaser": "Top: Ugrizi grobosti",
+      "count": 12,
+      "ids": [
+        "f12617912e1b4e622904b99507f61b1a2c1208d4",
+        "ac0256ea5e6065e54446166de804ae56046d7bfa",
+        "f526966b95496cf0740fe173a1a610e27815d235",
+        "f5fb2e970fb7c1164ccc31c06f4fbdd9f3f48f57",
+        "422d89f73fe284f84f71a5834733ea311615456b",
+        "fb165cba120029a9c4242acf6c0cc1ae5fedd327",
+        "74e290a884bc0e61cee37b4c682e060a38488c07",
+        "a25603e2cc6b77e5a188d3190526351dae5652f5",
+        "3e42faee8b4b48f2c2c751d18c75e14adbec24d8",
+        "f4cc66d6538d5072c63b65ee566de33fe91bb4b8",
+        "f0306ef9e82e17da8db5220dbf3692e486d66263",
+        "0adf143bf5cf071ce8334c1888e212b6c3369bcf"
+      ]
+    },
     {
       "date": "2026-02-06",
       "page": "/news/2026-02-06-news.html",
@@ -579,26 +599,6 @@
         "3a6982be2da2a272fe786693d8f76041a3026fd5",
         "9c7aba80893dba096f43063c5160f5d6a4be9ee4",
         "9a9393976fcde01e7b643d30860f03aa9e1e7fbf"
-      ]
-    },
-    {
-      "date": "2026-01-08",
-      "page": "/news/2026-01-08-news.html",
-      "teaser": "Top: Merz ni izključil napotitve vojakov v Ukrajino",
-      "count": 12,
-      "ids": [
-        "f4be7962ca54aef000ad6d7dc1fb6260d3e86434",
-        "ac18231b39d5132fc8170b0b97d7c7e8bab0d9cf",
-        "67dad17ba583ed3434e6e44a751a3c641f40298f",
-        "bbf51ca20a3338738eaf37fde6ce624d609332ca",
-        "07b7a2e477acfdaaf6a0c744bd540d76f6e2f8d7",
-        "b869a6bd79e4d4d18332c175b878f927012eb7df",
-        "f88f0507347b5e247e7667d0b679604ca026657f",
-        "3b22e68b37ec6bce898115d0fbbf0931358920a9",
-        "6b3a2d146d03efe6849d56699794b6f517d07023",
-        "505fbbde734d1bdffef1c739aee7ffb6378eebc0",
-        "d99c5c9086c2f6711f9317081daae7c79da0c86d",
-        "ed8782e3a91b130250430eddadb7c52d0682b98b"
       ]
     }
   ]

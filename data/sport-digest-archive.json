@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-06T07:14:53.807Z",
+  "updated_at": "2026-02-07T07:03:45.121Z",
   "days": [
+    {
+      "date": "2026-02-07",
+      "page": "/news/2026-02-07-sport.html",
+      "teaser": "Top: Main Card Results | UFC Fight Night: Bautista vs Oliveira",
+      "count": 12,
+      "ids": [
+        "809c30a3ce2e46e91162a1e3beffbe18aabf933b",
+        "c477138de727249f4aebf294752b05128205f53c",
+        "3e42faee8b4b48f2c2c751d18c75e14adbec24d8",
+        "a25fce92145d0da124fe0d069f4c00bd9b1f6a24",
+        "7bfb4701dab26e0a7de4bbd0a23795ae6b2ad052",
+        "5a2e81e578afefa1a6ff6815c355902fe38f4d15",
+        "9ba247d1c11a4d3f1cbbd20288e47cc06254a3ba",
+        "117b48c165e36371fc09a2a5a4e72aec75f9e669",
+        "c76620e47869e3a010ec8a162d458d9b59ebff78",
+        "3933d4c1e748b97619e2f11b5c4347598bfc8aff",
+        "1f15e413031aac0236b5316786dee7fe9ba2385f",
+        "fb89c90c3c79f18a23068e895cd05a4c2bd7819a"
+      ]
+    },
     {
       "date": "2026-02-06",
       "page": "/news/2026-02-06-sport.html",
@@ -579,26 +599,6 @@
         "8dd325e3b67a4947df9eb672a253027850c8a185",
         "3c9e4c833653b35ddd4c45bf3c78a8de5efe1e9b",
         "69c4569315db68e800ebd33e430626e70b5bbebb"
-      ]
-    },
-    {
-      "date": "2026-01-08",
-      "page": "/news/2026-01-08-sport.html",
-      "teaser": "Top: 'Areas to improve' but McCullum 'won't be told what to do'",
-      "count": 12,
-      "ids": [
-        "3bd9a87aed8fe43714ce1efa727ea109e99f3627",
-        "ab7cfefa0eef3d1c249d93cb74c1514882281486",
-        "2d9ca466062694bcc220b90217e08fc82a9cfc0d",
-        "2115d568c8addcfa849e31231e1572c3b5f91dce",
-        "b5fb79547d69ef8c99800984da44ba0cf07a24a4",
-        "19e50c0a3331755a6ada2660b87a16b072767387",
-        "af8548979a2ada552ba6f4e59aaf12f1a1cb20a7",
-        "53b7711c41c0a2a1f09034aacd05f023aecb1ef3",
-        "7a5de470be7ef7675c4201455dff1c0f9c28cdb5",
-        "236020bdd30140b109a0839598024da0da1b9702",
-        "3678c4ed965497b9a4687275cee220efa8c6e5b6",
-        "8055af91fa0b7f643985005c9d972f063239a742"
       ]
     }
   ]
