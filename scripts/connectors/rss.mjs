@@ -34,9 +34,12 @@ function toISODate(s) {
   return Number.isFinite(t) ? new Date(t).toISOString() : null;
 }
 
+const FETCH_TIMEOUT_MS = 15_000; // 15 seconds per feed
+
 export async function fetchRss(feedUrl) {
   const res = await fetch(feedUrl, {
     headers: { "user-agent": "hrco-digest-bot (github actions)" },
+    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
   });
   if (!res.ok) throw new Error(`RSS fetch failed ${res.status}: ${feedUrl}`);
   const xml = await res.text();

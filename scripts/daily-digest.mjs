@@ -223,6 +223,14 @@ async function main() {
   console.log(`Digest done: ${today} (${items.length} items)`);
 }
 
+// Hard timeout: kill the process if it hangs longer than 5 minutes
+const SCRIPT_TIMEOUT_MS = 5 * 60 * 1000;
+const timer = setTimeout(() => {
+  console.error("Script timed out after 5 minutes");
+  process.exit(1);
+}, SCRIPT_TIMEOUT_MS);
+timer.unref();
+
 main().catch((e) => {
   console.error(e?.stack ?? e);
   process.exit(1);
