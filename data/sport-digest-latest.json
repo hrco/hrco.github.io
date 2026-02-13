@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-07",
-  "updated_at": "2026-02-07T07:03:45.121Z",
-  "page": "/news/2026-02-07-sport.html",
+  "date": "2026-02-13",
+  "updated_at": "2026-02-13T07:17:54.883Z",
+  "page": "/news/2026-02-13-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "809c30a3ce2e46e91162a1e3beffbe18aabf933b",
-      "title": "Main Card Results | UFC Fight Night: Bautista vs Oliveira",
-      "url": "https://www.ufc.com/news/ufc-fight-night-bautista-vs-oliveira-results-highlights-main-card-winners-interviews",
+      "id": "882dd77ffcdf1669a461c6db4a3f6ec4d4afaae7",
+      "title": "Results + Scorecards | Zuffa Boxing 03",
+      "url": "https://www.ufc.com/news/zuffa-boxing-03-results-scorecards-highlights-winners-interviews-ajagba-vs-martin",
       "source": "www.ufc.com",
-      "published_at": "2026-02-08T01:00:00.000Z",
-      "summary": "Summary: Main Card Results | UFC Fight Night: Bautista vs Oliveira"
+      "published_at": "2026-02-15T23:00:00.000Z",
+      "summary": "Summary: Results + Scorecards | Zuffa Boxing 03"
     },
     {
-      "id": "c477138de727249f4aebf294752b05128205f53c",
-      "title": "Prelim Results | UFC Fight Night: Bautista vs Oliveira",
-      "url": "https://www.ufc.com/news/ufc-fight-night-bautista-vs-oliveira-results-highlights-prelim-winners-interviews",
+      "id": "0a4daa731911f63a6fb51044bc6ed18a729d6c8b",
+      "title": "Official Weigh-In Results | Zuffa Boxing 03",
+      "url": "https://www.ufc.com/news/zuffa-boxing-03-official-weigh-in-results-ajagba-vs-martin",
       "source": "www.ufc.com",
-      "published_at": "2026-02-07T22:00:00.000Z",
-      "summary": "Summary: Prelim Results | UFC Fight Night: Bautista vs Oliveira"
+      "published_at": "2026-02-14T17:00:00.000Z",
+      "summary": "Summary: Official Weigh-In Results | Zuffa Boxing 03"
     },
     {
-      "id": "3e42faee8b4b48f2c2c751d18c75e14adbec24d8",
-      "title": "Trepidation in Twickenham: Wales attempt to defy odds and expectations",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c3edez1q823o?at_medium=RSS&at_campaign=rss",
+      "id": "c2c1cf252daaceea7c6ffff076e86aaac0128d0a",
+      "title": "'I had to put everyone on edge' - how managers make an impact",
+      "url": "https://www.bbc.com/sport/football/articles/c77e4lvk7n1o?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-07T06:37:39.000Z",
-      "summary": "Summary: Trepidation in Twickenham: Wales attempt to defy odds and expectations"
+      "published_at": "2026-02-13T07:02:33.000Z",
+      "summary": "Summary: 'I had to put everyone on edge' - how managers make an impact"
     },
     {
-      "id": "a25fce92145d0da124fe0d069f4c00bd9b1f6a24",
-      "title": "Some 'dark days and nights' at Arsenal, happiness at Sunderland",
-      "url": "https://www.bbc.com/sport/football/articles/c801z394lr1o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-07T06:19:19.000Z",
-      "summary": "Summary: Some 'dark days and nights' at Arsenal, happiness at Sunderland"
-    },
-    {
-      "id": "7bfb4701dab26e0a7de4bbd0a23795ae6b2ad052",
-      "title": "I will never forget what he did for me - Xhaka on Arteta",
-      "url": "https://www.bbc.com/sport/football/videos/cj9r90wre9no?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-07T06:13:21.000Z",
-      "summary": "Summary: I will never forget what he did for me - Xhaka on Arteta"
-    },
-    {
-      "id": "5a2e81e578afefa1a6ff6815c355902fe38f4d15",
-      "title": "Hall of Fame envisions changes after '26 outcry",
-      "url": "https://www.espn.com/nfl/story/_/id/47853216/hall-fame-eyes-changes-return-person-voting",
+      "id": "11483a70b0d34dd7d85d8201582c1a897c4912ed",
+      "title": "MLB 'proactive' in rushing Venezuelan players back",
+      "url": "https://www.espn.com/mlb/story/_/id/47916493/mlb-teams-proactive-rushing-venezuelan-players-back-us",
       "source": "www.espn.com",
-      "published_at": "2026-02-07T05:52:27.000Z",
-      "summary": "Summary: Hall of Fame envisions changes after '26 outcry"
+      "published_at": "2026-02-13T06:54:54.000Z",
+      "summary": "Summary: MLB 'proactive' in rushing Venezuelan players back"
     },
     {
-      "id": "9ba247d1c11a4d3f1cbbd20288e47cc06254a3ba",
-      "title": "Reverse? Brady backs Kraft, 'get that 7th ring'",
-      "url": "https://www.espn.com/nfl/story/_/id/47854134/know-got-your-back",
+      "id": "4b797275215bae5b02d9d972c5a3a8a797a3e373",
+      "title": "LeBron oldest with triple-double in NBA history",
+      "url": "https://www.espn.com/nba/story/_/id/47916292/lebron-james-becomes-oldest-triple-double-nba-history",
       "source": "www.espn.com",
-      "published_at": "2026-02-07T05:52:27.000Z",
-      "summary": "Summary: Reverse? Brady backs Kraft, 'get that 7th ring'"
+      "published_at": "2026-02-13T06:53:57.000Z",
+      "summary": "Summary: LeBron oldest with triple-double in NBA history"
     },
     {
-      "id": "117b48c165e36371fc09a2a5a4e72aec75f9e669",
-      "title": "St. John's tops UConn as Pitino ties No. 3 in wins",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47854617/st-john-ends-uconn-18-game-win-streak-rick-pitino-moves-tie-third-division-wins",
+      "id": "cc03e7072fdbdf63e6b2d8a54186309196305d99",
+      "title": "Ole Miss QB Chambliss eligible for '26, judge rules",
+      "url": "https://www.espn.com/college-football/story/_/id/47912898/ole-miss-qb-trinidad-chambliss-granted-injunction-judge",
       "source": "www.espn.com",
-      "published_at": "2026-02-07T05:52:27.000Z",
-      "summary": "Summary: St. John's tops UConn as Pitino ties No. 3 in wins"
+      "published_at": "2026-02-13T06:53:57.000Z",
+      "summary": "Summary: Ole Miss QB Chambliss eligible for '26, judge rules"
     },
     {
-      "id": "c76620e47869e3a010ec8a162d458d9b59ebff78",
-      "title": "Ex-NFL LB Darron Lee charged in girlfriend's death",
-      "url": "https://www.espn.com/nfl/story/_/id/47853863/former-nfl-linebacker-darron-lee-charged-first-degree-murder-death-girlfriend",
+      "id": "1a830214c321ca997eff1143227bb9abda41cebc",
+      "title": "Jazz fined $500K, Pacers $100K for sitting players",
+      "url": "https://www.espn.com/nba/story/_/id/47914175/nba-fines-jazz-500k-pacers-100k-sitting-players",
       "source": "www.espn.com",
-      "published_at": "2026-02-07T05:52:27.000Z",
-      "summary": "Summary: Ex-NFL LB Darron Lee charged in girlfriend's death"
+      "published_at": "2026-02-13T06:53:57.000Z",
+      "summary": "Summary: Jazz fined $500K, Pacers $100K for sitting players"
     },
     {
-      "id": "3933d4c1e748b97619e2f11b5c4347598bfc8aff",
-      "title": "Sources: Goldschmidt, Yanks finalizing 1-year deal",
-      "url": "https://www.espn.com/mlb/story/_/id/47853149/paul-goldschmidt-new-york-yankees-finalizing-1-year-contract",
+      "id": "443da429cb851406687fc93d94dd84342f3c5fbc",
+      "title": "Source: Patriots to move DC Williams to new role",
+      "url": "https://www.espn.com/nfl/story/_/id/47912522/patriots-move-dc-williams-new-role-source-says",
       "source": "www.espn.com",
-      "published_at": "2026-02-07T05:52:27.000Z",
-      "summary": "Summary: Sources: Goldschmidt, Yanks finalizing 1-year deal"
+      "published_at": "2026-02-13T06:53:57.000Z",
+      "summary": "Summary: Source: Patriots to move DC Williams to new role"
     },
     {
-      "id": "1f15e413031aac0236b5316786dee7fe9ba2385f",
-      "title": "Sources: Kingsbury joining McVay's Rams staff",
-      "url": "https://www.espn.com/nfl/story/_/id/47851939/kliff-kingsbury-joining-rams-coaching-staff-sources-say",
+      "id": "70fc65e8a7f0f1553cefebdb583ab1b57004c79a",
+      "title": "Trump pardons include Klecko, Newton, Lewis",
+      "url": "https://www.espn.com/nfl/story/_/id/47915457/president-trump-pardons-klecko-newton-lewis-henry-cannon",
       "source": "www.espn.com",
-      "published_at": "2026-02-07T05:52:27.000Z",
-      "summary": "Summary: Sources: Kingsbury joining McVay's Rams staff"
+      "published_at": "2026-02-13T06:53:57.000Z",
+      "summary": "Summary: Trump pardons include Klecko, Newton, Lewis"
     },
     {
-      "id": "fb89c90c3c79f18a23068e895cd05a4c2bd7819a",
-      "title": "Ex-MLB player Puig found guilty in gambling probe",
-      "url": "https://www.espn.com/mlb/story/_/id/47852596/ex-mlb-player-puig-guilty-obstruction-lying-officials",
+      "id": "99905ac8c0641761f5233e9681e90586dd94883a",
+      "title": "Topic debuts for Thunder after testicular cancer",
+      "url": "https://www.espn.com/nba/story/_/id/47914037/nikola-topic-makes-thunder-debut-testicular-cancer",
       "source": "www.espn.com",
-      "published_at": "2026-02-07T05:52:26.000Z",
-      "summary": "Summary: Ex-MLB player Puig found guilty in gambling probe"
+      "published_at": "2026-02-13T06:53:57.000Z",
+      "summary": "Summary: Topic debuts for Thunder after testicular cancer"
+    },
+    {
+      "id": "72ec6e5040d151ac73e8ca916bdfbce80a5cec4e",
+      "title": "MLB finalizes ABS challenge system for '26 season",
+      "url": "https://www.espn.com/mlb/story/_/id/47914496/mlb-unveils-abs-challenge-system-guidelines-2026-season",
+      "source": "www.espn.com",
+      "published_at": "2026-02-13T06:53:57.000Z",
+      "summary": "Summary: MLB finalizes ABS challenge system for '26 season"
+    },
+    {
+      "id": "40a90df5d10b35e0d70faba6a9e22e50d3f4bf3e",
+      "title": "🏈 Yates' NFL mock draft: Predicting the 1st round",
+      "url": "https://www.espn.com/nfl/draft2026/story/_/id/47840791/2026-nfl-mock-draft-field-yates-first-round-predictions-32-picks",
+      "source": "www.espn.com",
+      "published_at": "2026-02-13T06:53:57.000Z",
+      "summary": "Summary: 🏈 Yates' NFL mock draft: Predicting the 1st round"
     }
   ]
 }

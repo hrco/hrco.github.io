@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-07",
-  "updated_at": "2026-02-07T07:03:29.880Z",
-  "page": "/news/2026-02-07.html",
+  "date": "2026-02-13",
+  "updated_at": "2026-02-13T07:17:35.934Z",
+  "page": "/news/2026-02-13.html",
   "count": 12,
   "items": [
     {
-      "id": "f12617912e1b4e622904b99507f61b1a2c1208d4",
-      "title": "Ugrizi grobosti",
-      "url": "https://www.delo.si/mnenja/pisma-bralcev/ugrizi-grobosti",
-      "source": "www.delo.si",
-      "published_at": "2026-02-07T07:00:00.000Z",
-      "summary": "Summary: Ugrizi grobosti"
-    },
-    {
-      "id": "ac0256ea5e6065e54446166de804ae56046d7bfa",
-      "title": "Monarhija v primežu škandalov",
-      "url": "https://www.delo.si/nedelo/monarhija-v-primezu-skandalov",
-      "source": "www.delo.si",
-      "published_at": "2026-02-07T07:00:00.000Z",
-      "summary": "Summary: Monarhija v primežu škandalov"
-    },
-    {
-      "id": "c4265cc6ac85dba7997f25aa49212779f64664aa",
-      "title": "It’s 2026, Just Use Postgres | Tiger Data",
-      "url": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
-      "source": "lobste.rs",
-      "published_at": "2026-02-07T06:57:24.000Z",
-      "summary": "Summary: It’s 2026, Just Use Postgres | Tiger Data"
-    },
-    {
-      "id": "f5fb2e970fb7c1164ccc31c06f4fbdd9f3f48f57",
-      "title": "Zaprli ljubljansko železniško postajo",
-      "url": "https://www.24ur.com/novice/slovenija/osrednji-del-ljubljanske-zelezniske-postaje-zaprt-do-ponedeljka.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-07T06:55:58.000Z",
-      "summary": "Summary: Zaprli ljubljansko železniško postajo"
-    },
-    {
-      "id": "422d89f73fe284f84f71a5834733ea311615456b",
-      "title": "Teh pet jedi se v restavraciji nikoli ne splača naročiti",
-      "url": "https://www.delo.si/magazin/kulinarika/r-teh-pet-jedi-se-v-restavraciji-nikoli-ne-splaca-narociti",
-      "source": "www.delo.si",
-      "published_at": "2026-02-07T06:55:00.000Z",
-      "summary": "Summary: Teh pet jedi se v restavraciji nikoli ne splača naročiti"
-    },
-    {
-      "id": "2b7831c8f285896ee10849a8bbeaef01c6a0c99d",
-      "title": "I Built a Global Store That Automatically Adjusts Price and Language (No JSON Files Required)",
-      "url": "https://dev.to/coderotakux/i-built-a-global-store-that-automatically-adjusts-price-and-language-no-json-files-required-f7h",
-      "source": "dev.to",
-      "published_at": "2026-02-07T06:54:30.000Z",
-      "summary": "Summary: I Built a Global Store That Automatically Adjusts Price and Language (No JSON Files Required)"
-    },
-    {
-      "id": "fb165cba120029a9c4242acf6c0cc1ae5fedd327",
-      "title": "Trump izbrisal rasistični posnetek",
-      "url": "https://www.delo.si/novice/svet/trump-izbrisal-rasisticni-posnetek",
-      "source": "www.delo.si",
-      "published_at": "2026-02-07T06:52:20.000Z",
-      "summary": "Summary: Trump izbrisal rasistični posnetek"
-    },
-    {
-      "id": "642f3fbb7c7a484d8cd3cb46dc84d66036838f11",
-      "title": "Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works",
-      "url": "https://dev.to/__artilce/shipping-a-location-based-app-in-nyc-subway-dead-zones-urban-canyons-and-what-actually-works-3l51",
-      "source": "dev.to",
-      "published_at": "2026-02-07T06:51:54.000Z",
-      "summary": "Summary: Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works"
-    },
-    {
-      "id": "74e290a884bc0e61cee37b4c682e060a38488c07",
-      "title": "Umazani prizori: balkanski biser znova duši na tone smeti",
-      "url": "https://www.24ur.com/novice/tujina/umazani-prizori-balkanski-biser-znova-dusi-na-tone-smeti.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-07T06:51:24.000Z",
-      "summary": "Summary: Umazani prizori: balkanski biser znova duši na tone smeti"
-    },
-    {
-      "id": "1abe64171f8946230bfa7ae159763c699006b1e4",
-      "title": "The Financial Reporting Paradox and ClearVoro Analysis of MicroStrategy’s Q4 Loss",
-      "url": "https://dev.to/clearvoro/the-financial-reporting-paradox-and-clearvoro-analysis-of-microstrategys-q4-loss-2101",
-      "source": "dev.to",
-      "published_at": "2026-02-07T06:36:47.000Z",
-      "summary": "Summary: The Financial Reporting Paradox and ClearVoro Analysis of MicroStrategy’s Q4 Loss"
-    },
-    {
-      "id": "ce9bc4a9626a6263dbc9b5bbfa3b9b29b53fda9e",
-      "title": "🧠 JavaScript Type Coercion — A Question That Teaches",
-      "url": "https://dev.to/manasa_bolisetti_8f262624/javascript-type-coercion-a-question-that-teaches-5edj",
-      "source": "dev.to",
-      "published_at": "2026-02-07T06:33:58.000Z",
-      "summary": "Summary: 🧠 JavaScript Type Coercion — A Question That Teaches"
-    },
-    {
-      "id": "0adf143bf5cf071ce8334c1888e212b6c3369bcf",
-      "title": "Ljubljanska železniška postaja bo do ponedeljka popolnoma zaprta",
-      "url": "https://www.rtvslo.si/slovenija/ljubljanska-zelezniska-postaja-bo-do-ponedeljka-popolnoma-zaprta/772656",
+      "id": "395471db3772cd218c566aac8d193dc27a6eb59e",
+      "title": "Bangladeška nacionalistična stranka razglasila zmago na volitvah",
+      "url": "https://www.rtvslo.si/svet/azija-z-oceanijo/bangladeska-nacionalisticna-stranka-razglasila-zmago-na-volitvah/773304",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-07T06:31:16.000Z",
-      "summary": "Summary: Ljubljanska železniška postaja bo do ponedeljka popolnoma zaprta"
+      "published_at": "2026-02-13T07:15:31.000Z",
+      "summary": "Summary: Bangladeška nacionalistična stranka razglasila zmago na volitvah"
+    },
+    {
+      "id": "1e950a60d2d3a867121b519f97aa86d4d0b5f07f",
+      "title": "Breezy Johnson se domov vrača z dvema kosoma kovine: medaljo in zaročnim prstanom",
+      "url": "https://www.rtvslo.si/zabava-in-slog/znani/breezy-johnson-se-domov-vraca-z-dvema-kosoma-kovine-medaljo-in-zarocnim-prstanom/773301",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-13T07:14:20.000Z",
+      "summary": "Summary: Breezy Johnson se domov vrača z dvema kosoma kovine: medaljo in zaročnim prstanom"
+    },
+    {
+      "id": "ad2bc20686f3e6e6947f7a46b11a47b206550c85",
+      "title": "AI tools are becoming a “quiet teammate” for side hustlers",
+      "url": "https://dev.to/ailoitte_sk/ai-tools-are-becoming-a-quiet-teammate-for-side-hustlers-k20",
+      "source": "dev.to",
+      "published_at": "2026-02-13T07:13:22.000Z",
+      "summary": "Summary: AI tools are becoming a “quiet teammate” for side hustlers"
+    },
+    {
+      "id": "07329f71457bb53e5d4cb0544de02230612fb0fe",
+      "title": "From Data to Decisions: How Augmented Analytics is Transforming Business",
+      "url": "https://dev.to/jasmine_sharma_5d4f082df5/from-data-to-decisions-how-augmented-analytics-is-transforming-business-57j5",
+      "source": "dev.to",
+      "published_at": "2026-02-13T07:12:03.000Z",
+      "summary": "Summary: From Data to Decisions: How Augmented Analytics is Transforming Business"
+    },
+    {
+      "id": "b1e6b464e3b1385b982e217714ffedaa9db5ca7c",
+      "title": "Trumpova vlada končala regulacijo avtomobilskih izpustov toplogrednih plinov",
+      "url": "https://www.rtvslo.si/svet/s-in-j-amerika/trumpova-vlada-koncala-regulacijo-avtomobilskih-izpustov-toplogrednih-plinov/773303",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-13T07:04:51.000Z",
+      "summary": "Summary: Trumpova vlada končala regulacijo avtomobilskih izpustov toplogrednih plinov"
+    },
+    {
+      "id": "dd0cad1704132cd2b9dcba1dc1d98b7f49b2928a",
+      "title": "Savior: Low-Level Design",
+      "url": "https://dev.to/elshadhu/savior-low-level-design-5ef",
+      "source": "dev.to",
+      "published_at": "2026-02-13T07:04:39.000Z",
+      "summary": "Summary: Savior: Low-Level Design"
+    },
+    {
+      "id": "00e40ff9912d35e8101ea8defcdb1b91ba0c90d5",
+      "title": "How octorus Renders 300K Lines of Diff at High Speed",
+      "url": "https://dev.to/ushironoko/how-octorus-renders-300k-lines-of-diff-at-high-speed-h4p",
+      "source": "dev.to",
+      "published_at": "2026-02-13T07:03:59.000Z",
+      "summary": "Summary: How octorus Renders 300K Lines of Diff at High Speed"
+    },
+    {
+      "id": "7f3cf81e3bd434b85c3c7e2f34410eeda5ba9151",
+      "title": "octorus: A Rust-built TUI tool where AI autonomously reviews & fixes code while you browse PR diffs",
+      "url": "https://dev.to/ushironoko/octorus-a-rust-built-tui-tool-where-ai-autonomously-reviews-fixes-code-while-you-browse-pr-diffs-5gh9",
+      "source": "dev.to",
+      "published_at": "2026-02-13T07:03:39.000Z",
+      "summary": "Summary: octorus: A Rust-built TUI tool where AI autonomously reviews & fixes code while you browse PR diffs"
+    },
+    {
+      "id": "66f2e1eea9e256d7ab5c2973e6f3588663ea7649",
+      "title": "Asimov (YC W26) Is Hiring",
+      "url": "https://news.ycombinator.com/item?id=46999753",
+      "source": "hnrss.org",
+      "published_at": "2026-02-13T07:00:41.000Z",
+      "summary": "Summary: Asimov (YC W26) Is Hiring"
+    },
+    {
+      "id": "816a6bfaa6c7cf036fb6ef19877ad108896d3ab9",
+      "title": "Agentic Coding: How to Move Beyond Vibe Coding Without Shipping a Mess",
+      "url": "https://dev.to/sashido/agentic-coding-how-to-move-beyond-vibe-coding-without-shipping-a-mess-1plp",
+      "source": "dev.to",
+      "published_at": "2026-02-13T07:00:39.000Z",
+      "summary": "Summary: Agentic Coding: How to Move Beyond Vibe Coding Without Shipping a Mess"
+    },
+    {
+      "id": "be5539ed56847cb4013f6cbb78ede51453cf0d4b",
+      "title": "Draga televizija, kje je film o Prešernu? Zakaj trupla nimajo opozorila?",
+      "url": "https://www.delo.si/magazin/vikend/draga-televizija-presernov-dan-gorski-zdravnik-gorski-resevalci-prifarci",
+      "source": "www.delo.si",
+      "published_at": "2026-02-13T07:00:00.000Z",
+      "summary": "Summary: Draga televizija, kje je film o Prešernu? Zakaj trupla nimajo opozorila?"
+    },
+    {
+      "id": "a1841569c489950a15c679e4ea82a22d866e3381",
+      "title": "Kako aplikacije za zmenke vplivajo na izbiro partnerja?",
+      "url": "https://www.delo.si/novice/slovenija/tinder-na-robu-aplikacije-za-zmenke-anamarija-sisa",
+      "source": "www.delo.si",
+      "published_at": "2026-02-13T07:00:00.000Z",
+      "summary": "Summary: Kako aplikacije za zmenke vplivajo na izbiro partnerja?"
     }
   ]
 }

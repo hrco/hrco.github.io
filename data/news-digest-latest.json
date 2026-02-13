@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-07",
-  "updated_at": "2026-02-07T07:03:39.984Z",
-  "page": "/news/2026-02-07-news.html",
+  "date": "2026-02-13",
+  "updated_at": "2026-02-13T07:17:50.605Z",
+  "page": "/news/2026-02-13-news.html",
   "count": 12,
   "items": [
     {
-      "id": "f12617912e1b4e622904b99507f61b1a2c1208d4",
-      "title": "Ugrizi grobosti",
-      "url": "https://www.delo.si/mnenja/pisma-bralcev/ugrizi-grobosti",
-      "source": "www.delo.si",
-      "published_at": "2026-02-07T07:00:00.000Z",
-      "summary": "Summary: Ugrizi grobosti"
-    },
-    {
-      "id": "ac0256ea5e6065e54446166de804ae56046d7bfa",
-      "title": "Monarhija v primežu škandalov",
-      "url": "https://www.delo.si/nedelo/monarhija-v-primezu-skandalov",
-      "source": "www.delo.si",
-      "published_at": "2026-02-07T07:00:00.000Z",
-      "summary": "Summary: Monarhija v primežu škandalov"
-    },
-    {
-      "id": "f526966b95496cf0740fe173a1a610e27815d235",
-      "title": "In the Grip of Gangs, Haiti Faces a Government Leadership Vacuum",
-      "url": "https://www.nytimes.com/2026/02/06/world/americas/haiti-crisis-leadership-gangs.html",
-      "source": "rss.nytimes.com",
-      "published_at": "2026-02-07T06:59:30.000Z",
-      "summary": "Summary: In the Grip of Gangs, Haiti Faces a Government Leadership Vacuum"
-    },
-    {
-      "id": "f5fb2e970fb7c1164ccc31c06f4fbdd9f3f48f57",
-      "title": "Zaprli ljubljansko železniško postajo",
-      "url": "https://www.24ur.com/novice/slovenija/osrednji-del-ljubljanske-zelezniske-postaje-zaprt-do-ponedeljka.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-07T06:55:58.000Z",
-      "summary": "Summary: Zaprli ljubljansko železniško postajo"
-    },
-    {
-      "id": "422d89f73fe284f84f71a5834733ea311615456b",
-      "title": "Teh pet jedi se v restavraciji nikoli ne splača naročiti",
-      "url": "https://www.delo.si/magazin/kulinarika/r-teh-pet-jedi-se-v-restavraciji-nikoli-ne-splaca-narociti",
-      "source": "www.delo.si",
-      "published_at": "2026-02-07T06:55:00.000Z",
-      "summary": "Summary: Teh pet jedi se v restavraciji nikoli ne splača naročiti"
-    },
-    {
-      "id": "fb165cba120029a9c4242acf6c0cc1ae5fedd327",
-      "title": "Trump izbrisal rasistični posnetek",
-      "url": "https://www.delo.si/novice/svet/trump-izbrisal-rasisticni-posnetek",
-      "source": "www.delo.si",
-      "published_at": "2026-02-07T06:52:20.000Z",
-      "summary": "Summary: Trump izbrisal rasistični posnetek"
-    },
-    {
-      "id": "74e290a884bc0e61cee37b4c682e060a38488c07",
-      "title": "Umazani prizori: balkanski biser znova duši na tone smeti",
-      "url": "https://www.24ur.com/novice/tujina/umazani-prizori-balkanski-biser-znova-dusi-na-tone-smeti.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-07T06:51:24.000Z",
-      "summary": "Summary: Umazani prizori: balkanski biser znova duši na tone smeti"
-    },
-    {
-      "id": "a25603e2cc6b77e5a188d3190526351dae5652f5",
-      "title": "India’s Modi hails ‘great news’ after US slashes tariffs as part of new trade deal",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3342753/indias-modi-hails-great-news-after-us-slashes-tariffs-part-new-trade-deal?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-02-07T06:47:27.000Z",
-      "summary": "Summary: India’s Modi hails ‘great news’ after US slashes tariffs as part of new trade deal"
-    },
-    {
-      "id": "3e42faee8b4b48f2c2c751d18c75e14adbec24d8",
-      "title": "Trepidation in Twickenham: Wales attempt to defy odds and expectations",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c3edez1q823o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-07T06:37:39.000Z",
-      "summary": "Summary: Trepidation in Twickenham: Wales attempt to defy odds and expectations"
-    },
-    {
-      "id": "f4cc66d6538d5072c63b65ee566de33fe91bb4b8",
-      "title": "LIVE: Iran’s top diplomat set to address Al Jazeera Forum in Doha",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/2/7/live-irans-top-diplomat-set-to-address-al-jazeera-forum-in-doha?traffic_source=rss",
-      "source": "www.aljazeera.com",
-      "published_at": "2026-02-07T06:36:52.000Z",
-      "summary": "Summary: LIVE: Iran’s top diplomat set to address Al Jazeera Forum in Doha"
-    },
-    {
-      "id": "f0306ef9e82e17da8db5220dbf3692e486d66263",
-      "title": "Hong Kong to enforce stricter measures at nature spots for Lunar New Year holiday",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3342752/hong-kong-enforce-stricter-measures-nature-spots-lunar-new-year-holiday?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-02-07T06:35:16.000Z",
-      "summary": "Summary: Hong Kong to enforce stricter measures at nature spots for Lunar New Year holiday"
-    },
-    {
-      "id": "0adf143bf5cf071ce8334c1888e212b6c3369bcf",
-      "title": "Ljubljanska železniška postaja bo do ponedeljka popolnoma zaprta",
-      "url": "https://www.rtvslo.si/slovenija/ljubljanska-zelezniska-postaja-bo-do-ponedeljka-popolnoma-zaprta/772656",
+      "id": "395471db3772cd218c566aac8d193dc27a6eb59e",
+      "title": "Bangladeška nacionalistična stranka razglasila zmago na volitvah",
+      "url": "https://www.rtvslo.si/svet/azija-z-oceanijo/bangladeska-nacionalisticna-stranka-razglasila-zmago-na-volitvah/773304",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-07T06:31:16.000Z",
-      "summary": "Summary: Ljubljanska železniška postaja bo do ponedeljka popolnoma zaprta"
+      "published_at": "2026-02-13T07:15:31.000Z",
+      "summary": "Summary: Bangladeška nacionalistična stranka razglasila zmago na volitvah"
+    },
+    {
+      "id": "1e950a60d2d3a867121b519f97aa86d4d0b5f07f",
+      "title": "Breezy Johnson se domov vrača z dvema kosoma kovine: medaljo in zaročnim prstanom",
+      "url": "https://www.rtvslo.si/zabava-in-slog/znani/breezy-johnson-se-domov-vraca-z-dvema-kosoma-kovine-medaljo-in-zarocnim-prstanom/773301",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-13T07:14:20.000Z",
+      "summary": "Summary: Breezy Johnson se domov vrača z dvema kosoma kovine: medaljo in zaročnim prstanom"
+    },
+    {
+      "id": "e5ed22b536ed297a7b83934e8c9835fe1e34ece1",
+      "title": "Teenage boy hit by a car at Narre Warren in Melbourne's south-east",
+      "url": "https://www.abc.net.au/news/2026-02-13/child-hit-by-car-narre-warren-melbourne/106343388",
+      "source": "www.abc.net.au",
+      "published_at": "2026-02-13T07:08:17.000Z",
+      "summary": "Summary: Teenage boy hit by a car at Narre Warren in Melbourne's south-east"
+    },
+    {
+      "id": "b1e6b464e3b1385b982e217714ffedaa9db5ca7c",
+      "title": "Trumpova vlada končala regulacijo avtomobilskih izpustov toplogrednih plinov",
+      "url": "https://www.rtvslo.si/svet/s-in-j-amerika/trumpova-vlada-koncala-regulacijo-avtomobilskih-izpustov-toplogrednih-plinov/773303",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-13T07:04:51.000Z",
+      "summary": "Summary: Trumpova vlada končala regulacijo avtomobilskih izpustov toplogrednih plinov"
+    },
+    {
+      "id": "be5539ed56847cb4013f6cbb78ede51453cf0d4b",
+      "title": "Draga televizija, kje je film o Prešernu? Zakaj trupla nimajo opozorila?",
+      "url": "https://www.delo.si/magazin/vikend/draga-televizija-presernov-dan-gorski-zdravnik-gorski-resevalci-prifarci",
+      "source": "www.delo.si",
+      "published_at": "2026-02-13T07:00:00.000Z",
+      "summary": "Summary: Draga televizija, kje je film o Prešernu? Zakaj trupla nimajo opozorila?"
+    },
+    {
+      "id": "a1841569c489950a15c679e4ea82a22d866e3381",
+      "title": "Kako aplikacije za zmenke vplivajo na izbiro partnerja?",
+      "url": "https://www.delo.si/novice/slovenija/tinder-na-robu-aplikacije-za-zmenke-anamarija-sisa",
+      "source": "www.delo.si",
+      "published_at": "2026-02-13T07:00:00.000Z",
+      "summary": "Summary: Kako aplikacije za zmenke vplivajo na izbiro partnerja?"
+    },
+    {
+      "id": "56438a119d41259865ba5b0b48d9bcdc7744b31e",
+      "title": "Justice department moves to drop charges against men accused of hitting ICE officer in Minnesota",
+      "url": "https://www.theguardian.com/us-news/2026/feb/13/justice-department-moves-to-drop-charges-alfredo-alejandro-aljorna-julio-cesar-sosa-celis-ice-minnesota",
+      "source": "www.theguardian.com",
+      "published_at": "2026-02-13T06:58:25.000Z",
+      "summary": "Summary: Justice department moves to drop charges against men accused of hitting ICE officer in Minnesota"
+    },
+    {
+      "id": "c4c112cce2f2ce5f220acea35327c847a83db0e9",
+      "title": "Cigarette lighter prompts gun scare near Adelaide school",
+      "url": "https://www.abc.net.au/news/2026-02-13/man-charged-after-gun-scare-at-unley/106343012",
+      "source": "www.abc.net.au",
+      "published_at": "2026-02-13T06:58:01.000Z",
+      "summary": "Summary: Cigarette lighter prompts gun scare near Adelaide school"
+    },
+    {
+      "id": "770d5294e7f05a969f26cccb1bf0770e14f858e9",
+      "title": "Atletico s štrimi zadetki potolkel Barcelono, Arsenalova prednost se topi",
+      "url": "https://www.delo.si/sport/nogomet/atletico-s-strimi-zadetki-potolkel-barcelono-arsenalova-prednost-se-topi",
+      "source": "www.delo.si",
+      "published_at": "2026-02-13T06:55:00.000Z",
+      "summary": "Summary: Atletico s štrimi zadetki potolkel Barcelono, Arsenalova prednost se topi"
+    },
+    {
+      "id": "7b920a8c2a928b55c1bf38e6cb2b1be6d0548b61",
+      "title": "Cene Prevc: Domnu bo, kot kaže, uspelo celo podreti Petrove rekorde",
+      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/smucarski-skoki/cene-prevc-domnu-bo-kot-kaze-uspelo-celo-podreti-petrove-rekorde/773285",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-13T06:42:48.000Z",
+      "summary": "Summary: Cene Prevc: Domnu bo, kot kaže, uspelo celo podreti Petrove rekorde"
+    },
+    {
+      "id": "cda40edc90368cafac090e219189a5927716121c",
+      "title": "Lakersi tretjič letos boljši od Dallasa, James pa s trojnim dvojčkom do novega rekorda",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/lakersi-tretjic-letos-boljsi-od-dallasa-james-pa-s-trojnim-dvojckom-do-novega-rekorda/773300",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-13T06:38:47.000Z",
+      "summary": "Summary: Lakersi tretjič letos boljši od Dallasa, James pa s trojnim dvojčkom do novega rekorda"
+    },
+    {
+      "id": "be1c6ae93e9632f6aa83bb186dda20daf690fb78",
+      "title": "Prehitri vozniki res žrtve občinskega terorizma?",
+      "url": "https://www.24ur.com/novice/dejstva/prehitri-vozniki-res-zrtve-obcinskega-terorizma.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-13T06:32:24.000Z",
+      "summary": "Summary: Prehitri vozniki res žrtve občinskega terorizma?"
     }
   ]
 }
