@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-13",
-  "updated_at": "2026-02-13T07:17:35.934Z",
-  "page": "/news/2026-02-13.html",
+  "date": "2026-02-14",
+  "updated_at": "2026-02-14T06:33:30.099Z",
+  "page": "/news/2026-02-14.html",
   "count": 12,
   "items": [
     {
-      "id": "395471db3772cd218c566aac8d193dc27a6eb59e",
-      "title": "Bangladeška nacionalistična stranka razglasila zmago na volitvah",
-      "url": "https://www.rtvslo.si/svet/azija-z-oceanijo/bangladeska-nacionalisticna-stranka-razglasila-zmago-na-volitvah/773304",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-13T07:15:31.000Z",
-      "summary": "Summary: Bangladeška nacionalistična stranka razglasila zmago na volitvah"
+      "id": "1a9dc42691f94b20511029d7b603a1d1f7a4055e",
+      "title": "Starši skeptični do prenosa vzorcev, opozarjajo na sumljive povezave",
+      "url": "https://www.24ur.com/novice/slovenija/starsi-skepticni-do-prenosa-vzorcev-opozarjajo-na-sumljive-povezave.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-14T06:32:44.000Z",
+      "summary": "Summary: Starši skeptični do prenosa vzorcev, opozarjajo na sumljive povezave"
     },
     {
-      "id": "1e950a60d2d3a867121b519f97aa86d4d0b5f07f",
-      "title": "Breezy Johnson se domov vrača z dvema kosoma kovine: medaljo in zaročnim prstanom",
-      "url": "https://www.rtvslo.si/zabava-in-slog/znani/breezy-johnson-se-domov-vraca-z-dvema-kosoma-kovine-medaljo-in-zarocnim-prstanom/773301",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-13T07:14:20.000Z",
-      "summary": "Summary: Breezy Johnson se domov vrača z dvema kosoma kovine: medaljo in zaročnim prstanom"
+      "id": "f24650dc63d4ec2a5c16cef7e780159253d663d3",
+      "title": "Nothing opens its first retail store in India",
+      "url": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
+      "source": "techcrunch.com",
+      "published_at": "2026-02-14T06:30:00.000Z",
+      "summary": "Summary: Nothing opens its first retail store in India"
     },
     {
-      "id": "ad2bc20686f3e6e6947f7a46b11a47b206550c85",
-      "title": "AI tools are becoming a “quiet teammate” for side hustlers",
-      "url": "https://dev.to/ailoitte_sk/ai-tools-are-becoming-a-quiet-teammate-for-side-hustlers-k20",
+      "id": "b10f84e3d1d1165fb1f39f1aa1c199f209d680e9",
+      "title": "Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy",
+      "url": "https://dev.to/akdevcraft/modern-devsecops-requires-more-than-one-tool-a-practical-sdlc-security-strategy-4d74",
       "source": "dev.to",
-      "published_at": "2026-02-13T07:13:22.000Z",
-      "summary": "Summary: AI tools are becoming a “quiet teammate” for side hustlers"
+      "published_at": "2026-02-14T06:24:34.000Z",
+      "summary": "Summary: Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy"
     },
     {
-      "id": "07329f71457bb53e5d4cb0544de02230612fb0fe",
-      "title": "From Data to Decisions: How Augmented Analytics is Transforming Business",
-      "url": "https://dev.to/jasmine_sharma_5d4f082df5/from-data-to-decisions-how-augmented-analytics-is-transforming-business-57j5",
+      "id": "2d8e5b0b817c94a68bf185b9c6bc873e8790e6a4",
+      "title": "Floating types | Kasrsonlar | C++",
+      "url": "https://dev.to/whysoempty/floating-types-kasrsonlar-c-3jcd",
       "source": "dev.to",
-      "published_at": "2026-02-13T07:12:03.000Z",
-      "summary": "Summary: From Data to Decisions: How Augmented Analytics is Transforming Business"
+      "published_at": "2026-02-14T06:21:47.000Z",
+      "summary": "Summary: Floating types | Kasrsonlar | C++"
     },
     {
-      "id": "b1e6b464e3b1385b982e217714ffedaa9db5ca7c",
-      "title": "Trumpova vlada končala regulacijo avtomobilskih izpustov toplogrednih plinov",
-      "url": "https://www.rtvslo.si/svet/s-in-j-amerika/trumpova-vlada-koncala-regulacijo-avtomobilskih-izpustov-toplogrednih-plinov/773303",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-13T07:04:51.000Z",
-      "summary": "Summary: Trumpova vlada končala regulacijo avtomobilskih izpustov toplogrednih plinov"
-    },
-    {
-      "id": "dd0cad1704132cd2b9dcba1dc1d98b7f49b2928a",
-      "title": "Savior: Low-Level Design",
-      "url": "https://dev.to/elshadhu/savior-low-level-design-5ef",
+      "id": "f367da3bc84e6b8d76eaf3074593c9753ddf2ee7",
+      "title": "Thiết kế NGFW - Throughput:  40Gbps và WAF-WAF - Throughput: 80Gbps khi bật các tính năng nâng cao dưới On-prem",
+      "url": "https://dev.to/huydanggdg/thiet-ke-ngfw-throughput-40gbps-va-waf-waf-throughput-80gbps-khi-bat-cac-tinh-nang-nang-cao-4b4d",
       "source": "dev.to",
-      "published_at": "2026-02-13T07:04:39.000Z",
-      "summary": "Summary: Savior: Low-Level Design"
+      "published_at": "2026-02-14T06:18:59.000Z",
+      "summary": "Summary: Thiết kế NGFW - Throughput:  40Gbps và WAF-WAF - Throughput: 80Gbps khi bật các tính năng nâng cao dưới On-prem"
     },
     {
-      "id": "00e40ff9912d35e8101ea8defcdb1b91ba0c90d5",
-      "title": "How octorus Renders 300K Lines of Diff at High Speed",
-      "url": "https://dev.to/ushironoko/how-octorus-renders-300k-lines-of-diff-at-high-speed-h4p",
+      "id": "64a8d939e466028017833a41a6e3ad89af29792c",
+      "title": "I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper",
+      "url": "https://dev.to/sreeni5018/i-fine-tuned-an-open-source-model-and-the-bhagavad-gita-explained-it-better-than-any-paper-lf6",
       "source": "dev.to",
-      "published_at": "2026-02-13T07:03:59.000Z",
-      "summary": "Summary: How octorus Renders 300K Lines of Diff at High Speed"
+      "published_at": "2026-02-14T06:15:32.000Z",
+      "summary": "Summary: I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper"
     },
     {
-      "id": "7f3cf81e3bd434b85c3c7e2f34410eeda5ba9151",
-      "title": "octorus: A Rust-built TUI tool where AI autonomously reviews & fixes code while you browse PR diffs",
-      "url": "https://dev.to/ushironoko/octorus-a-rust-built-tui-tool-where-ai-autonomously-reviews-fixes-code-while-you-browse-pr-diffs-5gh9",
+      "id": "108c0c92e5efa669b1a6b77391ca2102af063f04",
+      "title": "Polovica šolarjev na zimskih počitnicah",
+      "url": "https://www.24ur.com/novice/slovenija/polovica-solarjev-na-zimskih-pocitnicah.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-14T06:15:12.000Z",
+      "summary": "Summary: Polovica šolarjev na zimskih počitnicah"
+    },
+    {
+      "id": "e486ff1d5018b940e8090bd8db7bec3b5d3563be",
+      "title": "Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3",
+      "url": "https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l",
       "source": "dev.to",
-      "published_at": "2026-02-13T07:03:39.000Z",
-      "summary": "Summary: octorus: A Rust-built TUI tool where AI autonomously reviews & fixes code while you browse PR diffs"
+      "published_at": "2026-02-14T06:14:33.000Z",
+      "summary": "Summary: Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3"
     },
     {
-      "id": "66f2e1eea9e256d7ab5c2973e6f3588663ea7649",
-      "title": "Asimov (YC W26) Is Hiring",
-      "url": "https://news.ycombinator.com/item?id=46999753",
-      "source": "hnrss.org",
-      "published_at": "2026-02-13T07:00:41.000Z",
-      "summary": "Summary: Asimov (YC W26) Is Hiring"
-    },
-    {
-      "id": "816a6bfaa6c7cf036fb6ef19877ad108896d3ab9",
-      "title": "Agentic Coding: How to Move Beyond Vibe Coding Without Shipping a Mess",
-      "url": "https://dev.to/sashido/agentic-coding-how-to-move-beyond-vibe-coding-without-shipping-a-mess-1plp",
+      "id": "a79b92cc9e38e2e923fcce31a22cfbad892165b0",
+      "title": "Kaggle Code Competitions Without a Local GPU: GitHub Actions + Kaggle API Cloud Workflow",
+      "url": "https://dev.to/yasumorishima/kaggle-code-competitions-without-a-local-gpu-github-actions-kaggle-api-cloud-workflow-m3",
       "source": "dev.to",
-      "published_at": "2026-02-13T07:00:39.000Z",
-      "summary": "Summary: Agentic Coding: How to Move Beyond Vibe Coding Without Shipping a Mess"
+      "published_at": "2026-02-14T06:12:29.000Z",
+      "summary": "Summary: Kaggle Code Competitions Without a Local GPU: GitHub Actions + Kaggle API Cloud Workflow"
     },
     {
-      "id": "be5539ed56847cb4013f6cbb78ede51453cf0d4b",
-      "title": "Draga televizija, kje je film o Prešernu? Zakaj trupla nimajo opozorila?",
-      "url": "https://www.delo.si/magazin/vikend/draga-televizija-presernov-dan-gorski-zdravnik-gorski-resevalci-prifarci",
-      "source": "www.delo.si",
-      "published_at": "2026-02-13T07:00:00.000Z",
-      "summary": "Summary: Draga televizija, kje je film o Prešernu? Zakaj trupla nimajo opozorila?"
+      "id": "02f7de14606de32854a6f0d7a7983e98d6de3162",
+      "title": "5 AI Image Prompts That Are Saving Game Devs and Designers Hours of Work",
+      "url": "https://dev.to/nanoprompts/5-ai-image-prompts-that-are-saving-game-devs-and-designers-hours-of-work-56m6",
+      "source": "dev.to",
+      "published_at": "2026-02-14T06:09:20.000Z",
+      "summary": "Summary: 5 AI Image Prompts That Are Saving Game Devs and Designers Hours of Work"
     },
     {
-      "id": "a1841569c489950a15c679e4ea82a22d866e3381",
-      "title": "Kako aplikacije za zmenke vplivajo na izbiro partnerja?",
-      "url": "https://www.delo.si/novice/slovenija/tinder-na-robu-aplikacije-za-zmenke-anamarija-sisa",
-      "source": "www.delo.si",
-      "published_at": "2026-02-13T07:00:00.000Z",
-      "summary": "Summary: Kako aplikacije za zmenke vplivajo na izbiro partnerja?"
+      "id": "1dfbd4c61201d07bde99f4155565dbd9d4019a76",
+      "title": "Exploring Search Capabilities With Atlas Search-Part 2",
+      "url": "https://dev.to/aasawari_sahasrabuddhe_3c/exploring-search-capabilities-with-atlas-search-part-2-2i4c",
+      "source": "dev.to",
+      "published_at": "2026-02-14T06:07:19.000Z",
+      "summary": "Summary: Exploring Search Capabilities With Atlas Search-Part 2"
+    },
+    {
+      "id": "6e629709170b51d5349662b7ca7629addf347644",
+      "title": "Getting started with MongoDB Atlas Search and Java-Part 1",
+      "url": "https://dev.to/aasawari_sahasrabuddhe_3c/getting-started-with-mongodb-atlas-search-and-java-2hio",
+      "source": "dev.to",
+      "published_at": "2026-02-14T06:02:41.000Z",
+      "summary": "Summary: Getting started with MongoDB Atlas Search and Java-Part 1"
     }
   ]
 }
