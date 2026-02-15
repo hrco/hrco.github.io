@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-14",
-  "updated_at": "2026-02-14T06:33:30.099Z",
-  "page": "/news/2026-02-14.html",
+  "date": "2026-02-15",
+  "updated_at": "2026-02-15T06:35:02.679Z",
+  "page": "/news/2026-02-15.html",
   "count": 12,
   "items": [
     {
-      "id": "1a9dc42691f94b20511029d7b603a1d1f7a4055e",
-      "title": "Starši skeptični do prenosa vzorcev, opozarjajo na sumljive povezave",
-      "url": "https://www.24ur.com/novice/slovenija/starsi-skepticni-do-prenosa-vzorcev-opozarjajo-na-sumljive-povezave.html",
+      "id": "9b32932a190892ab34ce3b0af162939e0276ee90",
+      "title": "Skoraj 800 gospodinjstev pri nas zjutraj ostalo brez elektrike",
+      "url": "https://www.delo.si/lokalno/ljubljana-in-okolica/v-ljubljani-brez-elektrike-skoraj-800-gospodinjstev",
+      "source": "www.delo.si",
+      "published_at": "2026-02-15T06:23:00.000Z",
+      "summary": "Summary: Skoraj 800 gospodinjstev pri nas zjutraj ostalo brez elektrike"
+    },
+    {
+      "id": "9c65826f1dfdd133c7652cdc5dc391809a900781",
+      "title": "The Symbol for All of Us is Null",
+      "url": "https://dev.to/goodrelax/the-symbol-for-all-of-us-is-null-59kn",
+      "source": "dev.to",
+      "published_at": "2026-02-15T06:21:54.000Z",
+      "summary": "Summary: The Symbol for All of Us is Null"
+    },
+    {
+      "id": "12d60c20479141a9debdfbb555647852695f9cfc",
+      "title": "Domen Prevc junak slovenske veselice v Predazzu (FOTO, VIDEO)",
+      "url": "https://www.delo.si/sport/zimski-sporti/domen-prevc-junak-slovenske-veselice-v-predazzu-foto-video",
+      "source": "www.delo.si",
+      "published_at": "2026-02-15T06:20:00.000Z",
+      "summary": "Summary: Domen Prevc junak slovenske veselice v Predazzu (FOTO, VIDEO)"
+    },
+    {
+      "id": "bb03ca706b9d21a69136c17cd1b7c06decac1ec9",
+      "title": "8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D",
+      "url": "https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-55p6",
+      "source": "dev.to",
+      "published_at": "2026-02-15T06:06:02.000Z",
+      "summary": "Summary: 8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D"
+    },
+    {
+      "id": "fbaaf72873f3033bb27695f851d69cf25833497e",
+      "title": "Kakšno vlogo je imel Logar v aferi 'Glupi davki'?",
+      "url": "https://www.24ur.com/novice/dejstva/kaksno-vlogo-je-imel-logar-v-aferi-glupi-davki.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-14T06:32:44.000Z",
-      "summary": "Summary: Starši skeptični do prenosa vzorcev, opozarjajo na sumljive povezave"
+      "published_at": "2026-02-15T06:05:21.000Z",
+      "summary": "Summary: Kakšno vlogo je imel Logar v aferi 'Glupi davki'?"
     },
     {
-      "id": "f24650dc63d4ec2a5c16cef7e780159253d663d3",
-      "title": "Nothing opens its first retail store in India",
-      "url": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
-      "source": "techcrunch.com",
-      "published_at": "2026-02-14T06:30:00.000Z",
-      "summary": "Summary: Nothing opens its first retail store in India"
-    },
-    {
-      "id": "b10f84e3d1d1165fb1f39f1aa1c199f209d680e9",
-      "title": "Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy",
-      "url": "https://dev.to/akdevcraft/modern-devsecops-requires-more-than-one-tool-a-practical-sdlc-security-strategy-4d74",
-      "source": "dev.to",
-      "published_at": "2026-02-14T06:24:34.000Z",
-      "summary": "Summary: Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy"
-    },
-    {
-      "id": "2d8e5b0b817c94a68bf185b9c6bc873e8790e6a4",
-      "title": "Floating types | Kasrsonlar | C++",
-      "url": "https://dev.to/whysoempty/floating-types-kasrsonlar-c-3jcd",
-      "source": "dev.to",
-      "published_at": "2026-02-14T06:21:47.000Z",
-      "summary": "Summary: Floating types | Kasrsonlar | C++"
-    },
-    {
-      "id": "f367da3bc84e6b8d76eaf3074593c9753ddf2ee7",
-      "title": "Thiết kế NGFW - Throughput:  40Gbps và WAF-WAF - Throughput: 80Gbps khi bật các tính năng nâng cao dưới On-prem",
-      "url": "https://dev.to/huydanggdg/thiet-ke-ngfw-throughput-40gbps-va-waf-waf-throughput-80gbps-khi-bat-cac-tinh-nang-nang-cao-4b4d",
-      "source": "dev.to",
-      "published_at": "2026-02-14T06:18:59.000Z",
-      "summary": "Summary: Thiết kế NGFW - Throughput:  40Gbps và WAF-WAF - Throughput: 80Gbps khi bật các tính năng nâng cao dưới On-prem"
-    },
-    {
-      "id": "64a8d939e466028017833a41a6e3ad89af29792c",
-      "title": "I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper",
-      "url": "https://dev.to/sreeni5018/i-fine-tuned-an-open-source-model-and-the-bhagavad-gita-explained-it-better-than-any-paper-lf6",
-      "source": "dev.to",
-      "published_at": "2026-02-14T06:15:32.000Z",
-      "summary": "Summary: I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper"
-    },
-    {
-      "id": "108c0c92e5efa669b1a6b77391ca2102af063f04",
-      "title": "Polovica šolarjev na zimskih počitnicah",
-      "url": "https://www.24ur.com/novice/slovenija/polovica-solarjev-na-zimskih-pocitnicah.html",
+      "id": "b19485d1cd6a0cbce384ead38e3b0f4b5bb225d8",
+      "title": "'Za ene smo murgelski podtaknjenec ali zlati prinašalec, za druge satelit'",
+      "url": "https://www.24ur.com/novice/slovenija-odloca/intervju-z-anzetom-logarjem.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-14T06:15:12.000Z",
-      "summary": "Summary: Polovica šolarjev na zimskih počitnicah"
+      "published_at": "2026-02-15T06:04:53.000Z",
+      "summary": "Summary: 'Za ene smo murgelski podtaknjenec ali zlati prinašalec, za druge satelit'"
     },
     {
-      "id": "e486ff1d5018b940e8090bd8db7bec3b5d3563be",
-      "title": "Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3",
-      "url": "https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l",
-      "source": "dev.to",
-      "published_at": "2026-02-14T06:14:33.000Z",
-      "summary": "Summary: Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3"
+      "id": "bd9090f6f7dbccb59c572c9d2b3768cc0cc83875",
+      "title": "\"Kaj je v športu več, kot to? Fantazija, ko se ti uresničijo sanje vseh sanj\"",
+      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/smucarski-skoki/kaj-je-v-sportu-vec-kot-to-fantazija-ko-se-ti-uresnicijo-sanje-vseh-sanj/773433",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-15T06:01:28.000Z",
+      "summary": "Summary: \"Kaj je v športu več, kot to? Fantazija, ko se ti uresničijo sanje vseh sanj\""
     },
     {
-      "id": "a79b92cc9e38e2e923fcce31a22cfbad892165b0",
-      "title": "Kaggle Code Competitions Without a Local GPU: GitHub Actions + Kaggle API Cloud Workflow",
-      "url": "https://dev.to/yasumorishima/kaggle-code-competitions-without-a-local-gpu-github-actions-kaggle-api-cloud-workflow-m3",
-      "source": "dev.to",
-      "published_at": "2026-02-14T06:12:29.000Z",
-      "summary": "Summary: Kaggle Code Competitions Without a Local GPU: GitHub Actions + Kaggle API Cloud Workflow"
+      "id": "a416f982589c35771875257bc9244eb82c8dc81e",
+      "title": "Domen Prevc: To je največ, kar lahko športnik doseže",
+      "url": "https://www.24ur.com/sport/olimpijske-igre/milano-cortina2026/domen-prevc-to-je-najvec-kar-sportnik-lahko-doseze.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-15T06:00:02.000Z",
+      "summary": "Summary: Domen Prevc: To je največ, kar lahko športnik doseže"
     },
     {
-      "id": "02f7de14606de32854a6f0d7a7983e98d6de3162",
-      "title": "5 AI Image Prompts That Are Saving Game Devs and Designers Hours of Work",
-      "url": "https://dev.to/nanoprompts/5-ai-image-prompts-that-are-saving-game-devs-and-designers-hours-of-work-56m6",
-      "source": "dev.to",
-      "published_at": "2026-02-14T06:09:20.000Z",
-      "summary": "Summary: 5 AI Image Prompts That Are Saving Game Devs and Designers Hours of Work"
+      "id": "bc947cc871069913c0a795f6b2e2d7f1635d1159",
+      "title": "Nuša o zvestobi: Mogoče bi se moral Tim učiti od mene",
+      "url": "https://www.24ur.com/tv-oddaje/kmetija/nusa-o-zvestobi-mogoce-bi-se-moral-tim-uciti-od-mene.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-15T06:00:02.000Z",
+      "summary": "Summary: Nuša o zvestobi: Mogoče bi se moral Tim učiti od mene"
     },
     {
-      "id": "1dfbd4c61201d07bde99f4155565dbd9d4019a76",
-      "title": "Exploring Search Capabilities With Atlas Search-Part 2",
-      "url": "https://dev.to/aasawari_sahasrabuddhe_3c/exploring-search-capabilities-with-atlas-search-part-2-2i4c",
-      "source": "dev.to",
-      "published_at": "2026-02-14T06:07:19.000Z",
-      "summary": "Summary: Exploring Search Capabilities With Atlas Search-Part 2"
+      "id": "337fd47d17177eb7a3c23c7c11dfd732a678bf91",
+      "title": "Sveža rast doma in vse bolj divji Wall Street",
+      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/sveza-rast-doma-in-vse-bolj-divji-wall-street/773418",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-15T05:53:04.000Z",
+      "summary": "Summary: Sveža rast doma in vse bolj divji Wall Street"
     },
     {
-      "id": "6e629709170b51d5349662b7ca7629addf347644",
-      "title": "Getting started with MongoDB Atlas Search and Java-Part 1",
-      "url": "https://dev.to/aasawari_sahasrabuddhe_3c/getting-started-with-mongodb-atlas-search-and-java-2hio",
+      "id": "5904a1da30eaabef651ea0feac747ea1084c5347",
+      "title": "Rustroke - WASM mini draw",
+      "url": "https://dev.to/pengeszikra/rustroke-wasm-mini-draw-3oih",
       "source": "dev.to",
-      "published_at": "2026-02-14T06:02:41.000Z",
-      "summary": "Summary: Getting started with MongoDB Atlas Search and Java-Part 1"
+      "published_at": "2026-02-15T05:50:42.000Z",
+      "summary": "Summary: Rustroke - WASM mini draw"
+    },
+    {
+      "id": "54246be921bea8fe7da14793e61878f7a06eee8e",
+      "title": "I Built a Tamagotchi That Judges Your GitHub Activity 🐾 (and it's brutally honest)",
+      "url": "https://dev.to/depapp/i-built-a-tamagotchi-that-judges-your-github-activity-and-its-brutally-honest-oh1",
+      "source": "dev.to",
+      "published_at": "2026-02-15T05:43:20.000Z",
+      "summary": "Summary: I Built a Tamagotchi That Judges Your GitHub Activity 🐾 (and it's brutally honest)"
     }
   ]
 }

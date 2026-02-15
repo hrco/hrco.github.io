@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-14T06:33:40.178Z",
+  "updated_at": "2026-02-15T06:35:14.475Z",
   "days": [
+    {
+      "date": "2026-02-15",
+      "page": "/news/2026-02-15-news.html",
+      "teaser": "Top: Beijing warns tech giants to curb ‘involution’ amid AI giveaway war",
+      "count": 12,
+      "ids": [
+        "4748962351d70986cf5c59e27cc512c3fb2066fd",
+        "d3b65b94f2d4244501f5e748d663e47d837180bf",
+        "9b32932a190892ab34ce3b0af162939e0276ee90",
+        "12d60c20479141a9debdfbb555647852695f9cfc",
+        "0ffce5c6715bbf7a27485af77b9df36472ec56be",
+        "c2a681c63ed78c37213c2e9589771f5fdecc012b",
+        "78a5adb25e495389a73b0672e17fc6191dde3354",
+        "2e8e51efab432ae729a48950579ed3b5592fa9d8",
+        "e392eb7a4229a5724046ca7e76b454236f02b1bf",
+        "fbaaf72873f3033bb27695f851d69cf25833497e",
+        "b19485d1cd6a0cbce384ead38e3b0f4b5bb225d8",
+        "bd9090f6f7dbccb59c572c9d2b3768cc0cc83875"
+      ]
+    },
     {
       "date": "2026-02-14",
       "page": "/news/2026-02-14-news.html",
@@ -579,26 +599,6 @@
         "3aa3f92078e0f504a10e2e4bac73bf3fe4273763",
         "6366a7bdc54d8e3fc55f87350d5f83010e572973",
         "5701b07eba724fc1ef08c12ca8ec50a8f927eb10"
-      ]
-    },
-    {
-      "date": "2026-01-11",
-      "page": "/news/2026-01-11-news.html",
-      "teaser": "Top: Svetovna serija 2026",
-      "count": 12,
-      "ids": [
-        "bae5423d0fe19708e8093429e96fdbebd20c61b7",
-        "c9730bef317798ee3991ce3f73f373fe67af307f",
-        "149b783075094871eaaa0fc5f5684d44d4344832",
-        "32444d341719a071315fad362773e1438e67af59",
-        "bde3f93597b7579c952dc04f1cf073adf5e55201",
-        "c45ef6ffe528f5adc783adc9c8967b92825f6441",
-        "ea8bd918faa3adda94bc94a4af35dc3751bfc039",
-        "cf2d6af62dab288f637d81f8ef9e66d6a691ccb3",
-        "ec78e922dc09a8184b16c345e221183388d17340",
-        "b40828c77c919607cdc98a4ab88927869fbafbc0",
-        "5593d1b375e76b914904adfc3fbce01842413a78",
-        "702fa3e5b42ff11c5b34f1ae0a726b9db2b99248"
       ]
     }
   ]
