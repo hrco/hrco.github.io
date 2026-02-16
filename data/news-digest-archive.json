@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-15T06:35:14.475Z",
+  "updated_at": "2026-02-16T06:43:31.146Z",
   "days": [
+    {
+      "date": "2026-02-16",
+      "page": "/news/2026-02-16-news.html",
+      "teaser": "Top: Hong Kong court to announce verdict on appeals of 12 jailed activists on February 23",
+      "count": 12,
+      "ids": [
+        "5116a207b9bbfb7ada1a13da2a84607dae50facf",
+        "b9d13ef1efdce24cd610bd6cd948068843ddd5b6",
+        "d444d869a65c46cc7fb4e9fd81aa4f43a598131e",
+        "a642802532e2d43f6cb95ee4b7f57687470381e9",
+        "038907e8c11e807f4c2d5d77084a30de8b4bdab2",
+        "1dbe4473b48bd542615a12a5e8aba755013f8ad9",
+        "ce3f44be788c07644d5d49e85cc8259080d4f2f1",
+        "8faa7deb11c15cfb4df6683352cd0a8947bdf558",
+        "7988ee71c51aeb347e2a20274e8d7854df486b8d",
+        "b1e2ced910041bc8582ff9b950478b5340d812eb",
+        "9cec6a279467d79e40ff957c8be2620872d80067",
+        "82a716ee6fa11044156526e91c7ae3a659bc18a3"
+      ]
+    },
     {
       "date": "2026-02-15",
       "page": "/news/2026-02-15-news.html",
@@ -579,26 +599,6 @@
         "861daabc117da5f098c69bfb4f64442d9c3efa6c",
         "661d7ca94a898a140e246f43225520c8845b1369",
         "e8c52d75e9d4409b5e48969393b955409fafa003"
-      ]
-    },
-    {
-      "date": "2026-01-12",
-      "page": "/news/2026-01-12-news.html",
-      "teaser": "Top: Chinese arms exporters may be the big winners in any Pakistan-Saudi JF-17 talks",
-      "count": 12,
-      "ids": [
-        "b84f6ce4f327094aa06e5e3a8663301dfe85b07a",
-        "35a9feb2733115ea42e5c5df13946e37b9f35588",
-        "9784ee613f0a12691b42ca8dbd79c073bbdbea22",
-        "5de4a1f651a950cd517822ae8be2905e164b55de",
-        "f04bd3cb08e708d8abb57821600f7a4c55ee3c0e",
-        "64b84444d2fdb91ad9293eaaa670061a1e25e669",
-        "e1fb14e0fd1812452f57ae9660ba70e25965cb9c",
-        "a276df85506d18da3bef241a87d791518bc90fb7",
-        "49787a1fdd16c8687aa0701671284d43b17d97aa",
-        "3aa3f92078e0f504a10e2e4bac73bf3fe4273763",
-        "6366a7bdc54d8e3fc55f87350d5f83010e572973",
-        "5701b07eba724fc1ef08c12ca8ec50a8f927eb10"
       ]
     }
   ]

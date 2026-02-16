@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-15",
-  "updated_at": "2026-02-15T06:35:18.610Z",
-  "page": "/news/2026-02-15-sport.html",
+  "date": "2026-02-16",
+  "updated_at": "2026-02-16T06:43:38.084Z",
+  "page": "/news/2026-02-16-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "a365e964fa0e89cbc8864dd562e0a5486f8d00a3",
-      "title": "How is Zubimendi helping Arsenal's title push?",
-      "url": "https://www.bbc.com/sport/football/videos/c626j1vp9qgo?at_medium=RSS&at_campaign=rss",
+      "id": "5ea8ffc1682f12721b651834e66cb9975d299d57",
+      "title": "Sofía Gómez Villafañe and Mads Wurtz Schmidt start the season on top step with overall victory at a muddy edition of Santa Vall",
+      "url": "https://www.cyclingnews.com/pro-cycling/sofia-gomez-villafane-and-mads-wurtz-schmidt-start-the-season-on-top-step-with-overall-victory-at-a-muddy-edition-of-santa-vall/",
+      "source": "www.cyclingnews.com",
+      "published_at": "2026-02-16T06:13:58.000Z",
+      "summary": "Summary: Sofía Gómez Villafañe and Mads Wurtz Schmidt start the season on top step with overall victory at a muddy edition of Santa Vall"
+    },
+    {
+      "id": "e84103bd0efb95e588f8b111d779b81a38d61440",
+      "title": "Five talking points from round two of the Six Nations",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cq6qg5y983zo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-15T06:32:16.000Z",
-      "summary": "Summary: How is Zubimendi helping Arsenal's title push?"
+      "published_at": "2026-02-16T06:09:48.000Z",
+      "summary": "Summary: Five talking points from round two of the Six Nations"
     },
     {
-      "id": "0ffce5c6715bbf7a27485af77b9df36472ec56be",
-      "title": "Three years on, Deulofeu is still fighting for 'miracle' return",
-      "url": "https://www.bbc.com/sport/football/articles/c89kxxpj1vko?at_medium=RSS&at_campaign=rss",
+      "id": "0b564e492220a488987f42cc0150bea11c9c111b",
+      "title": "Reddick's Daytona 500 win a buzzer beater befitting of his boss: Michael Jordan",
+      "url": "https://www.espn.com/racing/nascar/story/_/id/47943611/tyler-reddick-nascar-daytona-500-win-buzzer-beater-befitting-23xi-boss-michael-jordan",
+      "source": "www.espn.com",
+      "published_at": "2026-02-16T05:46:34.000Z",
+      "summary": "Summary: Reddick's Daytona 500 win a buzzer beater befitting of his boss: Michael Jordan"
+    },
+    {
+      "id": "2ed5c350d27248794458c9263041cfc7040dd5f4",
+      "title": "Slam dunks, global games, emerging stars: The biggest takeaways from All-Star Weekend",
+      "url": "https://www.espn.com/nba/story/_/id/47851191/nba-all-star-2026-superstar-weekend-usa-world-lebron-durant-giannis-wemby-dunk-contest-3-point",
+      "source": "www.espn.com",
+      "published_at": "2026-02-16T05:45:00.000Z",
+      "summary": "Summary: Slam dunks, global games, emerging stars: The biggest takeaways from All-Star Weekend"
+    },
+    {
+      "id": "eb2b1fae56a768e6ca0f33951aae705d9356f012",
+      "title": "2026 Winter Olympics: Live updates, results and best moments from Milan Cortina",
+      "url": "https://www.espn.com/olympics/story/_/id/47942174/2026-milan-cortina-italy-winter-olympics-best-moments-monday",
+      "source": "www.espn.com",
+      "published_at": "2026-02-16T05:30:52.000Z",
+      "summary": "Summary: 2026 Winter Olympics: Live updates, results and best moments from Milan Cortina"
+    },
+    {
+      "id": "a1efef5f0d8eadb75de6dcd712c002f1dd0f0bbc",
+      "title": "Respawn reveals Apex Legends roadmap through Season 32",
+      "url": "https://dotesports.com/apex-legends/news/respawn-apex-legends-roadmap-seasons-new-legend",
+      "source": "dotesports.com",
+      "published_at": "2026-02-16T05:30:52.000Z",
+      "summary": "Summary: Respawn reveals Apex Legends roadmap through Season 32"
+    },
+    {
+      "id": "1ecd7c66817a3e953763498576e7be0c06e74b59",
+      "title": "Grades, lessons learned and big questions from Team USA's 5-1 win over Germany",
+      "url": "https://www.espn.com/nhl/story/_/id/47942087/olympics-2026-men-hockey-usa-win-germany-grades-players-questions",
+      "source": "www.espn.com",
+      "published_at": "2026-02-16T05:27:41.000Z",
+      "summary": "Summary: Grades, lessons learned and big questions from Team USA's 5-1 win over Germany"
+    },
+    {
+      "id": "e356565fbdff0116d0eda6776e902404d243a63b",
+      "title": "Perfect through three games: Canada grades, takeaways, top players",
+      "url": "https://www.espn.com/nhl/story/_/id/47939390/olympics-2026-men-hockey-canada-win-france-grades-players-questions",
+      "source": "www.espn.com",
+      "published_at": "2026-02-16T05:26:50.000Z",
+      "summary": "Summary: Perfect through three games: Canada grades, takeaways, top players"
+    },
+    {
+      "id": "8093bdeef54f6446620237ffdb5ffa49826a9115",
+      "title": "Wales cling to optimism despite another record loss",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cqj9vwjljnwo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-15T06:19:28.000Z",
-      "summary": "Summary: Three years on, Deulofeu is still fighting for 'miracle' return"
+      "published_at": "2026-02-16T05:04:12.000Z",
+      "summary": "Summary: Wales cling to optimism despite another record loss"
     },
     {
-      "id": "6f3ba25dc0d0d51185af64f5815d47e072276277",
-      "title": "College basketball scores, winners and losers: St. John&#039;s tops Providence after ugly fight; Florida leads SEC",
-      "url": "https://www.cbssports.com/college-basketball/news/college-basketball-scores-winners-and-losers-st-johns-providence-florida-kentucky/",
-      "source": "www.cbssports.com",
-      "published_at": "2026-02-15T05:54:19.000Z",
-      "summary": "Summary: College basketball scores, winners and losers: St. John&#039;s tops Providence after ugly fight; Florida leads SEC"
+      "id": "3ccaca5efdc6e2192b5d59bff31a934231c5b729",
+      "title": "Primal Season 3, Episode 6 Review",
+      "url": "https://www.ign.com/articles/primal-season-3-episode-6-review-recap",
+      "source": "feeds.ign.com",
+      "published_at": "2026-02-16T05:00:00.000Z",
+      "summary": "Summary: Primal Season 3, Episode 6 Review"
     },
     {
-      "id": "6c769c6a5f4ae4e936c15c60459661d37d52a37f",
-      "title": "Illinois vs. Indiana prediction, pick, odds, spread: Fighting Illini look to end two-game losing streak",
-      "url": "https://www.cbssports.com/college-basketball/news/illinois-indiana-prediction-pick-odds-spread-where-to-watch-live/",
-      "source": "www.cbssports.com",
-      "published_at": "2026-02-15T05:24:15.000Z",
-      "summary": "Summary: Illinois vs. Indiana prediction, pick, odds, spread: Fighting Illini look to end two-game losing streak"
-    },
-    {
-      "id": "c8c13505bdc93b5f1bc88c093e203a0123f9dd7c",
-      "title": "TTU rides Toppin gem to upset of No. 1 Arizona",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47934102/texas-tech-rallies-beat-no-1-arizona-over",
+      "id": "5cdea9b3824777a23079104fbb4f83e88c7fb59b",
+      "title": "Edwards, Wemby 'set tone' for competitive ASG",
+      "url": "https://www.espn.com/nba/story/_/id/47943442/team-stars-prevail-competitive-debut-new-all-star-game",
       "source": "www.espn.com",
-      "published_at": "2026-02-15T05:08:38.000Z",
-      "summary": "Summary: TTU rides Toppin gem to upset of No. 1 Arizona"
+      "published_at": "2026-02-16T04:52:39.000Z",
+      "summary": "Summary: Edwards, Wemby 'set tone' for competitive ASG"
     },
     {
-      "id": "5745e8025b83971e8520d523bcf0a54b5d713ac1",
-      "title": "Silver considering all fixes for NBA's tanking issue",
-      "url": "https://www.espn.com/nba/story/_/id/47932615/silver-considering-all-remedies-rampant-tanking-nba",
+      "id": "86ee60ebd7db2f22e145fa2256755d2a9f295ee8",
+      "title": "Kansas St. fires Tang after rant, one Big 12 win",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47943350/sources-jerome-tang-kansas-state-1-11-big-12",
       "source": "www.espn.com",
-      "published_at": "2026-02-15T05:08:38.000Z",
-      "summary": "Summary: Silver considering all fixes for NBA's tanking issue"
-    },
-    {
-      "id": "3252b21b21e6a8c5543a50248920649d9e1cbebc",
-      "title": "Dame claims 3rd title; Johnson wins dunk contest",
-      "url": "https://www.espn.com/nba/story/_/id/47932930/lillard-returns-win-record-tying-third-3-point-shootout",
-      "source": "www.espn.com",
-      "published_at": "2026-02-15T05:08:38.000Z",
-      "summary": "Summary: Dame claims 3rd title; Johnson wins dunk contest"
-    },
-    {
-      "id": "26d491b525b6e037b6d0c180e97fa9253fbaee02",
-      "title": "Sources: MAC to add Sac State for football in '26",
-      "url": "https://www.espn.com/college-football/story/_/id/47933760/mac-add-sacramento-state-football-only-member",
-      "source": "www.espn.com",
-      "published_at": "2026-02-15T05:08:38.000Z",
-      "summary": "Summary: Sources: MAC to add Sac State for football in '26"
-    },
-    {
-      "id": "9037ba7d4e6748992c241e19ad4a8caf548516ac",
-      "title": "Eichel, Tkachuk rally unbeaten U.S. past Denmark",
-      "url": "https://www.espn.com/olympics/story/_/id/47932430/us-men-win-keep-pace-canada-top-seed-olympics",
-      "source": "www.espn.com",
-      "published_at": "2026-02-15T05:08:38.000Z",
-      "summary": "Summary: Eichel, Tkachuk rally unbeaten U.S. past Denmark"
-    },
-    {
-      "id": "96754c6e8008c63e05ad1a98a06175e945d6c2c2",
-      "title": "UConn, UCLA top projected women's top 16 seeds",
-      "url": "https://www.espn.com/womens-college-basketball/story/_/id/47933745/uconn-ucla-lead-early-reveal-ncaa-women-top-16-seeds",
-      "source": "www.espn.com",
-      "published_at": "2026-02-15T05:08:38.000Z",
-      "summary": "Summary: UConn, UCLA top projected women's top 16 seeds"
-    },
-    {
-      "id": "b022cfac803e6bcc8408b4de8da95739624d1180",
-      "title": "Six players ejected in St. John's-Providence clash",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47930376/tempers-flare-six-players-ejected-st-johns-providence-clash",
-      "source": "www.espn.com",
-      "published_at": "2026-02-15T05:08:38.000Z",
-      "summary": "Summary: Six players ejected in St. John's-Providence clash"
-    },
-    {
-      "id": "8fd49c0c49c388630270373474ba0018c492f0c8",
-      "title": "Sources: Raiders promoting Leonard to DC",
-      "url": "https://www.espn.com/nfl/story/_/id/47931317/raiders-promoting-assistant-rob-leonard-dc",
-      "source": "www.espn.com",
-      "published_at": "2026-02-15T05:08:38.000Z",
-      "summary": "Summary: Sources: Raiders promoting Leonard to DC"
+      "published_at": "2026-02-16T04:52:39.000Z",
+      "summary": "Summary: Kansas St. fires Tang after rant, one Big 12 win"
     }
   ]
 }

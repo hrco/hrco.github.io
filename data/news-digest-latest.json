@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-15",
-  "updated_at": "2026-02-15T06:35:14.475Z",
-  "page": "/news/2026-02-15-news.html",
+  "date": "2026-02-16",
+  "updated_at": "2026-02-16T06:43:31.146Z",
+  "page": "/news/2026-02-16-news.html",
   "count": 12,
   "items": [
     {
-      "id": "4748962351d70986cf5c59e27cc512c3fb2066fd",
-      "title": "Beijing warns tech giants to curb ‘involution’ amid AI giveaway war",
-      "url": "https://www.scmp.com/tech/big-tech/article/3343614/beijing-warns-tech-giants-curb-involution-amid-ai-giveaway-war?utm_source=rss_feed",
+      "id": "5116a207b9bbfb7ada1a13da2a84607dae50facf",
+      "title": "Hong Kong court to announce verdict on appeals of 12 jailed activists on February 23",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3343713/hong-kong-court-announce-verdict-appeals-12-jailed-activists-february-23?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-02-15T06:30:07.000Z",
-      "summary": "Summary: Beijing warns tech giants to curb ‘involution’ amid AI giveaway war"
+      "published_at": "2026-02-16T06:39:42.000Z",
+      "summary": "Summary: Hong Kong court to announce verdict on appeals of 12 jailed activists on February 23"
     },
     {
-      "id": "d3b65b94f2d4244501f5e748d663e47d837180bf",
-      "title": "How things went ‘downhill’ for Vietnam’s once-booming cryptocurrency traders",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3343615/how-things-went-downhill-vietnams-once-booming-cryptocurrency-traders?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-02-15T06:26:23.000Z",
-      "summary": "Summary: How things went ‘downhill’ for Vietnam’s once-booming cryptocurrency traders"
-    },
-    {
-      "id": "9b32932a190892ab34ce3b0af162939e0276ee90",
-      "title": "Skoraj 800 gospodinjstev pri nas zjutraj ostalo brez elektrike",
-      "url": "https://www.delo.si/lokalno/ljubljana-in-okolica/v-ljubljani-brez-elektrike-skoraj-800-gospodinjstev",
-      "source": "www.delo.si",
-      "published_at": "2026-02-15T06:23:00.000Z",
-      "summary": "Summary: Skoraj 800 gospodinjstev pri nas zjutraj ostalo brez elektrike"
-    },
-    {
-      "id": "12d60c20479141a9debdfbb555647852695f9cfc",
-      "title": "Domen Prevc junak slovenske veselice v Predazzu (FOTO, VIDEO)",
-      "url": "https://www.delo.si/sport/zimski-sporti/domen-prevc-junak-slovenske-veselice-v-predazzu-foto-video",
-      "source": "www.delo.si",
-      "published_at": "2026-02-15T06:20:00.000Z",
-      "summary": "Summary: Domen Prevc junak slovenske veselice v Predazzu (FOTO, VIDEO)"
-    },
-    {
-      "id": "0ffce5c6715bbf7a27485af77b9df36472ec56be",
-      "title": "Three years on, Deulofeu is still fighting for 'miracle' return",
-      "url": "https://www.bbc.com/sport/football/articles/c89kxxpj1vko?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-15T06:19:28.000Z",
-      "summary": "Summary: Three years on, Deulofeu is still fighting for 'miracle' return"
-    },
-    {
-      "id": "c2a681c63ed78c37213c2e9589771f5fdecc012b",
-      "title": "Alleged cat burglar arrested after priceless Egyptian artefacts taken in Queensland museum heist",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/15/alleged-cat-burglar-arrested-after-priceless-egyptian-artefacts-taken-in-queensland-museum-heist",
-      "source": "www.theguardian.com",
-      "published_at": "2026-02-15T06:12:42.000Z",
-      "summary": "Summary: Alleged cat burglar arrested after priceless Egyptian artefacts taken in Queensland museum heist"
-    },
-    {
-      "id": "78a5adb25e495389a73b0672e17fc6191dde3354",
-      "title": "France's Sophie Adenot and crew arrive at International Space Station",
-      "url": "https://www.france24.com/en/science/20260215-french-astronaut-sophie-adenot-and-crew-arrive-at-international-space-station",
-      "source": "www.france24.com",
-      "published_at": "2026-02-15T06:11:02.000Z",
-      "summary": "Summary: France's Sophie Adenot and crew arrive at International Space Station"
-    },
-    {
-      "id": "2e8e51efab432ae729a48950579ed3b5592fa9d8",
-      "title": "New Research Absolves the Woman Blamed for a Dynasty’s Ruin",
-      "url": "https://www.nytimes.com/2026/02/14/world/asia/china-zhou-dynasty-king-climate-change.html",
-      "source": "rss.nytimes.com",
-      "published_at": "2026-02-15T06:10:49.000Z",
-      "summary": "Summary: New Research Absolves the Woman Blamed for a Dynasty’s Ruin"
-    },
-    {
-      "id": "e392eb7a4229a5724046ca7e76b454236f02b1bf",
-      "title": "Frog toxins the latest poison identified in long line of Russian chemical attacks",
-      "url": "https://www.abc.net.au/news/2026-02-15/alexei-navalny-death-russian-history-of-poisonings/106346616",
-      "source": "www.abc.net.au",
-      "published_at": "2026-02-15T06:06:23.000Z",
-      "summary": "Summary: Frog toxins the latest poison identified in long line of Russian chemical attacks"
-    },
-    {
-      "id": "fbaaf72873f3033bb27695f851d69cf25833497e",
-      "title": "Kakšno vlogo je imel Logar v aferi 'Glupi davki'?",
-      "url": "https://www.24ur.com/novice/dejstva/kaksno-vlogo-je-imel-logar-v-aferi-glupi-davki.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-15T06:05:21.000Z",
-      "summary": "Summary: Kakšno vlogo je imel Logar v aferi 'Glupi davki'?"
-    },
-    {
-      "id": "b19485d1cd6a0cbce384ead38e3b0f4b5bb225d8",
-      "title": "'Za ene smo murgelski podtaknjenec ali zlati prinašalec, za druge satelit'",
-      "url": "https://www.24ur.com/novice/slovenija-odloca/intervju-z-anzetom-logarjem.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-15T06:04:53.000Z",
-      "summary": "Summary: 'Za ene smo murgelski podtaknjenec ali zlati prinašalec, za druge satelit'"
-    },
-    {
-      "id": "bd9090f6f7dbccb59c572c9d2b3768cc0cc83875",
-      "title": "\"Kaj je v športu več, kot to? Fantazija, ko se ti uresničijo sanje vseh sanj\"",
-      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/smucarski-skoki/kaj-je-v-sportu-vec-kot-to-fantazija-ko-se-ti-uresnicijo-sanje-vseh-sanj/773433",
+      "id": "b9d13ef1efdce24cd610bd6cd948068843ddd5b6",
+      "title": "Novi format, nova energija: Wembanyama in Edwards v središču pozornosti",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/novi-format-nova-energija-wembanyama-in-edwards-v-srediscu-pozornosti/773565",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-15T06:01:28.000Z",
-      "summary": "Summary: \"Kaj je v športu več, kot to? Fantazija, ko se ti uresničijo sanje vseh sanj\""
+      "published_at": "2026-02-16T06:36:41.000Z",
+      "summary": "Summary: Novi format, nova energija: Wembanyama in Edwards v središču pozornosti"
+    },
+    {
+      "id": "d444d869a65c46cc7fb4e9fd81aa4f43a598131e",
+      "title": "Concerns over autocracy in the U.S. continue to grow",
+      "url": "https://www.npr.org/2026/02/16/nx-s1-5705955/us-autocracy-concerns-grow",
+      "source": "feeds.npr.org",
+      "published_at": "2026-02-16T06:34:02.000Z",
+      "summary": "Summary: Concerns over autocracy in the U.S. continue to grow"
+    },
+    {
+      "id": "a642802532e2d43f6cb95ee4b7f57687470381e9",
+      "title": "Indonesia’s Gaza gamble",
+      "url": "https://www.aljazeera.com/opinions/2026/2/16/indonesias-gaza-gamble?traffic_source=rss",
+      "source": "www.aljazeera.com",
+      "published_at": "2026-02-16T06:29:59.000Z",
+      "summary": "Summary: Indonesia’s Gaza gamble"
+    },
+    {
+      "id": "038907e8c11e807f4c2d5d77084a30de8b4bdab2",
+      "title": "Australia news live: SA police arrest 75-year-old over unrelated matter during search for missing Gus Lamont",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb",
+      "source": "www.theguardian.com",
+      "published_at": "2026-02-16T06:29:11.000Z",
+      "summary": "Summary: Australia news live: SA police arrest 75-year-old over unrelated matter during search for missing Gus Lamont"
+    },
+    {
+      "id": "1dbe4473b48bd542615a12a5e8aba755013f8ad9",
+      "title": "Nevarni zastoji pri Kranju: s hitrostjo 100 km/h mimo stoječih vozil",
+      "url": "https://www.24ur.com/novice/slovenija/eden-najbolj-nevarnih-izvozov-v-drzavi-100-kmh-mimo-stojecih-vozil.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-16T06:25:10.000Z",
+      "summary": "Summary: Nevarni zastoji pri Kranju: s hitrostjo 100 km/h mimo stoječih vozil"
+    },
+    {
+      "id": "ce3f44be788c07644d5d49e85cc8259080d4f2f1",
+      "title": "Premikajo meje znanosti, a kdo jih zares vidi?",
+      "url": "https://www.24ur.com/novice/slovenija/meje-premikajo-v-svetu-nekoc-rezerviranem-za-moske.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-16T06:24:27.000Z",
+      "summary": "Summary: Premikajo meje znanosti, a kdo jih zares vidi?"
+    },
+    {
+      "id": "8faa7deb11c15cfb4df6683352cd0a8947bdf558",
+      "title": "Gus Lamont: police return to South Australia home of missing four-year-old in search for new evidence",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/16/gus-lamont-update-south-australia-police-search-home-ntwnfb",
+      "source": "www.theguardian.com",
+      "published_at": "2026-02-16T06:20:30.000Z",
+      "summary": "Summary: Gus Lamont: police return to South Australia home of missing four-year-old in search for new evidence"
+    },
+    {
+      "id": "7988ee71c51aeb347e2a20274e8d7854df486b8d",
+      "title": "Murder accused's DNA found on anonymous tip-off letter about missing wife",
+      "url": "https://www.abc.net.au/news/2026-02-16/raymond-reddington-murder-trial-accuseds-dna-on-tip-off-letter/106349940",
+      "source": "www.abc.net.au",
+      "published_at": "2026-02-16T06:20:17.000Z",
+      "summary": "Summary: Murder accused's DNA found on anonymous tip-off letter about missing wife"
+    },
+    {
+      "id": "b1e2ced910041bc8582ff9b950478b5340d812eb",
+      "title": "Europeans push back at US over claim they face 'civilizational erasure'",
+      "url": "https://www.npr.org/2026/02/16/nx-s1-5715730/europe-us-civilizational-erasure",
+      "source": "feeds.npr.org",
+      "published_at": "2026-02-16T06:13:23.000Z",
+      "summary": "Summary: Europeans push back at US over claim they face 'civilizational erasure'"
+    },
+    {
+      "id": "9cec6a279467d79e40ff957c8be2620872d80067",
+      "title": "19. februar je prelomni dan za volitve v državni zbor, tudi za volivce",
+      "url": "https://www.delo.si/novice/slovenija/19-februar-je-prelomni-dan-za-volitve-v-drzavni-zbor-tudi-za-volivce",
+      "source": "www.delo.si",
+      "published_at": "2026-02-16T06:13:00.000Z",
+      "summary": "Summary: 19. februar je prelomni dan za volitve v državni zbor, tudi za volivce"
+    },
+    {
+      "id": "82a716ee6fa11044156526e91c7ae3a659bc18a3",
+      "title": "2026 Olympics: France tie all-time medal record with 1 week left",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260216-2026-olympics-france-tie-all-time-medal-record-with-1-week-left",
+      "source": "www.france24.com",
+      "published_at": "2026-02-16T06:11:52.000Z",
+      "summary": "Summary: 2026 Olympics: France tie all-time medal record with 1 week left"
     }
   ]
 }

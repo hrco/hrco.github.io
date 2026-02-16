@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-15T06:35:18.610Z",
+  "updated_at": "2026-02-16T06:43:38.084Z",
   "days": [
+    {
+      "date": "2026-02-16",
+      "page": "/news/2026-02-16-sport.html",
+      "teaser": "Top: Sofía Gómez Villafañe and Mads Wurtz Schmidt start the season on top step with overall victory at a muddy edition of Santa Vall",
+      "count": 12,
+      "ids": [
+        "5ea8ffc1682f12721b651834e66cb9975d299d57",
+        "e84103bd0efb95e588f8b111d779b81a38d61440",
+        "0b564e492220a488987f42cc0150bea11c9c111b",
+        "2ed5c350d27248794458c9263041cfc7040dd5f4",
+        "eb2b1fae56a768e6ca0f33951aae705d9356f012",
+        "a1efef5f0d8eadb75de6dcd712c002f1dd0f0bbc",
+        "1ecd7c66817a3e953763498576e7be0c06e74b59",
+        "e356565fbdff0116d0eda6776e902404d243a63b",
+        "8093bdeef54f6446620237ffdb5ffa49826a9115",
+        "3ccaca5efdc6e2192b5d59bff31a934231c5b729",
+        "5cdea9b3824777a23079104fbb4f83e88c7fb59b",
+        "86ee60ebd7db2f22e145fa2256755d2a9f295ee8"
+      ]
+    },
     {
       "date": "2026-02-15",
       "page": "/news/2026-02-15-sport.html",
@@ -579,26 +599,6 @@
         "7456a1f887a05a7ca38d338aa88a9f7aff58ca1c",
         "cfcdfdc64852af7c3bf956c77475f36a5448a06c",
         "119b0361c6361a936b25bd2a7243537a086a7ea4"
-      ]
-    },
-    {
-      "date": "2026-01-12",
-      "page": "/news/2026-01-12-sport.html",
-      "teaser": "Top: Our early primer for the divisional round matchups: How every team could win next weekend",
-      "count": 12,
-      "ids": [
-        "8bd163fb8381e145203dfadfdd589f0a459dc0ca",
-        "635a9495967be45096d18a71b8e387a52b3ff5fc",
-        "5f9761ebd574e1a79234bc7175d9344cef33c196",
-        "1fd71ee8e337fcc99202a0b85e338750028ff117",
-        "caeea0809637f39c22f3f9f890334b76adcd3943",
-        "097358fcbea82fabe0dff3b2765829daf918912b",
-        "091f56f9ff03ab48a18813d1b4eb0ec43970ceab",
-        "509e7f4b34d71da828ea082bce79e9bd5757f15a",
-        "0255b599dbaf64c248a5c954c6538b73140da49d",
-        "c19975829cd9d1691bff8386a0568dce37793daf",
-        "a44d7c6141ae7f03847da0066d1f32361fa157bc",
-        "07f6d117a21ad7a3690b0d1321f56537f37a0653"
       ]
     }
   ]

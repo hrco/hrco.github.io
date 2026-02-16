@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-15",
-  "updated_at": "2026-02-15T06:35:02.679Z",
-  "page": "/news/2026-02-15.html",
+  "date": "2026-02-16",
+  "updated_at": "2026-02-16T06:43:16.116Z",
+  "page": "/news/2026-02-16.html",
   "count": 12,
   "items": [
     {
-      "id": "9b32932a190892ab34ce3b0af162939e0276ee90",
-      "title": "Skoraj 800 gospodinjstev pri nas zjutraj ostalo brez elektrike",
-      "url": "https://www.delo.si/lokalno/ljubljana-in-okolica/v-ljubljani-brez-elektrike-skoraj-800-gospodinjstev",
-      "source": "www.delo.si",
-      "published_at": "2026-02-15T06:23:00.000Z",
-      "summary": "Summary: Skoraj 800 gospodinjstev pri nas zjutraj ostalo brez elektrike"
-    },
-    {
-      "id": "9c65826f1dfdd133c7652cdc5dc391809a900781",
-      "title": "The Symbol for All of Us is Null",
-      "url": "https://dev.to/goodrelax/the-symbol-for-all-of-us-is-null-59kn",
-      "source": "dev.to",
-      "published_at": "2026-02-15T06:21:54.000Z",
-      "summary": "Summary: The Symbol for All of Us is Null"
-    },
-    {
-      "id": "12d60c20479141a9debdfbb555647852695f9cfc",
-      "title": "Domen Prevc junak slovenske veselice v Predazzu (FOTO, VIDEO)",
-      "url": "https://www.delo.si/sport/zimski-sporti/domen-prevc-junak-slovenske-veselice-v-predazzu-foto-video",
-      "source": "www.delo.si",
-      "published_at": "2026-02-15T06:20:00.000Z",
-      "summary": "Summary: Domen Prevc junak slovenske veselice v Predazzu (FOTO, VIDEO)"
-    },
-    {
-      "id": "bb03ca706b9d21a69136c17cd1b7c06decac1ec9",
-      "title": "8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D",
-      "url": "https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-55p6",
-      "source": "dev.to",
-      "published_at": "2026-02-15T06:06:02.000Z",
-      "summary": "Summary: 8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D"
-    },
-    {
-      "id": "fbaaf72873f3033bb27695f851d69cf25833497e",
-      "title": "Kakšno vlogo je imel Logar v aferi 'Glupi davki'?",
-      "url": "https://www.24ur.com/novice/dejstva/kaksno-vlogo-je-imel-logar-v-aferi-glupi-davki.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-15T06:05:21.000Z",
-      "summary": "Summary: Kakšno vlogo je imel Logar v aferi 'Glupi davki'?"
-    },
-    {
-      "id": "b19485d1cd6a0cbce384ead38e3b0f4b5bb225d8",
-      "title": "'Za ene smo murgelski podtaknjenec ali zlati prinašalec, za druge satelit'",
-      "url": "https://www.24ur.com/novice/slovenija-odloca/intervju-z-anzetom-logarjem.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-15T06:04:53.000Z",
-      "summary": "Summary: 'Za ene smo murgelski podtaknjenec ali zlati prinašalec, za druge satelit'"
-    },
-    {
-      "id": "bd9090f6f7dbccb59c572c9d2b3768cc0cc83875",
-      "title": "\"Kaj je v športu več, kot to? Fantazija, ko se ti uresničijo sanje vseh sanj\"",
-      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/smucarski-skoki/kaj-je-v-sportu-vec-kot-to-fantazija-ko-se-ti-uresnicijo-sanje-vseh-sanj/773433",
+      "id": "b9d13ef1efdce24cd610bd6cd948068843ddd5b6",
+      "title": "Novi format, nova energija: Wembanyama in Edwards v središču pozornosti",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/novi-format-nova-energija-wembanyama-in-edwards-v-srediscu-pozornosti/773565",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-15T06:01:28.000Z",
-      "summary": "Summary: \"Kaj je v športu več, kot to? Fantazija, ko se ti uresničijo sanje vseh sanj\""
+      "published_at": "2026-02-16T06:36:41.000Z",
+      "summary": "Summary: Novi format, nova energija: Wembanyama in Edwards v središču pozornosti"
     },
     {
-      "id": "a416f982589c35771875257bc9244eb82c8dc81e",
-      "title": "Domen Prevc: To je največ, kar lahko športnik doseže",
-      "url": "https://www.24ur.com/sport/olimpijske-igre/milano-cortina2026/domen-prevc-to-je-najvec-kar-sportnik-lahko-doseze.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-15T06:00:02.000Z",
-      "summary": "Summary: Domen Prevc: To je največ, kar lahko športnik doseže"
-    },
-    {
-      "id": "bc947cc871069913c0a795f6b2e2d7f1635d1159",
-      "title": "Nuša o zvestobi: Mogoče bi se moral Tim učiti od mene",
-      "url": "https://www.24ur.com/tv-oddaje/kmetija/nusa-o-zvestobi-mogoce-bi-se-moral-tim-uciti-od-mene.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-15T06:00:02.000Z",
-      "summary": "Summary: Nuša o zvestobi: Mogoče bi se moral Tim učiti od mene"
-    },
-    {
-      "id": "337fd47d17177eb7a3c23c7c11dfd732a678bf91",
-      "title": "Sveža rast doma in vse bolj divji Wall Street",
-      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/sveza-rast-doma-in-vse-bolj-divji-wall-street/773418",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-15T05:53:04.000Z",
-      "summary": "Summary: Sveža rast doma in vse bolj divji Wall Street"
-    },
-    {
-      "id": "5904a1da30eaabef651ea0feac747ea1084c5347",
-      "title": "Rustroke - WASM mini draw",
-      "url": "https://dev.to/pengeszikra/rustroke-wasm-mini-draw-3oih",
+      "id": "7f562141156b669d6274869908ee47f0566a28dd",
+      "title": "How a DEV Friend and I Brought Two Avatars to Life",
+      "url": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
       "source": "dev.to",
-      "published_at": "2026-02-15T05:50:42.000Z",
-      "summary": "Summary: Rustroke - WASM mini draw"
+      "published_at": "2026-02-16T06:31:42.000Z",
+      "summary": "Summary: How a DEV Friend and I Brought Two Avatars to Life"
     },
     {
-      "id": "54246be921bea8fe7da14793e61878f7a06eee8e",
-      "title": "I Built a Tamagotchi That Judges Your GitHub Activity 🐾 (and it's brutally honest)",
-      "url": "https://dev.to/depapp/i-built-a-tamagotchi-that-judges-your-github-activity-and-its-brutally-honest-oh1",
+      "id": "d71c17c1fa04d7fe2d8b5a291f344c42bc74b363",
+      "title": "IPv4: The Foundation of Networking",
+      "url": "https://dev.to/araiz/ipv4-the-foundation-of-networking-50in",
       "source": "dev.to",
-      "published_at": "2026-02-15T05:43:20.000Z",
-      "summary": "Summary: I Built a Tamagotchi That Judges Your GitHub Activity 🐾 (and it's brutally honest)"
+      "published_at": "2026-02-16T06:30:00.000Z",
+      "summary": "Summary: IPv4: The Foundation of Networking"
+    },
+    {
+      "id": "1dbe4473b48bd542615a12a5e8aba755013f8ad9",
+      "title": "Nevarni zastoji pri Kranju: s hitrostjo 100 km/h mimo stoječih vozil",
+      "url": "https://www.24ur.com/novice/slovenija/eden-najbolj-nevarnih-izvozov-v-drzavi-100-kmh-mimo-stojecih-vozil.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-16T06:25:10.000Z",
+      "summary": "Summary: Nevarni zastoji pri Kranju: s hitrostjo 100 km/h mimo stoječih vozil"
+    },
+    {
+      "id": "ce3f44be788c07644d5d49e85cc8259080d4f2f1",
+      "title": "Premikajo meje znanosti, a kdo jih zares vidi?",
+      "url": "https://www.24ur.com/novice/slovenija/meje-premikajo-v-svetu-nekoc-rezerviranem-za-moske.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-16T06:24:27.000Z",
+      "summary": "Summary: Premikajo meje znanosti, a kdo jih zares vidi?"
+    },
+    {
+      "id": "8500dd362bb405681d945233f1866fe6b1f21229",
+      "title": "AutoFinance: Your AI Financial Command Center, right inside the terminal!",
+      "url": "https://dev.to/crypticsaiyan/autofinance-your-ai-financial-command-center-right-inside-the-terminal-5anl",
+      "source": "dev.to",
+      "published_at": "2026-02-16T06:22:07.000Z",
+      "summary": "Summary: AutoFinance: Your AI Financial Command Center, right inside the terminal!"
+    },
+    {
+      "id": "85e91c0456f8e8985aedc9ebc562b5ed9ef50a32",
+      "title": "I Open-Sourced a 67-file GitHub Enterprise Playbook — Why and How I Built It",
+      "url": "https://dev.to/hagishun/i-open-sourced-a-67-file-github-enterprise-playbook-why-and-how-i-built-it-2a1b",
+      "source": "dev.to",
+      "published_at": "2026-02-16T06:20:31.000Z",
+      "summary": "Summary: I Open-Sourced a 67-file GitHub Enterprise Playbook — Why and How I Built It"
+    },
+    {
+      "id": "d8b5354685d4db7c486a45022c1868c3d2f5e3f0",
+      "title": "Mastering Image Caching and Lazy Loading in Hybrid Mobile Apps",
+      "url": "https://dev.to/rpi1337/mastering-image-caching-and-lazy-loading-in-hybrid-mobile-apps-294m",
+      "source": "dev.to",
+      "published_at": "2026-02-16T06:19:44.000Z",
+      "summary": "Summary: Mastering Image Caching and Lazy Loading in Hybrid Mobile Apps"
+    },
+    {
+      "id": "2c17b1d8941a9a340f0bc5a936857bc1c9d4de15",
+      "title": "Coding With Kids: From Paper Sketch to Playable Game",
+      "url": "https://dev.to/suckup_de/coding-with-kids-from-paper-sketch-to-playable-game-49cm",
+      "source": "dev.to",
+      "published_at": "2026-02-16T06:18:39.000Z",
+      "summary": "Summary: Coding With Kids: From Paper Sketch to Playable Game"
+    },
+    {
+      "id": "3dfdd74454fea33008dd1bf33117f4eeabdb8037",
+      "title": "DevInsight — A CLI Tool for Git Repository Analysis and Developer Insights",
+      "url": "https://dev.to/taj_sarkar/devinsight-a-cli-tool-for-git-repository-analysis-and-developer-insights-3dno",
+      "source": "dev.to",
+      "published_at": "2026-02-16T06:16:24.000Z",
+      "summary": "Summary: DevInsight — A CLI Tool for Git Repository Analysis and Developer Insights"
+    },
+    {
+      "id": "2d7ae95e40e73aa44be9de9d4796f790b5435fb9",
+      "title": "TanStack Start vs Next.js: A Deep Dive into Modern React Frameworks",
+      "url": "https://dev.to/anuuu016/tanstack-start-vs-nextjs-a-deep-dive-into-modern-react-frameworks-1f9c",
+      "source": "dev.to",
+      "published_at": "2026-02-16T06:13:48.000Z",
+      "summary": "Summary: TanStack Start vs Next.js: A Deep Dive into Modern React Frameworks"
+    },
+    {
+      "id": "074547670c85f88538a9488a71c0afc181c08c59",
+      "title": "RealityCheck CLI — Turn Legal Contracts into Decision-Grade Risk Intelligence",
+      "url": "https://dev.to/anandqwe/realitycheck-cli-turn-legal-contracts-into-decision-grade-risk-intelligence-5dcm",
+      "source": "dev.to",
+      "published_at": "2026-02-16T06:13:46.000Z",
+      "summary": "Summary: RealityCheck CLI — Turn Legal Contracts into Decision-Grade Risk Intelligence"
     }
   ]
 }
