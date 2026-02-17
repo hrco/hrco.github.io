@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-16T06:43:31.146Z",
+  "updated_at": "2026-02-17T06:39:03.492Z",
   "days": [
+    {
+      "date": "2026-02-17",
+      "page": "/news/2026-02-17-news.html",
+      "teaser": "Top: Barcelona se je nasukala v Gironi, krivec pa tudi največji zvedznik",
+      "count": 12,
+      "ids": [
+        "34349661fed005602d589f8cccad711280ed28c9",
+        "630e9bfe01ce8933c3e7b9cdac8a5e89cbc26177",
+        "ee9209aedc2b28d9d6665cd3f1ab9103743b87b4",
+        "979ca5b1fad7da852d14069f0ca086bd8e30f8b0",
+        "a75c1a22f5fa88f64ecc7486b0e34ad31da01984",
+        "6e2d555374452d78c27a300ad1865c6c4fbbde88",
+        "c0a31aca23c731822b73ef91a6a747d79fbe376f",
+        "ff4341da91dbcde6348e090b3b5b5798f2e23204",
+        "10b63e3d0e6ba152b943bad3d59c543a1c7b313e",
+        "ec22b1564d07c55b298c67d976598951a3818eaa",
+        "af29192b19b47a277f59bd08efca0c0ce446ff41",
+        "458c8e0d99b452f9df6d428f020a7a7d7a0d25ec"
+      ]
+    },
     {
       "date": "2026-02-16",
       "page": "/news/2026-02-16-news.html",
@@ -579,26 +599,6 @@
         "79e062f3caa1b09581cb13fd03356d102bd33c5b",
         "45b461f785eaf9c8a0cb6ff0d1f6576f46c89318",
         "587de85caefd703c82af5d96d0edb0d256ce490d"
-      ]
-    },
-    {
-      "date": "2026-01-13",
-      "page": "/news/2026-01-13-news.html",
-      "teaser": "Top: Australia news live: Queensland stock losses from floods and cyclone top 50,000 amid fears ‘that is only the beginning’, premier says",
-      "count": 12,
-      "ids": [
-        "cfece962ee5bdd519179f62928cfa6dc098132f0",
-        "7693511052a2489283a3a6a6b4fa3b534568f48c",
-        "5168010abca8eab1e8e6327f2d047e1470641f39",
-        "63060182beb181fcf2911e3aaccdce47d7c2be03",
-        "96b57126fdc099f619d905ea5b2166decf7b96c8",
-        "0c20c4e63aaf22483ebfca68c4f37b6accf5e8fc",
-        "1ed2528193eed7f408880afeab42478b962aebf4",
-        "82cc0eec2c93b873b1a8debb00dc8b42e68410af",
-        "3a8c4f8ec5686186cf1fe3dd0dce4a2a3947b559",
-        "861daabc117da5f098c69bfb4f64442d9c3efa6c",
-        "661d7ca94a898a140e246f43225520c8845b1369",
-        "e8c52d75e9d4409b5e48969393b955409fafa003"
       ]
     }
   ]

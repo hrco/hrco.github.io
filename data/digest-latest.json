@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-16",
-  "updated_at": "2026-02-16T06:43:16.116Z",
-  "page": "/news/2026-02-16.html",
+  "date": "2026-02-17",
+  "updated_at": "2026-02-17T06:38:48.820Z",
+  "page": "/news/2026-02-17.html",
   "count": 12,
   "items": [
     {
-      "id": "b9d13ef1efdce24cd610bd6cd948068843ddd5b6",
-      "title": "Novi format, nova energija: Wembanyama in Edwards v središču pozornosti",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/novi-format-nova-energija-wembanyama-in-edwards-v-srediscu-pozornosti/773565",
+      "id": "507c859467ce3787a0ece20f9d5a46f9fe8f5da7",
+      "title": "JasonTheWeen island challenge takes wild turn after White Speed appears",
+      "url": "https://dotesports.com/streaming/news/jasontheween-island-challenge-white-speed",
+      "source": "dotesports.com",
+      "published_at": "2026-02-17T06:32:57.000Z",
+      "summary": "Summary: JasonTheWeen island challenge takes wild turn after White Speed appears"
+    },
+    {
+      "id": "34349661fed005602d589f8cccad711280ed28c9",
+      "title": "Barcelona se je nasukala v Gironi, krivec pa tudi največji zvedznik",
+      "url": "https://www.delo.si/sport/nogomet/barcelona-se-je-nasukala-v-gironi-krivec-pa-tudi-najvecji-zvedznik",
+      "source": "www.delo.si",
+      "published_at": "2026-02-17T06:31:00.000Z",
+      "summary": "Summary: Barcelona se je nasukala v Gironi, krivec pa tudi največji zvedznik"
+    },
+    {
+      "id": "87c283e2fd0f47be7a050b48f1d50950d0942293",
+      "title": "I Built a Privacy-First Collection of Browser-Based Dev Tools",
+      "url": "https://dev.to/bussardramjet/i-built-a-privacy-first-collection-of-browser-based-dev-tools-1bn",
+      "source": "dev.to",
+      "published_at": "2026-02-17T06:27:27.000Z",
+      "summary": "Summary: I Built a Privacy-First Collection of Browser-Based Dev Tools"
+    },
+    {
+      "id": "5101dc167f060c1677ab3940b3de896b81f57d85",
+      "title": "Two ClickHouse Internals That Change How You Write Queries",
+      "url": "https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5",
+      "source": "dev.to",
+      "published_at": "2026-02-17T06:27:18.000Z",
+      "summary": "Summary: Two ClickHouse Internals That Change How You Write Queries"
+    },
+    {
+      "id": "31d6f3a2c8811b89a353d544a06f9df4f95f6f33",
+      "title": "Lessons Learned Building My First EdTech Startup as a Solo Developer in two month",
+      "url": "https://dev.to/steve_weng_2d0c3078e39eb9/lessons-learned-building-my-first-edtech-startup-as-a-solo-developer-in-two-month-2cml",
+      "source": "dev.to",
+      "published_at": "2026-02-17T06:25:33.000Z",
+      "summary": "Summary: Lessons Learned Building My First EdTech Startup as a Solo Developer in two month"
+    },
+    {
+      "id": "a75c1a22f5fa88f64ecc7486b0e34ad31da01984",
+      "title": "Sneg osrečil Poljake, najbolj razočarani Japonci in Nemci",
+      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/smucarski-skoki/sneg-osrecil-poljake-najbolj-razocarani-japonci-in-nemci/773679",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-16T06:36:41.000Z",
-      "summary": "Summary: Novi format, nova energija: Wembanyama in Edwards v središču pozornosti"
+      "published_at": "2026-02-17T06:23:07.000Z",
+      "summary": "Summary: Sneg osrečil Poljake, najbolj razočarani Japonci in Nemci"
     },
     {
-      "id": "7f562141156b669d6274869908ee47f0566a28dd",
-      "title": "How a DEV Friend and I Brought Two Avatars to Life",
-      "url": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
+      "id": "05bf3ef9d6309ededf4796a1e803b85db0537473",
+      "title": "Exploring conv-kmeans-lab: A C++ Tool for CIELAB Image Color Segmentation",
+      "url": "https://dev.to/rpi1337/exploring-conv-kmeans-lab-a-c-tool-for-cielab-image-color-segmentation-31aa",
       "source": "dev.to",
-      "published_at": "2026-02-16T06:31:42.000Z",
-      "summary": "Summary: How a DEV Friend and I Brought Two Avatars to Life"
+      "published_at": "2026-02-17T06:20:25.000Z",
+      "summary": "Summary: Exploring conv-kmeans-lab: A C++ Tool for CIELAB Image Color Segmentation"
     },
     {
-      "id": "d71c17c1fa04d7fe2d8b5a291f344c42bc74b363",
-      "title": "IPv4: The Foundation of Networking",
-      "url": "https://dev.to/araiz/ipv4-the-foundation-of-networking-50in",
+      "id": "8f39e90680109266c15bd4384c49ad02eda31ae0",
+      "title": "Pruning in Deep Learning: Structured vs Unstructured",
+      "url": "https://dev.to/kishorev_2006/knowledge-distillation-with-low-rank-matrix-factorization-3bnm",
       "source": "dev.to",
-      "published_at": "2026-02-16T06:30:00.000Z",
-      "summary": "Summary: IPv4: The Foundation of Networking"
+      "published_at": "2026-02-17T06:19:03.000Z",
+      "summary": "Summary: Pruning in Deep Learning: Structured vs Unstructured"
     },
     {
-      "id": "1dbe4473b48bd542615a12a5e8aba755013f8ad9",
-      "title": "Nevarni zastoji pri Kranju: s hitrostjo 100 km/h mimo stoječih vozil",
-      "url": "https://www.24ur.com/novice/slovenija/eden-najbolj-nevarnih-izvozov-v-drzavi-100-kmh-mimo-stojecih-vozil.html",
+      "id": "7e8dcd0403bcfc48b4160770ffef32714e2ade32",
+      "title": "🚀 Stop Writing Separate Skeleton Components in React",
+      "url": "https://dev.to/shanukj/stop-writing-separate-skeleton-components-in-react-52b0",
+      "source": "dev.to",
+      "published_at": "2026-02-17T06:14:37.000Z",
+      "summary": "Summary: 🚀 Stop Writing Separate Skeleton Components in React"
+    },
+    {
+      "id": "ec22b1564d07c55b298c67d976598951a3818eaa",
+      "title": "Legendarnim Jamajčanom avto obtičal v snegu",
+      "url": "https://www.24ur.com/sport/olimpijske-igre/milano-cortina2026/bob-jamajka-olimpijske-igre-cortina.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-16T06:25:10.000Z",
-      "summary": "Summary: Nevarni zastoji pri Kranju: s hitrostjo 100 km/h mimo stoječih vozil"
+      "published_at": "2026-02-17T06:13:43.000Z",
+      "summary": "Summary: Legendarnim Jamajčanom avto obtičal v snegu"
     },
     {
-      "id": "ce3f44be788c07644d5d49e85cc8259080d4f2f1",
-      "title": "Premikajo meje znanosti, a kdo jih zares vidi?",
-      "url": "https://www.24ur.com/novice/slovenija/meje-premikajo-v-svetu-nekoc-rezerviranem-za-moske.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-16T06:24:27.000Z",
-      "summary": "Summary: Premikajo meje znanosti, a kdo jih zares vidi?"
-    },
-    {
-      "id": "8500dd362bb405681d945233f1866fe6b1f21229",
-      "title": "AutoFinance: Your AI Financial Command Center, right inside the terminal!",
-      "url": "https://dev.to/crypticsaiyan/autofinance-your-ai-financial-command-center-right-inside-the-terminal-5anl",
+      "id": "626ff1f0d7317f8efe2938bb40ffb2a2bb50e5e9",
+      "title": "How to Become a DevOps Engineer with AWS, Azure, and GCP (2026 Complete Roadmap)",
+      "url": "https://dev.to/pallavivemula/how-to-become-a-devops-engineer-with-aws-azure-and-gcp-2026-complete-roadmap-4n5c",
       "source": "dev.to",
-      "published_at": "2026-02-16T06:22:07.000Z",
-      "summary": "Summary: AutoFinance: Your AI Financial Command Center, right inside the terminal!"
+      "published_at": "2026-02-17T06:10:42.000Z",
+      "summary": "Summary: How to Become a DevOps Engineer with AWS, Azure, and GCP (2026 Complete Roadmap)"
     },
     {
-      "id": "85e91c0456f8e8985aedc9ebc562b5ed9ef50a32",
-      "title": "I Open-Sourced a 67-file GitHub Enterprise Playbook — Why and How I Built It",
-      "url": "https://dev.to/hagishun/i-open-sourced-a-67-file-github-enterprise-playbook-why-and-how-i-built-it-2a1b",
+      "id": "a6c2693e116df6a6959b27abe340ec9b60a38106",
+      "title": "🚀 Smart Contracts Explained: How Self-Executing Code Is Transforming Business on Ethereum and Beyond",
+      "url": "https://dev.to/okoye_ndidiamaka_5e3b7d30/smart-contracts-explained-how-self-executing-code-is-transforming-business-on-ethereum-and-beyond-2kd0",
       "source": "dev.to",
-      "published_at": "2026-02-16T06:20:31.000Z",
-      "summary": "Summary: I Open-Sourced a 67-file GitHub Enterprise Playbook — Why and How I Built It"
-    },
-    {
-      "id": "d8b5354685d4db7c486a45022c1868c3d2f5e3f0",
-      "title": "Mastering Image Caching and Lazy Loading in Hybrid Mobile Apps",
-      "url": "https://dev.to/rpi1337/mastering-image-caching-and-lazy-loading-in-hybrid-mobile-apps-294m",
-      "source": "dev.to",
-      "published_at": "2026-02-16T06:19:44.000Z",
-      "summary": "Summary: Mastering Image Caching and Lazy Loading in Hybrid Mobile Apps"
-    },
-    {
-      "id": "2c17b1d8941a9a340f0bc5a936857bc1c9d4de15",
-      "title": "Coding With Kids: From Paper Sketch to Playable Game",
-      "url": "https://dev.to/suckup_de/coding-with-kids-from-paper-sketch-to-playable-game-49cm",
-      "source": "dev.to",
-      "published_at": "2026-02-16T06:18:39.000Z",
-      "summary": "Summary: Coding With Kids: From Paper Sketch to Playable Game"
-    },
-    {
-      "id": "3dfdd74454fea33008dd1bf33117f4eeabdb8037",
-      "title": "DevInsight — A CLI Tool for Git Repository Analysis and Developer Insights",
-      "url": "https://dev.to/taj_sarkar/devinsight-a-cli-tool-for-git-repository-analysis-and-developer-insights-3dno",
-      "source": "dev.to",
-      "published_at": "2026-02-16T06:16:24.000Z",
-      "summary": "Summary: DevInsight — A CLI Tool for Git Repository Analysis and Developer Insights"
-    },
-    {
-      "id": "2d7ae95e40e73aa44be9de9d4796f790b5435fb9",
-      "title": "TanStack Start vs Next.js: A Deep Dive into Modern React Frameworks",
-      "url": "https://dev.to/anuuu016/tanstack-start-vs-nextjs-a-deep-dive-into-modern-react-frameworks-1f9c",
-      "source": "dev.to",
-      "published_at": "2026-02-16T06:13:48.000Z",
-      "summary": "Summary: TanStack Start vs Next.js: A Deep Dive into Modern React Frameworks"
-    },
-    {
-      "id": "074547670c85f88538a9488a71c0afc181c08c59",
-      "title": "RealityCheck CLI — Turn Legal Contracts into Decision-Grade Risk Intelligence",
-      "url": "https://dev.to/anandqwe/realitycheck-cli-turn-legal-contracts-into-decision-grade-risk-intelligence-5dcm",
-      "source": "dev.to",
-      "published_at": "2026-02-16T06:13:46.000Z",
-      "summary": "Summary: RealityCheck CLI — Turn Legal Contracts into Decision-Grade Risk Intelligence"
+      "published_at": "2026-02-17T06:09:53.000Z",
+      "summary": "Summary: 🚀 Smart Contracts Explained: How Self-Executing Code Is Transforming Business on Ethereum and Beyond"
     }
   ]
 }
