@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-17",
-  "updated_at": "2026-02-17T06:39:09.117Z",
-  "page": "/news/2026-02-17-sport.html",
+  "date": "2026-02-18",
+  "updated_at": "2026-02-18T06:41:46.770Z",
+  "page": "/news/2026-02-18-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "507c859467ce3787a0ece20f9d5a46f9fe8f5da7",
-      "title": "JasonTheWeen island challenge takes wild turn after White Speed appears",
-      "url": "https://dotesports.com/streaming/news/jasontheween-island-challenge-white-speed",
+      "id": "b5316ce31c4dd1bf89be135bf047d28e4057ee58",
+      "title": "Wales' Hawkins ready to mix it with Scottish Lions",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/c2k8g3wlevzo?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-02-18T06:28:47.000Z",
+      "summary": "Summary: Wales' Hawkins ready to mix it with Scottish Lions"
+    },
+    {
+      "id": "8f2293d6ebc6c1177994118e8bf8a54e35144364",
+      "title": "MLBPA head Clark resigns after internal probe",
+      "url": "https://www.espn.com/mlb/story/_/id/47954830/sources-tony-clark-resign-mlbpa-executive-director",
+      "source": "www.espn.com",
+      "published_at": "2026-02-18T06:27:46.000Z",
+      "summary": "Summary: MLBPA head Clark resigns after internal probe"
+    },
+    {
+      "id": "d1a3747be579a5e6a0569f86a82ef686bc56cba4",
+      "title": "Agent: WR Evans plans to continue playing in '26",
+      "url": "https://www.espn.com/nfl/story/_/id/47958580/agent-wr-mike-evans-plans-play-13th-nfl-season-2026",
+      "source": "www.espn.com",
+      "published_at": "2026-02-18T06:27:46.000Z",
+      "summary": "Summary: Agent: WR Evans plans to continue playing in '26"
+    },
+    {
+      "id": "2d70752ef074ec9383916714a9ae6575cf5a50c8",
+      "title": "QB Rashada's suit vs. Napier, UF booster settled",
+      "url": "https://www.espn.com/college-football/story/_/id/47960080/jaden-rashada-former-gators-football-coach-billy-napier-florida-booster-settle-lawsuit-failed-nil-deal",
+      "source": "www.espn.com",
+      "published_at": "2026-02-18T06:27:46.000Z",
+      "summary": "Summary: QB Rashada's suit vs. Napier, UF booster settled"
+    },
+    {
+      "id": "95bb55086a2e8eae3c2afb1fdda665f28c9f4445",
+      "title": "K-State flexes 'resiliency,' wins Driscoll's debut",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47961409/kansas-state-cruises-baylor-matthew-driscoll-debut",
+      "source": "www.espn.com",
+      "published_at": "2026-02-18T06:27:46.000Z",
+      "summary": "Summary: K-State flexes 'resiliency,' wins Driscoll's debut"
+    },
+    {
+      "id": "41e0b106131a844c6fdc15461764c574f15aaac1",
+      "title": "Union counters; WNBA calls proposal 'unrealistic'",
+      "url": "https://www.espn.com/wnba/story/_/id/47959643/wnbpa-counterproposal-includes-some-concessions-revenue-share-housing",
+      "source": "www.espn.com",
+      "published_at": "2026-02-18T06:27:46.000Z",
+      "summary": "Summary: Union counters; WNBA calls proposal 'unrealistic'"
+    },
+    {
+      "id": "f6e1144b92fb88152d1454a5ec3a93124e889000",
+      "title": "UCLA's Cronin ejects own player after flagrant foul",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47961666/ucla-coach-mick-cronin-ejects-steven-jamerson-flagrant-foul-loss-michigan-state",
+      "source": "www.espn.com",
+      "published_at": "2026-02-18T06:27:46.000Z",
+      "summary": "Summary: UCLA's Cronin ejects own player after flagrant foul"
+    },
+    {
+      "id": "5e6cc3de2b2187dcd4a6a0ac76f01d926f662523",
+      "title": "🏈 Which teams nailed the CFB transfer portal?",
+      "url": "https://www.espn.com/college-football/story/_/id/47909332/best-college-football-transfer-portal-addition-top-25-teams",
+      "source": "www.espn.com",
+      "published_at": "2026-02-18T06:27:46.000Z",
+      "summary": "Summary: 🏈 Which teams nailed the CFB transfer portal?"
+    },
+    {
+      "id": "e88e44e148de555214449a7cf532111afb75bad1",
+      "title": "Vini Jr. accuses 'coward' Prestianni of racist abuse",
+      "url": "https://www.espn.com/soccer/story/_/id/47958070/vinicius-junior-racist-abuse-real-madrid-benfica",
+      "source": "www.espn.com",
+      "published_at": "2026-02-18T06:27:45.000Z",
+      "summary": "Summary: Vini Jr. accuses 'coward' Prestianni of racist abuse"
+    },
+    {
+      "id": "374a0434fe2aa2a40f179848da4fefde71234d0e",
+      "title": "U-M reaffirms No. 1 ranking with win over Purdue",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47960876/michigan-reaffirms-no-1-ranking-dispatching-no-7-purdue",
+      "source": "www.espn.com",
+      "published_at": "2026-02-18T06:27:45.000Z",
+      "summary": "Summary: U-M reaffirms No. 1 ranking with win over Purdue"
+    },
+    {
+      "id": "0a2dac2abfca3abe038fada61c67cf16eea67fe0",
+      "title": "Best KTS100 MK8 loadout in Battlefield 6",
+      "url": "https://dotesports.com/battlefield/news/best-kts100-mk8-loadout-bf6",
       "source": "dotesports.com",
-      "published_at": "2026-02-17T06:32:57.000Z",
-      "summary": "Summary: JasonTheWeen island challenge takes wild turn after White Speed appears"
+      "published_at": "2026-02-18T06:00:53.000Z",
+      "summary": "Summary: Best KTS100 MK8 loadout in Battlefield 6"
     },
     {
-      "id": "7206e1c30689ddb6c07e3117305b09ca10678a66",
-      "title": "Rocket League brings Easy Anti-Cheat on Steam and Epic Games in Season 22",
-      "url": "https://dotesports.com/rocket-league/news/rocket-league-easy-anti-cheat-steam-epic-games",
-      "source": "dotesports.com",
-      "published_at": "2026-02-17T05:39:09.000Z",
-      "summary": "Summary: Rocket League brings Easy Anti-Cheat on Steam and Epic Games in Season 22"
-    },
-    {
-      "id": "d22cdaef64ec64755faad3a84ac6c78b3184af10",
-      "title": "Men's AP Top 25 poll reaction: Michigan is the new No. 1",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47947351/ap-mens-college-basketball-top-25-poll-reaction-2026-week-15-michigan",
+      "id": "7432574a260c81a9371525288b3d50adda060454",
+      "title": "Balogun double sets U.S. mark in UCL knockouts",
+      "url": "https://www.espn.com/soccer/story/_/id/47957489/balogun-double-monaco-usa-mark-ucl-knockouts",
       "source": "www.espn.com",
-      "published_at": "2026-02-17T05:33:35.000Z",
-      "summary": "Summary: Men's AP Top 25 poll reaction: Michigan is the new No. 1"
-    },
-    {
-      "id": "13106faa2463d6c85af07405ac1fea39ece1b467",
-      "title": "Hideki Sato, longtime Sega hardware architect and former president, has passed away",
-      "url": "https://dotesports.com/general/news/hideki-sato-sega-passed-away",
-      "source": "dotesports.com",
-      "published_at": "2026-02-17T05:21:46.000Z",
-      "summary": "Summary: Hideki Sato, longtime Sega hardware architect and former president, has passed away"
-    },
-    {
-      "id": "06fcbf51c8af092066623404a6da621d3c81c12f",
-      "title": "Heise 3 lifts ISU hours after sister scores for U.S.",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/47952219/nate-heise-fuels-no-6-iowa-state-win-no-2-houston",
-      "source": "www.espn.com",
-      "published_at": "2026-02-17T05:19:50.000Z",
-      "summary": "Summary: Heise 3 lifts ISU hours after sister scores for U.S."
-    },
-    {
-      "id": "a80affdbb3f48c95bec373a25ce6b9f05f938a94",
-      "title": "Hill, cut by Fins, vows 'the Cheetah will be back'",
-      "url": "https://www.espn.com/nfl/story/_/id/47947892/sources-dolphins-release-8-pro-bowl-wr-tyreek-hill",
-      "source": "www.espn.com",
-      "published_at": "2026-02-17T05:19:50.000Z",
-      "summary": "Summary: Hill, cut by Fins, vows 'the Cheetah will be back'"
-    },
-    {
-      "id": "b7059280fb09cb8150a2bfa6002f3c459f7e5eb4",
-      "title": "USA's Meyers Taylor, 41, wins 1st Olympic gold",
-      "url": "https://www.espn.com/olympics/story/_/id/47949476/usa-elana-meyers-taylor-41-wins-1st-olympic-gold-monobob",
-      "source": "www.espn.com",
-      "published_at": "2026-02-17T05:19:50.000Z",
-      "summary": "Summary: USA's Meyers Taylor, 41, wins 1st Olympic gold"
-    },
-    {
-      "id": "dfcc802de63e6fa01e759c919508af5cb84a9768",
-      "title": "U.S. women's hockey to face Canada in final",
-      "url": "https://www.espn.com/olympics/story/_/id/47948469/us-women-hockey-blanks-sweden-play-olympic-gold",
-      "source": "www.espn.com",
-      "published_at": "2026-02-17T05:19:50.000Z",
-      "summary": "Summary: U.S. women's hockey to face Canada in final"
-    },
-    {
-      "id": "de6633e2902d8ca7824f014a758b3e855e419771",
-      "title": "Shooting at R.I. rink leaves 3 dead, teams fleeing",
-      "url": "https://www.espn.com/espn/story/_/id/47950101/shooting-stands-ri-rink-leaves-3-dead-others-injured",
-      "source": "www.espn.com",
-      "published_at": "2026-02-17T05:19:50.000Z",
-      "summary": "Summary: Shooting at R.I. rink leaves 3 dead, teams fleeing"
-    },
-    {
-      "id": "775f090ad270120ae136ac87bc71f84e362af62a",
-      "title": "Judge: Frustrated by slow start to Yanks' winter",
-      "url": "https://www.espn.com/mlb/story/_/id/47949721/aaron-judge-yankees-good-spot-slow-offseason-start",
-      "source": "www.espn.com",
-      "published_at": "2026-02-17T05:19:50.000Z",
-      "summary": "Summary: Judge: Frustrated by slow start to Yanks' winter"
-    },
-    {
-      "id": "c276a40df3cb649580862009dcf3cc6c757f09d1",
-      "title": "Browns' Hickman assaulted at New York hotel",
-      "url": "https://www.espn.com/nfl/story/_/id/47949112/browns-hickman-assaulted-nyc-treated-minor-injuries",
-      "source": "www.espn.com",
-      "published_at": "2026-02-17T05:19:50.000Z",
-      "summary": "Summary: Browns' Hickman assaulted at New York hotel"
-    },
-    {
-      "id": "219d7e72e677678024940522020af38392faea88",
-      "title": "French hockey player who fought Wilson banned",
-      "url": "https://www.espn.com/olympics/story/_/id/47949716/french-hockey-player-fought-tom-wilson-suspended",
-      "source": "www.espn.com",
-      "published_at": "2026-02-17T05:19:50.000Z",
-      "summary": "Summary: French hockey player who fought Wilson banned"
+      "published_at": "2026-02-18T05:42:35.000Z",
+      "summary": "Summary: Balogun double sets U.S. mark in UCL knockouts"
     }
   ]
 }

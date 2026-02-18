@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-17T06:38:48.820Z",
+  "updated_at": "2026-02-18T06:41:30.228Z",
   "days": [
+    {
+      "date": "2026-02-18",
+      "page": "/news/2026-02-18.html",
+      "teaser": "Top: U.S. court bars OpenAI from using &#8216;Cameo&#8217;",
+      "count": 12,
+      "ids": [
+        "d06f916bf5410b55ea49c4088b9341c914e150cc",
+        "9d1e0065deedc8a233b5c3a858a78db7548d4c9c",
+        "c1a6c65fc344dd7bdbea2de7161b84b60aed0a97",
+        "1113aa34b35825761a4b48e7420775ff13538dff",
+        "d811751d9c27e4a00547669eaefaab4e974f1363",
+        "da6b6ab2919627457f6109b1d5ab3d814e6a9b2a",
+        "b32e4ea206bd563a9620691dc0062ff8bf203632",
+        "190bcfc8a2c3399d9f9b12b4b363a8f0891971d0",
+        "18fe373333c82b65a9ed59595f8ddfcc22b106f9",
+        "bebeba0efcc0e9b5e5b1fe0d3b4c5cda08b328f8",
+        "7dbf8e6fb2bf4694480f8f896cffc2ae94467b38",
+        "5eb27baea6841b6f8bf71a57a365f4962e9a7af3"
+      ]
+    },
     {
       "date": "2026-02-17",
       "page": "/news/2026-02-17.html",
@@ -579,26 +599,6 @@
         "075ebf14ead472e76b95ceca9d6f201687dc66ac",
         "9aa022f7319971f478a6adf31524788c542e19ee",
         "7ae1f2b0f80db8ad6f4b938adc444e29ce738245"
-      ]
-    },
-    {
-      "date": "2026-01-14",
-      "page": "/news/2026-01-14.html",
-      "teaser": "Top: Dončić razpoložen v prvem polčasu, James v drugem za konec črne serije",
-      "count": 12,
-      "ids": [
-        "44f6255e052f73909f68cdbbaf625aa5d03203a7",
-        "71605db131b7fc9fcf66082e0c58438436accdf2",
-        "a3df02442c0f238842aa0cd2577af604aaed43b9",
-        "471dd128f1d034a504dba9da39f84f0a5a1e0b53",
-        "6e2695d1d291ddc04d1b358eb1867eb20fb19678",
-        "dc6bae42a33710cd359ffdb556efadf21996ddea",
-        "79e062f3caa1b09581cb13fd03356d102bd33c5b",
-        "1ebb1a6b95021b3d8c6aec328b7002fab9c6665f",
-        "9d4dbc713eef40242b230043a32f5ba94269abbc",
-        "587de85caefd703c82af5d96d0edb0d256ce490d",
-        "436c5533025ac19fad2e05c7a3e5ab48255a8589",
-        "7f25f8e754ab4c84f7539009132a23044829ffa5"
       ]
     }
   ]
