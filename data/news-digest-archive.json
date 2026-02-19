@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-18T06:41:41.790Z",
+  "updated_at": "2026-02-19T06:40:40.559Z",
   "days": [
+    {
+      "date": "2026-02-19",
+      "page": "/news/2026-02-19-news.html",
+      "teaser": "Top: Salmon farm antibiotics found in native species",
+      "count": 12,
+      "ids": [
+        "3113758f024731a40b8a0e26560ef282a8741716",
+        "3fc1c4c1bca7bff68ff209166172c9735dd8cc4d",
+        "08afc78d83ea6dddc91afce481f8f04a5eb2533f",
+        "13da89dd0068d2aaa57b1cfee938f4021374c8cf",
+        "7c1634ac11fb671ec92818b00e5c7520e2264169",
+        "fea0b1e1726a66031ab6c1d55a3fb08fcf155a65",
+        "96a0bdc15c7603f28003e3692fbda22f2538e71d",
+        "42dc1c738eb5a35dc01d2f33d4a2ba61d7641a93",
+        "9eac7edf057b066c13bc9f43ad9499153e3d6875",
+        "1d90d34209f94d76183a206e3bccc314299c3db7",
+        "8a26f899107f1ddad3d569dab4d37635d3d2954b",
+        "32371aca260c35a98d3e8798d6cf8033b55ad3da"
+      ]
+    },
     {
       "date": "2026-02-18",
       "page": "/news/2026-02-18-news.html",
@@ -579,26 +599,6 @@
         "9266b5a9908dd4b86da48b7612ea0a39dacb08f9",
         "678c1089bf4083a66c2216047bc25cf02ed9d8b9",
         "3db53aca8cf552b8f498ef92e6b8be21aac56506"
-      ]
-    },
-    {
-      "date": "2026-01-15",
-      "page": "/news/2026-01-15-news.html",
-      "teaser": "Top: Na prvi preizkušnji za novega trenerja tudi prvi šok",
-      "count": 12,
-      "ids": [
-        "9953818ababc6dd446c73942f9af0358e28bdc28",
-        "32d72ef024d9adca3a2c08630049ed41f29d79af",
-        "2025cc06ce1a6b03174d712666f6a21c9e0ad50b",
-        "24712a623c6c400ad1792e866f80d4c5a774a51c",
-        "b9d17400ce8007539dc0a6303701f54ed98a39a6",
-        "0a1164ac1d15ceb27ac43161c796806bbda07642",
-        "8b757062b514d5a42e548f586fa802e300ebe45e",
-        "087039f1c204d61bdfd340aa97206041db570ab0",
-        "8df9f5c209fa0fb059d088ff2843421a60302ba7",
-        "d93ef1ed3ad88b3378f4f4eb56861abbfe71b336",
-        "a68e4d2a324893c24e21eb5c52c4f339fba3ae77",
-        "522c3613006729994fcc14a37d23ba9690fb0add"
       ]
     }
   ]

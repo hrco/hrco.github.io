@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-18T06:41:30.228Z",
+  "updated_at": "2026-02-19T06:40:31.876Z",
   "days": [
+    {
+      "date": "2026-02-19",
+      "page": "/news/2026-02-19.html",
+      "teaser": "Top: The Secret Life of JavaScript: The Catch",
+      "count": 12,
+      "ids": [
+        "929e7e872b298cf4e91b41f01116273e1d5bba6f",
+        "0e788ad05960fc88fafbd63478103753c10a235c",
+        "96a0bdc15c7603f28003e3692fbda22f2538e71d",
+        "46d016c547ab27c5b4aff2b909b7f337bc1487d2",
+        "ce15329296d5f3192116277020d8e94236fa10e7",
+        "ac63aaeb3197238fbf56c02b3d69cc5562242054",
+        "a829809f536b14ca42eb5be0268418110cf55174",
+        "4b9f4c3a677554f2f153557035bc20e02cbba2af",
+        "3c9baa1cf91b64ccb8d36c4abc3ae396d4b19264",
+        "b7b5c517e7ce38edbc5483b78f118ce3e483e52d",
+        "ed55f46b07a4070779c640a8a977d3a17cd976a3",
+        "df5fa6f5996426e986d03f9132d1b900980f5a47"
+      ]
+    },
     {
       "date": "2026-02-18",
       "page": "/news/2026-02-18.html",
@@ -579,26 +599,6 @@
         "78d9dd7fe9d8e055e210c985d7ca4fce73fd5a2e",
         "d76343ef0981a7c745d1ee0cb4d630e31dd6df93",
         "f97b55c6ffc20dc0b54af9d23cb3bbfa08200dfc"
-      ]
-    },
-    {
-      "date": "2026-01-15",
-      "page": "/news/2026-01-15.html",
-      "teaser": "Top: First-ever free Hytale servers are up thanks to Tubbo and Play Hosting collab",
-      "count": 12,
-      "ids": [
-        "d871bf13a0fc8a769bfe5361a1d1bb08c4a31849",
-        "9953818ababc6dd446c73942f9af0358e28bdc28",
-        "a97b91a0f595769b58c6f8d4b9a77928676b937a",
-        "32d72ef024d9adca3a2c08630049ed41f29d79af",
-        "548596859dbc02d657fa49ae8cf940cd83f8b7c1",
-        "f0bdbc6ec8ac29b9f9e84a3e5f40a465c43157b7",
-        "ac0d2747df4c4ff1adcc02ca5c5e0f3049e7ee8d",
-        "fd2fc1f84ebaa49ff7e0c11d5d41c85f9bc58ef2",
-        "4a5da777bb004b311df94c03e378506cc7b29ac6",
-        "075ebf14ead472e76b95ceca9d6f201687dc66ac",
-        "9aa022f7319971f478a6adf31524788c542e19ee",
-        "7ae1f2b0f80db8ad6f4b938adc444e29ce738245"
       ]
     }
   ]

@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-18T06:41:46.770Z",
+  "updated_at": "2026-02-19T06:40:44.782Z",
   "days": [
+    {
+      "date": "2026-02-19",
+      "page": "/news/2026-02-19-sport.html",
+      "teaser": "Top: MLBPA elevates Meyer after Clark's resignation",
+      "count": 12,
+      "ids": [
+        "54d51056e0c9da64b805cdd2ad5f944dceb241ce",
+        "d41974850600f8ea218e32f20f194a33dbd147ff",
+        "2f4a474f69cb02fc0b6535c9a1c88ed7d421e249",
+        "a39fd371a66737594b8f1b4f7ac92ee772ec5edd",
+        "afb3e03c256853358802dff49f32f9b0fff130cb",
+        "792cd08c09b2a5d04ed3f96b38c5b84a452cc39c",
+        "e1573473244a5e3aadb38e926113c072f9438dae",
+        "3b58ba894183598d22c8c3fb2a833a6f25e46ffb",
+        "470abccf22c027f55152831d773bb5e647802c40",
+        "ea6c995a5f7037f92dbe8e65156dc8b42ac4d21e",
+        "79e961554e8771d6b8eeea43d00693b20daa25ac",
+        "2f7bd71998f2bf66548f1c04a220f96125004d85"
+      ]
+    },
     {
       "date": "2026-02-18",
       "page": "/news/2026-02-18-sport.html",
@@ -579,26 +599,6 @@
         "80ffefd576769e7af831a9ef53fcacb2e3c39410",
         "aaa42b0d17ee5429c701e719a5c8f355f0bd91c6",
         "d287bd70d65d6939ed8ced4b11b335bfd754996c"
-      ]
-    },
-    {
-      "date": "2026-01-15",
-      "page": "/news/2026-01-15-sport.html",
-      "teaser": "Top: First-ever free Hytale servers are up thanks to Tubbo and Play Hosting collab",
-      "count": 12,
-      "ids": [
-        "d871bf13a0fc8a769bfe5361a1d1bb08c4a31849",
-        "73b2b95473b1bb104382d2d68f671d48945d0edd",
-        "b63a3c50f0babe9d6bb794f557c0f41d9ca43bc9",
-        "c5b83b8f86fb77208c267b951b3bd4f6e6d9b08e",
-        "d36ee8470c428bd9b7259a6526832a0bb1cc91b7",
-        "a614ead5a388fe50779efc4d8d87bae0649c5126",
-        "1ffd7e42d9e3e0d56d9621deebd061c21bdc5e15",
-        "6fb67162479329e95b678cdf781e08df7dfe409d",
-        "a300b629f11152cb6ebef09c4b7ab6e6c7bd0b4a",
-        "ffbdfccf9aba8bcb46ae5c0ae756d5862aaefbeb",
-        "eed1bcd4fb97a5e1b5f3c3617fd6378a8086930d",
-        "4456590fdba2c6bd6d4e454d24c567d098a8e2b3"
       ]
     }
   ]

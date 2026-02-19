@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-18",
-  "updated_at": "2026-02-18T06:41:30.228Z",
-  "page": "/news/2026-02-18.html",
+  "date": "2026-02-19",
+  "updated_at": "2026-02-19T06:40:31.876Z",
+  "page": "/news/2026-02-19.html",
   "count": 12,
   "items": [
     {
-      "id": "d06f916bf5410b55ea49c4088b9341c914e150cc",
-      "title": "U.S. court bars OpenAI from using &#8216;Cameo&#8217;",
-      "url": "https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/",
-      "source": "techcrunch.com",
-      "published_at": "2026-02-18T06:40:59.000Z",
-      "summary": "Summary: U.S. court bars OpenAI from using &#8216;Cameo&#8217;"
-    },
-    {
-      "id": "9d1e0065deedc8a233b5c3a858a78db7548d4c9c",
-      "title": "Pustil jo je na gori, kjer je umrla: objavili seznam napak, ki so vodile v smrt",
-      "url": "https://www.24ur.com/novice/tujina/pustil-jo-je-na-gori-kjer-je-umrla-objavili-seznam-napak-ki-so-vodile-v-njeno-smrt.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-18T06:38:59.000Z",
-      "summary": "Summary: Pustil jo je na gori, kjer je umrla: objavili seznam napak, ki so vodile v smrt"
-    },
-    {
-      "id": "c1a6c65fc344dd7bdbea2de7161b84b60aed0a97",
-      "title": "Static Serving, H3, and the Last Piece of v0.1",
-      "url": "https://dev.to/mdreal32/static-serving-h3-and-the-last-piece-of-v01-3iea",
+      "id": "929e7e872b298cf4e91b41f01116273e1d5bba6f",
+      "title": "The Secret Life of JavaScript: The Catch",
+      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-catch-1bp0",
       "source": "dev.to",
-      "published_at": "2026-02-18T06:20:45.000Z",
-      "summary": "Summary: Static Serving, H3, and the Last Piece of v0.1"
+      "published_at": "2026-02-19T06:32:42.000Z",
+      "summary": "Summary: The Secret Life of JavaScript: The Catch"
     },
     {
-      "id": "1113aa34b35825761a4b48e7420775ff13538dff",
-      "title": "How Content Pipelines Break When Writers Meet Model Limits (A Systems Deconstruction)",
-      "url": "https://dev.to/olivia_perell_/how-content-pipelines-break-when-writers-meet-model-limits-a-systems-deconstruction-18f6",
-      "source": "dev.to",
-      "published_at": "2026-02-18T06:20:37.000Z",
-      "summary": "Summary: How Content Pipelines Break When Writers Meet Model Limits (A Systems Deconstruction)"
-    },
-    {
-      "id": "d811751d9c27e4a00547669eaefaab4e974f1363",
-      "title": "🐠 ANN: appraisal2 v3.0.6 - support frozen appraisal lockfiles",
-      "url": "https://dev.to/galtzo/ann-appraisal2-v306-support-frozen-appraisal-lockfiles-20ml",
-      "source": "dev.to",
-      "published_at": "2026-02-18T06:20:33.000Z",
-      "summary": "Summary: 🐠 ANN: appraisal2 v3.0.6 - support frozen appraisal lockfiles"
-    },
-    {
-      "id": "da6b6ab2919627457f6109b1d5ab3d814e6a9b2a",
-      "title": "15 years later, Microsoft morged my diagram",
-      "url": "https://nvie.com/posts/15-years-later/",
-      "source": "hnrss.org",
-      "published_at": "2026-02-18T06:20:13.000Z",
-      "summary": "Summary: 15 years later, Microsoft morged my diagram"
-    },
-    {
-      "id": "b32e4ea206bd563a9620691dc0062ff8bf203632",
-      "title": "Building a PostgreSQL Parser in Go: What Broke After We Open-Sourced It",
-      "url": "https://dev.to/eitamos_ring_0508146ca448/building-a-postgresql-parser-in-go-what-broke-after-we-open-sourced-it-3i8h",
-      "source": "dev.to",
-      "published_at": "2026-02-18T06:18:53.000Z",
-      "summary": "Summary: Building a PostgreSQL Parser in Go: What Broke After We Open-Sourced It"
-    },
-    {
-      "id": "190bcfc8a2c3399d9f9b12b4b363a8f0891971d0",
-      "title": "When Deep Research Turns into Technical Debt: A Reverse Guide for Research Workflows",
-      "url": "https://dev.to/jamesdev4123/when-deep-research-turns-into-technical-debt-a-reverse-guide-for-research-workflows-3ke9",
-      "source": "dev.to",
-      "published_at": "2026-02-18T06:18:22.000Z",
-      "summary": "Summary: When Deep Research Turns into Technical Debt: A Reverse Guide for Research Workflows"
-    },
-    {
-      "id": "18fe373333c82b65a9ed59595f8ddfcc22b106f9",
-      "title": "Bo nordijska kombinacija ostala v olimpijski družini športov?",
-      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/nordijska-kombinacija/bo-nordijska-kombinacija-ostala-v-olimpijski-druzini-sportov/773798",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-18T06:18:02.000Z",
-      "summary": "Summary: Bo nordijska kombinacija ostala v olimpijski družini športov?"
-    },
-    {
-      "id": "bebeba0efcc0e9b5e5b1fe0d3b4c5cda08b328f8",
-      "title": "Za muslimane se po sončnem zahodu začenja sveti mesec ramazan",
-      "url": "https://www.delo.si/novice/slovenija/za-muslimane-se-po-soncnem-zahodu-zacenja-sveti-mesec-ramazan",
-      "source": "www.delo.si",
-      "published_at": "2026-02-18T06:17:00.000Z",
-      "summary": "Summary: Za muslimane se po sončnem zahodu začenja sveti mesec ramazan"
-    },
-    {
-      "id": "7dbf8e6fb2bf4694480f8f896cffc2ae94467b38",
-      "title": "Cheveley: Copper Being Dragged to US by Tariff Threats",
-      "url": "https://www.bloomberg.com/news/videos/2026-02-18/cheveley-copper-being-dragged-to-us-by-tariff-threats-video",
+      "id": "0e788ad05960fc88fafbd63478103753c10a235c",
+      "title": "Nigeria Redirects Oil, Gas Revenue to Bolster State Finances",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-19/nigeria-redirects-oil-gas-revenue-to-bolster-state-finances",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-18T06:13:50.000Z",
-      "summary": "Summary: Cheveley: Copper Being Dragged to US by Tariff Threats"
+      "published_at": "2026-02-19T06:30:43.000Z",
+      "summary": "Summary: Nigeria Redirects Oil, Gas Revenue to Bolster State Finances"
     },
     {
-      "id": "5eb27baea6841b6f8bf71a57a365f4962e9a7af3",
-      "title": "The Efficiency Paradox: Why Solving a Problem in 6 Minutes Might Bankrupt Your Agency",
-      "url": "https://dev.to/yaseen_tech/the-efficiency-paradox-why-solving-a-problem-in-6-minutes-might-bankrupt-your-agency-251g",
+      "id": "96a0bdc15c7603f28003e3692fbda22f2538e71d",
+      "title": "Več alpskih zlatih medalj kot Mikaela osvojila le Aamodt in Janica Kostelić",
+      "url": "https://www.rtvslo.si/sport/oi-2026/vec-alpskih-zlatih-medalj-kot-mikaela-osvojila-le-aamodt-in-janica-kostelic/773911",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-19T06:21:53.000Z",
+      "summary": "Summary: Več alpskih zlatih medalj kot Mikaela osvojila le Aamodt in Janica Kostelić"
+    },
+    {
+      "id": "46d016c547ab27c5b4aff2b909b7f337bc1487d2",
+      "title": "Process, Threads and Goroutines",
+      "url": "https://dev.to/pshycodr/process-threads-and-goroutines-95l",
       "source": "dev.to",
-      "published_at": "2026-02-18T06:12:44.000Z",
-      "summary": "Summary: The Efficiency Paradox: Why Solving a Problem in 6 Minutes Might Bankrupt Your Agency"
+      "published_at": "2026-02-19T06:21:51.000Z",
+      "summary": "Summary: Process, Threads and Goroutines"
+    },
+    {
+      "id": "ce15329296d5f3192116277020d8e94236fa10e7",
+      "title": "What I'd Build Next (And Actually Start Building)",
+      "url": "https://dev.to/ribhavmodi/what-id-build-next-and-actually-start-building-11l6",
+      "source": "dev.to",
+      "published_at": "2026-02-19T06:15:29.000Z",
+      "summary": "Summary: What I'd Build Next (And Actually Start Building)"
+    },
+    {
+      "id": "ac63aaeb3197238fbf56c02b3d69cc5562242054",
+      "title": "Part-4: Automating EC2 Infrastructure using Terraform | Amazon Web Services (AWS)",
+      "url": "https://dev.to/olymahmud/part-4-automating-ec2-infrastructure-using-terraform-amazon-web-services-aws-190a",
+      "source": "dev.to",
+      "published_at": "2026-02-19T06:11:34.000Z",
+      "summary": "Summary: Part-4: Automating EC2 Infrastructure using Terraform | Amazon Web Services (AWS)"
+    },
+    {
+      "id": "a829809f536b14ca42eb5be0268418110cf55174",
+      "title": "Lestvica uspešnosti alpskega smučanja: Slovenija šele na 17. mestu",
+      "url": "https://www.rtvslo.si/sport/sportni-sos/lestvica-uspesnosti-alpskega-smucanja-slovenija-sele-na-17-mestu/773910",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-19T06:10:16.000Z",
+      "summary": "Summary: Lestvica uspešnosti alpskega smučanja: Slovenija šele na 17. mestu"
+    },
+    {
+      "id": "4b9f4c3a677554f2f153557035bc20e02cbba2af",
+      "title": "Skrivni ženski bralni klub, ki kljubuje nasilnemu režimu",
+      "url": "https://www.delo.si/novice/svet/skrivni-zenski-bralni-klub-ki-kljubuje-nasilnezem",
+      "source": "www.delo.si",
+      "published_at": "2026-02-19T06:09:00.000Z",
+      "summary": "Summary: Skrivni ženski bralni klub, ki kljubuje nasilnemu režimu"
+    },
+    {
+      "id": "3c9baa1cf91b64ccb8d36c4abc3ae396d4b19264",
+      "title": "Nestle Sees Sales Growth of Up to 4% This Year Amid Revamp",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-19/nestle-sees-sales-growth-of-up-to-4-this-year-amid-revamp",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-19T06:08:47.000Z",
+      "summary": "Summary: Nestle Sees Sales Growth of Up to 4% This Year Amid Revamp"
+    },
+    {
+      "id": "b7b5c517e7ce38edbc5483b78f118ce3e483e52d",
+      "title": "7 Days of Java Coding Practice – My Structured Preparation Plan",
+      "url": "https://dev.to/tamilselvan1812/7-days-of-java-coding-practice-my-structured-preparation-plan-mg7",
+      "source": "dev.to",
+      "published_at": "2026-02-19T06:01:06.000Z",
+      "summary": "Summary: 7 Days of Java Coding Practice – My Structured Preparation Plan"
+    },
+    {
+      "id": "ed55f46b07a4070779c640a8a977d3a17cd976a3",
+      "title": "Žigan Krajnčan razkril izvor svojega nenavadnega imena",
+      "url": "https://www.24ur.com/popin/zigan-krajncan-razkril-izvor-svojega-nenavadnega-imena.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-19T06:00:08.000Z",
+      "summary": "Summary: Žigan Krajnčan razkril izvor svojega nenavadnega imena"
+    },
+    {
+      "id": "df5fa6f5996426e986d03f9132d1b900980f5a47",
+      "title": "Neimenovani viri: Ameriška vojska je pripravljena napasti Iran",
+      "url": "https://www.24ur.com/novice/tujina/ameriska-vojska-pripravljena-napasti-iran-ze-v-prihodnjih-dneh.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-19T05:56:10.000Z",
+      "summary": "Summary: Neimenovani viri: Ameriška vojska je pripravljena napasti Iran"
     }
   ]
 }
