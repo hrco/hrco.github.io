@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-19T06:40:31.876Z",
+  "updated_at": "2026-02-20T06:36:47.971Z",
   "days": [
+    {
+      "date": "2026-02-20",
+      "page": "/news/2026-02-20.html",
+      "teaser": "Top: Marsikje so se zbudili v zasneženo jutro, največ snega v Podravju",
+      "count": 12,
+      "ids": [
+        "9a12b133f34a9a326f61f9ac6cd9ac3d6cb02cec",
+        "1a18c7cef750d9d218e370aface6e9071c32b4b5",
+        "940702511738c347505aa9e50e24b57e602d411c",
+        "d72a52311dc5895d315d10c20f148444709f2520",
+        "32f928aa4ac114be7c6944b762a0c1f332f56367",
+        "8a28356034bf1022bb25e0c7a1f59f7928050ea9",
+        "f6b5249db69fd66a50de4c4fc4926d8eb15ef143",
+        "eb57a560cb793979d873b060a00326fc7f13ebc5",
+        "e6ec3cb86cb6f9490ec09018afc0346c7bb9c2d5",
+        "824341de357e4b4dddf744f6f0a386fab15740ff",
+        "93a3422c2f6be1cdf7d7b90dc33e044066fe0018",
+        "4ad7b4cf84cdcace522879c41e8a811917cd59e7"
+      ]
+    },
     {
       "date": "2026-02-19",
       "page": "/news/2026-02-19.html",
@@ -579,26 +599,6 @@
         "8f7e9384e3414a1c111729d951786a6d5bdd4b30",
         "221372515dc83b7980af4feaea99a8748d1d444b",
         "1cfa1d7e2c6f9f8cdd07d99eed84874db22ee364"
-      ]
-    },
-    {
-      "date": "2026-01-16",
-      "page": "/news/2026-01-16.html",
-      "teaser": "Top: Miran Tepeš: Popolno združevanje ženskih in moških tekem bi bilo napaka",
-      "count": 12,
-      "ids": [
-        "62c66c0dcb616c28ac26f0839f619b500730d4b0",
-        "9f1ec481fef49e645b53427f08e5ecd520a1ae54",
-        "9701158588cbb9f42af5d44b26e54392fa9c4aea",
-        "9266b5a9908dd4b86da48b7612ea0a39dacb08f9",
-        "35e03343b01a96c77843611cbe2d77e968fb1662",
-        "45afa23f72150de6ad2fdb62ee30a68825d0d1f5",
-        "fae4d0c9a1aee70c3daee80addbccaef02a8a442",
-        "6e43f9bb3bd763f908cdb8b63fd128160f1b5cba",
-        "cef8914e41a23d7c412c0d626d77748a6c1321d5",
-        "78d9dd7fe9d8e055e210c985d7ca4fce73fd5a2e",
-        "d76343ef0981a7c745d1ee0cb4d630e31dd6df93",
-        "f97b55c6ffc20dc0b54af9d23cb3bbfa08200dfc"
       ]
     }
   ]

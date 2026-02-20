@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-19",
-  "updated_at": "2026-02-19T06:40:31.876Z",
-  "page": "/news/2026-02-19.html",
+  "date": "2026-02-20",
+  "updated_at": "2026-02-20T06:36:47.971Z",
+  "page": "/news/2026-02-20.html",
   "count": 12,
   "items": [
     {
-      "id": "929e7e872b298cf4e91b41f01116273e1d5bba6f",
-      "title": "The Secret Life of JavaScript: The Catch",
-      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-catch-1bp0",
-      "source": "dev.to",
-      "published_at": "2026-02-19T06:32:42.000Z",
-      "summary": "Summary: The Secret Life of JavaScript: The Catch"
+      "id": "9a12b133f34a9a326f61f9ac6cd9ac3d6cb02cec",
+      "title": "Marsikje so se zbudili v zasneženo jutro, največ snega v Podravju",
+      "url": "https://www.24ur.com/novice/slovenija/marsikje-so-se-zbudili-v-zasnezeno-jutro-najvec-snega-v-podravju.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-20T06:33:16.000Z",
+      "summary": "Summary: Marsikje so se zbudili v zasneženo jutro, največ snega v Podravju"
     },
     {
-      "id": "0e788ad05960fc88fafbd63478103753c10a235c",
-      "title": "Nigeria Redirects Oil, Gas Revenue to Bolster State Finances",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-19/nigeria-redirects-oil-gas-revenue-to-bolster-state-finances",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-19T06:30:43.000Z",
-      "summary": "Summary: Nigeria Redirects Oil, Gas Revenue to Bolster State Finances"
-    },
-    {
-      "id": "96a0bdc15c7603f28003e3692fbda22f2538e71d",
-      "title": "Več alpskih zlatih medalj kot Mikaela osvojila le Aamodt in Janica Kostelić",
-      "url": "https://www.rtvslo.si/sport/oi-2026/vec-alpskih-zlatih-medalj-kot-mikaela-osvojila-le-aamodt-in-janica-kostelic/773911",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-19T06:21:53.000Z",
-      "summary": "Summary: Več alpskih zlatih medalj kot Mikaela osvojila le Aamodt in Janica Kostelić"
-    },
-    {
-      "id": "46d016c547ab27c5b4aff2b909b7f337bc1487d2",
-      "title": "Process, Threads and Goroutines",
-      "url": "https://dev.to/pshycodr/process-threads-and-goroutines-95l",
-      "source": "dev.to",
-      "published_at": "2026-02-19T06:21:51.000Z",
-      "summary": "Summary: Process, Threads and Goroutines"
-    },
-    {
-      "id": "ce15329296d5f3192116277020d8e94236fa10e7",
-      "title": "What I'd Build Next (And Actually Start Building)",
-      "url": "https://dev.to/ribhavmodi/what-id-build-next-and-actually-start-building-11l6",
-      "source": "dev.to",
-      "published_at": "2026-02-19T06:15:29.000Z",
-      "summary": "Summary: What I'd Build Next (And Actually Start Building)"
-    },
-    {
-      "id": "ac63aaeb3197238fbf56c02b3d69cc5562242054",
-      "title": "Part-4: Automating EC2 Infrastructure using Terraform | Amazon Web Services (AWS)",
-      "url": "https://dev.to/olymahmud/part-4-automating-ec2-infrastructure-using-terraform-amazon-web-services-aws-190a",
-      "source": "dev.to",
-      "published_at": "2026-02-19T06:11:34.000Z",
-      "summary": "Summary: Part-4: Automating EC2 Infrastructure using Terraform | Amazon Web Services (AWS)"
-    },
-    {
-      "id": "a829809f536b14ca42eb5be0268418110cf55174",
-      "title": "Lestvica uspešnosti alpskega smučanja: Slovenija šele na 17. mestu",
-      "url": "https://www.rtvslo.si/sport/sportni-sos/lestvica-uspesnosti-alpskega-smucanja-slovenija-sele-na-17-mestu/773910",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-19T06:10:16.000Z",
-      "summary": "Summary: Lestvica uspešnosti alpskega smučanja: Slovenija šele na 17. mestu"
-    },
-    {
-      "id": "4b9f4c3a677554f2f153557035bc20e02cbba2af",
-      "title": "Skrivni ženski bralni klub, ki kljubuje nasilnemu režimu",
-      "url": "https://www.delo.si/novice/svet/skrivni-zenski-bralni-klub-ki-kljubuje-nasilnezem",
+      "id": "1a18c7cef750d9d218e370aface6e9071c32b4b5",
+      "title": "Težave kombinatorca na zaletišču, Domen Prevc na obisku pri Avstrijcih",
+      "url": "https://www.delo.si/razno/tezave-kombinatorca-na-zaletiscu-domen-prevc-na-obisku-pri-avstrijcih",
       "source": "www.delo.si",
-      "published_at": "2026-02-19T06:09:00.000Z",
-      "summary": "Summary: Skrivni ženski bralni klub, ki kljubuje nasilnemu režimu"
+      "published_at": "2026-02-20T06:32:34.000Z",
+      "summary": "Summary: Težave kombinatorca na zaletišču, Domen Prevc na obisku pri Avstrijcih"
     },
     {
-      "id": "3c9baa1cf91b64ccb8d36c4abc3ae396d4b19264",
-      "title": "Nestle Sees Sales Growth of Up to 4% This Year Amid Revamp",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-19/nestle-sees-sales-growth-of-up-to-4-this-year-amid-revamp",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-19T06:08:47.000Z",
-      "summary": "Summary: Nestle Sees Sales Growth of Up to 4% This Year Amid Revamp"
-    },
-    {
-      "id": "b7b5c517e7ce38edbc5483b78f118ce3e483e52d",
-      "title": "7 Days of Java Coding Practice – My Structured Preparation Plan",
-      "url": "https://dev.to/tamilselvan1812/7-days-of-java-coding-practice-my-structured-preparation-plan-mg7",
+      "id": "940702511738c347505aa9e50e24b57e602d411c",
+      "title": "I Built Vector-Only Search First. Here's Why I Had to Rewrite It.",
+      "url": "https://dev.to/rosen_hristov/i-built-vector-only-search-first-heres-why-i-had-to-rewrite-it-4dh0",
       "source": "dev.to",
-      "published_at": "2026-02-19T06:01:06.000Z",
-      "summary": "Summary: 7 Days of Java Coding Practice – My Structured Preparation Plan"
+      "published_at": "2026-02-20T06:32:07.000Z",
+      "summary": "Summary: I Built Vector-Only Search First. Here's Why I Had to Rewrite It."
     },
     {
-      "id": "ed55f46b07a4070779c640a8a977d3a17cd976a3",
-      "title": "Žigan Krajnčan razkril izvor svojega nenavadnega imena",
-      "url": "https://www.24ur.com/popin/zigan-krajncan-razkril-izvor-svojega-nenavadnega-imena.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-19T06:00:08.000Z",
-      "summary": "Summary: Žigan Krajnčan razkril izvor svojega nenavadnega imena"
+      "id": "d72a52311dc5895d315d10c20f148444709f2520",
+      "title": "Building a Persistent Dark Mode in HarmonyOS with ArkTS Preferences",
+      "url": "https://dev.to/harmonyos/building-a-persistent-dark-mode-in-harmonyos-with-arkts-preferences-3pol",
+      "source": "dev.to",
+      "published_at": "2026-02-20T06:32:00.000Z",
+      "summary": "Summary: Building a Persistent Dark Mode in HarmonyOS with ArkTS Preferences"
     },
     {
-      "id": "df5fa6f5996426e986d03f9132d1b900980f5a47",
-      "title": "Neimenovani viri: Ameriška vojska je pripravljena napasti Iran",
-      "url": "https://www.24ur.com/novice/tujina/ameriska-vojska-pripravljena-napasti-iran-ze-v-prihodnjih-dneh.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-19T05:56:10.000Z",
-      "summary": "Summary: Neimenovani viri: Ameriška vojska je pripravljena napasti Iran"
+      "id": "32f928aa4ac114be7c6944b762a0c1f332f56367",
+      "title": "Olimpijska premiera uspela, na OI 2030 pa naj se pridružijo še Slovenci!",
+      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/tekmovalno-turno-smucanje/olimpijska-premiera-uspela-na-oi-2030-pa-naj-se-pridruzijo-se-slovenci/773992",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-20T06:30:58.000Z",
+      "summary": "Summary: Olimpijska premiera uspela, na OI 2030 pa naj se pridružijo še Slovenci!"
+    },
+    {
+      "id": "8a28356034bf1022bb25e0c7a1f59f7928050ea9",
+      "title": "Bliskoviti McDavid izstopa pri zvezdniških Kanadčanih",
+      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/hokej/bliskoviti-mcdavid-izstopa-pri-zvezdniskih-kanadcanih/774024",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-20T06:28:12.000Z",
+      "summary": "Summary: Bliskoviti McDavid izstopa pri zvezdniških Kanadčanih"
+    },
+    {
+      "id": "f6b5249db69fd66a50de4c4fc4926d8eb15ef143",
+      "title": "What Claude Taught Me About Using Claude",
+      "url": "https://dev.to/dang-w/what-claude-taught-me-about-using-claude-2njn",
+      "source": "dev.to",
+      "published_at": "2026-02-20T06:20:57.000Z",
+      "summary": "Summary: What Claude Taught Me About Using Claude"
+    },
+    {
+      "id": "eb57a560cb793979d873b060a00326fc7f13ebc5",
+      "title": "Why Your OpenClaw Agent Sucks (And How SOUL.md Fixes It)",
+      "url": "https://dev.to/techfind777/why-your-openclaw-agent-sucks-and-how-soulmd-fixes-it-3h0d",
+      "source": "dev.to",
+      "published_at": "2026-02-20T06:20:38.000Z",
+      "summary": "Summary: Why Your OpenClaw Agent Sucks (And How SOUL.md Fixes It)"
+    },
+    {
+      "id": "e6ec3cb86cb6f9490ec09018afc0346c7bb9c2d5",
+      "title": "You Don’t Need a Bigger Model — You Need a Stable One",
+      "url": "https://dev.to/cloyouai/you-dont-need-a-bigger-model-you-need-a-stable-one-5dff",
+      "source": "dev.to",
+      "published_at": "2026-02-20T06:19:11.000Z",
+      "summary": "Summary: You Don’t Need a Bigger Model — You Need a Stable One"
+    },
+    {
+      "id": "824341de357e4b4dddf744f6f0a386fab15740ff",
+      "title": "Creating a Windows Virtual Machine (VM) in Azure",
+      "url": "https://dev.to/nwafor_somadina_efa388085/creating-a-windows-virtual-machine-vm-in-azure-5fd0",
+      "source": "dev.to",
+      "published_at": "2026-02-20T06:15:59.000Z",
+      "summary": "Summary: Creating a Windows Virtual Machine (VM) in Azure"
+    },
+    {
+      "id": "93a3422c2f6be1cdf7d7b90dc33e044066fe0018",
+      "title": "Ali Partovi&#8217;s Neo looks to upend the accelerator model with low-dilution terms",
+      "url": "https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/",
+      "source": "techcrunch.com",
+      "published_at": "2026-02-20T06:13:55.000Z",
+      "summary": "Summary: Ali Partovi&#8217;s Neo looks to upend the accelerator model with low-dilution terms"
+    },
+    {
+      "id": "4ad7b4cf84cdcace522879c41e8a811917cd59e7",
+      "title": "Eye-Tracking UI: Designing Gaze-Driven Interfaces That Work",
+      "url": "https://dev.to/kyl67899/eye-tracking-ui-designing-gaze-driven-interfaces-that-work-1d35",
+      "source": "dev.to",
+      "published_at": "2026-02-20T06:11:54.000Z",
+      "summary": "Summary: Eye-Tracking UI: Designing Gaze-Driven Interfaces That Work"
     }
   ]
 }
