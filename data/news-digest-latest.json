@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-20",
-  "updated_at": "2026-02-20T06:36:57.296Z",
-  "page": "/news/2026-02-20-news.html",
+  "date": "2026-02-21",
+  "updated_at": "2026-02-21T06:33:06.596Z",
+  "page": "/news/2026-02-21-news.html",
   "count": 12,
   "items": [
     {
-      "id": "9a12b133f34a9a326f61f9ac6cd9ac3d6cb02cec",
-      "title": "Marsikje so se zbudili v zasneženo jutro, največ snega v Podravju",
-      "url": "https://www.24ur.com/novice/slovenija/marsikje-so-se-zbudili-v-zasnezeno-jutro-najvec-snega-v-podravju.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-20T06:33:16.000Z",
-      "summary": "Summary: Marsikje so se zbudili v zasneženo jutro, največ snega v Podravju"
-    },
-    {
-      "id": "1a18c7cef750d9d218e370aface6e9071c32b4b5",
-      "title": "Težave kombinatorca na zaletišču, Domen Prevc na obisku pri Avstrijcih",
-      "url": "https://www.delo.si/razno/tezave-kombinatorca-na-zaletiscu-domen-prevc-na-obisku-pri-avstrijcih",
-      "source": "www.delo.si",
-      "published_at": "2026-02-20T06:32:34.000Z",
-      "summary": "Summary: Težave kombinatorca na zaletišču, Domen Prevc na obisku pri Avstrijcih"
-    },
-    {
-      "id": "32f928aa4ac114be7c6944b762a0c1f332f56367",
-      "title": "Olimpijska premiera uspela, na OI 2030 pa naj se pridružijo še Slovenci!",
-      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/tekmovalno-turno-smucanje/olimpijska-premiera-uspela-na-oi-2030-pa-naj-se-pridruzijo-se-slovenci/773992",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-20T06:30:58.000Z",
-      "summary": "Summary: Olimpijska premiera uspela, na OI 2030 pa naj se pridružijo še Slovenci!"
-    },
-    {
-      "id": "0586caddcdf5a391fb2f78b00f39b85257272a75",
-      "title": "Australia news live: Guzman y Gomez sheds half its market value in a year; two Nine newspapers to stop printing in Tasmania",
-      "url": "https://www.theguardian.com/australia-news/live/2026/feb/20/accc-coles-nsw-public-hearing-illegal-tobacco-angus-taylor-liberal-coalition-net-zero-anthony-albanese-labor-ntwnfb",
+      "id": "56cc0df4a5ccf37466f0b24eb9a7d461d0a4ba62",
+      "title": "Iran preparing nuclear counterproposal as Trump warns he is considering limited military strikes",
+      "url": "https://www.theguardian.com/world/2026/feb/21/iran-nuclear-counterproposal-us-strikes-threat",
       "source": "www.theguardian.com",
-      "published_at": "2026-02-20T06:29:15.000Z",
-      "summary": "Summary: Australia news live: Guzman y Gomez sheds half its market value in a year; two Nine newspapers to stop printing in Tasmania"
+      "published_at": "2026-02-21T06:24:52.000Z",
+      "summary": "Summary: Iran preparing nuclear counterproposal as Trump warns he is considering limited military strikes"
     },
     {
-      "id": "8a28356034bf1022bb25e0c7a1f59f7928050ea9",
-      "title": "Bliskoviti McDavid izstopa pri zvezdniških Kanadčanih",
-      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/hokej/bliskoviti-mcdavid-izstopa-pri-zvezdniskih-kanadcanih/774024",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-20T06:28:12.000Z",
-      "summary": "Summary: Bliskoviti McDavid izstopa pri zvezdniških Kanadčanih"
-    },
-    {
-      "id": "a6d87a89d006199ff9a9fe70e2c0fc30c75035db",
-      "title": "Nurses' strike cancelled after pay rise before state election period begins",
-      "url": "https://www.abc.net.au/news/2026-02-20/lyell-mcewin-hospital-nurses-strike-cancelled/106369750",
-      "source": "www.abc.net.au",
-      "published_at": "2026-02-20T06:25:54.000Z",
-      "summary": "Summary: Nurses' strike cancelled after pay rise before state election period begins"
-    },
-    {
-      "id": "91fa60dfc030f4a018c06ce67a168f933c7602f5",
-      "title": "Federal police ‘received reports of a crime’ in relation to Pauline Hanson’s comments about Muslims",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/20/pauline-hanson-afp-federal-police-muslim-comments-ntwnfb",
-      "source": "www.theguardian.com",
-      "published_at": "2026-02-20T06:19:22.000Z",
-      "summary": "Summary: Federal police ‘received reports of a crime’ in relation to Pauline Hanson’s comments about Muslims"
-    },
-    {
-      "id": "360c1504cb0555d83bc3cdb0d9dc4247a95ad3f8",
-      "title": "Crisis for royal family after Andrew Mountbatten-Windsor questioned by police – latest updates",
-      "url": "https://www.theguardian.com/uk-news/live/2026/feb/20/andrew-mountbatten-windsor-latest-updates-royal-family-police-arrest-reaction-live",
-      "source": "www.theguardian.com",
-      "published_at": "2026-02-20T06:16:26.000Z",
-      "summary": "Summary: Crisis for royal family after Andrew Mountbatten-Windsor questioned by police – latest updates"
-    },
-    {
-      "id": "789e99cd955485febdcecb6de17373bddfc59a88",
-      "title": "Man accused of performing Nazi salute at AFL explores mental health defence",
-      "url": "https://www.abc.net.au/news/2026-02-20/man-accused-of-performing-nazi-salute-at-afl/106368658",
-      "source": "www.abc.net.au",
-      "published_at": "2026-02-20T06:16:05.000Z",
-      "summary": "Summary: Man accused of performing Nazi salute at AFL explores mental health defence"
-    },
-    {
-      "id": "4c531628191d13dae39295d2296e93e401fb3704",
-      "title": "Eric Dane, 'Grey's Anatomy' star and ALS awareness advocate, dies at 53",
-      "url": "https://www.npr.org/2026/02/20/g-s1-110875/eric-dane-greys-anatomy-star-and-als-awareness-advocate-dies-at-53",
-      "source": "feeds.npr.org",
-      "published_at": "2026-02-20T06:13:52.000Z",
-      "summary": "Summary: Eric Dane, 'Grey's Anatomy' star and ALS awareness advocate, dies at 53"
-    },
-    {
-      "id": "b02d2652589b0042e9342b975ee0d798df7f0bb1",
-      "title": "Trusting Mainoo, academy pride and the 'ultimate role'",
-      "url": "https://www.bbc.com/sport/football/articles/ceqvrv29pzvo?at_medium=RSS&at_campaign=rss",
+      "id": "ada7599fe33501409ec694bb74c8eae8c4581899",
+      "title": "Bond, bagpipes & controversial Canadians - why curling is must-watch",
+      "url": "https://www.bbc.com/sport/articles/clyxg9gzj8lo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-20T06:11:34.000Z",
-      "summary": "Summary: Trusting Mainoo, academy pride and the 'ultimate role'"
+      "published_at": "2026-02-21T06:21:16.000Z",
+      "summary": "Summary: Bond, bagpipes & controversial Canadians - why curling is must-watch"
     },
     {
-      "id": "1604e87dac79e0a4b80306941c5149dc71b0bc6b",
-      "title": "ZDA so ZN poravnale 160 milijonov dolarjev od skupaj štirih milijard dolga",
-      "url": "https://www.24ur.com/novice/tujina/zda-so-zn-poravnale-160-milijonov-dolarjev-od-skupaj-stirih-milijard-dolga.html",
+      "id": "16ae39a7a24fac599bcac183ceb363ef588420bc",
+      "title": "New US 10% global tariff will have ‘limited impact’ on Hong Kong: treasury chief",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344200/new-us-10-tariff-will-have-limited-impact-hong-kong-treasury-chief?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-02-21T06:20:27.000Z",
+      "summary": "Summary: New US 10% global tariff will have ‘limited impact’ on Hong Kong: treasury chief"
+    },
+    {
+      "id": "18436c6ddc766f0708febe9457a6ef608f89b52e",
+      "title": "After the Supreme Court's ruling on tariffs, companies line up for refunds",
+      "url": "https://www.npr.org/2026/02/21/g-s1-110987/supreme-court-tariffs-refunds",
+      "source": "feeds.npr.org",
+      "published_at": "2026-02-21T06:18:50.000Z",
+      "summary": "Summary: After the Supreme Court's ruling on tariffs, companies line up for refunds"
+    },
+    {
+      "id": "78eb290f9296ed4268e21a07349d24c5e6651b75",
+      "title": "Jaz, ki nisem nikoli poznala moških: zakaj je pozabljena feministična distopija danes spet aktualna?",
+      "url": "https://www.rtvslo.si/kultura/knjige/jaz-ki-nisem-nikoli-poznala-moskih-zakaj-je-pozabljena-feministicna-distopija-danes-spet-aktualna/774143",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-21T06:16:29.000Z",
+      "summary": "Summary: Jaz, ki nisem nikoli poznala moških: zakaj je pozabljena feministična distopija danes spet aktualna?"
+    },
+    {
+      "id": "c23f1513335d6530f4154302df082e8dc4385993",
+      "title": "SDS in NSi za presojo ustavnosti, Maljevac: Poceni volilni bonbonček",
+      "url": "https://www.24ur.com/ustavna-presoja-zakona-o-dolgotrajni-oskrbi-sprozila-politicno-razpravo.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-20T06:08:48.000Z",
-      "summary": "Summary: ZDA so ZN poravnale 160 milijonov dolarjev od skupaj štirih milijard dolga"
+      "published_at": "2026-02-21T06:15:09.000Z",
+      "summary": "Summary: SDS in NSi za presojo ustavnosti, Maljevac: Poceni volilni bonbonček"
+    },
+    {
+      "id": "a3a8282880cacbc7c4f5d4daf0c0353d91a53dd2",
+      "title": "Gostinci že pometajo terase",
+      "url": "https://www.24ur.com/novice/slovenija/vremenski-preobrat.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-21T06:14:43.000Z",
+      "summary": "Summary: Gostinci že pometajo terase"
+    },
+    {
+      "id": "c8dabc20f860813d4c85d88d460e443928c87092",
+      "title": "Lakersi leteli na krilih Luke Dončića in premagali mestne tekmece",
+      "url": "https://www.24ur.com/sport/kosarka/konec-premora-tudi-za-lakerse-gostili-bodo-mestne-tekmece.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-21T06:11:31.000Z",
+      "summary": "Summary: Lakersi leteli na krilih Luke Dončića in premagali mestne tekmece"
+    },
+    {
+      "id": "2789d12a5a6e368d6117d285f4dcd78f75af051b",
+      "title": "Angeli zase vzamejo skoraj polovico vinjaka",
+      "url": "https://www.rtvslo.si/zabava-in-slog/kulinarika/angeli-zase-vzamejo-skoraj-polovico-vinjaka/774137",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-21T06:05:11.000Z",
+      "summary": "Summary: Angeli zase vzamejo skoraj polovico vinjaka"
+    },
+    {
+      "id": "1b567d5cc3ba7e9533f3a6a3bd2075d437b7d84b",
+      "title": "Kratkoročno oddajanje nepremičnin: Ko najemodajalci ignorirajo vsa pravila",
+      "url": "https://www.rtvslo.si/slovenija/kratkorocno-oddajanje-nepremicnin-ko-najemodajalci-ignorirajo-vsa-pravila/774126",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-21T06:04:45.000Z",
+      "summary": "Summary: Kratkoročno oddajanje nepremičnin: Ko najemodajalci ignorirajo vsa pravila"
+    },
+    {
+      "id": "6d6dbab1656eeaad7666bf25d7def2b2d59888ca",
+      "title": "Why fake AI videos of UK urban decline are taking over social media",
+      "url": "https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-02-21T06:04:41.000Z",
+      "summary": "Summary: Why fake AI videos of UK urban decline are taking over social media"
+    },
+    {
+      "id": "34b953b3b7032856b25a255b277d48ce81a6137c",
+      "title": "Vrtovec kritizira Logarja in namiguje Hanu",
+      "url": "https://www.24ur.com/novice/slovenija/vrtovec-kritizira-logarja-in-namiguje-hanu.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-21T06:02:06.000Z",
+      "summary": "Summary: Vrtovec kritizira Logarja in namiguje Hanu"
     }
   ]
 }

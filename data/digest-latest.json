@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-20",
-  "updated_at": "2026-02-20T06:36:47.971Z",
-  "page": "/news/2026-02-20.html",
+  "date": "2026-02-21",
+  "updated_at": "2026-02-21T06:32:57.590Z",
+  "page": "/news/2026-02-21.html",
   "count": 12,
   "items": [
     {
-      "id": "9a12b133f34a9a326f61f9ac6cd9ac3d6cb02cec",
-      "title": "Marsikje so se zbudili v zasneženo jutro, največ snega v Podravju",
-      "url": "https://www.24ur.com/novice/slovenija/marsikje-so-se-zbudili-v-zasnezeno-jutro-najvec-snega-v-podravju.html",
+      "id": "a60b1068925fb7113c01fc3e564ae43c8e10eaac",
+      "title": "ajail: a basic jail for programs you don't completely trust",
+      "url": "https://github.com/jtolio/ajail",
+      "source": "lobste.rs",
+      "published_at": "2026-02-21T06:26:12.000Z",
+      "summary": "Summary: ajail: a basic jail for programs you don't completely trust"
+    },
+    {
+      "id": "ed17b022ff6df03d3aad3b2cf1291beb85b8b18e",
+      "title": "9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026",
+      "url": "https://dev.to/wrap-pixel/shadcn-date-picker-38dh",
+      "source": "dev.to",
+      "published_at": "2026-02-21T06:20:33.000Z",
+      "summary": "Summary: 9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026"
+    },
+    {
+      "id": "78eb290f9296ed4268e21a07349d24c5e6651b75",
+      "title": "Jaz, ki nisem nikoli poznala moških: zakaj je pozabljena feministična distopija danes spet aktualna?",
+      "url": "https://www.rtvslo.si/kultura/knjige/jaz-ki-nisem-nikoli-poznala-moskih-zakaj-je-pozabljena-feministicna-distopija-danes-spet-aktualna/774143",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-21T06:16:29.000Z",
+      "summary": "Summary: Jaz, ki nisem nikoli poznala moških: zakaj je pozabljena feministična distopija danes spet aktualna?"
+    },
+    {
+      "id": "c23f1513335d6530f4154302df082e8dc4385993",
+      "title": "SDS in NSi za presojo ustavnosti, Maljevac: Poceni volilni bonbonček",
+      "url": "https://www.24ur.com/ustavna-presoja-zakona-o-dolgotrajni-oskrbi-sprozila-politicno-razpravo.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-20T06:33:16.000Z",
-      "summary": "Summary: Marsikje so se zbudili v zasneženo jutro, največ snega v Podravju"
+      "published_at": "2026-02-21T06:15:09.000Z",
+      "summary": "Summary: SDS in NSi za presojo ustavnosti, Maljevac: Poceni volilni bonbonček"
     },
     {
-      "id": "1a18c7cef750d9d218e370aface6e9071c32b4b5",
-      "title": "Težave kombinatorca na zaletišču, Domen Prevc na obisku pri Avstrijcih",
-      "url": "https://www.delo.si/razno/tezave-kombinatorca-na-zaletiscu-domen-prevc-na-obisku-pri-avstrijcih",
-      "source": "www.delo.si",
-      "published_at": "2026-02-20T06:32:34.000Z",
-      "summary": "Summary: Težave kombinatorca na zaletišču, Domen Prevc na obisku pri Avstrijcih"
+      "id": "a3a8282880cacbc7c4f5d4daf0c0353d91a53dd2",
+      "title": "Gostinci že pometajo terase",
+      "url": "https://www.24ur.com/novice/slovenija/vremenski-preobrat.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-21T06:14:43.000Z",
+      "summary": "Summary: Gostinci že pometajo terase"
     },
     {
-      "id": "940702511738c347505aa9e50e24b57e602d411c",
-      "title": "I Built Vector-Only Search First. Here's Why I Had to Rewrite It.",
-      "url": "https://dev.to/rosen_hristov/i-built-vector-only-search-first-heres-why-i-had-to-rewrite-it-4dh0",
+      "id": "84ff1a3294b55e742d0c8f48922dc735ee64406a",
+      "title": "Claude Code Lost My 4-Hour Session. Here's the $0 Fix That Actually Works",
+      "url": "https://dev.to/gonewx/claude-code-lost-my-4-hour-session-heres-the-0-fix-that-actually-works-24h6",
       "source": "dev.to",
-      "published_at": "2026-02-20T06:32:07.000Z",
-      "summary": "Summary: I Built Vector-Only Search First. Here's Why I Had to Rewrite It."
+      "published_at": "2026-02-21T06:13:30.000Z",
+      "summary": "Summary: Claude Code Lost My 4-Hour Session. Here's the $0 Fix That Actually Works"
     },
     {
-      "id": "d72a52311dc5895d315d10c20f148444709f2520",
-      "title": "Building a Persistent Dark Mode in HarmonyOS with ArkTS Preferences",
-      "url": "https://dev.to/harmonyos/building-a-persistent-dark-mode-in-harmonyos-with-arkts-preferences-3pol",
+      "id": "c8dabc20f860813d4c85d88d460e443928c87092",
+      "title": "Lakersi leteli na krilih Luke Dončića in premagali mestne tekmece",
+      "url": "https://www.24ur.com/sport/kosarka/konec-premora-tudi-za-lakerse-gostili-bodo-mestne-tekmece.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-21T06:11:31.000Z",
+      "summary": "Summary: Lakersi leteli na krilih Luke Dončića in premagali mestne tekmece"
+    },
+    {
+      "id": "205ddc2242495d28c31f8c835c35d4f32d5d3c97",
+      "title": "AI Agents Are Making Decisions Nobody Can Audit",
+      "url": "https://dev.to/nostalgicskinco/ai-agents-are-making-decisions-nobody-can-audit-2gpn",
       "source": "dev.to",
-      "published_at": "2026-02-20T06:32:00.000Z",
-      "summary": "Summary: Building a Persistent Dark Mode in HarmonyOS with ArkTS Preferences"
+      "published_at": "2026-02-21T06:08:04.000Z",
+      "summary": "Summary: AI Agents Are Making Decisions Nobody Can Audit"
     },
     {
-      "id": "32f928aa4ac114be7c6944b762a0c1f332f56367",
-      "title": "Olimpijska premiera uspela, na OI 2030 pa naj se pridružijo še Slovenci!",
-      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/tekmovalno-turno-smucanje/olimpijska-premiera-uspela-na-oi-2030-pa-naj-se-pridruzijo-se-slovenci/773992",
+      "id": "5d8c6c469ac185e5c62838567ee04fbf31f51b70",
+      "title": "Mining and Exploration Consulting: Building Data-Driven and Sustainable Resource Operations",
+      "url": "https://dev.to/asif_siddiqui_3d3ec4ee630/mining-and-exploration-consulting-building-data-driven-and-sustainable-resource-operations-3j7p",
+      "source": "dev.to",
+      "published_at": "2026-02-21T06:06:51.000Z",
+      "summary": "Summary: Mining and Exploration Consulting: Building Data-Driven and Sustainable Resource Operations"
+    },
+    {
+      "id": "2789d12a5a6e368d6117d285f4dcd78f75af051b",
+      "title": "Angeli zase vzamejo skoraj polovico vinjaka",
+      "url": "https://www.rtvslo.si/zabava-in-slog/kulinarika/angeli-zase-vzamejo-skoraj-polovico-vinjaka/774137",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-20T06:30:58.000Z",
-      "summary": "Summary: Olimpijska premiera uspela, na OI 2030 pa naj se pridružijo še Slovenci!"
+      "published_at": "2026-02-21T06:05:11.000Z",
+      "summary": "Summary: Angeli zase vzamejo skoraj polovico vinjaka"
     },
     {
-      "id": "8a28356034bf1022bb25e0c7a1f59f7928050ea9",
-      "title": "Bliskoviti McDavid izstopa pri zvezdniških Kanadčanih",
-      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/hokej/bliskoviti-mcdavid-izstopa-pri-zvezdniskih-kanadcanih/774024",
+      "id": "1b567d5cc3ba7e9533f3a6a3bd2075d437b7d84b",
+      "title": "Kratkoročno oddajanje nepremičnin: Ko najemodajalci ignorirajo vsa pravila",
+      "url": "https://www.rtvslo.si/slovenija/kratkorocno-oddajanje-nepremicnin-ko-najemodajalci-ignorirajo-vsa-pravila/774126",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-20T06:28:12.000Z",
-      "summary": "Summary: Bliskoviti McDavid izstopa pri zvezdniških Kanadčanih"
+      "published_at": "2026-02-21T06:04:45.000Z",
+      "summary": "Summary: Kratkoročno oddajanje nepremičnin: Ko najemodajalci ignorirajo vsa pravila"
     },
     {
-      "id": "f6b5249db69fd66a50de4c4fc4926d8eb15ef143",
-      "title": "What Claude Taught Me About Using Claude",
-      "url": "https://dev.to/dang-w/what-claude-taught-me-about-using-claude-2njn",
+      "id": "f012b15cdbc53ccdbc0bc403854ad7420accc76d",
+      "title": "Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards",
+      "url": "https://dev.to/souvick_20/scaling-postgresql-without-microservices-lessons-from-notions-480-shards-32id",
       "source": "dev.to",
-      "published_at": "2026-02-20T06:20:57.000Z",
-      "summary": "Summary: What Claude Taught Me About Using Claude"
-    },
-    {
-      "id": "eb57a560cb793979d873b060a00326fc7f13ebc5",
-      "title": "Why Your OpenClaw Agent Sucks (And How SOUL.md Fixes It)",
-      "url": "https://dev.to/techfind777/why-your-openclaw-agent-sucks-and-how-soulmd-fixes-it-3h0d",
-      "source": "dev.to",
-      "published_at": "2026-02-20T06:20:38.000Z",
-      "summary": "Summary: Why Your OpenClaw Agent Sucks (And How SOUL.md Fixes It)"
-    },
-    {
-      "id": "e6ec3cb86cb6f9490ec09018afc0346c7bb9c2d5",
-      "title": "You Don’t Need a Bigger Model — You Need a Stable One",
-      "url": "https://dev.to/cloyouai/you-dont-need-a-bigger-model-you-need-a-stable-one-5dff",
-      "source": "dev.to",
-      "published_at": "2026-02-20T06:19:11.000Z",
-      "summary": "Summary: You Don’t Need a Bigger Model — You Need a Stable One"
-    },
-    {
-      "id": "824341de357e4b4dddf744f6f0a386fab15740ff",
-      "title": "Creating a Windows Virtual Machine (VM) in Azure",
-      "url": "https://dev.to/nwafor_somadina_efa388085/creating-a-windows-virtual-machine-vm-in-azure-5fd0",
-      "source": "dev.to",
-      "published_at": "2026-02-20T06:15:59.000Z",
-      "summary": "Summary: Creating a Windows Virtual Machine (VM) in Azure"
-    },
-    {
-      "id": "93a3422c2f6be1cdf7d7b90dc33e044066fe0018",
-      "title": "Ali Partovi&#8217;s Neo looks to upend the accelerator model with low-dilution terms",
-      "url": "https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/",
-      "source": "techcrunch.com",
-      "published_at": "2026-02-20T06:13:55.000Z",
-      "summary": "Summary: Ali Partovi&#8217;s Neo looks to upend the accelerator model with low-dilution terms"
-    },
-    {
-      "id": "4ad7b4cf84cdcace522879c41e8a811917cd59e7",
-      "title": "Eye-Tracking UI: Designing Gaze-Driven Interfaces That Work",
-      "url": "https://dev.to/kyl67899/eye-tracking-ui-designing-gaze-driven-interfaces-that-work-1d35",
-      "source": "dev.to",
-      "published_at": "2026-02-20T06:11:54.000Z",
-      "summary": "Summary: Eye-Tracking UI: Designing Gaze-Driven Interfaces That Work"
+      "published_at": "2026-02-21T06:03:51.000Z",
+      "summary": "Summary: Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards"
     }
   ]
 }
