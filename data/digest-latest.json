@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-21",
-  "updated_at": "2026-02-21T06:32:57.590Z",
-  "page": "/news/2026-02-21.html",
+  "date": "2026-02-22",
+  "updated_at": "2026-02-22T06:33:42.698Z",
+  "page": "/news/2026-02-22.html",
   "count": 12,
   "items": [
     {
-      "id": "a60b1068925fb7113c01fc3e564ae43c8e10eaac",
-      "title": "ajail: a basic jail for programs you don't completely trust",
-      "url": "https://github.com/jtolio/ajail",
-      "source": "lobste.rs",
-      "published_at": "2026-02-21T06:26:12.000Z",
-      "summary": "Summary: ajail: a basic jail for programs you don't completely trust"
+      "id": "e2551ecbeaf4a66a0a5af02fd43c85ede1ac0778",
+      "title": "Brez elektrike še dobrih 3000 odjemalcev na območju Elektra Maribor",
+      "url": "https://www.delo.si/novice/slovenija/sneg-ujma-elektrika-odjemalci-maribor",
+      "source": "www.delo.si",
+      "published_at": "2026-02-22T06:28:00.000Z",
+      "summary": "Summary: Brez elektrike še dobrih 3000 odjemalcev na območju Elektra Maribor"
     },
     {
-      "id": "ed17b022ff6df03d3aad3b2cf1291beb85b8b18e",
-      "title": "9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026",
-      "url": "https://dev.to/wrap-pixel/shadcn-date-picker-38dh",
-      "source": "dev.to",
-      "published_at": "2026-02-21T06:20:33.000Z",
-      "summary": "Summary: 9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026"
-    },
-    {
-      "id": "78eb290f9296ed4268e21a07349d24c5e6651b75",
-      "title": "Jaz, ki nisem nikoli poznala moških: zakaj je pozabljena feministična distopija danes spet aktualna?",
-      "url": "https://www.rtvslo.si/kultura/knjige/jaz-ki-nisem-nikoli-poznala-moskih-zakaj-je-pozabljena-feministicna-distopija-danes-spet-aktualna/774143",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-21T06:16:29.000Z",
-      "summary": "Summary: Jaz, ki nisem nikoli poznala moških: zakaj je pozabljena feministična distopija danes spet aktualna?"
-    },
-    {
-      "id": "c23f1513335d6530f4154302df082e8dc4385993",
-      "title": "SDS in NSi za presojo ustavnosti, Maljevac: Poceni volilni bonbonček",
-      "url": "https://www.24ur.com/ustavna-presoja-zakona-o-dolgotrajni-oskrbi-sprozila-politicno-razpravo.html",
+      "id": "95b8a64fb785518be838f34c58b97630671f334f",
+      "title": "Zapuščeni tankerji: posadke v težkih razmerah čakajo na plače in hrano",
+      "url": "https://www.24ur.com/novice/tujina/lastniki-zapuscajo-naftne-tankerje.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-21T06:15:09.000Z",
-      "summary": "Summary: SDS in NSi za presojo ustavnosti, Maljevac: Poceni volilni bonbonček"
+      "published_at": "2026-02-22T06:27:58.000Z",
+      "summary": "Summary: Zapuščeni tankerji: posadke v težkih razmerah čakajo na plače in hrano"
     },
     {
-      "id": "a3a8282880cacbc7c4f5d4daf0c0353d91a53dd2",
-      "title": "Gostinci že pometajo terase",
-      "url": "https://www.24ur.com/novice/slovenija/vremenski-preobrat.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-21T06:14:43.000Z",
-      "summary": "Summary: Gostinci že pometajo terase"
-    },
-    {
-      "id": "84ff1a3294b55e742d0c8f48922dc735ee64406a",
-      "title": "Claude Code Lost My 4-Hour Session. Here's the $0 Fix That Actually Works",
-      "url": "https://dev.to/gonewx/claude-code-lost-my-4-hour-session-heres-the-0-fix-that-actually-works-24h6",
+      "id": "0ae42e86935a9afc0c23fc784b0ff3c3035f2a40",
+      "title": "What Is a Variable: A Box or a Label?",
+      "url": "https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob",
       "source": "dev.to",
-      "published_at": "2026-02-21T06:13:30.000Z",
-      "summary": "Summary: Claude Code Lost My 4-Hour Session. Here's the $0 Fix That Actually Works"
+      "published_at": "2026-02-22T06:27:22.000Z",
+      "summary": "Summary: What Is a Variable: A Box or a Label?"
     },
     {
-      "id": "c8dabc20f860813d4c85d88d460e443928c87092",
-      "title": "Lakersi leteli na krilih Luke Dončića in premagali mestne tekmece",
-      "url": "https://www.24ur.com/sport/kosarka/konec-premora-tudi-za-lakerse-gostili-bodo-mestne-tekmece.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-21T06:11:31.000Z",
-      "summary": "Summary: Lakersi leteli na krilih Luke Dončića in premagali mestne tekmece"
-    },
-    {
-      "id": "205ddc2242495d28c31f8c835c35d4f32d5d3c97",
-      "title": "AI Agents Are Making Decisions Nobody Can Audit",
-      "url": "https://dev.to/nostalgicskinco/ai-agents-are-making-decisions-nobody-can-audit-2gpn",
-      "source": "dev.to",
-      "published_at": "2026-02-21T06:08:04.000Z",
-      "summary": "Summary: AI Agents Are Making Decisions Nobody Can Audit"
-    },
-    {
-      "id": "5d8c6c469ac185e5c62838567ee04fbf31f51b70",
-      "title": "Mining and Exploration Consulting: Building Data-Driven and Sustainable Resource Operations",
-      "url": "https://dev.to/asif_siddiqui_3d3ec4ee630/mining-and-exploration-consulting-building-data-driven-and-sustainable-resource-operations-3j7p",
-      "source": "dev.to",
-      "published_at": "2026-02-21T06:06:51.000Z",
-      "summary": "Summary: Mining and Exploration Consulting: Building Data-Driven and Sustainable Resource Operations"
-    },
-    {
-      "id": "2789d12a5a6e368d6117d285f4dcd78f75af051b",
-      "title": "Angeli zase vzamejo skoraj polovico vinjaka",
-      "url": "https://www.rtvslo.si/zabava-in-slog/kulinarika/angeli-zase-vzamejo-skoraj-polovico-vinjaka/774137",
+      "id": "29fe287471d8707e033982abfd4a807d2de9c560",
+      "title": "Sanjski severnoameriški finale: ko za Kanado in ZDA šteje samo zlato",
+      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/hokej/sanjski-severnoameriski-finale-ko-za-kanado-in-zda-steje-samo-zlato/774192",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-21T06:05:11.000Z",
-      "summary": "Summary: Angeli zase vzamejo skoraj polovico vinjaka"
+      "published_at": "2026-02-22T06:24:01.000Z",
+      "summary": "Summary: Sanjski severnoameriški finale: ko za Kanado in ZDA šteje samo zlato"
     },
     {
-      "id": "1b567d5cc3ba7e9533f3a6a3bd2075d437b7d84b",
-      "title": "Kratkoročno oddajanje nepremičnin: Ko najemodajalci ignorirajo vsa pravila",
-      "url": "https://www.rtvslo.si/slovenija/kratkorocno-oddajanje-nepremicnin-ko-najemodajalci-ignorirajo-vsa-pravila/774126",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-21T06:04:45.000Z",
-      "summary": "Summary: Kratkoročno oddajanje nepremičnin: Ko najemodajalci ignorirajo vsa pravila"
-    },
-    {
-      "id": "f012b15cdbc53ccdbc0bc403854ad7420accc76d",
-      "title": "Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards",
-      "url": "https://dev.to/souvick_20/scaling-postgresql-without-microservices-lessons-from-notions-480-shards-32id",
+      "id": "8f1e1ec0c6d7c7ee45d10eed1cb9bae036a3523c",
+      "title": "Announcing pytest-gremlins v1.3.0",
+      "url": "https://dev.to/mikelane/announcing-pytest-gremlins-v130-53ka",
       "source": "dev.to",
-      "published_at": "2026-02-21T06:03:51.000Z",
-      "summary": "Summary: Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards"
+      "published_at": "2026-02-22T06:21:46.000Z",
+      "summary": "Summary: Announcing pytest-gremlins v1.3.0"
+    },
+    {
+      "id": "5a2d6d5fbbf08e784ab728262368323bdbd646b7",
+      "title": "Slaba novica za Dončićeve navijače, cena vstopnic čez noč v nebo",
+      "url": "https://www.delo.si/sport/kosarka/slaba-novica-za-donciceve-navijace-cena-vstopnic-cez-noc-v-nebo",
+      "source": "www.delo.si",
+      "published_at": "2026-02-22T06:20:00.000Z",
+      "summary": "Summary: Slaba novica za Dončićeve navijače, cena vstopnic čez noč v nebo"
+    },
+    {
+      "id": "458b5dbe6b056cf796d0fe3fc57d6045e3424779",
+      "title": "Afera Dars: vložene prve kazenske ovadbe",
+      "url": "https://www.24ur.com/novice/dejstva/preiskava-afere-dars-vlozene-prve-kazenske-ovadbe.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-22T06:19:24.000Z",
+      "summary": "Summary: Afera Dars: vložene prve kazenske ovadbe"
+    },
+    {
+      "id": "caf3bf2225599375ef085955a77d9111b3a00e44",
+      "title": "ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login.",
+      "url": "https://dev.to/caffinecoder54/erc-8128-your-ethereum-wallet-might-soon-be-your-only-loginpublished-18fb",
+      "source": "dev.to",
+      "published_at": "2026-02-22T06:11:23.000Z",
+      "summary": "Summary: ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login."
+    },
+    {
+      "id": "4fb220ec9e78c6eef327cfb77d4b571b9471a27a",
+      "title": "Why MQTT Last Will Testament Isn't Enough for Production IoT (And What We Built Instead)",
+      "url": "https://dev.to/anil_saithana/why-mqtt-last-will-testament-isnt-enough-for-production-iot-and-what-we-built-instead-44cj",
+      "source": "dev.to",
+      "published_at": "2026-02-22T06:10:54.000Z",
+      "summary": "Summary: Why MQTT Last Will Testament Isn't Enough for Production IoT (And What We Built Instead)"
+    },
+    {
+      "id": "8dad174d064b0fe71e6243c68d60a8e70582582a",
+      "title": "\"Zanima me varljiv moment opazovanja v znanosti, ki je od nekdaj pogojena s političnimi interesi\"",
+      "url": "https://www.rtvslo.si/kultura/intervju/zanima-me-varljiv-moment-opazovanja-v-znanosti-ki-je-od-nekdaj-pogojena-s-politicnimi-interesi/774195",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-22T06:10:34.000Z",
+      "summary": "Summary: \"Zanima me varljiv moment opazovanja v znanosti, ki je od nekdaj pogojena s političnimi interesi\""
+    },
+    {
+      "id": "a8edbdd77a855a35367bb2a7f1d003bd0525278f",
+      "title": "I replaced the `man` command with a Python TUI — and it's actually useful",
+      "url": "https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h",
+      "source": "dev.to",
+      "published_at": "2026-02-22T06:07:48.000Z",
+      "summary": "Summary: I replaced the `man` command with a Python TUI — and it's actually useful"
+    },
+    {
+      "id": "a1637f8c43df837c4dce697d006923ec72f57942",
+      "title": "Unit testing ESP-IDF components with GoogleTest (host-based)",
+      "url": "https://dev.to/aluiziotomazelli/unit-testing-esp-idf-components-with-googletest-host-based-1c16",
+      "source": "dev.to",
+      "published_at": "2026-02-22T06:05:27.000Z",
+      "summary": "Summary: Unit testing ESP-IDF components with GoogleTest (host-based)"
     }
   ]
 }

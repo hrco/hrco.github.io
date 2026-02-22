@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-21T06:33:06.596Z",
+  "updated_at": "2026-02-22T06:34:00.965Z",
   "days": [
+    {
+      "date": "2026-02-22",
+      "page": "/news/2026-02-22-news.html",
+      "teaser": "Top: Brez elektrike še dobrih 3000 odjemalcev na območju Elektra Maribor",
+      "count": 12,
+      "ids": [
+        "e2551ecbeaf4a66a0a5af02fd43c85ede1ac0778",
+        "95b8a64fb785518be838f34c58b97630671f334f",
+        "29fe287471d8707e033982abfd4a807d2de9c560",
+        "5a2d6d5fbbf08e784ab728262368323bdbd646b7",
+        "458b5dbe6b056cf796d0fe3fc57d6045e3424779",
+        "848166435654d632b98ced0a005214af762dc311",
+        "8dad174d064b0fe71e6243c68d60a8e70582582a",
+        "4e780d1628f91efebc6c4e4ef66d3b2b27fe6826",
+        "f3561a18634d820741356d141083d9c3b207969c",
+        "b3cc2db04ce13a28cd4db25f5bdfcedb2334d228",
+        "65e248fdcde8c5d1a76b98c0a443861c5abf2b9b",
+        "5b164ec8c38ad0e87ffa5ddff8bfc85fce3d313b"
+      ]
+    },
     {
       "date": "2026-02-21",
       "page": "/news/2026-02-21-news.html",
@@ -579,26 +599,6 @@
         "64d4778354ab146b540cae1b4b87f7cdeac1266e",
         "7f61342b81603053bb5abe884e6e55bba5e4f241",
         "2e5280c09a07f797225a1c58d224f03a9183eef9"
-      ]
-    },
-    {
-      "date": "2026-01-18",
-      "page": "/news/2026-01-18-news.html",
-      "teaser": "Top: Last unregistered student union at Chinese University of Hong Kong disbands",
-      "count": 12,
-      "ids": [
-        "336823a253146d1ca2ca873c0846c16e54d7a85b",
-        "b0e87c39ad7616090989d492d76b820e647435a4",
-        "c6e1530d7597fd1fefa41a8b67f6740987ac595b",
-        "5df2d8cbc3d799fa24767d65ac31ab0afe822cc5",
-        "9bd684720737a5a38c5c0127db509e03be6c5d06",
-        "43156f12799f80043aadd7f77fb475cdf41229f7",
-        "f705bdf29dffc67786e3286581d92dd51ebea9e1",
-        "c93ed1daec7937b67e72f5d501213da4cdd1ebed",
-        "efcda3d2e171a1d941bb22044b4f5fd8d86d40a6",
-        "fe995548952b6656817bc9834c9d58deae700183",
-        "efe145ff10b7cac108f79704f92a0f226a4ae69f",
-        "c2c316de37d00d13e3ea173d3c77b443067768b9"
       ]
     }
   ]

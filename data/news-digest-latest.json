@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-21",
-  "updated_at": "2026-02-21T06:33:06.596Z",
-  "page": "/news/2026-02-21-news.html",
+  "date": "2026-02-22",
+  "updated_at": "2026-02-22T06:34:00.965Z",
+  "page": "/news/2026-02-22-news.html",
   "count": 12,
   "items": [
     {
-      "id": "56cc0df4a5ccf37466f0b24eb9a7d461d0a4ba62",
-      "title": "Iran preparing nuclear counterproposal as Trump warns he is considering limited military strikes",
-      "url": "https://www.theguardian.com/world/2026/feb/21/iran-nuclear-counterproposal-us-strikes-threat",
+      "id": "e2551ecbeaf4a66a0a5af02fd43c85ede1ac0778",
+      "title": "Brez elektrike še dobrih 3000 odjemalcev na območju Elektra Maribor",
+      "url": "https://www.delo.si/novice/slovenija/sneg-ujma-elektrika-odjemalci-maribor",
+      "source": "www.delo.si",
+      "published_at": "2026-02-22T06:28:00.000Z",
+      "summary": "Summary: Brez elektrike še dobrih 3000 odjemalcev na območju Elektra Maribor"
+    },
+    {
+      "id": "95b8a64fb785518be838f34c58b97630671f334f",
+      "title": "Zapuščeni tankerji: posadke v težkih razmerah čakajo na plače in hrano",
+      "url": "https://www.24ur.com/novice/tujina/lastniki-zapuscajo-naftne-tankerje.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-22T06:27:58.000Z",
+      "summary": "Summary: Zapuščeni tankerji: posadke v težkih razmerah čakajo na plače in hrano"
+    },
+    {
+      "id": "29fe287471d8707e033982abfd4a807d2de9c560",
+      "title": "Sanjski severnoameriški finale: ko za Kanado in ZDA šteje samo zlato",
+      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/hokej/sanjski-severnoameriski-finale-ko-za-kanado-in-zda-steje-samo-zlato/774192",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-22T06:24:01.000Z",
+      "summary": "Summary: Sanjski severnoameriški finale: ko za Kanado in ZDA šteje samo zlato"
+    },
+    {
+      "id": "5a2d6d5fbbf08e784ab728262368323bdbd646b7",
+      "title": "Slaba novica za Dončićeve navijače, cena vstopnic čez noč v nebo",
+      "url": "https://www.delo.si/sport/kosarka/slaba-novica-za-donciceve-navijace-cena-vstopnic-cez-noc-v-nebo",
+      "source": "www.delo.si",
+      "published_at": "2026-02-22T06:20:00.000Z",
+      "summary": "Summary: Slaba novica za Dončićeve navijače, cena vstopnic čez noč v nebo"
+    },
+    {
+      "id": "458b5dbe6b056cf796d0fe3fc57d6045e3424779",
+      "title": "Afera Dars: vložene prve kazenske ovadbe",
+      "url": "https://www.24ur.com/novice/dejstva/preiskava-afere-dars-vlozene-prve-kazenske-ovadbe.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-22T06:19:24.000Z",
+      "summary": "Summary: Afera Dars: vložene prve kazenske ovadbe"
+    },
+    {
+      "id": "848166435654d632b98ced0a005214af762dc311",
+      "title": "Australia news live: strong winds overturn boats in Hobart ahead of regatta; thousands of ‘life-threatening’ pharmaceutical poppies stolen from Victorian farm",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/22/australia-news-live-tony-burke-home-affairs-syria-albanese-chalmers-productivity-commission-federal-police-labor-liberal-angus-taylor-coalition-ntwnfb",
       "source": "www.theguardian.com",
-      "published_at": "2026-02-21T06:24:52.000Z",
-      "summary": "Summary: Iran preparing nuclear counterproposal as Trump warns he is considering limited military strikes"
+      "published_at": "2026-02-22T06:19:23.000Z",
+      "summary": "Summary: Australia news live: strong winds overturn boats in Hobart ahead of regatta; thousands of ‘life-threatening’ pharmaceutical poppies stolen from Victorian farm"
     },
     {
-      "id": "ada7599fe33501409ec694bb74c8eae8c4581899",
-      "title": "Bond, bagpipes & controversial Canadians - why curling is must-watch",
-      "url": "https://www.bbc.com/sport/articles/clyxg9gzj8lo?at_medium=RSS&at_campaign=rss",
+      "id": "8dad174d064b0fe71e6243c68d60a8e70582582a",
+      "title": "\"Zanima me varljiv moment opazovanja v znanosti, ki je od nekdaj pogojena s političnimi interesi\"",
+      "url": "https://www.rtvslo.si/kultura/intervju/zanima-me-varljiv-moment-opazovanja-v-znanosti-ki-je-od-nekdaj-pogojena-s-politicnimi-interesi/774195",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-22T06:10:34.000Z",
+      "summary": "Summary: \"Zanima me varljiv moment opazovanja v znanosti, ki je od nekdaj pogojena s političnimi interesi\""
+    },
+    {
+      "id": "4e780d1628f91efebc6c4e4ef66d3b2b27fe6826",
+      "title": "Nadja Terčon: Slovenci smo zares dobili svoje morje šele devet let po osvoboditvi",
+      "url": "https://www.rtvslo.si/slovenija/nadja-tercon-slovenci-smo-zares-dobili-svoje-morje-sele-devet-let-po-osvoboditvi/774111",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-22T06:05:06.000Z",
+      "summary": "Summary: Nadja Terčon: Slovenci smo zares dobili svoje morje šele devet let po osvoboditvi"
+    },
+    {
+      "id": "f3561a18634d820741356d141083d9c3b207969c",
+      "title": "Solze, šport in olimpijske igre",
+      "url": "https://www.rtvslo.si/zdravje/solze-sport-in-olimpijske-igre/774141",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-22T06:04:27.000Z",
+      "summary": "Summary: Solze, šport in olimpijske igre"
+    },
+    {
+      "id": "b3cc2db04ce13a28cd4db25f5bdfcedb2334d228",
+      "title": "Dejstva namesto manipulacije",
+      "url": "https://www.24ur.com/novice/dejstva/dejstva-namesto-manipulacije.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-22T06:03:32.000Z",
+      "summary": "Summary: Dejstva namesto manipulacije"
+    },
+    {
+      "id": "65e248fdcde8c5d1a76b98c0a443861c5abf2b9b",
+      "title": "Andrew is Prince William's problem too - and it makes his future job harder",
+      "url": "https://www.bbc.com/news/articles/c5y6kgky2evo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-21T06:21:16.000Z",
-      "summary": "Summary: Bond, bagpipes & controversial Canadians - why curling is must-watch"
+      "published_at": "2026-02-22T06:02:42.000Z",
+      "summary": "Summary: Andrew is Prince William's problem too - and it makes his future job harder"
     },
     {
-      "id": "16ae39a7a24fac599bcac183ceb363ef588420bc",
-      "title": "New US 10% global tariff will have ‘limited impact’ on Hong Kong: treasury chief",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344200/new-us-10-tariff-will-have-limited-impact-hong-kong-treasury-chief?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-02-21T06:20:27.000Z",
-      "summary": "Summary: New US 10% global tariff will have ‘limited impact’ on Hong Kong: treasury chief"
-    },
-    {
-      "id": "18436c6ddc766f0708febe9457a6ef608f89b52e",
-      "title": "After the Supreme Court's ruling on tariffs, companies line up for refunds",
-      "url": "https://www.npr.org/2026/02/21/g-s1-110987/supreme-court-tariffs-refunds",
-      "source": "feeds.npr.org",
-      "published_at": "2026-02-21T06:18:50.000Z",
-      "summary": "Summary: After the Supreme Court's ruling on tariffs, companies line up for refunds"
-    },
-    {
-      "id": "78eb290f9296ed4268e21a07349d24c5e6651b75",
-      "title": "Jaz, ki nisem nikoli poznala moških: zakaj je pozabljena feministična distopija danes spet aktualna?",
-      "url": "https://www.rtvslo.si/kultura/knjige/jaz-ki-nisem-nikoli-poznala-moskih-zakaj-je-pozabljena-feministicna-distopija-danes-spet-aktualna/774143",
+      "id": "5b164ec8c38ad0e87ffa5ddff8bfc85fce3d313b",
+      "title": "Krka ovrednotena že skoraj tako kot Microsoft",
+      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/krka-ovrednotena-ze-skoraj-tako-kot-microsoft/774017",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-21T06:16:29.000Z",
-      "summary": "Summary: Jaz, ki nisem nikoli poznala moških: zakaj je pozabljena feministična distopija danes spet aktualna?"
-    },
-    {
-      "id": "c23f1513335d6530f4154302df082e8dc4385993",
-      "title": "SDS in NSi za presojo ustavnosti, Maljevac: Poceni volilni bonbonček",
-      "url": "https://www.24ur.com/ustavna-presoja-zakona-o-dolgotrajni-oskrbi-sprozila-politicno-razpravo.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-21T06:15:09.000Z",
-      "summary": "Summary: SDS in NSi za presojo ustavnosti, Maljevac: Poceni volilni bonbonček"
-    },
-    {
-      "id": "a3a8282880cacbc7c4f5d4daf0c0353d91a53dd2",
-      "title": "Gostinci že pometajo terase",
-      "url": "https://www.24ur.com/novice/slovenija/vremenski-preobrat.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-21T06:14:43.000Z",
-      "summary": "Summary: Gostinci že pometajo terase"
-    },
-    {
-      "id": "c8dabc20f860813d4c85d88d460e443928c87092",
-      "title": "Lakersi leteli na krilih Luke Dončića in premagali mestne tekmece",
-      "url": "https://www.24ur.com/sport/kosarka/konec-premora-tudi-za-lakerse-gostili-bodo-mestne-tekmece.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-21T06:11:31.000Z",
-      "summary": "Summary: Lakersi leteli na krilih Luke Dončića in premagali mestne tekmece"
-    },
-    {
-      "id": "2789d12a5a6e368d6117d285f4dcd78f75af051b",
-      "title": "Angeli zase vzamejo skoraj polovico vinjaka",
-      "url": "https://www.rtvslo.si/zabava-in-slog/kulinarika/angeli-zase-vzamejo-skoraj-polovico-vinjaka/774137",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-21T06:05:11.000Z",
-      "summary": "Summary: Angeli zase vzamejo skoraj polovico vinjaka"
-    },
-    {
-      "id": "1b567d5cc3ba7e9533f3a6a3bd2075d437b7d84b",
-      "title": "Kratkoročno oddajanje nepremičnin: Ko najemodajalci ignorirajo vsa pravila",
-      "url": "https://www.rtvslo.si/slovenija/kratkorocno-oddajanje-nepremicnin-ko-najemodajalci-ignorirajo-vsa-pravila/774126",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-21T06:04:45.000Z",
-      "summary": "Summary: Kratkoročno oddajanje nepremičnin: Ko najemodajalci ignorirajo vsa pravila"
-    },
-    {
-      "id": "6d6dbab1656eeaad7666bf25d7def2b2d59888ca",
-      "title": "Why fake AI videos of UK urban decline are taking over social media",
-      "url": "https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-21T06:04:41.000Z",
-      "summary": "Summary: Why fake AI videos of UK urban decline are taking over social media"
-    },
-    {
-      "id": "34b953b3b7032856b25a255b277d48ce81a6137c",
-      "title": "Vrtovec kritizira Logarja in namiguje Hanu",
-      "url": "https://www.24ur.com/novice/slovenija/vrtovec-kritizira-logarja-in-namiguje-hanu.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-21T06:02:06.000Z",
-      "summary": "Summary: Vrtovec kritizira Logarja in namiguje Hanu"
+      "published_at": "2026-02-22T06:02:19.000Z",
+      "summary": "Summary: Krka ovrednotena že skoraj tako kot Microsoft"
     }
   ]
 }
