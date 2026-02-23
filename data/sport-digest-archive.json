@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-22T06:34:09.387Z",
+  "updated_at": "2026-02-23T06:43:52.060Z",
   "days": [
+    {
+      "date": "2026-02-23",
+      "page": "/news/2026-02-23-sport.html",
+      "teaser": "Top: Best DRS-IAR loadout in Battlefield 6",
+      "count": 12,
+      "ids": [
+        "0426d23d8580134052a33a8ef525e464a8c71566",
+        "409570ec32dbf8dbaa3627dfe6f71986f290963e",
+        "4867424bf3fc625eebd97601c784f799a3377980",
+        "56086bb5891d4cc481a9046cc58c54105ce74a34",
+        "80dcfcb6c3aca919676b04f13b4bb1096e00ccd1",
+        "a4f9ad903214eabf0154d1e3cd3736b26c381cfb",
+        "114a84c01d32c1332b217ed3a23630e4ee6ce873",
+        "ca8f4eec90f333434a6ec728a84e6003ad918fc6",
+        "787552e84e3f1043ff518e3bfe573bc158dce579",
+        "4d2d72bbf398c7ccd624f56ccffad988983d917e",
+        "868c8eaff0cf89c0ae9bd7a88e329fde08403d67",
+        "6347414fa650c4262748d804390f884283f48573"
+      ]
+    },
     {
       "date": "2026-02-22",
       "page": "/news/2026-02-22-sport.html",
@@ -579,26 +599,6 @@
         "6767ef761a662e71b2d819b3a02fe86304a575ed",
         "3ecaa57489d1bea06a1e15c788563634464c4dc3",
         "7fce3bf54be5f94c23dbb9745f7b17ac343ebfd5"
-      ]
-    },
-    {
-      "date": "2026-01-19",
-      "page": "/news/2026-01-19-sport.html",
-      "teaser": "Top: Carrick gave fans 'taste' of Ferguson era - Rooney",
-      "count": 12,
-      "ids": [
-        "7f61342b81603053bb5abe884e6e55bba5e4f241",
-        "2e5280c09a07f797225a1c58d224f03a9183eef9",
-        "0a716adcfd2c9ed5bc7353d966683ffc4986a7e2",
-        "e52be90d1fa3b779424d01dc3ad9d0eb95e06543",
-        "7055cb0149a6f0b090024fd509863d2717c9cc7b",
-        "eb78d20c11de73b986c110ced7aec9a1cdd0596f",
-        "b3672b5f17eadede604424fe8b60c1506eee2a4f",
-        "d0176485d191a39ec937107e5dd2f4ab73deeff3",
-        "14423412b6cf3897cea53ee6ae1709165ec8e368",
-        "a233747dcb428047ef6f762fbc79242e32f835e6",
-        "e0aff850489590c2356e867864720856b46979bd",
-        "e86002c54767772ad6b520480d72aa5a58e04ba6"
       ]
     }
   ]

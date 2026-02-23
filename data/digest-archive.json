@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-22T06:33:42.698Z",
+  "updated_at": "2026-02-23T06:43:38.316Z",
   "days": [
+    {
+      "date": "2026-02-23",
+      "page": "/news/2026-02-23.html",
+      "teaser": "Top: Best DRS-IAR loadout in Battlefield 6",
+      "count": 12,
+      "ids": [
+        "0426d23d8580134052a33a8ef525e464a8c71566",
+        "63af64bc170252e218ce64b80a54092f9a6c2375",
+        "c3161ed78fbc5bdf64e728fda079f3aad2b26b9d",
+        "abbae0c4500329821af591830b1af6854babe157",
+        "ba620c11eba684829a055b7b20b330907d7ffe8e",
+        "0a89f57377c2de653b2c7c57416193d4a6ce8a77",
+        "5e6329f3f28dfa85473d63a0dc31543c254102ca",
+        "9e1cb525e513a75ad0b18409ed842e89e8ce0618",
+        "80dcfcb6c3aca919676b04f13b4bb1096e00ccd1",
+        "d37274bfe4bc874575381b1da9b0cf7bcbe7f80c",
+        "496e7b2f1ccf725e23a490051b504e3ca6fce307",
+        "0bb1ef74a924a15a61c441b7fbd2afb9a83ad3ec"
+      ]
+    },
     {
       "date": "2026-02-22",
       "page": "/news/2026-02-22.html",
@@ -579,26 +599,6 @@
         "0c42976ac0ad1b634cd6eb89099e4797a1f7d0af",
         "db7e7672323c69084385a3acfa1db45028fbff88",
         "6591d23150ae4d43883addbb36371a62677ab2c9"
-      ]
-    },
-    {
-      "date": "2026-01-19",
-      "page": "/news/2026-01-19.html",
-      "teaser": "Top: Are arrays functions?",
-      "count": 12,
-      "ids": [
-        "db27d21e23231b95801426969859a3c3b676debc",
-        "c8c8ad1a8f9d52a989eca4b605279c3b7b4b01c6",
-        "e19e7f22128f49ae2a9fba94f8281c26094fc5c7",
-        "080c6936e5c73fd7d25c830e23fc3c0f7e34cd13",
-        "89ed9bf15a87fbbfce9724deeb82c000cf5284fd",
-        "71e2d7f914c0e10bf436476cf2a48e190c48c8f8",
-        "5f6889e253733cca047cbcf518043b540b36d7da",
-        "64d4778354ab146b540cae1b4b87f7cdeac1266e",
-        "cb764b94f765253bb4c9e1b417828dfd7229143e",
-        "2f6d2ec00f7d7d9be2122af33765c7cc7304eeed",
-        "d594066a652c86a84be2e62aede7e8ef5cc2d6e3",
-        "234c1b6c26d021d37c96afae332abad6c02fd991"
       ]
     }
   ]

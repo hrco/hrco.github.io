@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-22",
-  "updated_at": "2026-02-22T06:33:42.698Z",
-  "page": "/news/2026-02-22.html",
+  "date": "2026-02-23",
+  "updated_at": "2026-02-23T06:43:38.316Z",
+  "page": "/news/2026-02-23.html",
   "count": 12,
   "items": [
     {
-      "id": "e2551ecbeaf4a66a0a5af02fd43c85ede1ac0778",
-      "title": "Brez elektrike še dobrih 3000 odjemalcev na območju Elektra Maribor",
-      "url": "https://www.delo.si/novice/slovenija/sneg-ujma-elektrika-odjemalci-maribor",
+      "id": "0426d23d8580134052a33a8ef525e464a8c71566",
+      "title": "Best DRS-IAR loadout in Battlefield 6",
+      "url": "https://dotesports.com/battlefield/news/best-drs-iar-loadout-bf6",
+      "source": "dotesports.com",
+      "published_at": "2026-02-23T06:36:56.000Z",
+      "summary": "Summary: Best DRS-IAR loadout in Battlefield 6"
+    },
+    {
+      "id": "63af64bc170252e218ce64b80a54092f9a6c2375",
+      "title": "Session-Based Symmetric Key Generation with CryptoKit",
+      "url": "https://dev.to/harmonyos/session-based-symmetric-key-generation-with-cryptokit-hkn",
+      "source": "dev.to",
+      "published_at": "2026-02-23T06:34:00.000Z",
+      "summary": "Summary: Session-Based Symmetric Key Generation with CryptoKit"
+    },
+    {
+      "id": "c3161ed78fbc5bdf64e728fda079f3aad2b26b9d",
+      "title": "Patrones de diseño de componentes de React: una guía completa",
+      "url": "https://dev.to/carlos_mruiz_e1fbb61ca7/patrones-de-diseno-de-componentes-de-react-una-guia-completa-4ndm",
+      "source": "dev.to",
+      "published_at": "2026-02-23T06:33:57.000Z",
+      "summary": "Summary: Patrones de diseño de componentes de React: una guía completa"
+    },
+    {
+      "id": "abbae0c4500329821af591830b1af6854babe157",
+      "title": "Dark Patterns: quando o design deixa de servir pessoas e passa a manipulá-las",
+      "url": "https://dev.to/fullagenticstack/dark-patterns-quando-o-design-deixa-de-servir-pessoas-e-passa-a-manipula-las-2jhk",
+      "source": "dev.to",
+      "published_at": "2026-02-23T06:33:41.000Z",
+      "summary": "Summary: Dark Patterns: quando o design deixa de servir pessoas e passa a manipulá-las"
+    },
+    {
+      "id": "ba620c11eba684829a055b7b20b330907d7ffe8e",
+      "title": "Dončić in druščina nemočni proti Bostonu, LeBron James do novega mejnika",
+      "url": "https://www.delo.si/sport/kosarka/doncic-in-druscina-nemocni-proti-bostonu-lebron-james-do-novega-mejnika",
       "source": "www.delo.si",
-      "published_at": "2026-02-22T06:28:00.000Z",
-      "summary": "Summary: Brez elektrike še dobrih 3000 odjemalcev na območju Elektra Maribor"
+      "published_at": "2026-02-23T06:30:53.000Z",
+      "summary": "Summary: Dončić in druščina nemočni proti Bostonu, LeBron James do novega mejnika"
     },
     {
-      "id": "95b8a64fb785518be838f34c58b97630671f334f",
-      "title": "Zapuščeni tankerji: posadke v težkih razmerah čakajo na plače in hrano",
-      "url": "https://www.24ur.com/novice/tujina/lastniki-zapuscajo-naftne-tankerje.html",
+      "id": "0a89f57377c2de653b2c7c57416193d4a6ce8a77",
+      "title": "A Short‑Term Tariff Win for India?",
+      "url": "https://www.bloomberg.com/news/videos/2026-02-23/a-short-term-tariff-win-for-india-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-23T06:20:58.000Z",
+      "summary": "Summary: A Short‑Term Tariff Win for India?"
+    },
+    {
+      "id": "5e6329f3f28dfa85473d63a0dc31543c254102ca",
+      "title": "Saudi Firms Advance IPO Plans in Boost for Flagging Local Bourse",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-23/saudi-firms-advance-ipo-plans-in-boost-for-flagging-local-bourse",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-23T06:20:52.000Z",
+      "summary": "Summary: Saudi Firms Advance IPO Plans in Boost for Flagging Local Bourse"
+    },
+    {
+      "id": "9e1cb525e513a75ad0b18409ed842e89e8ce0618",
+      "title": "Why Do Clicks “Stack Up” When JavaScript Blocks the UI?",
+      "url": "https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k",
+      "source": "dev.to",
+      "published_at": "2026-02-23T06:19:15.000Z",
+      "summary": "Summary: Why Do Clicks “Stack Up” When JavaScript Blocks the UI?"
+    },
+    {
+      "id": "80dcfcb6c3aca919676b04f13b4bb1096e00ccd1",
+      "title": "IShowSpeed reveals plans for The Walking Dead marathon stream next month",
+      "url": "https://dotesports.com/streaming/news/ishowspeed-the-walking-dead-marathon-stream-march",
+      "source": "dotesports.com",
+      "published_at": "2026-02-23T06:14:10.000Z",
+      "summary": "Summary: IShowSpeed reveals plans for The Walking Dead marathon stream next month"
+    },
+    {
+      "id": "d37274bfe4bc874575381b1da9b0cf7bcbe7f80c",
+      "title": "Kim Džong Un spet potrjen, vse oči pa uprte v hčerko",
+      "url": "https://www.24ur.com/novice/tujina/kim-dzong-un-spet-potrjen-vse-oci-pa-uprte-v-hcerko.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-22T06:27:58.000Z",
-      "summary": "Summary: Zapuščeni tankerji: posadke v težkih razmerah čakajo na plače in hrano"
+      "published_at": "2026-02-23T06:13:54.000Z",
+      "summary": "Summary: Kim Džong Un spet potrjen, vse oči pa uprte v hčerko"
     },
     {
-      "id": "0ae42e86935a9afc0c23fc784b0ff3c3035f2a40",
-      "title": "What Is a Variable: A Box or a Label?",
-      "url": "https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob",
-      "source": "dev.to",
-      "published_at": "2026-02-22T06:27:22.000Z",
-      "summary": "Summary: What Is a Variable: A Box or a Label?"
+      "id": "496e7b2f1ccf725e23a490051b504e3ca6fce307",
+      "title": "Using The New Bridges of FreeBSD 15",
+      "url": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
+      "source": "lobste.rs",
+      "published_at": "2026-02-23T06:13:29.000Z",
+      "summary": "Summary: Using The New Bridges of FreeBSD 15"
     },
     {
-      "id": "29fe287471d8707e033982abfd4a807d2de9c560",
-      "title": "Sanjski severnoameriški finale: ko za Kanado in ZDA šteje samo zlato",
-      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/hokej/sanjski-severnoameriski-finale-ko-za-kanado-in-zda-steje-samo-zlato/774192",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-22T06:24:01.000Z",
-      "summary": "Summary: Sanjski severnoameriški finale: ko za Kanado in ZDA šteje samo zlato"
-    },
-    {
-      "id": "8f1e1ec0c6d7c7ee45d10eed1cb9bae036a3523c",
-      "title": "Announcing pytest-gremlins v1.3.0",
-      "url": "https://dev.to/mikelane/announcing-pytest-gremlins-v130-53ka",
-      "source": "dev.to",
-      "published_at": "2026-02-22T06:21:46.000Z",
-      "summary": "Summary: Announcing pytest-gremlins v1.3.0"
-    },
-    {
-      "id": "5a2d6d5fbbf08e784ab728262368323bdbd646b7",
-      "title": "Slaba novica za Dončićeve navijače, cena vstopnic čez noč v nebo",
-      "url": "https://www.delo.si/sport/kosarka/slaba-novica-za-donciceve-navijace-cena-vstopnic-cez-noc-v-nebo",
-      "source": "www.delo.si",
-      "published_at": "2026-02-22T06:20:00.000Z",
-      "summary": "Summary: Slaba novica za Dončićeve navijače, cena vstopnic čez noč v nebo"
-    },
-    {
-      "id": "458b5dbe6b056cf796d0fe3fc57d6045e3424779",
-      "title": "Afera Dars: vložene prve kazenske ovadbe",
-      "url": "https://www.24ur.com/novice/dejstva/preiskava-afere-dars-vlozene-prve-kazenske-ovadbe.html",
+      "id": "0bb1ef74a924a15a61c441b7fbd2afb9a83ad3ec",
+      "title": "'Zdaj vemo, kako je treba igrati takšne tekme. Fizično in še enkrat fizično'",
+      "url": "https://www.24ur.com/sport/kosarka/zdaj-vemo-kako-je-treba-igrati-taksne-tekme-fizicno-in-se-enkrat-fizicno.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-22T06:19:24.000Z",
-      "summary": "Summary: Afera Dars: vložene prve kazenske ovadbe"
-    },
-    {
-      "id": "caf3bf2225599375ef085955a77d9111b3a00e44",
-      "title": "ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login.",
-      "url": "https://dev.to/caffinecoder54/erc-8128-your-ethereum-wallet-might-soon-be-your-only-loginpublished-18fb",
-      "source": "dev.to",
-      "published_at": "2026-02-22T06:11:23.000Z",
-      "summary": "Summary: ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login."
-    },
-    {
-      "id": "4fb220ec9e78c6eef327cfb77d4b571b9471a27a",
-      "title": "Why MQTT Last Will Testament Isn't Enough for Production IoT (And What We Built Instead)",
-      "url": "https://dev.to/anil_saithana/why-mqtt-last-will-testament-isnt-enough-for-production-iot-and-what-we-built-instead-44cj",
-      "source": "dev.to",
-      "published_at": "2026-02-22T06:10:54.000Z",
-      "summary": "Summary: Why MQTT Last Will Testament Isn't Enough for Production IoT (And What We Built Instead)"
-    },
-    {
-      "id": "8dad174d064b0fe71e6243c68d60a8e70582582a",
-      "title": "\"Zanima me varljiv moment opazovanja v znanosti, ki je od nekdaj pogojena s političnimi interesi\"",
-      "url": "https://www.rtvslo.si/kultura/intervju/zanima-me-varljiv-moment-opazovanja-v-znanosti-ki-je-od-nekdaj-pogojena-s-politicnimi-interesi/774195",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-22T06:10:34.000Z",
-      "summary": "Summary: \"Zanima me varljiv moment opazovanja v znanosti, ki je od nekdaj pogojena s političnimi interesi\""
-    },
-    {
-      "id": "a8edbdd77a855a35367bb2a7f1d003bd0525278f",
-      "title": "I replaced the `man` command with a Python TUI — and it's actually useful",
-      "url": "https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h",
-      "source": "dev.to",
-      "published_at": "2026-02-22T06:07:48.000Z",
-      "summary": "Summary: I replaced the `man` command with a Python TUI — and it's actually useful"
-    },
-    {
-      "id": "a1637f8c43df837c4dce697d006923ec72f57942",
-      "title": "Unit testing ESP-IDF components with GoogleTest (host-based)",
-      "url": "https://dev.to/aluiziotomazelli/unit-testing-esp-idf-components-with-googletest-host-based-1c16",
-      "source": "dev.to",
-      "published_at": "2026-02-22T06:05:27.000Z",
-      "summary": "Summary: Unit testing ESP-IDF components with GoogleTest (host-based)"
+      "published_at": "2026-02-23T06:13:04.000Z",
+      "summary": "Summary: 'Zdaj vemo, kako je treba igrati takšne tekme. Fizično in še enkrat fizično'"
     }
   ]
 }

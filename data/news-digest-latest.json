@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-22",
-  "updated_at": "2026-02-22T06:34:00.965Z",
-  "page": "/news/2026-02-22-news.html",
+  "date": "2026-02-23",
+  "updated_at": "2026-02-23T06:43:46.886Z",
+  "page": "/news/2026-02-23-news.html",
   "count": 12,
   "items": [
     {
-      "id": "e2551ecbeaf4a66a0a5af02fd43c85ede1ac0778",
-      "title": "Brez elektrike še dobrih 3000 odjemalcev na območju Elektra Maribor",
-      "url": "https://www.delo.si/novice/slovenija/sneg-ujma-elektrika-odjemalci-maribor",
+      "id": "0e1cf08243d83360ce830f287f9bca2713f8a9d6",
+      "title": "Mexico fears more violence after army kills leader of powerful Jalisco cartel",
+      "url": "https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel",
+      "source": "feeds.npr.org",
+      "published_at": "2026-02-23T06:32:40.000Z",
+      "summary": "Summary: Mexico fears more violence after army kills leader of powerful Jalisco cartel"
+    },
+    {
+      "id": "ba620c11eba684829a055b7b20b330907d7ffe8e",
+      "title": "Dončić in druščina nemočni proti Bostonu, LeBron James do novega mejnika",
+      "url": "https://www.delo.si/sport/kosarka/doncic-in-druscina-nemocni-proti-bostonu-lebron-james-do-novega-mejnika",
       "source": "www.delo.si",
-      "published_at": "2026-02-22T06:28:00.000Z",
-      "summary": "Summary: Brez elektrike še dobrih 3000 odjemalcev na območju Elektra Maribor"
+      "published_at": "2026-02-23T06:30:53.000Z",
+      "summary": "Summary: Dončić in druščina nemočni proti Bostonu, LeBron James do novega mejnika"
     },
     {
-      "id": "95b8a64fb785518be838f34c58b97630671f334f",
-      "title": "Zapuščeni tankerji: posadke v težkih razmerah čakajo na plače in hrano",
-      "url": "https://www.24ur.com/novice/tujina/lastniki-zapuscajo-naftne-tankerje.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-22T06:27:58.000Z",
-      "summary": "Summary: Zapuščeni tankerji: posadke v težkih razmerah čakajo na plače in hrano"
+      "id": "f1c1e995996c910e76abdd02c322f704b9d03860",
+      "title": "Empty shops, falling rents: commercial property takes a hit in China retail slump",
+      "url": "https://www.scmp.com/business/article/3344308/empty-shops-falling-rents-commercial-property-takes-hit-china-retail-slump?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-02-23T06:30:07.000Z",
+      "summary": "Summary: Empty shops, falling rents: commercial property takes a hit in China retail slump"
     },
     {
-      "id": "29fe287471d8707e033982abfd4a807d2de9c560",
-      "title": "Sanjski severnoameriški finale: ko za Kanado in ZDA šteje samo zlato",
-      "url": "https://www.rtvslo.si/sport/oi-2026/sporti/hokej/sanjski-severnoameriski-finale-ko-za-kanado-in-zda-steje-samo-zlato/774192",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-22T06:24:01.000Z",
-      "summary": "Summary: Sanjski severnoameriški finale: ko za Kanado in ZDA šteje samo zlato"
+      "id": "746ef20e9200d887e9eb4660fea25f394a0944a3",
+      "title": "Hong Kong restaurant burgled, HK$800,000 in cash stolen",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3344309/hong-kong-restaurant-burgled-hk800000-cash-stolen?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-02-23T06:29:59.000Z",
+      "summary": "Summary: Hong Kong restaurant burgled, HK$800,000 in cash stolen"
     },
     {
-      "id": "5a2d6d5fbbf08e784ab728262368323bdbd646b7",
-      "title": "Slaba novica za Dončićeve navijače, cena vstopnic čez noč v nebo",
-      "url": "https://www.delo.si/sport/kosarka/slaba-novica-za-donciceve-navijace-cena-vstopnic-cez-noc-v-nebo",
-      "source": "www.delo.si",
-      "published_at": "2026-02-22T06:20:00.000Z",
-      "summary": "Summary: Slaba novica za Dončićeve navijače, cena vstopnic čez noč v nebo"
+      "id": "b191046d94759e197839ef77b12eaf651556f000",
+      "title": "How Mexico killed the powerful drug kingpin 'El Mencho' and what it means",
+      "url": "https://www.france24.com/en/americas/20260223-how-mexico-killed-the-powerful-drug-kingpin-el-mencho-and-what-it-means",
+      "source": "www.france24.com",
+      "published_at": "2026-02-23T06:29:18.000Z",
+      "summary": "Summary: How Mexico killed the powerful drug kingpin 'El Mencho' and what it means"
     },
     {
-      "id": "458b5dbe6b056cf796d0fe3fc57d6045e3424779",
-      "title": "Afera Dars: vložene prve kazenske ovadbe",
-      "url": "https://www.24ur.com/novice/dejstva/preiskava-afere-dars-vlozene-prve-kazenske-ovadbe.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-22T06:19:24.000Z",
-      "summary": "Summary: Afera Dars: vložene prve kazenske ovadbe"
+      "id": "d3960f4dee20389625e9bba53918c4ddac035372",
+      "title": "Muslim Australians fear rising Islamophobia as Ramadan begins",
+      "url": "https://www.abc.net.au/news/2026-02-23/muslim-australians-fear-rising-islamophobia-as-ramadan-begins/106362392",
+      "source": "www.abc.net.au",
+      "published_at": "2026-02-23T06:28:46.000Z",
+      "summary": "Summary: Muslim Australians fear rising Islamophobia as Ramadan begins"
     },
     {
-      "id": "848166435654d632b98ced0a005214af762dc311",
-      "title": "Australia news live: strong winds overturn boats in Hobart ahead of regatta; thousands of ‘life-threatening’ pharmaceutical poppies stolen from Victorian farm",
-      "url": "https://www.theguardian.com/australia-news/live/2026/feb/22/australia-news-live-tony-burke-home-affairs-syria-albanese-chalmers-productivity-commission-federal-police-labor-liberal-angus-taylor-coalition-ntwnfb",
+      "id": "495cb4380ce4c8e7ab3ea4dffaa597755ae23414",
+      "title": "Israeli journalist who said 100,000 Gazans should have been killed after 7 October could be denied Australia visa",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/23/israeli-journalist-who-said-100000-gazans-should-have-been-killed-after-7-october-could-be-denied-australia-visa",
       "source": "www.theguardian.com",
-      "published_at": "2026-02-22T06:19:23.000Z",
-      "summary": "Summary: Australia news live: strong winds overturn boats in Hobart ahead of regatta; thousands of ‘life-threatening’ pharmaceutical poppies stolen from Victorian farm"
+      "published_at": "2026-02-23T06:23:23.000Z",
+      "summary": "Summary: Israeli journalist who said 100,000 Gazans should have been killed after 7 October could be denied Australia visa"
     },
     {
-      "id": "8dad174d064b0fe71e6243c68d60a8e70582582a",
-      "title": "\"Zanima me varljiv moment opazovanja v znanosti, ki je od nekdaj pogojena s političnimi interesi\"",
-      "url": "https://www.rtvslo.si/kultura/intervju/zanima-me-varljiv-moment-opazovanja-v-znanosti-ki-je-od-nekdaj-pogojena-s-politicnimi-interesi/774195",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-22T06:10:34.000Z",
-      "summary": "Summary: \"Zanima me varljiv moment opazovanja v znanosti, ki je od nekdaj pogojena s političnimi interesi\""
-    },
-    {
-      "id": "4e780d1628f91efebc6c4e4ef66d3b2b27fe6826",
-      "title": "Nadja Terčon: Slovenci smo zares dobili svoje morje šele devet let po osvoboditvi",
-      "url": "https://www.rtvslo.si/slovenija/nadja-tercon-slovenci-smo-zares-dobili-svoje-morje-sele-devet-let-po-osvoboditvi/774111",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-22T06:05:06.000Z",
-      "summary": "Summary: Nadja Terčon: Slovenci smo zares dobili svoje morje šele devet let po osvoboditvi"
-    },
-    {
-      "id": "f3561a18634d820741356d141083d9c3b207969c",
-      "title": "Solze, šport in olimpijske igre",
-      "url": "https://www.rtvslo.si/zdravje/solze-sport-in-olimpijske-igre/774141",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-22T06:04:27.000Z",
-      "summary": "Summary: Solze, šport in olimpijske igre"
-    },
-    {
-      "id": "b3cc2db04ce13a28cd4db25f5bdfcedb2334d228",
-      "title": "Dejstva namesto manipulacije",
-      "url": "https://www.24ur.com/novice/dejstva/dejstva-namesto-manipulacije.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-22T06:03:32.000Z",
-      "summary": "Summary: Dejstva namesto manipulacije"
-    },
-    {
-      "id": "65e248fdcde8c5d1a76b98c0a443861c5abf2b9b",
-      "title": "Andrew is Prince William's problem too - and it makes his future job harder",
-      "url": "https://www.bbc.com/news/articles/c5y6kgky2evo?at_medium=RSS&at_campaign=rss",
+      "id": "56086bb5891d4cc481a9046cc58c54105ce74a34",
+      "title": "Five talking points from round three of Six Nations",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cjrqlq0w01no?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-22T06:02:42.000Z",
-      "summary": "Summary: Andrew is Prince William's problem too - and it makes his future job harder"
+      "published_at": "2026-02-23T06:18:08.000Z",
+      "summary": "Summary: Five talking points from round three of Six Nations"
     },
     {
-      "id": "5b164ec8c38ad0e87ffa5ddff8bfc85fce3d313b",
-      "title": "Krka ovrednotena že skoraj tako kot Microsoft",
-      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/krka-ovrednotena-ze-skoraj-tako-kot-microsoft/774017",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-22T06:02:19.000Z",
-      "summary": "Summary: Krka ovrednotena že skoraj tako kot Microsoft"
+      "id": "53c38a7dda581d500d490f02d635ef3a334aaf40",
+      "title": "Premier League: Arsenal pass derby test of nerve against Tottenham",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260223-premier-league-arsenal-pass-derby-test-of-nerve-against-tottenham",
+      "source": "www.france24.com",
+      "published_at": "2026-02-23T06:16:56.000Z",
+      "summary": "Summary: Premier League: Arsenal pass derby test of nerve against Tottenham"
+    },
+    {
+      "id": "50df642bffea208b8ec74d634789c8f42a5bd340",
+      "title": "The tragedy of Punch the monkey: why do mother animals abandon their offspring?",
+      "url": "https://www.theguardian.com/world/2026/feb/23/punch-monkey-japan-macaque-why-do-mother-animals-abandon-offspring",
+      "source": "www.theguardian.com",
+      "published_at": "2026-02-23T06:13:56.000Z",
+      "summary": "Summary: The tragedy of Punch the monkey: why do mother animals abandon their offspring?"
+    },
+    {
+      "id": "d37274bfe4bc874575381b1da9b0cf7bcbe7f80c",
+      "title": "Kim Džong Un spet potrjen, vse oči pa uprte v hčerko",
+      "url": "https://www.24ur.com/novice/tujina/kim-dzong-un-spet-potrjen-vse-oci-pa-uprte-v-hcerko.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-23T06:13:54.000Z",
+      "summary": "Summary: Kim Džong Un spet potrjen, vse oči pa uprte v hčerko"
+    },
+    {
+      "id": "9cc41fde7c824de19dcf690cd91f67698654c11d",
+      "title": "FIFO boom could lead to $100m regional airport expansion",
+      "url": "https://www.abc.net.au/news/2026-02-23/kalgoorlie-boulder-airport-expansion-fifo-boom/106368120",
+      "source": "www.abc.net.au",
+      "published_at": "2026-02-23T06:13:08.000Z",
+      "summary": "Summary: FIFO boom could lead to $100m regional airport expansion"
     }
   ]
 }
