@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-23T06:43:46.886Z",
+  "updated_at": "2026-02-24T06:39:48.691Z",
   "days": [
+    {
+      "date": "2026-02-24",
+      "page": "/news/2026-02-24-news.html",
+      "teaser": "Top: Sabah quake strongest to hit Malaysia in 11 years, tremors felt in Singapore",
+      "count": 12,
+      "ids": [
+        "96529b6b890468e1bffc83c30a2b21ba3535174f",
+        "99b454e82f3e3436419b7376e9c4e1f032d92fc0",
+        "1f6771d246516f1c2d955e9ab5450001fdfff5a4",
+        "69aebc6cb4c77e2c94428c7ccba955f6c8960ae4",
+        "97a11c667d8e022b99749964381ded6f937a455d",
+        "3f77f250749812fa6e6db4cdc814c8690152ba13",
+        "70f489eaa10035466f83b6e1ef34857cee13d6b1",
+        "31240e35182cd3a7db46e40aa6343ca8dc915530",
+        "870923c1fea4c1a9174cb05634bae87eb86d3ed6",
+        "2a47df5ab2796bfb1557530c41a5638779e4d4d0",
+        "715eff69024422098ab5a5f63e8566a006c74e83",
+        "8aaaed3bdc8caed08c5b2e8d0e2adc2df04fc7da"
+      ]
+    },
     {
       "date": "2026-02-23",
       "page": "/news/2026-02-23-news.html",
@@ -579,26 +599,6 @@
         "5a5668763ea8e902da8f87a293a06246075dba48",
         "78f0b0b5d175d297fe65285517bf5da7a2470fe8",
         "c5eb710908c4ae66a6b32029598135f0053c955c"
-      ]
-    },
-    {
-      "date": "2026-01-20",
-      "page": "/news/2026-01-20-news.html",
-      "teaser": "Top: Veleslalom na Kronplatzu: vrnitev Federice Brignone",
-      "count": 12,
-      "ids": [
-        "e7a27c96fde5849f0b2be40c6de654a32ead8b16",
-        "673829bc3240bd592c8d4fe9783096654e32e67e",
-        "c8cc46086d8452491536a6d5e9373551dce736c1",
-        "57cd4c0c581e4ea9877326d92ed4ef38afe245ea",
-        "10623786648ef7379631f0fbf31df8c4e42f4110",
-        "6b7fe44f79fb8c13be4eef638e4cc7bad8465a71",
-        "07694876809e76a03d5ad99d966a6e6cc608be51",
-        "76f4dcfc5aa25ad5f0aae9a730d43e7eb1feec25",
-        "c62d10c75de50779241cbb448273702ca79865c5",
-        "3cdb38f5ded8e685a982514684f3c65aa3572221",
-        "9b19d509e8217c6df47990a92cea6dbfb48e1737",
-        "6ae0cd25baae41967db1f6ac47d1898c70ae62fa"
       ]
     }
   ]

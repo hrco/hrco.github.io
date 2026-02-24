@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-23",
-  "updated_at": "2026-02-23T06:43:46.886Z",
-  "page": "/news/2026-02-23-news.html",
+  "date": "2026-02-24",
+  "updated_at": "2026-02-24T06:39:48.691Z",
+  "page": "/news/2026-02-24-news.html",
   "count": 12,
   "items": [
     {
-      "id": "0e1cf08243d83360ce830f287f9bca2713f8a9d6",
-      "title": "Mexico fears more violence after army kills leader of powerful Jalisco cartel",
-      "url": "https://www.npr.org/2026/02/23/g-s1-111138/mexico-fears-more-violence-after-army-kills-leader-of-powerful-jalisco-cartel",
+      "id": "96529b6b890468e1bffc83c30a2b21ba3535174f",
+      "title": "Sabah quake strongest to hit Malaysia in 11 years, tremors felt in Singapore",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3344426/sabah-quake-strongest-hit-malaysia-11-years-tremors-felt-singapore?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-02-24T06:35:27.000Z",
+      "summary": "Summary: Sabah quake strongest to hit Malaysia in 11 years, tremors felt in Singapore"
+    },
+    {
+      "id": "99b454e82f3e3436419b7376e9c4e1f032d92fc0",
+      "title": "Mehika je po izbruhu nasilja na zahod države napotila tisoče dodatnih vojakov",
+      "url": "https://www.rtvslo.si/svet/s-in-j-amerika/mehika-je-po-izbruhu-nasilja-na-zahod-drzave-napotila-tisoce-dodatnih-vojakov/774382",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-24T06:32:47.000Z",
+      "summary": "Summary: Mehika je po izbruhu nasilja na zahod države napotila tisoče dodatnih vojakov"
+    },
+    {
+      "id": "1f6771d246516f1c2d955e9ab5450001fdfff5a4",
+      "title": "Ostroge v Detroitu pri vodilnih Batih potrdile napredek in visoke cilje",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/ostroge-v-detroitu-pri-vodilnih-batih-potrdile-napredek-in-visoke-cilje/774380",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-24T06:31:28.000Z",
+      "summary": "Summary: Ostroge v Detroitu pri vodilnih Batih potrdile napredek in visoke cilje"
+    },
+    {
+      "id": "69aebc6cb4c77e2c94428c7ccba955f6c8960ae4",
+      "title": "France moves to bar US Ambassador Charles Kushner from direct government access",
+      "url": "https://www.npr.org/2026/02/24/g-s1-111302/france-moves-to-bar-us-ambassador-charles-kushner-from-direct-government-access",
       "source": "feeds.npr.org",
-      "published_at": "2026-02-23T06:32:40.000Z",
-      "summary": "Summary: Mexico fears more violence after army kills leader of powerful Jalisco cartel"
+      "published_at": "2026-02-24T06:29:28.000Z",
+      "summary": "Summary: France moves to bar US Ambassador Charles Kushner from direct government access"
     },
     {
-      "id": "ba620c11eba684829a055b7b20b330907d7ffe8e",
-      "title": "Dončić in druščina nemočni proti Bostonu, LeBron James do novega mejnika",
-      "url": "https://www.delo.si/sport/kosarka/doncic-in-druscina-nemocni-proti-bostonu-lebron-james-do-novega-mejnika",
-      "source": "www.delo.si",
-      "published_at": "2026-02-23T06:30:53.000Z",
-      "summary": "Summary: Dončić in druščina nemočni proti Bostonu, LeBron James do novega mejnika"
-    },
-    {
-      "id": "f1c1e995996c910e76abdd02c322f704b9d03860",
-      "title": "Empty shops, falling rents: commercial property takes a hit in China retail slump",
-      "url": "https://www.scmp.com/business/article/3344308/empty-shops-falling-rents-commercial-property-takes-hit-china-retail-slump?utm_source=rss_feed",
+      "id": "97a11c667d8e022b99749964381ded6f937a455d",
+      "title": "‘K-wave’ scams exploiting Brazil’s superfans triggers police pact",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3344425/k-wave-scams-exploiting-brazils-superfans-triggers-police-pact?utm_source=rss_feed",
       "source": "www.scmp.com",
-      "published_at": "2026-02-23T06:30:07.000Z",
-      "summary": "Summary: Empty shops, falling rents: commercial property takes a hit in China retail slump"
+      "published_at": "2026-02-24T06:23:35.000Z",
+      "summary": "Summary: ‘K-wave’ scams exploiting Brazil’s superfans triggers police pact"
     },
     {
-      "id": "746ef20e9200d887e9eb4660fea25f394a0944a3",
-      "title": "Hong Kong restaurant burgled, HK$800,000 in cash stolen",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3344309/hong-kong-restaurant-burgled-hk800000-cash-stolen?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-02-23T06:29:59.000Z",
-      "summary": "Summary: Hong Kong restaurant burgled, HK$800,000 in cash stolen"
-    },
-    {
-      "id": "b191046d94759e197839ef77b12eaf651556f000",
-      "title": "How Mexico killed the powerful drug kingpin 'El Mencho' and what it means",
-      "url": "https://www.france24.com/en/americas/20260223-how-mexico-killed-the-powerful-drug-kingpin-el-mencho-and-what-it-means",
-      "source": "www.france24.com",
-      "published_at": "2026-02-23T06:29:18.000Z",
-      "summary": "Summary: How Mexico killed the powerful drug kingpin 'El Mencho' and what it means"
-    },
-    {
-      "id": "d3960f4dee20389625e9bba53918c4ddac035372",
-      "title": "Muslim Australians fear rising Islamophobia as Ramadan begins",
-      "url": "https://www.abc.net.au/news/2026-02-23/muslim-australians-fear-rising-islamophobia-as-ramadan-begins/106362392",
-      "source": "www.abc.net.au",
-      "published_at": "2026-02-23T06:28:46.000Z",
-      "summary": "Summary: Muslim Australians fear rising Islamophobia as Ramadan begins"
-    },
-    {
-      "id": "495cb4380ce4c8e7ab3ea4dffaa597755ae23414",
-      "title": "Israeli journalist who said 100,000 Gazans should have been killed after 7 October could be denied Australia visa",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/23/israeli-journalist-who-said-100000-gazans-should-have-been-killed-after-7-october-could-be-denied-australia-visa",
+      "id": "3f77f250749812fa6e6db4cdc814c8690152ba13",
+      "title": "Gus Lamont’s parents appeal to public for information and say ‘every moment without him is unbearable’",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/24/gus-lamonts-parents-appeal-to-public-for-information-and-say-every-moment-without-him-is-unbearable-ntwnfb",
       "source": "www.theguardian.com",
-      "published_at": "2026-02-23T06:23:23.000Z",
-      "summary": "Summary: Israeli journalist who said 100,000 Gazans should have been killed after 7 October could be denied Australia visa"
+      "published_at": "2026-02-24T06:18:36.000Z",
+      "summary": "Summary: Gus Lamont’s parents appeal to public for information and say ‘every moment without him is unbearable’"
     },
     {
-      "id": "56086bb5891d4cc481a9046cc58c54105ce74a34",
-      "title": "Five talking points from round three of Six Nations",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cjrqlq0w01no?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-23T06:18:08.000Z",
-      "summary": "Summary: Five talking points from round three of Six Nations"
-    },
-    {
-      "id": "53c38a7dda581d500d490f02d635ef3a334aaf40",
-      "title": "Premier League: Arsenal pass derby test of nerve against Tottenham",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260223-premier-league-arsenal-pass-derby-test-of-nerve-against-tottenham",
-      "source": "www.france24.com",
-      "published_at": "2026-02-23T06:16:56.000Z",
-      "summary": "Summary: Premier League: Arsenal pass derby test of nerve against Tottenham"
-    },
-    {
-      "id": "50df642bffea208b8ec74d634789c8f42a5bd340",
-      "title": "The tragedy of Punch the monkey: why do mother animals abandon their offspring?",
-      "url": "https://www.theguardian.com/world/2026/feb/23/punch-monkey-japan-macaque-why-do-mother-animals-abandon-offspring",
-      "source": "www.theguardian.com",
-      "published_at": "2026-02-23T06:13:56.000Z",
-      "summary": "Summary: The tragedy of Punch the monkey: why do mother animals abandon their offspring?"
-    },
-    {
-      "id": "d37274bfe4bc874575381b1da9b0cf7bcbe7f80c",
-      "title": "Kim Džong Un spet potrjen, vse oči pa uprte v hčerko",
-      "url": "https://www.24ur.com/novice/tujina/kim-dzong-un-spet-potrjen-vse-oci-pa-uprte-v-hcerko.html",
+      "id": "70f489eaa10035466f83b6e1ef34857cee13d6b1",
+      "title": "Odpovedali več kot 5600 poletov, zaprte šole, ponekod tudi promet",
+      "url": "https://www.24ur.com/novice/tujina/odpovedali-vec-kot-5600-poletov-zaprte-sole-ponekod-tudi-promet.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-23T06:13:54.000Z",
-      "summary": "Summary: Kim Džong Un spet potrjen, vse oči pa uprte v hčerko"
+      "published_at": "2026-02-24T06:16:55.000Z",
+      "summary": "Summary: Odpovedali več kot 5600 poletov, zaprte šole, ponekod tudi promet"
     },
     {
-      "id": "9cc41fde7c824de19dcf690cd91f67698654c11d",
-      "title": "FIFO boom could lead to $100m regional airport expansion",
-      "url": "https://www.abc.net.au/news/2026-02-23/kalgoorlie-boulder-airport-expansion-fifo-boom/106368120",
-      "source": "www.abc.net.au",
-      "published_at": "2026-02-23T06:13:08.000Z",
-      "summary": "Summary: FIFO boom could lead to $100m regional airport expansion"
+      "id": "31240e35182cd3a7db46e40aa6343ca8dc915530",
+      "title": "What happened to Arlene? The 30-year mystery of a murder without a body",
+      "url": "https://www.bbc.com/news/articles/c05vg8ye4r3o?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-02-24T06:16:04.000Z",
+      "summary": "Summary: What happened to Arlene? The 30-year mystery of a murder without a body"
+    },
+    {
+      "id": "870923c1fea4c1a9174cb05634bae87eb86d3ed6",
+      "title": "Australia news live: Gus Lamont’s parents plead for ‘even the smallest detail’ of information from public and say ‘every moment without him is unbearable’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/24/mark-carney-one-nation-coalition-labor-poll-anthony-albanese-pauline-hanson-bondi-attack-royal-commission-antisemitism-ntwnfb",
+      "source": "www.theguardian.com",
+      "published_at": "2026-02-24T06:15:26.000Z",
+      "summary": "Summary: Australia news live: Gus Lamont’s parents plead for ‘even the smallest detail’ of information from public and say ‘every moment without him is unbearable’"
+    },
+    {
+      "id": "2a47df5ab2796bfb1557530c41a5638779e4d4d0",
+      "title": "Devastation and frozen frontlines: Ukraine marks four years of Russia’s war",
+      "url": "https://www.aljazeera.com/news/2026/2/24/devastation-and-frozen-frontlines-ukraine-marks-four-years-of-russias-war?traffic_source=rss",
+      "source": "www.aljazeera.com",
+      "published_at": "2026-02-24T06:13:27.000Z",
+      "summary": "Summary: Devastation and frozen frontlines: Ukraine marks four years of Russia’s war"
+    },
+    {
+      "id": "715eff69024422098ab5a5f63e8566a006c74e83",
+      "title": "Premier League: Manchester United keep unbeaten streak alive with win over Everton",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260224-premier-league-manchester-united-keep-unbeaten-streak-alive-with-win-over-everton",
+      "source": "www.france24.com",
+      "published_at": "2026-02-24T06:12:10.000Z",
+      "summary": "Summary: Premier League: Manchester United keep unbeaten streak alive with win over Everton"
+    },
+    {
+      "id": "8aaaed3bdc8caed08c5b2e8d0e2adc2df04fc7da",
+      "title": "How Russia’s 'thousand cuts' tactic is straining Ukraine’s frontline forces",
+      "url": "https://www.france24.com/en/europe/20260224-how-russia-thousand-cuts-tactic-is-straining-ukraine-frontline-forces",
+      "source": "www.france24.com",
+      "published_at": "2026-02-24T06:11:21.000Z",
+      "summary": "Summary: How Russia’s 'thousand cuts' tactic is straining Ukraine’s frontline forces"
     }
   ]
 }
