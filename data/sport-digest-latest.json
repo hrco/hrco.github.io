@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-24",
-  "updated_at": "2026-02-24T06:39:56.089Z",
-  "page": "/news/2026-02-24-sport.html",
+  "date": "2026-02-25",
+  "updated_at": "2026-02-25T06:42:02.410Z",
+  "page": "/news/2026-02-25-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "b48ab028299421d527ae67ca103c61dd4b9a8ea2",
-      "title": "Black Ops 7 &#038; Warzone Season 2 Reloaded release date and time",
-      "url": "https://dotesports.com/call-of-duty/news/bo7-warzone-season-2-reloaded-release-date-time",
+      "id": "994fb90df8ab2b89cdff74ab520b09fc00266dbd",
+      "title": "Lone’er Kavanagh Has Answered The Door",
+      "url": "https://www.ufc.com/news/loneer-kavanagh-has-answered-door",
+      "source": "www.ufc.com",
+      "published_at": "2026-02-25T14:06:53.000Z",
+      "summary": "Summary: Lone’er Kavanagh Has Answered The Door"
+    },
+    {
+      "id": "429bcd58be6f501357c1afd2f75470920f661ab9",
+      "title": "New Lakers president: Pelinka to remain in role",
+      "url": "https://www.espn.com/nba/story/_/id/48028870/new-lakers-president-lon-rosen-pelinka-remain-role",
+      "source": "www.espn.com",
+      "published_at": "2026-02-25T06:37:56.000Z",
+      "summary": "Summary: New Lakers president: Pelinka to remain in role"
+    },
+    {
+      "id": "49ba34d2493e1ab0ac84b24dbee9a3d03827d573",
+      "title": "Kuminga all smiles in 'great' debut for Hawks",
+      "url": "https://www.espn.com/nba/story/_/id/48028710/jonathan-kuminga-all-smiles-great-debut-hawks",
+      "source": "www.espn.com",
+      "published_at": "2026-02-25T06:37:56.000Z",
+      "summary": "Summary: Kuminga all smiles in 'great' debut for Hawks"
+    },
+    {
+      "id": "82b4bfd4d2bfadfd98c9cf3bf50ce771c2be07c5",
+      "title": "Pels celebrate Murray's return: 'Didn't miss a beat'",
+      "url": "https://www.espn.com/nba/story/_/id/48029274/murray-scores-13-return-achilles-injury-pelicans-win",
+      "source": "www.espn.com",
+      "published_at": "2026-02-25T06:37:56.000Z",
+      "summary": "Summary: Pels celebrate Murray's return: 'Didn't miss a beat'"
+    },
+    {
+      "id": "c464e28bd528b3a768d4571ef2481aae517c2ca3",
+      "title": "Atkinson sees 'belief' in Cavs since Harden joined",
+      "url": "https://www.espn.com/nba/story/_/id/48029354/kenny-atkinson-says-cavaliers-playing-renewed-confidence-addition-james-harden",
+      "source": "www.espn.com",
+      "published_at": "2026-02-25T06:37:56.000Z",
+      "summary": "Summary: Atkinson sees 'belief' in Cavs since Harden joined"
+    },
+    {
+      "id": "c01e8f9a00225d9d7f326f20cba613c2ff1cdc30",
+      "title": "Hawks' Johnson exits with 1st-quarter hip injury",
+      "url": "https://www.espn.com/nba/story/_/id/48028568/hawks-jalen-johnson-exits-win-first-quarter-hip-injury",
+      "source": "www.espn.com",
+      "published_at": "2026-02-25T06:37:56.000Z",
+      "summary": "Summary: Hawks' Johnson exits with 1st-quarter hip injury"
+    },
+    {
+      "id": "545b0129ca1239ac5a0b925d26b968edfc209dc7",
+      "title": "Bulls' Simons still dealing with left wrist fracture",
+      "url": "https://www.espn.com/nba/story/_/id/48026871/bulls-anfernee-simons-recovering-left-wrist-fracture",
+      "source": "www.espn.com",
+      "published_at": "2026-02-25T06:37:56.000Z",
+      "summary": "Summary: Bulls' Simons still dealing with left wrist fracture"
+    },
+    {
+      "id": "04c15593fa57a8460cfc07be7fb56b8950f04496",
+      "title": "Hawks honor Wizards' Young in return to Atlanta",
+      "url": "https://www.espn.com/nba/story/_/id/48027173/trae-young-returns-atlanta-first-trade-wizards",
+      "source": "www.espn.com",
+      "published_at": "2026-02-25T06:37:56.000Z",
+      "summary": "Summary: Hawks honor Wizards' Young in return to Atlanta"
+    },
+    {
+      "id": "a18399531b0f1a542448aed1f63eebdf68104046",
+      "title": "🏀 10 offseason storylines: LeBron, Giannis, more",
+      "url": "https://www.espn.com/nba/story/_/id/47969549/nba-offseason-storylines-watching-lebron-reaves-giannis-trade-talk-more",
+      "source": "www.espn.com",
+      "published_at": "2026-02-25T06:37:56.000Z",
+      "summary": "Summary: 🏀 10 offseason storylines: LeBron, Giannis, more"
+    },
+    {
+      "id": "1e00e7249dca4dc37c6d4219a1a2875770e548e2",
+      "title": "Kiper's latest NFL mock draft: Projecting the entire first round ahead of the combine",
+      "url": "https://www.espn.com/nfl/draft2026/story/_/id/47989848/2026-nfl-mock-draft-kiper-32-picks-pre-combine-predictions-round-1",
+      "source": "www.espn.com",
+      "published_at": "2026-02-25T06:25:26.000Z",
+      "summary": "Summary: Kiper's latest NFL mock draft: Projecting the entire first round ahead of the combine"
+    },
+    {
+      "id": "809d0a844069c917a13ef7b1caf44728ee759d4f",
+      "title": "Marathon sets zero tolerance policy for cheaters with lifetime bans",
+      "url": "https://dotesports.com/marathon/news/marathon-sets-zero-tolerance-policy-for-cheaters-with-lifetime-bans",
       "source": "dotesports.com",
-      "published_at": "2026-02-24T06:28:29.000Z",
-      "summary": "Summary: Black Ops 7 &#038; Warzone Season 2 Reloaded release date and time"
+      "published_at": "2026-02-25T05:19:43.000Z",
+      "summary": "Summary: Marathon sets zero tolerance policy for cheaters with lifetime bans"
     },
     {
-      "id": "0dbc8da1092a3cad8af74985704da61c1ece8937",
-      "title": "Has Arteta solved the Gyokeres problem?",
-      "url": "https://www.bbc.com/sport/football/videos/c33j64d608no?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-02-24T06:08:35.000Z",
-      "summary": "Summary: Has Arteta solved the Gyokeres problem?"
-    },
-    {
-      "id": "d1e3bff68a1f4b43fca083882f8d222bf16b3428",
-      "title": "AP Top 25 poll reaction: OU, Iowa and TCU on the rise",
-      "url": "https://www.espn.com/womens-college-basketball/story/_/id/48006630/ap-women-college-basketball-2025-2026-top-25-poll-reaction-week-16",
+      "id": "b93e50273cef961614f0c997341eac3be7052cef",
+      "title": "Nine tips to help you win your league",
+      "url": "https://www.espn.com/fantasy/baseball/story/_/id/47963716/espn-draft-kit-advice-how-play-fantasy-baseball-tools-nine-tips-win-league",
       "source": "www.espn.com",
-      "published_at": "2026-02-24T05:48:27.000Z",
-      "summary": "Summary: AP Top 25 poll reaction: OU, Iowa and TCU on the rise"
-    },
-    {
-      "id": "a6205f5509aea44a0b9b91aaf204e76d5d76c3ae",
-      "title": "Arsenal back on track after big derby win; Real Madrid suffer shock LaLiga loss; more",
-      "url": "https://www.espn.com/soccer/story/_/id/48011933/arsenal-tottenham-premier-league-real-madrid-laliga-barcelona-analysis-gab-marcotti",
-      "source": "www.espn.com",
-      "published_at": "2026-02-24T05:26:51.000Z",
-      "summary": "Summary: Arsenal back on track after big derby win; Real Madrid suffer shock LaLiga loss; more"
-    },
-    {
-      "id": "cae92319ad442908d73f0caeea1d4a0beec2330b",
-      "title": "Man United's successful summer signings provide hope for the future",
-      "url": "https://www.espn.com/soccer/story/_/id/48018020/manchester-uniteds-successful-summer-signings-builds-hope-future",
-      "source": "www.espn.com",
-      "published_at": "2026-02-24T05:26:51.000Z",
-      "summary": "Summary: Man United's successful summer signings provide hope for the future"
-    },
-    {
-      "id": "5483a5b840198bc9036c5502c146043173774264",
-      "title": "Shroud and Just9n headline epic Rainbow Six Siege showdown featuring streamers",
-      "url": "https://dotesports.com/rainbow-6/news/shroud-just9n-r6-streamer-showdown",
-      "source": "dotesports.com",
-      "published_at": "2026-02-24T05:24:52.000Z",
-      "summary": "Summary: Shroud and Just9n headline epic Rainbow Six Siege showdown featuring streamers"
-    },
-    {
-      "id": "53ac926ee8e5de7925275d01be4247390a9a0ecf",
-      "title": "'Raw' results: Styles WWE Hall of Fame-bound, Elimination Chamber matches set",
-      "url": "https://www.espn.com/wwe/story/_/id/48014855/wwe-raw-live-results-analysis-elimination-chamber",
-      "source": "www.espn.com",
-      "published_at": "2026-02-24T05:22:35.000Z",
-      "summary": "Summary: 'Raw' results: Styles WWE Hall of Fame-bound, Elimination Chamber matches set"
-    },
-    {
-      "id": "ffa7926d73741942d0c55079aeffaf8675631a52",
-      "title": "Sources: WNBA sets deadline to keep '26 intact",
-      "url": "https://www.espn.com/wnba/story/_/id/48017494/sources-wnba-sets-cba-deadline-keep-2026-schedule-intact",
-      "source": "www.espn.com",
-      "published_at": "2026-02-24T05:16:10.000Z",
-      "summary": "Summary: Sources: WNBA sets deadline to keep '26 intact"
-    },
-    {
-      "id": "8205b0cb736140550db881be38d8103201052dc0",
-      "title": "Mayweather-Pacquiao 2 set for Sept. at Sphere",
-      "url": "https://www.espn.com/boxing/story/_/id/48016955/manny-pacquiao-sets-rematch-vs-floyd-mayweather-sept-19",
-      "source": "www.espn.com",
-      "published_at": "2026-02-24T05:16:10.000Z",
-      "summary": "Summary: Mayweather-Pacquiao 2 set for Sept. at Sphere"
-    },
-    {
-      "id": "87b2138071c7e1cc7903989d100bd895b31ae256",
-      "title": "Kansas rebounds, hands Houston 3rd straight loss",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48019513/kansas-rebounds-stun-houston-third-straight-loss",
-      "source": "www.espn.com",
-      "published_at": "2026-02-24T05:16:10.000Z",
-      "summary": "Summary: Kansas rebounds, hands Houston 3rd straight loss"
-    },
-    {
-      "id": "dfd6f96c46aa5e3867c4f81c1b4bd8fc145a6ac8",
-      "title": "Spurs pass 'test' in physical clash with Pistons",
-      "url": "https://www.espn.com/nba/story/_/id/48019084/spurs-humble-pistons-potential-nba-finals-preview",
-      "source": "www.espn.com",
-      "published_at": "2026-02-24T05:16:10.000Z",
-      "summary": "Summary: Spurs pass 'test' in physical clash with Pistons"
-    },
-    {
-      "id": "2514a74f10f4ccf4e8b50a73d5bfa94942a3a4dd",
-      "title": "U.S. women's hockey team declines Trump invite",
-      "url": "https://www.espn.com/olympics/story/_/id/48017235/us-women-hockey-declines-trump-invite-state-union",
-      "source": "www.espn.com",
-      "published_at": "2026-02-24T05:16:10.000Z",
-      "summary": "Summary: U.S. women's hockey team declines Trump invite"
+      "published_at": "2026-02-25T04:50:02.000Z",
+      "summary": "Summary: Nine tips to help you win your league"
     }
   ]
 }

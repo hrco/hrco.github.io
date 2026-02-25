@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-24T06:39:35.641Z",
+  "updated_at": "2026-02-25T06:41:48.504Z",
   "days": [
+    {
+      "date": "2026-02-25",
+      "page": "/news/2026-02-25.html",
+      "teaser": "Top: Pravica do izbire in splava ne bi smela biti politično vprašanje",
+      "count": 12,
+      "ids": [
+        "e12384adb47664870364c6e879ceac64fced03dc",
+        "19835f01280369a2f730b1e17c271474c4559d65",
+        "e7ad78b656b5b0ffe066377c9c060ee8fbb25ccf",
+        "ea60c88c36742ba91ba7ba6e4c437585c4e50f35",
+        "02ff03bd5f244539c622934a141f32289b08ea38",
+        "bd44ba3b2be2736483c0089ec6f1fec6099c29f8",
+        "2b6bb5f6f5364976faec29ed6dfdf9cba12afa11",
+        "226be0e7c4c89a74dbfcda6f6127859ebec94198",
+        "24ff5b10fb1c757d8cb81b8767313a712f2eb378",
+        "1477a31dce2de7ecfae41f42aa869fee0918412b",
+        "505ecb03e6e3331223a9f4df0a949f7e31084cf5",
+        "87f14ef4f38583e2f93925946730b19a1c972c4c"
+      ]
+    },
     {
       "date": "2026-02-24",
       "page": "/news/2026-02-24.html",
@@ -579,26 +599,6 @@
         "ab3b26a0dcf0fa41bac6eaeaac844df169f82ef2",
         "a89f13dc868f1cfa00da2ab39160fec619ef4f4d",
         "954dc69ed64f25cff72e272b5bb6cde6ab912bcb"
-      ]
-    },
-    {
-      "date": "2026-01-21",
-      "page": "/news/2026-01-21.html",
-      "teaser": "Top: Razpoloženi Dončić se je ustavil pri 38 točkah in trojnem dvojčku",
-      "count": 12,
-      "ids": [
-        "5f42b243934691bb079b76f53c146f86aced00a3",
-        "ca731e971349aa8fd15a925fa2c7737be2c9f017",
-        "b4e97023ef32555d9870c8997ebdfe1ea8aa4802",
-        "b3e55251abd82e5f635a3121438e906a7fe70505",
-        "2fcc4d80ad4cc5de78a036e42455dffae5d0008e",
-        "67a71cc39fcbc459998e7e71801edfa741dfcac3",
-        "8c49bf8e4cc8ba73eaeca6e9312d641a18808f22",
-        "d40fa23abe16809318167a97116b6eadd6d1d43d",
-        "1738a1b97f8cbd9f40cc08d6ea716b1a60a59da5",
-        "d2206be458fa83b2881ee0fdf1754c49dc121b6c",
-        "aecb9e944734f8ee924a84eead2894866980c5fa",
-        "3ba062d5fd1a3ec8d6033de2c5090106ba527b88"
       ]
     }
   ]

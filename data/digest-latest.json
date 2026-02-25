@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-24",
-  "updated_at": "2026-02-24T06:39:35.641Z",
-  "page": "/news/2026-02-24.html",
+  "date": "2026-02-25",
+  "updated_at": "2026-02-25T06:41:48.504Z",
+  "page": "/news/2026-02-25.html",
   "count": 12,
   "items": [
     {
-      "id": "e3ffa16ec7ac7a526a492995d456bd121543ce2b",
-      "title": "The Science of Regret: Why We Fear Wrong Choices",
-      "url": "https://dev.to/_b8d89ece3338719863cb03/the-science-of-regret-why-we-fear-wrong-choices-2gdj",
-      "source": "dev.to",
-      "published_at": "2026-02-24T06:35:36.000Z",
-      "summary": "Summary: The Science of Regret: Why We Fear Wrong Choices"
-    },
-    {
-      "id": "99b454e82f3e3436419b7376e9c4e1f032d92fc0",
-      "title": "Mehika je po izbruhu nasilja na zahod države napotila tisoče dodatnih vojakov",
-      "url": "https://www.rtvslo.si/svet/s-in-j-amerika/mehika-je-po-izbruhu-nasilja-na-zahod-drzave-napotila-tisoce-dodatnih-vojakov/774382",
+      "id": "e12384adb47664870364c6e879ceac64fced03dc",
+      "title": "Pravica do izbire in splava ne bi smela biti politično vprašanje",
+      "url": "https://www.rtvslo.si/zdravje/pravica-do-izbire-in-splava-ne-bi-smela-biti-politicno-vprasanje/774501",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-24T06:32:47.000Z",
-      "summary": "Summary: Mehika je po izbruhu nasilja na zahod države napotila tisoče dodatnih vojakov"
+      "published_at": "2026-02-25T06:39:13.000Z",
+      "summary": "Summary: Pravica do izbire in splava ne bi smela biti politično vprašanje"
     },
     {
-      "id": "1f6771d246516f1c2d955e9ab5450001fdfff5a4",
-      "title": "Ostroge v Detroitu pri vodilnih Batih potrdile napredek in visoke cilje",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/ostroge-v-detroitu-pri-vodilnih-batih-potrdile-napredek-in-visoke-cilje/774380",
+      "id": "19835f01280369a2f730b1e17c271474c4559d65",
+      "title": "From System Monitoring to Business Insights: A Comprehensive Analysis of the Custom Metric Collection Feature of ARMS",
+      "url": "https://dev.to/observabilityguy/from-system-monitoring-to-business-insights-a-comprehensive-analysis-of-the-custom-metric-3f0h",
+      "source": "dev.to",
+      "published_at": "2026-02-25T06:39:00.000Z",
+      "summary": "Summary: From System Monitoring to Business Insights: A Comprehensive Analysis of the Custom Metric Collection Feature of ARMS"
+    },
+    {
+      "id": "e7ad78b656b5b0ffe066377c9c060ee8fbb25ccf",
+      "title": "Solved: Anyone noticing shifts in Azure best practices around scaling, monitoring, or automation?",
+      "url": "https://dev.to/techresolve/solved-anyone-noticing-shifts-in-azure-best-practices-around-scaling-monitoring-or-automation-44oi",
+      "source": "dev.to",
+      "published_at": "2026-02-25T06:38:07.000Z",
+      "summary": "Summary: Solved: Anyone noticing shifts in Azure best practices around scaling, monitoring, or automation?"
+    },
+    {
+      "id": "ea60c88c36742ba91ba7ba6e4c437585c4e50f35",
+      "title": "Solved: Broadcom ‘Doubles Down’ on Open Source, Donates Kubernetes Tool to CNCF",
+      "url": "https://dev.to/techresolve/solved-broadcom-doubles-down-on-open-source-donates-kubernetes-tool-to-cncf-3db3",
+      "source": "dev.to",
+      "published_at": "2026-02-25T06:35:57.000Z",
+      "summary": "Summary: Solved: Broadcom ‘Doubles Down’ on Open Source, Donates Kubernetes Tool to CNCF"
+    },
+    {
+      "id": "02ff03bd5f244539c622934a141f32289b08ea38",
+      "title": "[P] Lila-E8: 40M Parameter Transformer Outperforms 60M Baselines via Geometric E8 Attention (0.37 Train Loss)",
+      "url": "https://dev.to/bootstraptor/p-lila-e8-40m-parameter-transformer-outperforms-60m-baselines-via-geometric-e8-attention-037-336",
+      "source": "dev.to",
+      "published_at": "2026-02-25T06:35:47.000Z",
+      "summary": "Summary: [P] Lila-E8: 40M Parameter Transformer Outperforms 60M Baselines via Geometric E8 Attention (0.37 Train Loss)"
+    },
+    {
+      "id": "bd44ba3b2be2736483c0089ec6f1fec6099c29f8",
+      "title": "7 Steps for Safe AI Adoption in Laravel Projects (Without Breaking Production)",
+      "url": "https://dev.to/laracopilot/7-steps-for-safe-ai-adoption-in-laravel-projects-without-breaking-production-3png",
+      "source": "dev.to",
+      "published_at": "2026-02-25T06:33:08.000Z",
+      "summary": "Summary: 7 Steps for Safe AI Adoption in Laravel Projects (Without Breaking Production)"
+    },
+    {
+      "id": "2b6bb5f6f5364976faec29ed6dfdf9cba12afa11",
+      "title": "Building a Real-Time IoT Dashboard for Smart Hospitals: My Journey with Docker & Python",
+      "url": "https://dev.to/surjeetlko/building-a-real-time-iot-dashboard-for-smart-hospitals-my-journey-with-docker-python-1o32",
+      "source": "dev.to",
+      "published_at": "2026-02-25T06:32:35.000Z",
+      "summary": "Summary: Building a Real-Time IoT Dashboard for Smart Hospitals: My Journey with Docker & Python"
+    },
+    {
+      "id": "226be0e7c4c89a74dbfcda6f6127859ebec94198",
+      "title": "Stop Prompting. Start Engineering: Building More Reliable LLM Systems with State Machines",
+      "url": "https://dev.to/jhuerta07/stop-prompting-start-engineering-building-more-reliable-llm-systems-with-state-machines-1md1",
+      "source": "dev.to",
+      "published_at": "2026-02-25T06:32:12.000Z",
+      "summary": "Summary: Stop Prompting. Start Engineering: Building More Reliable LLM Systems with State Machines"
+    },
+    {
+      "id": "24ff5b10fb1c757d8cb81b8767313a712f2eb378",
+      "title": "Oblika vode na TV Slovenija: Pravljica o ljubezni in drugačnosti",
+      "url": "https://www.rtvslo.si/kultura/film-in-tv/oblika-vode-na-tv-slovenija-pravljica-o-ljubezni-in-drugacnosti/774456",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-24T06:31:28.000Z",
-      "summary": "Summary: Ostroge v Detroitu pri vodilnih Batih potrdile napredek in visoke cilje"
+      "published_at": "2026-02-25T06:30:38.000Z",
+      "summary": "Summary: Oblika vode na TV Slovenija: Pravljica o ljubezni in drugačnosti"
     },
     {
-      "id": "5f4d0a8f5a9e442901e785fd00ccf22666b3c2b0",
-      "title": "I Let AI Write 100% of My Code for a Week — Here's What Actually Happened",
-      "url": "https://dev.to/teguh_coding/i-let-ai-write-100-of-my-code-for-a-week-heres-what-actually-happened-18j2",
+      "id": "1477a31dce2de7ecfae41f42aa869fee0918412b",
+      "title": "Stop Using Thread.sleep(): Smart Polling for CloudWatch Log Validation in Java (AWS Test Automation)",
+      "url": "https://dev.to/krishnamurthy_yarram_5cf5/stop-using-threadsleep-smart-polling-for-cloudwatch-log-validation-in-java-aws-test-automation-2mj6",
       "source": "dev.to",
-      "published_at": "2026-02-24T06:31:04.000Z",
-      "summary": "Summary: I Let AI Write 100% of My Code for a Week — Here's What Actually Happened"
+      "published_at": "2026-02-25T06:27:21.000Z",
+      "summary": "Summary: Stop Using Thread.sleep(): Smart Polling for CloudWatch Log Validation in Java (AWS Test Automation)"
     },
     {
-      "id": "a48c42f764f7b4e34b4e9b61040917d33e1a5a7c",
-      "title": "trolley: Run terminal apps anywhere",
-      "url": "https://github.com/weedonandscott/trolley",
-      "source": "lobste.rs",
-      "published_at": "2026-02-24T06:29:51.000Z",
-      "summary": "Summary: trolley: Run terminal apps anywhere"
-    },
-    {
-      "id": "b48ab028299421d527ae67ca103c61dd4b9a8ea2",
-      "title": "Black Ops 7 &#038; Warzone Season 2 Reloaded release date and time",
-      "url": "https://dotesports.com/call-of-duty/news/bo7-warzone-season-2-reloaded-release-date-time",
-      "source": "dotesports.com",
-      "published_at": "2026-02-24T06:28:29.000Z",
-      "summary": "Summary: Black Ops 7 &#038; Warzone Season 2 Reloaded release date and time"
-    },
-    {
-      "id": "cd1478ac8b9f53c2de799b156439ea3aa887b9fe",
-      "title": "Software 3.1? - AI Functions",
-      "url": "https://dev.to/aws/software-31-ai-functions-5acn",
+      "id": "505ecb03e6e3331223a9f4df0a949f7e31084cf5",
+      "title": "PR reviewer in 120 lines. No dependencies, no OAuth, no subscription.",
+      "url": "https://dev.to/adamai/pr-reviewer-in-120-lines-no-dependencies-no-oauth-no-subscription-4n5k",
       "source": "dev.to",
-      "published_at": "2026-02-24T06:19:23.000Z",
-      "summary": "Summary: Software 3.1? - AI Functions"
+      "published_at": "2026-02-25T06:24:56.000Z",
+      "summary": "Summary: PR reviewer in 120 lines. No dependencies, no OAuth, no subscription."
     },
     {
-      "id": "3f9de16631ff656b83b9a8db722a15278bd917fc",
-      "title": "What Is OpenClaw AI in 2026? A Practical Guide for Developers",
-      "url": "https://dev.to/laracopilot/what-is-openclaw-ai-in-2026-a-practical-guide-for-developers-25hj",
+      "id": "87f14ef4f38583e2f93925946730b19a1c972c4c",
+      "title": "Building a REST API in Rust with Rocket (Part 2)",
+      "url": "https://dev.to/ayas_tech_2b0560ee159e661/building-a-rest-api-in-rust-with-rocket-part-2-491f",
       "source": "dev.to",
-      "published_at": "2026-02-24T06:17:52.000Z",
-      "summary": "Summary: What Is OpenClaw AI in 2026? A Practical Guide for Developers"
-    },
-    {
-      "id": "9a48d4015e37f798b72f606e5c2b794238d9f3da",
-      "title": "Digital Freedom and the Architecture of Social Media",
-      "url": "https://dev.to/canabady/digital-freedom-and-the-architecture-of-social-media-2pdj",
-      "source": "dev.to",
-      "published_at": "2026-02-24T06:17:41.000Z",
-      "summary": "Summary: Digital Freedom and the Architecture of Social Media"
-    },
-    {
-      "id": "70f489eaa10035466f83b6e1ef34857cee13d6b1",
-      "title": "Odpovedali več kot 5600 poletov, zaprte šole, ponekod tudi promet",
-      "url": "https://www.24ur.com/novice/tujina/odpovedali-vec-kot-5600-poletov-zaprte-sole-ponekod-tudi-promet.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-24T06:16:55.000Z",
-      "summary": "Summary: Odpovedali več kot 5600 poletov, zaprte šole, ponekod tudi promet"
-    },
-    {
-      "id": "186258067b6f8f621df8504699ac90b964a216b5",
-      "title": "How Tenders-SA Is Turning Procurement Data Into a Publisher Superpower",
-      "url": "https://dev.to/freelancingsolutions/how-tenders-sa-is-turning-procurement-data-into-a-publisher-superpower-1688",
-      "source": "dev.to",
-      "published_at": "2026-02-24T06:14:05.000Z",
-      "summary": "Summary: How Tenders-SA Is Turning Procurement Data Into a Publisher Superpower"
-    },
-    {
-      "id": "520bc80d958957319cd6774cb9cfc8851c6f3e9f",
-      "title": "Step-by-Step Guide: How to Install a Theme on WordPress (For Beginners)",
-      "url": "https://dev.to/themexriver_official/step-by-step-guide-how-to-install-a-theme-on-wordpress-for-beginners-4b27",
-      "source": "dev.to",
-      "published_at": "2026-02-24T06:10:09.000Z",
-      "summary": "Summary: Step-by-Step Guide: How to Install a Theme on WordPress (For Beginners)"
+      "published_at": "2026-02-25T06:22:09.000Z",
+      "summary": "Summary: Building a REST API in Rust with Rocket (Part 2)"
     }
   ]
 }

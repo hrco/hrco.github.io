@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-24T06:39:48.691Z",
+  "updated_at": "2026-02-25T06:41:57.356Z",
   "days": [
+    {
+      "date": "2026-02-25",
+      "page": "/news/2026-02-25-news.html",
+      "teaser": "Top: Five standout moments from Trump's State of the Union speech",
+      "count": 12,
+      "ids": [
+        "bf3e1b0dada0939521cc6ced7cb8c7f384c06498",
+        "e12384adb47664870364c6e879ceac64fced03dc",
+        "fbd7f44ced9be8248dc39c6f690e6760afefefba",
+        "1555063e003d5d3a93e584d285d8f8d4c972bb16",
+        "ec7ff6fabbdb4f49f1b6fe50865be267060b474d",
+        "a7c1d13578e40a09c3abe020100c0dd56884bd49",
+        "ee9410e9c2a5e853d433056d7d233a9685d9d54a",
+        "24ff5b10fb1c757d8cb81b8767313a712f2eb378",
+        "78bdf4d7e5bbd747f94044154f5afb176efab98c",
+        "db0b00482478667fe35e9d4df3171075f8e9dd07",
+        "3c8aa8ad323b133591ba161a2a5a5abaa0297e79",
+        "ace454841d3877a2c97e947951430acc037e3176"
+      ]
+    },
     {
       "date": "2026-02-24",
       "page": "/news/2026-02-24-news.html",
@@ -579,26 +599,6 @@
         "4094d9d7d686e0b0898772ca7b1d8e2968abf9c0",
         "d929a05d36af981f5f2fb31a50fd3f8a35e6f93b",
         "baf40338652d673d6bceef3ab573669eb2338b01"
-      ]
-    },
-    {
-      "date": "2026-01-21",
-      "page": "/news/2026-01-21-news.html",
-      "teaser": "Top: Why Southeast Asia is wary of Trump’s ‘pay-to-play’ global peace board",
-      "count": 12,
-      "ids": [
-        "1d0329530f062ea6ac28349e0c364f1ca0470ed6",
-        "5f42b243934691bb079b76f53c146f86aced00a3",
-        "ca731e971349aa8fd15a925fa2c7737be2c9f017",
-        "d7593817b1dbcee80774bea8a6d6af5f737e3ac1",
-        "05baaa95e581e4076874a91b7b87e403d61d74de",
-        "1a7035f1ba3d1f299a15e93b85c98d5930c33477",
-        "d07545d0c7971721dc961bf2839842c10fbfc44d",
-        "f739139712226c996306798d26760d559284e3b7",
-        "3ba062d5fd1a3ec8d6033de2c5090106ba527b88",
-        "5a5668763ea8e902da8f87a293a06246075dba48",
-        "78f0b0b5d175d297fe65285517bf5da7a2470fe8",
-        "c5eb710908c4ae66a6b32029598135f0053c955c"
       ]
     }
   ]
