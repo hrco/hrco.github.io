@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-25",
-  "updated_at": "2026-02-25T06:41:48.504Z",
-  "page": "/news/2026-02-25.html",
+  "date": "2026-02-26",
+  "updated_at": "2026-02-26T06:39:21.545Z",
+  "page": "/news/2026-02-26.html",
   "count": 12,
   "items": [
     {
-      "id": "e12384adb47664870364c6e879ceac64fced03dc",
-      "title": "Pravica do izbire in splava ne bi smela biti politično vprašanje",
-      "url": "https://www.rtvslo.si/zdravje/pravica-do-izbire-in-splava-ne-bi-smela-biti-politicno-vprasanje/774501",
+      "id": "40f4be0f4c1019f96668c73bdd91bf97b79e54e8",
+      "title": "the software built to build software is building itself while i sleep",
+      "url": "https://dev.to/jaeko44/the-software-built-to-build-software-is-building-itself-while-i-sleep-243n",
+      "source": "dev.to",
+      "published_at": "2026-02-26T06:27:36.000Z",
+      "summary": "Summary: the software built to build software is building itself while i sleep"
+    },
+    {
+      "id": "d4f2ee8b8e7bb963d68a233d0c2084fe6ad64e45",
+      "title": "EBRD za Slovenijo izboljšal napoved gospodarske rasti",
+      "url": "https://www.rtvslo.si/gospodarstvo/ebrd-za-slovenijo-izboljsal-napoved-gospodarske-rasti/774631",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-25T06:39:13.000Z",
-      "summary": "Summary: Pravica do izbire in splava ne bi smela biti politično vprašanje"
+      "published_at": "2026-02-26T06:24:06.000Z",
+      "summary": "Summary: EBRD za Slovenijo izboljšal napoved gospodarske rasti"
     },
     {
-      "id": "19835f01280369a2f730b1e17c271474c4559d65",
-      "title": "From System Monitoring to Business Insights: A Comprehensive Analysis of the Custom Metric Collection Feature of ARMS",
-      "url": "https://dev.to/observabilityguy/from-system-monitoring-to-business-insights-a-comprehensive-analysis-of-the-custom-metric-3f0h",
+      "id": "91a5d7adac3c062592dea8dc9a9e7e7832d741aa",
+      "title": "Outlook for HK Property Market Optimistic, JLL Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-02-26/outlook-for-hk-property-market-optimistic-jll-says-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-26T06:13:38.000Z",
+      "summary": "Summary: Outlook for HK Property Market Optimistic, JLL Says"
+    },
+    {
+      "id": "b840215517acaa9ac37eb89bb80b40343c4ae149",
+      "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
+      "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+      "source": "feeds.feedburner.com",
+      "published_at": "2026-02-26T06:13:00.000Z",
+      "summary": "Summary: Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access"
+    },
+    {
+      "id": "6ffe09a3663858d215657181cc22200885c3a8bf",
+      "title": "Hide API Keys from Your Frontend — No Backend Required",
+      "url": "https://dev.to/robleney/hide-api-keys-from-your-frontend-no-backend-required-nnb",
       "source": "dev.to",
-      "published_at": "2026-02-25T06:39:00.000Z",
-      "summary": "Summary: From System Monitoring to Business Insights: A Comprehensive Analysis of the Custom Metric Collection Feature of ARMS"
+      "published_at": "2026-02-26T06:06:38.000Z",
+      "summary": "Summary: Hide API Keys from Your Frontend — No Backend Required"
     },
     {
-      "id": "e7ad78b656b5b0ffe066377c9c060ee8fbb25ccf",
-      "title": "Solved: Anyone noticing shifts in Azure best practices around scaling, monitoring, or automation?",
-      "url": "https://dev.to/techresolve/solved-anyone-noticing-shifts-in-azure-best-practices-around-scaling-monitoring-or-automation-44oi",
-      "source": "dev.to",
-      "published_at": "2026-02-25T06:38:07.000Z",
-      "summary": "Summary: Solved: Anyone noticing shifts in Azure best practices around scaling, monitoring, or automation?"
-    },
-    {
-      "id": "ea60c88c36742ba91ba7ba6e4c437585c4e50f35",
-      "title": "Solved: Broadcom ‘Doubles Down’ on Open Source, Donates Kubernetes Tool to CNCF",
-      "url": "https://dev.to/techresolve/solved-broadcom-doubles-down-on-open-source-donates-kubernetes-tool-to-cncf-3db3",
-      "source": "dev.to",
-      "published_at": "2026-02-25T06:35:57.000Z",
-      "summary": "Summary: Solved: Broadcom ‘Doubles Down’ on Open Source, Donates Kubernetes Tool to CNCF"
-    },
-    {
-      "id": "02ff03bd5f244539c622934a141f32289b08ea38",
-      "title": "[P] Lila-E8: 40M Parameter Transformer Outperforms 60M Baselines via Geometric E8 Attention (0.37 Train Loss)",
-      "url": "https://dev.to/bootstraptor/p-lila-e8-40m-parameter-transformer-outperforms-60m-baselines-via-geometric-e8-attention-037-336",
-      "source": "dev.to",
-      "published_at": "2026-02-25T06:35:47.000Z",
-      "summary": "Summary: [P] Lila-E8: 40M Parameter Transformer Outperforms 60M Baselines via Geometric E8 Attention (0.37 Train Loss)"
-    },
-    {
-      "id": "bd44ba3b2be2736483c0089ec6f1fec6099c29f8",
-      "title": "7 Steps for Safe AI Adoption in Laravel Projects (Without Breaking Production)",
-      "url": "https://dev.to/laracopilot/7-steps-for-safe-ai-adoption-in-laravel-projects-without-breaking-production-3png",
-      "source": "dev.to",
-      "published_at": "2026-02-25T06:33:08.000Z",
-      "summary": "Summary: 7 Steps for Safe AI Adoption in Laravel Projects (Without Breaking Production)"
-    },
-    {
-      "id": "2b6bb5f6f5364976faec29ed6dfdf9cba12afa11",
-      "title": "Building a Real-Time IoT Dashboard for Smart Hospitals: My Journey with Docker & Python",
-      "url": "https://dev.to/surjeetlko/building-a-real-time-iot-dashboard-for-smart-hospitals-my-journey-with-docker-python-1o32",
-      "source": "dev.to",
-      "published_at": "2026-02-25T06:32:35.000Z",
-      "summary": "Summary: Building a Real-Time IoT Dashboard for Smart Hospitals: My Journey with Docker & Python"
-    },
-    {
-      "id": "226be0e7c4c89a74dbfcda6f6127859ebec94198",
-      "title": "Stop Prompting. Start Engineering: Building More Reliable LLM Systems with State Machines",
-      "url": "https://dev.to/jhuerta07/stop-prompting-start-engineering-building-more-reliable-llm-systems-with-state-machines-1md1",
-      "source": "dev.to",
-      "published_at": "2026-02-25T06:32:12.000Z",
-      "summary": "Summary: Stop Prompting. Start Engineering: Building More Reliable LLM Systems with State Machines"
-    },
-    {
-      "id": "24ff5b10fb1c757d8cb81b8767313a712f2eb378",
-      "title": "Oblika vode na TV Slovenija: Pravljica o ljubezni in drugačnosti",
-      "url": "https://www.rtvslo.si/kultura/film-in-tv/oblika-vode-na-tv-slovenija-pravljica-o-ljubezni-in-drugacnosti/774456",
+      "id": "5e1b6b0a3bc0f67d179d665e62c41be11d40b08b",
+      "title": "Prevzeli so jo velikani: zgodba o izgubljeni viziji umetne inteligence",
+      "url": "https://www.rtvslo.si/znanost-in-tehnologija/prevzeli-so-jo-velikani-zgodba-o-izgubljeni-viziji-umetne-inteligence/774630",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-25T06:30:38.000Z",
-      "summary": "Summary: Oblika vode na TV Slovenija: Pravljica o ljubezni in drugačnosti"
+      "published_at": "2026-02-26T06:05:18.000Z",
+      "summary": "Summary: Prevzeli so jo velikani: zgodba o izgubljeni viziji umetne inteligence"
     },
     {
-      "id": "1477a31dce2de7ecfae41f42aa869fee0918412b",
-      "title": "Stop Using Thread.sleep(): Smart Polling for CloudWatch Log Validation in Java (AWS Test Automation)",
-      "url": "https://dev.to/krishnamurthy_yarram_5cf5/stop-using-threadsleep-smart-polling-for-cloudwatch-log-validation-in-java-aws-test-automation-2mj6",
-      "source": "dev.to",
-      "published_at": "2026-02-25T06:27:21.000Z",
-      "summary": "Summary: Stop Using Thread.sleep(): Smart Polling for CloudWatch Log Validation in Java (AWS Test Automation)"
+      "id": "fa7bd899cbd5124435b79702f5de48773f66f523",
+      "title": "TurboTax Service Codes: Up to 20% Off | February 2026",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "source": "www.wired.com",
+      "published_at": "2026-02-26T06:05:00.000Z",
+      "summary": "Summary: TurboTax Service Codes: Up to 20% Off | February 2026"
     },
     {
-      "id": "505ecb03e6e3331223a9f4df0a949f7e31084cf5",
-      "title": "PR reviewer in 120 lines. No dependencies, no OAuth, no subscription.",
-      "url": "https://dev.to/adamai/pr-reviewer-in-120-lines-no-dependencies-no-oauth-no-subscription-4n5k",
-      "source": "dev.to",
-      "published_at": "2026-02-25T06:24:56.000Z",
-      "summary": "Summary: PR reviewer in 120 lines. No dependencies, no OAuth, no subscription."
+      "id": "3abfb340e36dce206dd7ed99b31a7b87dbd790ab",
+      "title": "Zadnji album hiphop dvojca Macklemore & Ryan Lewis je dopolnil deset let",
+      "url": "https://www.rtvslo.si/zabava-in-slog/glasba/zvok-casa/zadnji-album-hiphop-dvojca-macklemore-ryan-lewis-je-dopolnil-deset-let/774628",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-26T06:04:11.000Z",
+      "summary": "Summary: Zadnji album hiphop dvojca Macklemore & Ryan Lewis je dopolnil deset let"
     },
     {
-      "id": "87f14ef4f38583e2f93925946730b19a1c972c4c",
-      "title": "Building a REST API in Rust with Rocket (Part 2)",
-      "url": "https://dev.to/ayas_tech_2b0560ee159e661/building-a-rest-api-in-rust-with-rocket-part-2-491f",
+      "id": "14f1b721ee3c82e4bc26345d138b9c7b6aae199a",
+      "title": "The Agentic Software Factory: How AI Teams Debate, Code, and can Secure Enterprise Infrastructure",
+      "url": "https://dev.to/uenyioha/the-agentic-software-factory-how-ai-teams-debate-code-and-secure-enterprise-infrastructure-9eh",
       "source": "dev.to",
-      "published_at": "2026-02-25T06:22:09.000Z",
-      "summary": "Summary: Building a REST API in Rust with Rocket (Part 2)"
+      "published_at": "2026-02-26T06:02:32.000Z",
+      "summary": "Summary: The Agentic Software Factory: How AI Teams Debate, Code, and can Secure Enterprise Infrastructure"
+    },
+    {
+      "id": "c916fbd2cf917851996e0fac9451e63ddd952360",
+      "title": "'Ortopedi ne odpovedujejo operacij. Vlada je omejila število posegov'",
+      "url": "https://www.24ur.com/novice/slovenija/bojan-kostic.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-26T06:01:45.000Z",
+      "summary": "Summary: 'Ortopedi ne odpovedujejo operacij. Vlada je omejila število posegov'"
+    },
+    {
+      "id": "79b576c681cce68c53437206cb7eeb36e2b9f2a1",
+      "title": "'Več kot jasno je, da nimajo namena, da se zadeva zaključi'",
+      "url": "https://www.24ur.com/novice/slovenija/gasilci_4.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-26T06:01:06.000Z",
+      "summary": "Summary: 'Več kot jasno je, da nimajo namena, da se zadeva zaključi'"
+    },
+    {
+      "id": "1ca39aeddc2d7f967a2413a3f40ff3875adf00d6",
+      "title": "Govorni pomočnik: Bi Dante Alighieri vozil lamborghinija?",
+      "url": "https://www.rtvslo.si/kultura/jezik/govorni-pomocnik-bi-dante-alighieri-vozil-lamborghinija/774595",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-26T06:00:30.000Z",
+      "summary": "Summary: Govorni pomočnik: Bi Dante Alighieri vozil lamborghinija?"
     }
   ]
 }

@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-25T06:41:48.504Z",
+  "updated_at": "2026-02-26T06:39:21.545Z",
   "days": [
+    {
+      "date": "2026-02-26",
+      "page": "/news/2026-02-26.html",
+      "teaser": "Top: the software built to build software is building itself while i sleep",
+      "count": 12,
+      "ids": [
+        "40f4be0f4c1019f96668c73bdd91bf97b79e54e8",
+        "d4f2ee8b8e7bb963d68a233d0c2084fe6ad64e45",
+        "91a5d7adac3c062592dea8dc9a9e7e7832d741aa",
+        "b840215517acaa9ac37eb89bb80b40343c4ae149",
+        "6ffe09a3663858d215657181cc22200885c3a8bf",
+        "5e1b6b0a3bc0f67d179d665e62c41be11d40b08b",
+        "fa7bd899cbd5124435b79702f5de48773f66f523",
+        "3abfb340e36dce206dd7ed99b31a7b87dbd790ab",
+        "14f1b721ee3c82e4bc26345d138b9c7b6aae199a",
+        "c916fbd2cf917851996e0fac9451e63ddd952360",
+        "79b576c681cce68c53437206cb7eeb36e2b9f2a1",
+        "1ca39aeddc2d7f967a2413a3f40ff3875adf00d6"
+      ]
+    },
     {
       "date": "2026-02-25",
       "page": "/news/2026-02-25.html",
@@ -579,26 +599,6 @@
         "3e2c4be495c2dcbe75da1c106e68971116f23412",
         "991238834df19a9b3ab7dcc8b0ad1857765bf735",
         "01837240adb818ce5b6827e4b974435f71a8a6b4"
-      ]
-    },
-    {
-      "date": "2026-01-22",
-      "page": "/news/2026-01-22.html",
-      "teaser": "Top: Air India Braces for Record $1.6 Billion Loss After Deadly Crash",
-      "count": 12,
-      "ids": [
-        "ee0d97b95cd5581b9d082c29c3fe68486dad91cb",
-        "687b7ba02e9e7c9974c81f0fcc1c3c48b7fbd71a",
-        "40ff638ecf0e1954b309fc7b7d44372c9ecbcf2f",
-        "09f1deb5b96b69686183e92de7718327f29cc6d0",
-        "5ac6b41658c32b39da41d8adff331b43688337d9",
-        "177b649f07eeef55c494e0ac403b880dc0ff2b7f",
-        "2a4e9eee8950c267f28148e373feb79775212081",
-        "cb5ba01f87ad73cef9916882589590ead3e7529d",
-        "84aeabf8d73eae477031392732f743fed3bf8ff1",
-        "ab3b26a0dcf0fa41bac6eaeaac844df169f82ef2",
-        "a89f13dc868f1cfa00da2ab39160fec619ef4f4d",
-        "954dc69ed64f25cff72e272b5bb6cde6ab912bcb"
       ]
     }
   ]
