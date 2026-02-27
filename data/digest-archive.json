@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-26T06:39:21.545Z",
+  "updated_at": "2026-02-27T06:35:10.693Z",
   "days": [
+    {
+      "date": "2026-02-27",
+      "page": "/news/2026-02-27.html",
+      "teaser": "Top: I built an AI tool that turned my phone selfie into a LinkedIn headshot — here's what I learned",
+      "count": 12,
+      "ids": [
+        "0918f35f48a4470a930f5f142164fbd1ec58085a",
+        "99cb6142a8a002e8801349d759c099df8318e665",
+        "bad986c83d18a397877052a696c0d329bf1e5a29",
+        "0571474b86e85bd82653cded1393df04e3a851d9",
+        "dbac2685630b4acd5f8637ddb4d8d885e50b6081",
+        "23d6f6f5e89531cee079c44db0b1667487a7cada",
+        "ef8f6479b06ec9cf351ce8bca9aaec4c7d157423",
+        "84f44a6a4693467dcdf6c0d76a97158d4168647d",
+        "ea51feb1a24157bb24a30d380f47f12f571346fb",
+        "86b562b4c8922baca1945dee2f0d4a2459c2e210",
+        "700dbcd2afc00cdbe788d39b61acbae84cb7b7e3",
+        "fa59d653710d38c8042bfe1c5f3ba82f5f154b32"
+      ]
+    },
     {
       "date": "2026-02-26",
       "page": "/news/2026-02-26.html",
@@ -579,26 +599,6 @@
         "d341343247e7e8f9d0f3d2976acb17fa3cdf94b0",
         "cdbb7ca22c374f450d63e464efe00f4fdbc3c0e2",
         "2bdc5054d3541372e148e7f54515661241fdd14f"
-      ]
-    },
-    {
-      "date": "2026-01-23",
-      "page": "/news/2026-01-23.html",
-      "teaser": "Top: Recept dneva: Torta brownie tiramisu (VIDEO)",
-      "count": 12,
-      "ids": [
-        "9508ece4e72359a9169d02ddccdddba903791de6",
-        "7d6ab40fafb9befa1f90d512be9580ee9c23e864",
-        "2e0b32ec7a6ec66a000d992b5be3599c527530a2",
-        "3c1f2553825adf18ba47cc35183f4021f1398dc2",
-        "f9b07b3f67c3ccaad3048c6458f95a7e6e8ae21d",
-        "80362c7b51cad4215fbefc81277414ff0930d091",
-        "993bbaed363a27742b6d44d3b676d9c52800bd97",
-        "9296fcf32a808fcd3810b6c36c93f892168c6606",
-        "6696f6efb0b649192872e1d67763a4a7e716e932",
-        "3e2c4be495c2dcbe75da1c106e68971116f23412",
-        "991238834df19a9b3ab7dcc8b0ad1857765bf735",
-        "01837240adb818ce5b6827e4b974435f71a8a6b4"
       ]
     }
   ]

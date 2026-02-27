@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-26T06:39:35.859Z",
+  "updated_at": "2026-02-27T06:35:25.993Z",
   "days": [
+    {
+      "date": "2026-02-27",
+      "page": "/news/2026-02-27-sport.html",
+      "teaser": "Top: Main Card Results | UFC Mexico",
+      "count": 12,
+      "ids": [
+        "9a5f3bcd56e3e5869cb82e7964d21fb2014abcc7",
+        "e88874e123f3a9f4307f0727c32daf1d08c25134",
+        "8c6825f82403030d0890bb4bcb77b708aaa30e1f",
+        "579b91bb081d99f90164846343c0a18ded4574a5",
+        "3a7f0a087223d30ed0f88b746bf28b2e5b9dad65",
+        "7a92c8b82ebfe7c4c5b8f2dd7a892dfcda052899",
+        "9e77821fc1c8187cca429858758a5f22f77e67e0",
+        "17f81699cd0a7aa68617635ef14460a0b8de1191",
+        "592406978dea8275d0f11e2f7fc9123fbd096321",
+        "8b405a37473b5670e979e200f63ad1233b046720",
+        "a3dcec44ad20aee70650509a1a4d5f423c9cf7cb",
+        "fe87ef11b63d4c4dad052cd21e3771fab28c539a"
+      ]
+    },
     {
       "date": "2026-02-26",
       "page": "/news/2026-02-26-sport.html",
@@ -579,26 +599,6 @@
         "06a9fd9c151d4f0f383c93a04b8f6962b0ea76cf",
         "534018fd957559801023a69a3933c41256cf3612",
         "9ee9b0e0ae0a930ab964e073c333748ce235c7c3"
-      ]
-    },
-    {
-      "date": "2026-01-23",
-      "page": "/news/2026-01-23-sport.html",
-      "teaser": "Top: Pimblett - the five moments that changed everything",
-      "count": 12,
-      "ids": [
-        "9eea068830cf84fd70580b425be25402e6bb37a7",
-        "ae61a0a451bb6c54c3623e7d8f8c7643672911ab",
-        "2e7c9bdba65381d20563afc8df11d9328e1835ee",
-        "737d6d40bd9ec3f0d7be95099689a2b4187ec74a",
-        "6f78e3e4009ad62e71a241bf89457a0bec17ff3d",
-        "30dcc588c0e8fab622205f0ec5faed436742ec44",
-        "c31a829b168005d66d87988b4b0d79e05d43690e",
-        "3de1f5b29d0bed351f33bda2b0999bc80e1bf1b6",
-        "474fc115891f17fddde3bdcfbf8721f58ca8ad6e",
-        "23e9c7c1142811437bb4a70b3fa82ebe27d2f089",
-        "abe652b94e632674aa1788297d06adb69ae198a8",
-        "4bc0f24d5fc84a85fe61c284de82862f904cc83e"
       ]
     }
   ]

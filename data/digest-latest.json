@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-26",
-  "updated_at": "2026-02-26T06:39:21.545Z",
-  "page": "/news/2026-02-26.html",
+  "date": "2026-02-27",
+  "updated_at": "2026-02-27T06:35:10.693Z",
+  "page": "/news/2026-02-27.html",
   "count": 12,
   "items": [
     {
-      "id": "40f4be0f4c1019f96668c73bdd91bf97b79e54e8",
-      "title": "the software built to build software is building itself while i sleep",
-      "url": "https://dev.to/jaeko44/the-software-built-to-build-software-is-building-itself-while-i-sleep-243n",
+      "id": "0918f35f48a4470a930f5f142164fbd1ec58085a",
+      "title": "I built an AI tool that turned my phone selfie into a LinkedIn headshot — here's what I learned",
+      "url": "https://dev.to/jbventures/i-built-an-ai-tool-that-turned-my-phone-selfie-into-a-linkedin-headshot-heres-what-i-learned-3fgk",
       "source": "dev.to",
-      "published_at": "2026-02-26T06:27:36.000Z",
-      "summary": "Summary: the software built to build software is building itself while i sleep"
+      "published_at": "2026-02-27T06:32:50.000Z",
+      "summary": "Summary: I built an AI tool that turned my phone selfie into a LinkedIn headshot — here's what I learned"
     },
     {
-      "id": "d4f2ee8b8e7bb963d68a233d0c2084fe6ad64e45",
-      "title": "EBRD za Slovenijo izboljšal napoved gospodarske rasti",
-      "url": "https://www.rtvslo.si/gospodarstvo/ebrd-za-slovenijo-izboljsal-napoved-gospodarske-rasti/774631",
+      "id": "99cb6142a8a002e8801349d759c099df8318e665",
+      "title": "Local Development Setup: Tools, Debugging, and Hot Reload",
+      "url": "https://dev.to/martin_oehlert/local-development-setup-tools-debugging-and-hot-reload-2925",
+      "source": "dev.to",
+      "published_at": "2026-02-27T06:32:38.000Z",
+      "summary": "Summary: Local Development Setup: Tools, Debugging, and Hot Reload"
+    },
+    {
+      "id": "bad986c83d18a397877052a696c0d329bf1e5a29",
+      "title": "Evropski uspeh in teža besed \"morate zmagati\", a Celje spet odigralo le prvi polčas",
+      "url": "https://www.rtvslo.si/sport/nogomet/konferencna-liga/evropski-uspeh-in-teza-besed-morate-zmagati-a-celje-spet-odigralo-le-prvi-polcas/774719",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-26T06:24:06.000Z",
-      "summary": "Summary: EBRD za Slovenijo izboljšal napoved gospodarske rasti"
+      "published_at": "2026-02-27T06:30:01.000Z",
+      "summary": "Summary: Evropski uspeh in teža besed \"morate zmagati\", a Celje spet odigralo le prvi polčas"
     },
     {
-      "id": "91a5d7adac3c062592dea8dc9a9e7e7832d741aa",
-      "title": "Outlook for HK Property Market Optimistic, JLL Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-02-26/outlook-for-hk-property-market-optimistic-jll-says-video",
+      "id": "0571474b86e85bd82653cded1393df04e3a851d9",
+      "title": "V mizarski delavnici v Novakih zagorelo, na terenu 50 gasilcev",
+      "url": "https://www.delo.si/novice/crna-kronika/v-mizarski-delavnici-v-novakih-zagorelo-na-terenu-50-gasilcev",
+      "source": "www.delo.si",
+      "published_at": "2026-02-27T06:29:00.000Z",
+      "summary": "Summary: V mizarski delavnici v Novakih zagorelo, na terenu 50 gasilcev"
+    },
+    {
+      "id": "dbac2685630b4acd5f8637ddb4d8d885e50b6081",
+      "title": "Building Scalable Real-Time Applications with Node.js, Socket.io, and React",
+      "url": "https://dev.to/iammuhammadarslan/building-scalable-real-time-applications-with-nodejs-socketio-and-react-2ljk",
+      "source": "dev.to",
+      "published_at": "2026-02-27T06:27:11.000Z",
+      "summary": "Summary: Building Scalable Real-Time Applications with Node.js, Socket.io, and React"
+    },
+    {
+      "id": "23d6f6f5e89531cee079c44db0b1667487a7cada",
+      "title": "Dubai Aerospace CEO: M&A Part of Our DNA",
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/dubai-aerospace-ceo-m-a-part-of-our-dna-video",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-26T06:13:38.000Z",
-      "summary": "Summary: Outlook for HK Property Market Optimistic, JLL Says"
+      "published_at": "2026-02-27T06:22:27.000Z",
+      "summary": "Summary: Dubai Aerospace CEO: M&A Part of Our DNA"
     },
     {
-      "id": "b840215517acaa9ac37eb89bb80b40343c4ae149",
-      "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-      "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-      "source": "feeds.feedburner.com",
-      "published_at": "2026-02-26T06:13:00.000Z",
-      "summary": "Summary: Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access"
+      "id": "ef8f6479b06ec9cf351ce8bca9aaec4c7d157423",
+      "title": "Jezerniki in Luka Dončić ostali brez podaljška desetinko sekunde pred koncem",
+      "url": "https://www.delo.si/sport/kosarka/jezerniki-lovili-tekmece-a-jih-navkljub-razpolozenemu-luki-doncicu-niso-ujeli",
+      "source": "www.delo.si",
+      "published_at": "2026-02-27T06:21:00.000Z",
+      "summary": "Summary: Jezerniki in Luka Dončić ostali brez podaljška desetinko sekunde pred koncem"
     },
     {
-      "id": "6ffe09a3663858d215657181cc22200885c3a8bf",
-      "title": "Hide API Keys from Your Frontend — No Backend Required",
-      "url": "https://dev.to/robleney/hide-api-keys-from-your-frontend-no-backend-required-nnb",
+      "id": "84f44a6a4693467dcdf6c0d76a97158d4168647d",
+      "title": "Designing Games With AI: Creative Partner or Creative Risk? - (Feb 2026)",
+      "url": "https://dev.to/spookuspookus/designing-games-with-ai-creative-partner-or-creative-risk-3cci",
       "source": "dev.to",
-      "published_at": "2026-02-26T06:06:38.000Z",
-      "summary": "Summary: Hide API Keys from Your Frontend — No Backend Required"
+      "published_at": "2026-02-27T06:20:16.000Z",
+      "summary": "Summary: Designing Games With AI: Creative Partner or Creative Risk? - (Feb 2026)"
     },
     {
-      "id": "5e1b6b0a3bc0f67d179d665e62c41be11d40b08b",
-      "title": "Prevzeli so jo velikani: zgodba o izgubljeni viziji umetne inteligence",
-      "url": "https://www.rtvslo.si/znanost-in-tehnologija/prevzeli-so-jo-velikani-zgodba-o-izgubljeni-viziji-umetne-inteligence/774630",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-26T06:05:18.000Z",
-      "summary": "Summary: Prevzeli so jo velikani: zgodba o izgubljeni viziji umetne inteligence"
-    },
-    {
-      "id": "fa7bd899cbd5124435b79702f5de48773f66f523",
-      "title": "TurboTax Service Codes: Up to 20% Off | February 2026",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "source": "www.wired.com",
-      "published_at": "2026-02-26T06:05:00.000Z",
-      "summary": "Summary: TurboTax Service Codes: Up to 20% Off | February 2026"
-    },
-    {
-      "id": "3abfb340e36dce206dd7ed99b31a7b87dbd790ab",
-      "title": "Zadnji album hiphop dvojca Macklemore & Ryan Lewis je dopolnil deset let",
-      "url": "https://www.rtvslo.si/zabava-in-slog/glasba/zvok-casa/zadnji-album-hiphop-dvojca-macklemore-ryan-lewis-je-dopolnil-deset-let/774628",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-26T06:04:11.000Z",
-      "summary": "Summary: Zadnji album hiphop dvojca Macklemore & Ryan Lewis je dopolnil deset let"
-    },
-    {
-      "id": "14f1b721ee3c82e4bc26345d138b9c7b6aae199a",
-      "title": "The Agentic Software Factory: How AI Teams Debate, Code, and can Secure Enterprise Infrastructure",
-      "url": "https://dev.to/uenyioha/the-agentic-software-factory-how-ai-teams-debate-code-and-secure-enterprise-infrastructure-9eh",
+      "id": "ea51feb1a24157bb24a30d380f47f12f571346fb",
+      "title": "I Tried to Deploy My MCP Server to Vercel. Here's What Actually Happened.",
+      "url": "https://dev.to/renato_marinho/i-tried-to-deploy-my-mcp-server-to-vercel-heres-what-actually-happened-31k5",
       "source": "dev.to",
-      "published_at": "2026-02-26T06:02:32.000Z",
-      "summary": "Summary: The Agentic Software Factory: How AI Teams Debate, Code, and can Secure Enterprise Infrastructure"
+      "published_at": "2026-02-27T06:17:07.000Z",
+      "summary": "Summary: I Tried to Deploy My MCP Server to Vercel. Here's What Actually Happened."
     },
     {
-      "id": "c916fbd2cf917851996e0fac9451e63ddd952360",
-      "title": "'Ortopedi ne odpovedujejo operacij. Vlada je omejila število posegov'",
-      "url": "https://www.24ur.com/novice/slovenija/bojan-kostic.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-26T06:01:45.000Z",
-      "summary": "Summary: 'Ortopedi ne odpovedujejo operacij. Vlada je omejila število posegov'"
+      "id": "86b562b4c8922baca1945dee2f0d4a2459c2e210",
+      "title": "Fadlallah: Saudi Arabian Market Reflects 21st Century",
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/fadlallah-saudi-arabian-market-reflects-21st-century-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-27T06:16:08.000Z",
+      "summary": "Summary: Fadlallah: Saudi Arabian Market Reflects 21st Century"
     },
     {
-      "id": "79b576c681cce68c53437206cb7eeb36e2b9f2a1",
-      "title": "'Več kot jasno je, da nimajo namena, da se zadeva zaključi'",
-      "url": "https://www.24ur.com/novice/slovenija/gasilci_4.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-26T06:01:06.000Z",
-      "summary": "Summary: 'Več kot jasno je, da nimajo namena, da se zadeva zaključi'"
+      "id": "700dbcd2afc00cdbe788d39b61acbae84cb7b7e3",
+      "title": "UK Set to Slash Bond Sales to Lowest in Three Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/uk-set-to-slash-bond-sales-to-lowest-in-three-years",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-02-27T06:15:00.000Z",
+      "summary": "Summary: UK Set to Slash Bond Sales to Lowest in Three Years"
     },
     {
-      "id": "1ca39aeddc2d7f967a2413a3f40ff3875adf00d6",
-      "title": "Govorni pomočnik: Bi Dante Alighieri vozil lamborghinija?",
-      "url": "https://www.rtvslo.si/kultura/jezik/govorni-pomocnik-bi-dante-alighieri-vozil-lamborghinija/774595",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-26T06:00:30.000Z",
-      "summary": "Summary: Govorni pomočnik: Bi Dante Alighieri vozil lamborghinija?"
+      "id": "fa59d653710d38c8042bfe1c5f3ba82f5f154b32",
+      "title": "Concurrency and Data Consistency: Managing Multiple Users Without Losing Control",
+      "url": "https://dev.to/dewjibill_cotbeakyin_3c37/concurrency-and-data-consistency-managing-multiple-users-without-losing-control-4lc1",
+      "source": "dev.to",
+      "published_at": "2026-02-27T06:14:24.000Z",
+      "summary": "Summary: Concurrency and Data Consistency: Managing Multiple Users Without Losing Control"
     }
   ]
 }
