@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-27",
-  "updated_at": "2026-02-27T06:35:10.693Z",
-  "page": "/news/2026-02-27.html",
+  "date": "2026-02-28",
+  "updated_at": "2026-02-28T06:32:50.463Z",
+  "page": "/news/2026-02-28.html",
   "count": 12,
   "items": [
     {
-      "id": "0918f35f48a4470a930f5f142164fbd1ec58085a",
-      "title": "I built an AI tool that turned my phone selfie into a LinkedIn headshot — here's what I learned",
-      "url": "https://dev.to/jbventures/i-built-an-ai-tool-that-turned-my-phone-selfie-into-a-linkedin-headshot-heres-what-i-learned-3fgk",
+      "id": "a6abd91264709a443069d5e809826be7f21714ad",
+      "title": "Scaling Engineers Doesn't Mean Scaling Work",
+      "url": "https://dev.to/sultanfariz/scaling-engineers-doesnt-mean-scaling-work-1nf3",
       "source": "dev.to",
-      "published_at": "2026-02-27T06:32:50.000Z",
-      "summary": "Summary: I built an AI tool that turned my phone selfie into a LinkedIn headshot — here's what I learned"
+      "published_at": "2026-02-28T06:30:36.000Z",
+      "summary": "Summary: Scaling Engineers Doesn't Mean Scaling Work"
     },
     {
-      "id": "99cb6142a8a002e8801349d759c099df8318e665",
-      "title": "Local Development Setup: Tools, Debugging, and Hot Reload",
-      "url": "https://dev.to/martin_oehlert/local-development-setup-tools-debugging-and-hot-reload-2925",
-      "source": "dev.to",
-      "published_at": "2026-02-27T06:32:38.000Z",
-      "summary": "Summary: Local Development Setup: Tools, Debugging, and Hot Reload"
-    },
-    {
-      "id": "bad986c83d18a397877052a696c0d329bf1e5a29",
-      "title": "Evropski uspeh in teža besed \"morate zmagati\", a Celje spet odigralo le prvi polčas",
-      "url": "https://www.rtvslo.si/sport/nogomet/konferencna-liga/evropski-uspeh-in-teza-besed-morate-zmagati-a-celje-spet-odigralo-le-prvi-polcas/774719",
+      "id": "bff769030e5321e18156f7d1bc93b1fcd3d6936d",
+      "title": "Prvaki ob vrnitvi Gilgeous-Alexandra po podaljšku ugnali Denver",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/prvaki-ob-vrnitvi-gilgeous-alexandra-po-podaljsku-ugnali-denver/774863",
       "source": "www.rtvslo.si",
-      "published_at": "2026-02-27T06:30:01.000Z",
-      "summary": "Summary: Evropski uspeh in teža besed \"morate zmagati\", a Celje spet odigralo le prvi polčas"
+      "published_at": "2026-02-28T06:29:57.000Z",
+      "summary": "Summary: Prvaki ob vrnitvi Gilgeous-Alexandra po podaljšku ugnali Denver"
     },
     {
-      "id": "0571474b86e85bd82653cded1393df04e3a851d9",
-      "title": "V mizarski delavnici v Novakih zagorelo, na terenu 50 gasilcev",
-      "url": "https://www.delo.si/novice/crna-kronika/v-mizarski-delavnici-v-novakih-zagorelo-na-terenu-50-gasilcev",
+      "id": "7bab8ea8890b91f0efabc5e81986d79d2e646ad6",
+      "title": "Mistakes I Made as a Frontend Engineer (And What They Actually Cost Me)",
+      "url": "https://dev.to/9thquadrant/mistakes-i-made-as-a-frontend-engineer-and-what-they-actually-cost-me-587m",
+      "source": "dev.to",
+      "published_at": "2026-02-28T06:26:08.000Z",
+      "summary": "Summary: Mistakes I Made as a Frontend Engineer (And What They Actually Cost Me)"
+    },
+    {
+      "id": "0ef23b60d8a33d285348b502d2bc7273d34d1529",
+      "title": "Želja po bolj zapeljivem pogledu lahko ogrozi zdravje",
+      "url": "https://www.24ur.com/novice/slovenija/zelja-po-bolj-zapeljivem-pogledu-lahko-ogrozi-zdravje.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-28T06:25:35.000Z",
+      "summary": "Summary: Želja po bolj zapeljivem pogledu lahko ogrozi zdravje"
+    },
+    {
+      "id": "4a6973263b03ae0f8550d8f3b27c2c2b40c1f36f",
+      "title": "Why Are Camera ISP Tuning Services Important?",
+      "url": "https://dev.to/siliconsignals_ind/why-are-camera-isp-tuning-services-important-531b",
+      "source": "dev.to",
+      "published_at": "2026-02-28T06:24:37.000Z",
+      "summary": "Summary: Why Are Camera ISP Tuning Services Important?"
+    },
+    {
+      "id": "c089781357fd6b422ce9cda5a2430e5a7a975394",
+      "title": "We Built India's First Self-Paced Learning Platform for Government Exam Students — 2 Year+. 5 People. 1000+ Articles.",
+      "url": "https://dev.to/satyam_vatsa_ec46468fdf4b/we-built-indias-first-self-paced-learning-platform-for-government-exam-students-2-year-5-41c8",
+      "source": "dev.to",
+      "published_at": "2026-02-28T06:21:50.000Z",
+      "summary": "Summary: We Built India's First Self-Paced Learning Platform for Government Exam Students — 2 Year+. 5 People. 1000+ Articles."
+    },
+    {
+      "id": "eee3a474ed32f574d18630d55beb501c706432fc",
+      "title": "Why Passkeys Aren't Ready for Encrypting Your User Data (Yet)",
+      "url": "https://dev.to/nader0913/why-passkeys-arent-ready-for-encrypting-your-user-data-yet-437p",
+      "source": "dev.to",
+      "published_at": "2026-02-28T06:21:20.000Z",
+      "summary": "Summary: Why Passkeys Aren't Ready for Encrypting Your User Data (Yet)"
+    },
+    {
+      "id": "9b7fd08c70e0359ea97c991ed9bbad5eb063008d",
+      "title": "Pomembna novost: od danes starostna meja za uporabo e-skirojev 15 let",
+      "url": "https://www.delo.si/novice/slovenija/pomembna-novost-od-danes-starostna-meja-za-uporabo-e-skirojev-15-let",
       "source": "www.delo.si",
-      "published_at": "2026-02-27T06:29:00.000Z",
-      "summary": "Summary: V mizarski delavnici v Novakih zagorelo, na terenu 50 gasilcev"
+      "published_at": "2026-02-28T06:19:00.000Z",
+      "summary": "Summary: Pomembna novost: od danes starostna meja za uporabo e-skirojev 15 let"
     },
     {
-      "id": "dbac2685630b4acd5f8637ddb4d8d885e50b6081",
-      "title": "Building Scalable Real-Time Applications with Node.js, Socket.io, and React",
-      "url": "https://dev.to/iammuhammadarslan/building-scalable-real-time-applications-with-nodejs-socketio-and-react-2ljk",
+      "id": "644314aeb4e202e0c06e77f8b13429d0c4aafd49",
+      "title": "1120 kandidatov na prihajajočih lokalnih volitvah",
+      "url": "https://www.24ur.com/novice/tujina/1120-kandidatov-na-prihajajocih-lokalnih-volitvah.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-02-28T06:18:56.000Z",
+      "summary": "Summary: 1120 kandidatov na prihajajočih lokalnih volitvah"
+    },
+    {
+      "id": "cc4b8babe73369423efd5643ae8db1432f998e82",
+      "title": "Martina Kuzman: \"Imeli smo primer deklice, ki je imela fanta, in sicer umetno inteligenco\"",
+      "url": "https://www.rtvslo.si/stevilke/martina-kuzman-imeli-smo-primer-deklice-ki-je-imela-fanta-in-sicer-umetno-inteligenco/774551",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-02-28T06:16:47.000Z",
+      "summary": "Summary: Martina Kuzman: \"Imeli smo primer deklice, ki je imela fanta, in sicer umetno inteligenco\""
+    },
+    {
+      "id": "25acf090309dd5fc699015ecae50e2893cae330e",
+      "title": "OpenID Connect Core 1.0 Deep Dive: Understanding the \"Authentication\" Layer on top of OAuth 2.0",
+      "url": "https://dev.to/kanywst/openid-connect-core-10-deep-dive-understanding-the-authentication-layer-on-top-of-oauth-20-2bei",
       "source": "dev.to",
-      "published_at": "2026-02-27T06:27:11.000Z",
-      "summary": "Summary: Building Scalable Real-Time Applications with Node.js, Socket.io, and React"
+      "published_at": "2026-02-28T06:16:17.000Z",
+      "summary": "Summary: OpenID Connect Core 1.0 Deep Dive: Understanding the \"Authentication\" Layer on top of OAuth 2.0"
     },
     {
-      "id": "23d6f6f5e89531cee079c44db0b1667487a7cada",
-      "title": "Dubai Aerospace CEO: M&A Part of Our DNA",
-      "url": "https://www.bloomberg.com/news/videos/2026-02-27/dubai-aerospace-ceo-m-a-part-of-our-dna-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-27T06:22:27.000Z",
-      "summary": "Summary: Dubai Aerospace CEO: M&A Part of Our DNA"
-    },
-    {
-      "id": "ef8f6479b06ec9cf351ce8bca9aaec4c7d157423",
-      "title": "Jezerniki in Luka Dončić ostali brez podaljška desetinko sekunde pred koncem",
-      "url": "https://www.delo.si/sport/kosarka/jezerniki-lovili-tekmece-a-jih-navkljub-razpolozenemu-luki-doncicu-niso-ujeli",
-      "source": "www.delo.si",
-      "published_at": "2026-02-27T06:21:00.000Z",
-      "summary": "Summary: Jezerniki in Luka Dončić ostali brez podaljška desetinko sekunde pred koncem"
-    },
-    {
-      "id": "84f44a6a4693467dcdf6c0d76a97158d4168647d",
-      "title": "Designing Games With AI: Creative Partner or Creative Risk? - (Feb 2026)",
-      "url": "https://dev.to/spookuspookus/designing-games-with-ai-creative-partner-or-creative-risk-3cci",
+      "id": "3d85b7966f6b20a1b341bc2793582a2fa6df4a09",
+      "title": "FullAgenticStack WhatsApp-first: Documento Estratégico de Entrada no Mercado",
+      "url": "https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-documento-estrategico-de-entrada-no-mercado-48da",
       "source": "dev.to",
-      "published_at": "2026-02-27T06:20:16.000Z",
-      "summary": "Summary: Designing Games With AI: Creative Partner or Creative Risk? - (Feb 2026)"
-    },
-    {
-      "id": "ea51feb1a24157bb24a30d380f47f12f571346fb",
-      "title": "I Tried to Deploy My MCP Server to Vercel. Here's What Actually Happened.",
-      "url": "https://dev.to/renato_marinho/i-tried-to-deploy-my-mcp-server-to-vercel-heres-what-actually-happened-31k5",
-      "source": "dev.to",
-      "published_at": "2026-02-27T06:17:07.000Z",
-      "summary": "Summary: I Tried to Deploy My MCP Server to Vercel. Here's What Actually Happened."
-    },
-    {
-      "id": "86b562b4c8922baca1945dee2f0d4a2459c2e210",
-      "title": "Fadlallah: Saudi Arabian Market Reflects 21st Century",
-      "url": "https://www.bloomberg.com/news/videos/2026-02-27/fadlallah-saudi-arabian-market-reflects-21st-century-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-27T06:16:08.000Z",
-      "summary": "Summary: Fadlallah: Saudi Arabian Market Reflects 21st Century"
-    },
-    {
-      "id": "700dbcd2afc00cdbe788d39b61acbae84cb7b7e3",
-      "title": "UK Set to Slash Bond Sales to Lowest in Three Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-27/uk-set-to-slash-bond-sales-to-lowest-in-three-years",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-02-27T06:15:00.000Z",
-      "summary": "Summary: UK Set to Slash Bond Sales to Lowest in Three Years"
-    },
-    {
-      "id": "fa59d653710d38c8042bfe1c5f3ba82f5f154b32",
-      "title": "Concurrency and Data Consistency: Managing Multiple Users Without Losing Control",
-      "url": "https://dev.to/dewjibill_cotbeakyin_3c37/concurrency-and-data-consistency-managing-multiple-users-without-losing-control-4lc1",
-      "source": "dev.to",
-      "published_at": "2026-02-27T06:14:24.000Z",
-      "summary": "Summary: Concurrency and Data Consistency: Managing Multiple Users Without Losing Control"
+      "published_at": "2026-02-28T06:11:05.000Z",
+      "summary": "Summary: FullAgenticStack WhatsApp-first: Documento Estratégico de Entrada no Mercado"
     }
   ]
 }

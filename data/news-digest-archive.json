@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-27T06:35:20.968Z",
+  "updated_at": "2026-02-28T06:32:58.748Z",
   "days": [
+    {
+      "date": "2026-02-28",
+      "page": "/news/2026-02-28-news.html",
+      "teaser": "Top: Prvaki ob vrnitvi Gilgeous-Alexandra po podaljšku ugnali Denver",
+      "count": 12,
+      "ids": [
+        "bff769030e5321e18156f7d1bc93b1fcd3d6936d",
+        "0ef23b60d8a33d285348b502d2bc7273d34d1529",
+        "514d41a2fe267763c1f013b42e376e928a54b04a",
+        "37149a912fffb3bd3ec8d4ed474e93d96ce535b7",
+        "9b7fd08c70e0359ea97c991ed9bbad5eb063008d",
+        "644314aeb4e202e0c06e77f8b13429d0c4aafd49",
+        "cb962d117d7053e6c210e76446e87266735f2855",
+        "eb74e8f0e9b25bf364958964a09108345cf1776c",
+        "cc4b8babe73369423efd5643ae8db1432f998e82",
+        "fbac3e7003f77f90dce73e087e367d8228373865",
+        "5dd5db89526bba8d8b301e9abec61b265ede7e38",
+        "a7246d5d2d00d606a1656435e7edfa42507df3e6"
+      ]
+    },
     {
       "date": "2026-02-27",
       "page": "/news/2026-02-27-news.html",
@@ -579,26 +599,6 @@
         "fb8d89cfd07930fe36a0458917b54e40f7427e0e",
         "3fb478da498ca62eab6e489092604c060788068c",
         "fe794b7a3e9e78f47784f8c4da9336ef15e9263b"
-      ]
-    },
-    {
-      "date": "2026-01-24",
-      "page": "/news/2026-01-24-news.html",
-      "teaser": "Top: Ob 10.00 v Špindlerjevem Mlinu ženski veleslalom",
-      "count": 12,
-      "ids": [
-        "492a0f6c0db06856f9c90a63858cfcf24969ef67",
-        "2b6f30aa46da764a20bc0e6586c85df776761144",
-        "5032496d8001dfdf0e3f95381ee67b9c9598d524",
-        "916bd45ce6aeba3215a8479fa4525b4fd44ebea7",
-        "c96e8e390ffc99df3e44210bd3ec985806eca405",
-        "6ffe920fe1c891a407f6618bb9af632114fe2446",
-        "8f15638ac981c77c7e4bc34cce2c0a4625406f07",
-        "7378653bab8cf08ff6edece8fa5b6d1988c67035",
-        "b3d76d3acb6ff7e452d42401f709b070d08a4e01",
-        "2bdc5054d3541372e148e7f54515661241fdd14f",
-        "cf0d6cef48ff80318f928b9f318e45af3f82bf98",
-        "e989490d0b2c57c8a7d14780fcd9890f12744d7a"
       ]
     }
   ]
