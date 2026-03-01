@@ -1,104 +1,104 @@
 {
-  "date": "2026-02-28",
-  "updated_at": "2026-02-28T06:32:50.463Z",
-  "page": "/news/2026-02-28.html",
+  "date": "2026-03-01",
+  "updated_at": "2026-03-01T06:33:44.390Z",
+  "page": "/news/2026-03-01.html",
   "count": 12,
   "items": [
     {
-      "id": "a6abd91264709a443069d5e809826be7f21714ad",
-      "title": "Scaling Engineers Doesn't Mean Scaling Work",
-      "url": "https://dev.to/sultanfariz/scaling-engineers-doesnt-mean-scaling-work-1nf3",
+      "id": "78a13b155ef5f2268dac12e545e8c5e063c3980b",
+      "title": "When Power Centralizes in the Frontend Ecosystem — Should We Be Alarmed?",
+      "url": "https://dev.to/ezhil_sivarajsr/when-power-centralizes-in-the-frontend-ecosystem-should-we-be-alarmed-36l4",
       "source": "dev.to",
-      "published_at": "2026-02-28T06:30:36.000Z",
-      "summary": "Summary: Scaling Engineers Doesn't Mean Scaling Work"
+      "published_at": "2026-03-01T06:31:58.000Z",
+      "summary": "Summary: When Power Centralizes in the Frontend Ecosystem — Should We Be Alarmed?"
     },
     {
-      "id": "bff769030e5321e18156f7d1bc93b1fcd3d6936d",
-      "title": "Prvaki ob vrnitvi Gilgeous-Alexandra po podaljšku ugnali Denver",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/prvaki-ob-vrnitvi-gilgeous-alexandra-po-podaljsku-ugnali-denver/774863",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-28T06:29:57.000Z",
-      "summary": "Summary: Prvaki ob vrnitvi Gilgeous-Alexandra po podaljšku ugnali Denver"
-    },
-    {
-      "id": "7bab8ea8890b91f0efabc5e81986d79d2e646ad6",
-      "title": "Mistakes I Made as a Frontend Engineer (And What They Actually Cost Me)",
-      "url": "https://dev.to/9thquadrant/mistakes-i-made-as-a-frontend-engineer-and-what-they-actually-cost-me-587m",
+      "id": "23eda8ae276519595aa8e0976d2ccc256c6bede5",
+      "title": "The lost-in-the-middle problem and why retrieval beats stuffing",
+      "url": "https://dev.to/anajuliabit/the-lost-in-the-middle-problem-and-why-retrieval-beats-stuffing-1h37",
       "source": "dev.to",
-      "published_at": "2026-02-28T06:26:08.000Z",
-      "summary": "Summary: Mistakes I Made as a Frontend Engineer (And What They Actually Cost Me)"
+      "published_at": "2026-03-01T06:27:55.000Z",
+      "summary": "Summary: The lost-in-the-middle problem and why retrieval beats stuffing"
     },
     {
-      "id": "0ef23b60d8a33d285348b502d2bc7273d34d1529",
-      "title": "Želja po bolj zapeljivem pogledu lahko ogrozi zdravje",
-      "url": "https://www.24ur.com/novice/slovenija/zelja-po-bolj-zapeljivem-pogledu-lahko-ogrozi-zdravje.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-02-28T06:25:35.000Z",
-      "summary": "Summary: Želja po bolj zapeljivem pogledu lahko ogrozi zdravje"
-    },
-    {
-      "id": "4a6973263b03ae0f8550d8f3b27c2c2b40c1f36f",
-      "title": "Why Are Camera ISP Tuning Services Important?",
-      "url": "https://dev.to/siliconsignals_ind/why-are-camera-isp-tuning-services-important-531b",
+      "id": "9f89ede6c393f51c1c0f401f93d2f99634109599",
+      "title": "Building a Multi-Dimensional Scoring System for National Investment Capability — Lessons from GNICAP",
+      "url": "https://dev.to/gnicap/building-a-multi-dimensional-scoring-system-for-national-investment-capability-lessons-from-gnicap-1llm",
       "source": "dev.to",
-      "published_at": "2026-02-28T06:24:37.000Z",
-      "summary": "Summary: Why Are Camera ISP Tuning Services Important?"
+      "published_at": "2026-03-01T06:27:54.000Z",
+      "summary": "Summary: Building a Multi-Dimensional Scoring System for National Investment Capability — Lessons from GNICAP"
     },
     {
-      "id": "c089781357fd6b422ce9cda5a2430e5a7a975394",
-      "title": "We Built India's First Self-Paced Learning Platform for Government Exam Students — 2 Year+. 5 People. 1000+ Articles.",
-      "url": "https://dev.to/satyam_vatsa_ec46468fdf4b/we-built-indias-first-self-paced-learning-platform-for-government-exam-students-2-year-5-41c8",
-      "source": "dev.to",
-      "published_at": "2026-02-28T06:21:50.000Z",
-      "summary": "Summary: We Built India's First Self-Paced Learning Platform for Government Exam Students — 2 Year+. 5 People. 1000+ Articles."
-    },
-    {
-      "id": "eee3a474ed32f574d18630d55beb501c706432fc",
-      "title": "Why Passkeys Aren't Ready for Encrypting Your User Data (Yet)",
-      "url": "https://dev.to/nader0913/why-passkeys-arent-ready-for-encrypting-your-user-data-yet-437p",
-      "source": "dev.to",
-      "published_at": "2026-02-28T06:21:20.000Z",
-      "summary": "Summary: Why Passkeys Aren't Ready for Encrypting Your User Data (Yet)"
-    },
-    {
-      "id": "9b7fd08c70e0359ea97c991ed9bbad5eb063008d",
-      "title": "Pomembna novost: od danes starostna meja za uporabo e-skirojev 15 let",
-      "url": "https://www.delo.si/novice/slovenija/pomembna-novost-od-danes-starostna-meja-za-uporabo-e-skirojev-15-let",
+      "id": "ee3621d6936fbb1d6eb96d27698d129f6c0cfe18",
+      "title": "Za rojstni dan si je Luka Dončić čestital z odlično zmago",
+      "url": "https://www.delo.si/sport/kosarka/za-rojstni-dan-si-je-luka-doncic-cestitat-z-odlicno-zmago",
       "source": "www.delo.si",
-      "published_at": "2026-02-28T06:19:00.000Z",
-      "summary": "Summary: Pomembna novost: od danes starostna meja za uporabo e-skirojev 15 let"
+      "published_at": "2026-03-01T06:27:00.000Z",
+      "summary": "Summary: Za rojstni dan si je Luka Dončić čestital z odlično zmago"
     },
     {
-      "id": "644314aeb4e202e0c06e77f8b13429d0c4aafd49",
-      "title": "1120 kandidatov na prihajajočih lokalnih volitvah",
-      "url": "https://www.24ur.com/novice/tujina/1120-kandidatov-na-prihajajocih-lokalnih-volitvah.html",
+      "id": "bdde9b705bd24a09f7720fcb9d5c914440c5cad7",
+      "title": "I Spent 15 Years as an Engineer, Designer, and Business Owner. Here's Why AI Made All Three Essential.",
+      "url": "https://dev.to/s3atoshi_leading_ai/beyond-the-specialist-why-the-ai-era-demands-a-triangular-architect-1dng",
+      "source": "dev.to",
+      "published_at": "2026-03-01T06:26:59.000Z",
+      "summary": "Summary: I Spent 15 Years as an Engineer, Designer, and Business Owner. Here's Why AI Made All Three Essential."
+    },
+    {
+      "id": "b585d21c24f91b96c52fc6dc652cf2ec7a003dcb",
+      "title": "Almansa za nekaj centimetrov slavil v moto3, rdeča zastava v moto2",
+      "url": "https://www.24ur.com/sport/motogp/moto3-dirka.html",
       "source": "www.24ur.com",
-      "published_at": "2026-02-28T06:18:56.000Z",
-      "summary": "Summary: 1120 kandidatov na prihajajočih lokalnih volitvah"
+      "published_at": "2026-03-01T06:24:29.000Z",
+      "summary": "Summary: Almansa za nekaj centimetrov slavil v moto3, rdeča zastava v moto2"
     },
     {
-      "id": "cc4b8babe73369423efd5643ae8db1432f998e82",
-      "title": "Martina Kuzman: \"Imeli smo primer deklice, ki je imela fanta, in sicer umetno inteligenco\"",
-      "url": "https://www.rtvslo.si/stevilke/martina-kuzman-imeli-smo-primer-deklice-ki-je-imela-fanta-in-sicer-umetno-inteligenco/774551",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-02-28T06:16:47.000Z",
-      "summary": "Summary: Martina Kuzman: \"Imeli smo primer deklice, ki je imela fanta, in sicer umetno inteligenco\""
-    },
-    {
-      "id": "25acf090309dd5fc699015ecae50e2893cae330e",
-      "title": "OpenID Connect Core 1.0 Deep Dive: Understanding the \"Authentication\" Layer on top of OAuth 2.0",
-      "url": "https://dev.to/kanywst/openid-connect-core-10-deep-dive-understanding-the-authentication-layer-on-top-of-oauth-20-2bei",
+      "id": "ad356d52dda2897c7e859bad5e1fa38f21a3d260",
+      "title": "The Terraform Mistakes I Made So You Do Not Have To",
+      "url": "https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0",
       "source": "dev.to",
-      "published_at": "2026-02-28T06:16:17.000Z",
-      "summary": "Summary: OpenID Connect Core 1.0 Deep Dive: Understanding the \"Authentication\" Layer on top of OAuth 2.0"
+      "published_at": "2026-03-01T06:19:13.000Z",
+      "summary": "Summary: The Terraform Mistakes I Made So You Do Not Have To"
     },
     {
-      "id": "3d85b7966f6b20a1b341bc2793582a2fa6df4a09",
-      "title": "FullAgenticStack WhatsApp-first: Documento Estratégico de Entrada no Mercado",
-      "url": "https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-documento-estrategico-de-entrada-no-mercado-48da",
+      "id": "99516e1eaf0c085593c7426f303a2fbfed12ca7f",
+      "title": "Day 14 — I Built ProcWatch : A Linux Process Security Scanner for Forensics & Incident Response",
+      "url": "https://dev.to/hafiz_shamnad/day-14-i-built-procwatch-a-linux-process-security-scanner-for-forensics-incident-response-2bm5",
       "source": "dev.to",
-      "published_at": "2026-02-28T06:11:05.000Z",
-      "summary": "Summary: FullAgenticStack WhatsApp-first: Documento Estratégico de Entrada no Mercado"
+      "published_at": "2026-03-01T06:17:20.000Z",
+      "summary": "Summary: Day 14 — I Built ProcWatch : A Linux Process Security Scanner for Forensics & Incident Response"
+    },
+    {
+      "id": "13e6c2b375d7685dbc9f4e3ae953792a6c7284ba",
+      "title": "Nedelja prinaša popravni izpit za Bezzecchija, na ogrevanju najhitrejši Fernandez",
+      "url": "https://www.24ur.com/sport/motogp/napoved-za-dirko.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-01T06:16:35.000Z",
+      "summary": "Summary: Nedelja prinaša popravni izpit za Bezzecchija, na ogrevanju najhitrejši Fernandez"
+    },
+    {
+      "id": "74a488c1f01d34c8787969e36c279caceb83da8f",
+      "title": "JIT Compiler: BrainFuck",
+      "url": "https://dev.to/pseudoclone/jit-compiler-brainfuck-261j",
+      "source": "dev.to",
+      "published_at": "2026-03-01T06:13:29.000Z",
+      "summary": "Summary: JIT Compiler: BrainFuck"
+    },
+    {
+      "id": "70831bcf9d98b9ed20122df579dcd8f43c726247",
+      "title": "Los Angeles prekinil niz petih porazov",
+      "url": "https://www.24ur.com/sport/hokej/los-angeles-prekinil-niz-petih-porazov.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-01T06:11:45.000Z",
+      "summary": "Summary: Los Angeles prekinil niz petih porazov"
+    },
+    {
+      "id": "7d2544aa19fb56617352781594ad74c84d75ee00",
+      "title": "CVE-2026-21619: Unsafe Deserialization in Erlang Hex Ecosystem (hex_core, rebar3)",
+      "url": "https://dev.to/cverports/cve-2026-21619-unsafe-deserialization-in-erlang-hex-ecosystem-hexcore-rebar3-4ifd",
+      "source": "dev.to",
+      "published_at": "2026-03-01T06:10:22.000Z",
+      "summary": "Summary: CVE-2026-21619: Unsafe Deserialization in Erlang Hex Ecosystem (hex_core, rebar3)"
     }
   ]
 }

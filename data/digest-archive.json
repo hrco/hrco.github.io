@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-28T06:32:50.463Z",
+  "updated_at": "2026-03-01T06:33:44.390Z",
   "days": [
+    {
+      "date": "2026-03-01",
+      "page": "/news/2026-03-01.html",
+      "teaser": "Top: When Power Centralizes in the Frontend Ecosystem — Should We Be Alarmed?",
+      "count": 12,
+      "ids": [
+        "78a13b155ef5f2268dac12e545e8c5e063c3980b",
+        "23eda8ae276519595aa8e0976d2ccc256c6bede5",
+        "9f89ede6c393f51c1c0f401f93d2f99634109599",
+        "ee3621d6936fbb1d6eb96d27698d129f6c0cfe18",
+        "bdde9b705bd24a09f7720fcb9d5c914440c5cad7",
+        "b585d21c24f91b96c52fc6dc652cf2ec7a003dcb",
+        "ad356d52dda2897c7e859bad5e1fa38f21a3d260",
+        "99516e1eaf0c085593c7426f303a2fbfed12ca7f",
+        "13e6c2b375d7685dbc9f4e3ae953792a6c7284ba",
+        "74a488c1f01d34c8787969e36c279caceb83da8f",
+        "70831bcf9d98b9ed20122df579dcd8f43c726247",
+        "7d2544aa19fb56617352781594ad74c84d75ee00"
+      ]
+    },
     {
       "date": "2026-02-28",
       "page": "/news/2026-02-28.html",
@@ -579,26 +599,6 @@
         "44168388f7329a639660be5ffaa9e442b636ae7f",
         "cec8b6fc7070b82d40482d36dd92757c1b952a42",
         "b81d81435338245fdf04982a13565938edd5db99"
-      ]
-    },
-    {
-      "date": "2026-01-25",
-      "page": "/news/2026-01-25.html",
-      "teaser": "Top: Alcaraz rešil žogo za prvi niz in se prebil v četrtfinale",
-      "count": 12,
-      "ids": [
-        "e66a4504b38b5efeaf0f054a35efd8c52fd0bbb2",
-        "3c9a14cfbefecd6e0c9dce0452d88851fe37fa4b",
-        "3756a868baa78d3d53c7a60e84cf79e78693af57",
-        "a0770c77f102c38521f91b847ee9451f9069766a",
-        "36b6f40d628b38d4e5cf4ba5803fa7e4a4916e07",
-        "1c4ad0c166ce0ca8bf4908e1b50ce3dd61d019b0",
-        "e3d99d466f8965b88de8f349841f118d3a399193",
-        "36869df150bd62e59540a33f5086708ffa43ecc2",
-        "73019dac123a6fba4ef730ecd8572653803da63a",
-        "67caf6d0cfcd57a89ff6e25bc57923b065400828",
-        "fb8d89cfd07930fe36a0458917b54e40f7427e0e",
-        "938739d2bed8d41423073425d0439665b351b217"
       ]
     }
   ]

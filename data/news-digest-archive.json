@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-02-28T06:32:58.748Z",
+  "updated_at": "2026-03-01T06:33:55.928Z",
   "days": [
+    {
+      "date": "2026-03-01",
+      "page": "/news/2026-03-01-news.html",
+      "teaser": "Top: 🔴 Live: Iran security official says Khamenei transition process to begin today. Follow all the latest developments here",
+      "count": 12,
+      "ids": [
+        "b1fd51390ef7bf7b44e0914e1c4859ebfd6cd5dc",
+        "ee3621d6936fbb1d6eb96d27698d129f6c0cfe18",
+        "b585d21c24f91b96c52fc6dc652cf2ec7a003dcb",
+        "13e6c2b375d7685dbc9f4e3ae953792a6c7284ba",
+        "70831bcf9d98b9ed20122df579dcd8f43c726247",
+        "2b467721df4ec249bf3490c37f4c9a18fc2155dd",
+        "985c7c912e73b35d52752225522196d77d0bc344",
+        "2d6e85ab4c2ed590538fa321f2f6f3b9444cd7b7",
+        "fde5a5ae74301686b8adf5533994e1a96e81536b",
+        "834795138949e066d6f234e1e6a8bc662f24eca9",
+        "a58035685031404acbd4719d508f0ba04d1ed2f0",
+        "1c03a846ad3e79a1183cfacae01d6ec673492236"
+      ]
+    },
     {
       "date": "2026-02-28",
       "page": "/news/2026-02-28-news.html",
@@ -579,26 +599,6 @@
         "432072824b6032ab6a79f138673cca314c827c78",
         "75028131ffdb7c9f30cc411b73cddd3a461f8646",
         "6677318721942fd699f916d8cbbffaf0351b36a9"
-      ]
-    },
-    {
-      "date": "2026-01-25",
-      "page": "/news/2026-01-25-news.html",
-      "teaser": "Top: Gaethje bloodies and breaks Pimblett's heart at UFC 324",
-      "count": 12,
-      "ids": [
-        "6f6f8bb1beb6674eccd975f3eb92d06394b05740",
-        "a20ee581b9e09470f5b5811fa172beb74e339464",
-        "e66a4504b38b5efeaf0f054a35efd8c52fd0bbb2",
-        "36703217d3408aea295f637cb7775f659862b326",
-        "a0770c77f102c38521f91b847ee9451f9069766a",
-        "8f268711611ccd34e9b85de6d2f39c40f1939ca7",
-        "e3d99d466f8965b88de8f349841f118d3a399193",
-        "c1c7dbd775b5cb6744ee7376b0824fd06cf3f233",
-        "73019dac123a6fba4ef730ecd8572653803da63a",
-        "fb8d89cfd07930fe36a0458917b54e40f7427e0e",
-        "3fb478da498ca62eab6e489092604c060788068c",
-        "fe794b7a3e9e78f47784f8c4da9336ef15e9263b"
       ]
     }
   ]
