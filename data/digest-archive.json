@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-01T06:33:44.390Z",
+  "updated_at": "2026-03-02T06:38:12.400Z",
   "days": [
+    {
+      "date": "2026-03-02",
+      "page": "/news/2026-03-02.html",
+      "teaser": "Top: Your AI is a Confident Liar: How to Actually Fix Factual Hallucinations",
+      "count": 12,
+      "ids": [
+        "c636c14d5e695b8912e23391b35704d3ced5ebbf",
+        "056f6220fd8c5f585de51ba21aebf33bd9956cad",
+        "318778794e2be4a8e65a868104d62b41ef43e6c8",
+        "8fa35f46b0549d3d59fc0e23b6541c74a9f178e3",
+        "47380c0ac7090f096977391058774de2eb1c8aa7",
+        "5417882206f87ab5adf003ac31b865f0b548d16e",
+        "1d2578be77d90650e471ffdd9bccc6751ce66ba8",
+        "a39e625e1df05315c2eb5381051238524e623a5d",
+        "93a2e8ffa8a99845b1e6e64928263185f7746906",
+        "ba5fdc0e130c35b1b1d071d1609dd76f9634f46b",
+        "397f36076ff51285d8a4b829b0491fee56a55eaa",
+        "d591fbec906183c1d5d96877ccac183af83fbdd0"
+      ]
+    },
     {
       "date": "2026-03-01",
       "page": "/news/2026-03-01.html",
@@ -579,26 +599,6 @@
         "ef7af66ac021335e65c36c6920964bc09b0b0647",
         "a623be52da22fe4ccf376fc3089f20784e9cfaf2",
         "99cda743beaf314982dae631ec4f40c77e73f5e5"
-      ]
-    },
-    {
-      "date": "2026-01-26",
-      "page": "/news/2026-01-26.html",
-      "teaser": "Top: the browser is the sandbox",
-      "count": 12,
-      "ids": [
-        "ff8c8cbff96519716b394eb75db1b694ad8a6674",
-        "cd7a9f482882c1b358a1a5613d71b3f4f237ed29",
-        "d843348adb3edbbef56d13573313aaaf5558d636",
-        "3c0b974b4aed30d72b41f2b1fd5108ec0096c8e5",
-        "9cd324d139661397fa42ca068eeb1278f4ed0789",
-        "008577708093534825fb8f2333d3f324a31d45ee",
-        "cd36369dc37452e5b5822a162bc7e1ad15d1737f",
-        "e0bffa9a038ce1aefbfd40af96dd1a59076a3814",
-        "432072824b6032ab6a79f138673cca314c827c78",
-        "44168388f7329a639660be5ffaa9e442b636ae7f",
-        "cec8b6fc7070b82d40482d36dd92757c1b952a42",
-        "b81d81435338245fdf04982a13565938edd5db99"
       ]
     }
   ]

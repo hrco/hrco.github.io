@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-01T06:33:55.928Z",
+  "updated_at": "2026-03-02T06:38:20.914Z",
   "days": [
+    {
+      "date": "2026-03-02",
+      "page": "/news/2026-03-02-news.html",
+      "teaser": "Top: Hotel staff scan skies for missiles as Aussies remain trapped in Middle East",
+      "count": 12,
+      "ids": [
+        "a78f101553ce33daa748c6d7706869a7ae3449b1",
+        "865a7eb045dc8f32cbf972b22e308600318afb4c",
+        "dc3c5a4483b27904d0aa61c73e32e8de80a32992",
+        "588699b8ee61f113177fe2d8500446ad43bde0a6",
+        "905ffe28415d50264e5eb3e9f5f4ba5a929390a4",
+        "1f0f74b293d17cabb996cbd41b94ef6c637348a6",
+        "2c467de95c79a6e124cd9002510e010c2621e4d1",
+        "f8a00505751df59b93aa6f55ac77e503cd60ed99",
+        "318778794e2be4a8e65a868104d62b41ef43e6c8",
+        "be07ccd5879a59070ee157345c68f7b8bd325276",
+        "1ba8ec41f65d3010f42b4f10c258262d10ca8b86",
+        "93a2e8ffa8a99845b1e6e64928263185f7746906"
+      ]
+    },
     {
       "date": "2026-03-01",
       "page": "/news/2026-03-01-news.html",
@@ -579,26 +599,6 @@
         "70f3556debbd4b811df5f8d32c0557ccb8f072fd",
         "b00e1bef0cc6b60b2d033c1070b862818fdb6068",
         "4bbfbb2ec4210ff83bd32003d6e6facb026eeefe"
-      ]
-    },
-    {
-      "date": "2026-01-26",
-      "page": "/news/2026-01-26-news.html",
-      "teaser": "Top: US to step up coordination with Nigeria to pursue Islamic State group militants",
-      "count": 12,
-      "ids": [
-        "fda4be941a16df4999a18fbb2e388d76dff99d06",
-        "c8cab9b889626e4aecd98d1f54694075eb0cbb97",
-        "9cd324d139661397fa42ca068eeb1278f4ed0789",
-        "0656a5b8ac8720632907069a01e08b8a8f4a72bc",
-        "2776272f306b2151cc1eb4dcb9682a2919caa36a",
-        "28a8279d58619e1a63ecb3eb01faf705d89e5e08",
-        "008577708093534825fb8f2333d3f324a31d45ee",
-        "cd36369dc37452e5b5822a162bc7e1ad15d1737f",
-        "df9fe860e2967d830c27327aeb576c41831234f2",
-        "432072824b6032ab6a79f138673cca314c827c78",
-        "75028131ffdb7c9f30cc411b73cddd3a461f8646",
-        "6677318721942fd699f916d8cbbffaf0351b36a9"
       ]
     }
   ]

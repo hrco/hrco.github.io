@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-01",
-  "updated_at": "2026-03-01T06:33:44.390Z",
-  "page": "/news/2026-03-01.html",
+  "date": "2026-03-02",
+  "updated_at": "2026-03-02T06:38:12.400Z",
+  "page": "/news/2026-03-02.html",
   "count": 12,
   "items": [
     {
-      "id": "78a13b155ef5f2268dac12e545e8c5e063c3980b",
-      "title": "When Power Centralizes in the Frontend Ecosystem — Should We Be Alarmed?",
-      "url": "https://dev.to/ezhil_sivarajsr/when-power-centralizes-in-the-frontend-ecosystem-should-we-be-alarmed-36l4",
+      "id": "c636c14d5e695b8912e23391b35704d3ced5ebbf",
+      "title": "Your AI is a Confident Liar: How to Actually Fix Factual Hallucinations",
+      "url": "https://dev.to/yaseen_tech/your-ai-is-a-confident-liar-how-to-actually-fix-factual-hallucinations-1p55",
       "source": "dev.to",
-      "published_at": "2026-03-01T06:31:58.000Z",
-      "summary": "Summary: When Power Centralizes in the Frontend Ecosystem — Should We Be Alarmed?"
+      "published_at": "2026-03-02T06:27:57.000Z",
+      "summary": "Summary: Your AI is a Confident Liar: How to Actually Fix Factual Hallucinations"
     },
     {
-      "id": "23eda8ae276519595aa8e0976d2ccc256c6bede5",
-      "title": "The lost-in-the-middle problem and why retrieval beats stuffing",
-      "url": "https://dev.to/anajuliabit/the-lost-in-the-middle-problem-and-why-retrieval-beats-stuffing-1h37",
+      "id": "056f6220fd8c5f585de51ba21aebf33bd9956cad",
+      "title": "GenAI Roadmap (By Deeplearning.ai)",
+      "url": "https://dev.to/jenil_sheth_3eb6f86dc4900/genai-roadmap-by-deeplearningai-2gl6",
       "source": "dev.to",
-      "published_at": "2026-03-01T06:27:55.000Z",
-      "summary": "Summary: The lost-in-the-middle problem and why retrieval beats stuffing"
+      "published_at": "2026-03-02T06:23:23.000Z",
+      "summary": "Summary: GenAI Roadmap (By Deeplearning.ai)"
     },
     {
-      "id": "9f89ede6c393f51c1c0f401f93d2f99634109599",
-      "title": "Building a Multi-Dimensional Scoring System for National Investment Capability — Lessons from GNICAP",
-      "url": "https://dev.to/gnicap/building-a-multi-dimensional-scoring-system-for-national-investment-capability-lessons-from-gnicap-1llm",
-      "source": "dev.to",
-      "published_at": "2026-03-01T06:27:54.000Z",
-      "summary": "Summary: Building a Multi-Dimensional Scoring System for National Investment Capability — Lessons from GNICAP"
-    },
-    {
-      "id": "ee3621d6936fbb1d6eb96d27698d129f6c0cfe18",
-      "title": "Za rojstni dan si je Luka Dončić čestital z odlično zmago",
-      "url": "https://www.delo.si/sport/kosarka/za-rojstni-dan-si-je-luka-doncic-cestitat-z-odlicno-zmago",
+      "id": "318778794e2be4a8e65a868104d62b41ef43e6c8",
+      "title": "Razlika med SDS in Gibanjem Svoboda ostaja enaka, narašča delež neopredeljenih",
+      "url": "https://www.delo.si/novice/slovenija/razlika-med-sds-in-gibanjem-svoboda-ostaja-enaka-narasca-delez-neopredeljenih",
       "source": "www.delo.si",
-      "published_at": "2026-03-01T06:27:00.000Z",
-      "summary": "Summary: Za rojstni dan si je Luka Dončić čestital z odlično zmago"
+      "published_at": "2026-03-02T06:23:00.000Z",
+      "summary": "Summary: Razlika med SDS in Gibanjem Svoboda ostaja enaka, narašča delež neopredeljenih"
     },
     {
-      "id": "bdde9b705bd24a09f7720fcb9d5c914440c5cad7",
-      "title": "I Spent 15 Years as an Engineer, Designer, and Business Owner. Here's Why AI Made All Three Essential.",
-      "url": "https://dev.to/s3atoshi_leading_ai/beyond-the-specialist-why-the-ai-era-demands-a-triangular-architect-1dng",
+      "id": "8fa35f46b0549d3d59fc0e23b6541c74a9f178e3",
+      "title": "I Built a Subscription Pricing API — Because Every AI Agent Gives You Wrong Prices for Netflix, Spotify, and ChatGPT",
+      "url": "https://dev.to/john_yesh38/i-built-a-subscription-pricing-api-because-every-ai-agent-gives-you-wrong-prices-for-netflix-517j",
       "source": "dev.to",
-      "published_at": "2026-03-01T06:26:59.000Z",
-      "summary": "Summary: I Spent 15 Years as an Engineer, Designer, and Business Owner. Here's Why AI Made All Three Essential."
+      "published_at": "2026-03-02T06:22:32.000Z",
+      "summary": "Summary: I Built a Subscription Pricing API — Because Every AI Agent Gives You Wrong Prices for Netflix, Spotify, and ChatGPT"
     },
     {
-      "id": "b585d21c24f91b96c52fc6dc652cf2ec7a003dcb",
-      "title": "Almansa za nekaj centimetrov slavil v moto3, rdeča zastava v moto2",
-      "url": "https://www.24ur.com/sport/motogp/moto3-dirka.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-01T06:24:29.000Z",
-      "summary": "Summary: Almansa za nekaj centimetrov slavil v moto3, rdeča zastava v moto2"
-    },
-    {
-      "id": "ad356d52dda2897c7e859bad5e1fa38f21a3d260",
-      "title": "The Terraform Mistakes I Made So You Do Not Have To",
-      "url": "https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0",
+      "id": "47380c0ac7090f096977391058774de2eb1c8aa7",
+      "title": "The Introduction - Journey to Data Analyst",
+      "url": "https://dev.to/essym_19/the-introduction-107d",
       "source": "dev.to",
-      "published_at": "2026-03-01T06:19:13.000Z",
-      "summary": "Summary: The Terraform Mistakes I Made So You Do Not Have To"
+      "published_at": "2026-03-02T06:22:22.000Z",
+      "summary": "Summary: The Introduction - Journey to Data Analyst"
     },
     {
-      "id": "99516e1eaf0c085593c7426f303a2fbfed12ca7f",
-      "title": "Day 14 — I Built ProcWatch : A Linux Process Security Scanner for Forensics & Incident Response",
-      "url": "https://dev.to/hafiz_shamnad/day-14-i-built-procwatch-a-linux-process-security-scanner-for-forensics-incident-response-2bm5",
+      "id": "5417882206f87ab5adf003ac31b865f0b548d16e",
+      "title": "What Changed in Our Document-AI Pipeline After Adding a Deep-Search Layer (Production Case Study)",
+      "url": "https://dev.to/azimkhan72/what-changed-in-our-document-ai-pipeline-after-adding-a-deep-search-layer-production-case-study-32b1",
       "source": "dev.to",
-      "published_at": "2026-03-01T06:17:20.000Z",
-      "summary": "Summary: Day 14 — I Built ProcWatch : A Linux Process Security Scanner for Forensics & Incident Response"
+      "published_at": "2026-03-02T06:20:19.000Z",
+      "summary": "Summary: What Changed in Our Document-AI Pipeline After Adding a Deep-Search Layer (Production Case Study)"
     },
     {
-      "id": "13e6c2b375d7685dbc9f4e3ae953792a6c7284ba",
-      "title": "Nedelja prinaša popravni izpit za Bezzecchija, na ogrevanju najhitrejši Fernandez",
-      "url": "https://www.24ur.com/sport/motogp/napoved-za-dirko.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-01T06:16:35.000Z",
-      "summary": "Summary: Nedelja prinaša popravni izpit za Bezzecchija, na ogrevanju najhitrejši Fernandez"
-    },
-    {
-      "id": "74a488c1f01d34c8787969e36c279caceb83da8f",
-      "title": "JIT Compiler: BrainFuck",
-      "url": "https://dev.to/pseudoclone/jit-compiler-brainfuck-261j",
+      "id": "1d2578be77d90650e471ffdd9bccc6751ce66ba8",
+      "title": "Remote work gives flexibility, but it also removes the physical separation that used to protect professional spaces.",
+      "url": "https://dev.to/ellixthedev/remote-work-gives-flexibility-but-it-also-removes-the-physical-separation-that-used-to-protect-1d5j",
       "source": "dev.to",
-      "published_at": "2026-03-01T06:13:29.000Z",
-      "summary": "Summary: JIT Compiler: BrainFuck"
+      "published_at": "2026-03-02T06:18:13.000Z",
+      "summary": "Summary: Remote work gives flexibility, but it also removes the physical separation that used to protect professional spaces."
     },
     {
-      "id": "70831bcf9d98b9ed20122df579dcd8f43c726247",
-      "title": "Los Angeles prekinil niz petih porazov",
-      "url": "https://www.24ur.com/sport/hokej/los-angeles-prekinil-niz-petih-porazov.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-01T06:11:45.000Z",
-      "summary": "Summary: Los Angeles prekinil niz petih porazov"
-    },
-    {
-      "id": "7d2544aa19fb56617352781594ad74c84d75ee00",
-      "title": "CVE-2026-21619: Unsafe Deserialization in Erlang Hex Ecosystem (hex_core, rebar3)",
-      "url": "https://dev.to/cverports/cve-2026-21619-unsafe-deserialization-in-erlang-hex-ecosystem-hexcore-rebar3-4ifd",
+      "id": "a39e625e1df05315c2eb5381051238524e623a5d",
+      "title": "Invariants Are the Real Privacy Layer",
+      "url": "https://dev.to/jacobi0x/invariants-are-the-real-privacy-layer-i0i",
       "source": "dev.to",
-      "published_at": "2026-03-01T06:10:22.000Z",
-      "summary": "Summary: CVE-2026-21619: Unsafe Deserialization in Erlang Hex Ecosystem (hex_core, rebar3)"
+      "published_at": "2026-03-02T06:16:53.000Z",
+      "summary": "Summary: Invariants Are the Real Privacy Layer"
+    },
+    {
+      "id": "93a2e8ffa8a99845b1e6e64928263185f7746906",
+      "title": "Prevc in Kraft edina z zmagami na vseh delujočih letalnicah",
+      "url": "https://www.rtvslo.si/sport/sportni-sos/prevc-in-kraft-edina-z-zmagami-na-vseh-delujocih-letalnicah/774985",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-02T06:14:48.000Z",
+      "summary": "Summary: Prevc in Kraft edina z zmagami na vseh delujočih letalnicah"
+    },
+    {
+      "id": "ba5fdc0e130c35b1b1d071d1609dd76f9634f46b",
+      "title": "MTN Sees Full-Year Earnings Quadrupling on Nigeria, Ghana Gains",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-02/mtn-sees-full-year-earnings-quadrupling-on-nigeria-ghana-gains",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-03-02T06:13:07.000Z",
+      "summary": "Summary: MTN Sees Full-Year Earnings Quadrupling on Nigeria, Ghana Gains"
+    },
+    {
+      "id": "397f36076ff51285d8a4b829b0491fee56a55eaa",
+      "title": "Najslabša ekipa lige brez možnosti proti Dončiću in druščini",
+      "url": "https://www.delo.si/sport/kosarka/najslabsa-ekipa-lige-brez-moznosti-proti-doncicu-in-druscini",
+      "source": "www.delo.si",
+      "published_at": "2026-03-02T06:13:00.000Z",
+      "summary": "Summary: Najslabša ekipa lige brez možnosti proti Dončiću in druščini"
+    },
+    {
+      "id": "d591fbec906183c1d5d96877ccac183af83fbdd0",
+      "title": "Divider完全ガイド — HorizontalDivider/VerticalDivider/カスタム区切り線",
+      "url": "https://dev.to/myougatheaxo/dividerwan-quan-gaido-horizontaldividerverticaldividerkasutamuqu-qie-rixian-gap",
+      "source": "dev.to",
+      "published_at": "2026-03-02T06:09:50.000Z",
+      "summary": "Summary: Divider完全ガイド — HorizontalDivider/VerticalDivider/カスタム区切り線"
     }
   ]
 }
