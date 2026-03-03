@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-02",
-  "updated_at": "2026-03-02T06:38:12.400Z",
-  "page": "/news/2026-03-02.html",
+  "date": "2026-03-03",
+  "updated_at": "2026-03-03T06:34:07.600Z",
+  "page": "/news/2026-03-03.html",
   "count": 12,
   "items": [
     {
-      "id": "c636c14d5e695b8912e23391b35704d3ced5ebbf",
-      "title": "Your AI is a Confident Liar: How to Actually Fix Factual Hallucinations",
-      "url": "https://dev.to/yaseen_tech/your-ai-is-a-confident-liar-how-to-actually-fix-factual-hallucinations-1p55",
+      "id": "c40e885102f4ca767e9139021795f9fde39df5a6",
+      "title": "From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours",
+      "url": "https://dev.to/jowi00000/from-deadlocks-to-green-streaks-building-an-ai-greenhouse-with-gemini-in-36-hours-15gf",
       "source": "dev.to",
-      "published_at": "2026-03-02T06:27:57.000Z",
-      "summary": "Summary: Your AI is a Confident Liar: How to Actually Fix Factual Hallucinations"
+      "published_at": "2026-03-03T06:30:30.000Z",
+      "summary": "Summary: From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours"
     },
     {
-      "id": "056f6220fd8c5f585de51ba21aebf33bd9956cad",
-      "title": "GenAI Roadmap (By Deeplearning.ai)",
-      "url": "https://dev.to/jenil_sheth_3eb6f86dc4900/genai-roadmap-by-deeplearningai-2gl6",
+      "id": "e084ccc3a6abafbdfc9efa97438fdf0127c8dbe9",
+      "title": "Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?",
+      "url": "https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8",
       "source": "dev.to",
-      "published_at": "2026-03-02T06:23:23.000Z",
-      "summary": "Summary: GenAI Roadmap (By Deeplearning.ai)"
+      "published_at": "2026-03-03T06:20:41.000Z",
+      "summary": "Summary: Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?"
     },
     {
-      "id": "318778794e2be4a8e65a868104d62b41ef43e6c8",
-      "title": "Razlika med SDS in Gibanjem Svoboda ostaja enaka, narašča delež neopredeljenih",
-      "url": "https://www.delo.si/novice/slovenija/razlika-med-sds-in-gibanjem-svoboda-ostaja-enaka-narasca-delez-neopredeljenih",
-      "source": "www.delo.si",
-      "published_at": "2026-03-02T06:23:00.000Z",
-      "summary": "Summary: Razlika med SDS in Gibanjem Svoboda ostaja enaka, narašča delež neopredeljenih"
-    },
-    {
-      "id": "8fa35f46b0549d3d59fc0e23b6541c74a9f178e3",
-      "title": "I Built a Subscription Pricing API — Because Every AI Agent Gives You Wrong Prices for Netflix, Spotify, and ChatGPT",
-      "url": "https://dev.to/john_yesh38/i-built-a-subscription-pricing-api-because-every-ai-agent-gives-you-wrong-prices-for-netflix-517j",
+      "id": "e36d96cd321f30a4d44fef16fcb594e41710de47",
+      "title": "Build a voice agent in JavaScript with Vercel AI SDK",
+      "url": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
       "source": "dev.to",
-      "published_at": "2026-03-02T06:22:32.000Z",
-      "summary": "Summary: I Built a Subscription Pricing API — Because Every AI Agent Gives You Wrong Prices for Netflix, Spotify, and ChatGPT"
+      "published_at": "2026-03-03T06:18:48.000Z",
+      "summary": "Summary: Build a voice agent in JavaScript with Vercel AI SDK"
     },
     {
-      "id": "47380c0ac7090f096977391058774de2eb1c8aa7",
-      "title": "The Introduction - Journey to Data Analyst",
-      "url": "https://dev.to/essym_19/the-introduction-107d",
+      "id": "f49466e74f80abe26e8999fe7771104475d9e5ac",
+      "title": "Slapping Secondary Indexes on Random Fields is Silently Killing Your Database.",
+      "url": "https://dev.to/opeyemi_oluwagbemiga_a213/slapping-secondary-indexes-on-random-fields-is-silently-killing-your-database-15p3",
       "source": "dev.to",
-      "published_at": "2026-03-02T06:22:22.000Z",
-      "summary": "Summary: The Introduction - Journey to Data Analyst"
+      "published_at": "2026-03-03T06:17:52.000Z",
+      "summary": "Summary: Slapping Secondary Indexes on Random Fields is Silently Killing Your Database."
     },
     {
-      "id": "5417882206f87ab5adf003ac31b865f0b548d16e",
-      "title": "What Changed in Our Document-AI Pipeline After Adding a Deep-Search Layer (Production Case Study)",
-      "url": "https://dev.to/azimkhan72/what-changed-in-our-document-ai-pipeline-after-adding-a-deep-search-layer-production-case-study-32b1",
+      "id": "cb784c55be664938c904efe3874ed942f10d575e",
+      "title": "How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method (ALM) with AI",
+      "url": "https://dev.to/yassan8/how-i-overcame-the-optimization-wall-by-implementing-the-augmented-lagrangian-method-alm-with-ai-4moa",
       "source": "dev.to",
-      "published_at": "2026-03-02T06:20:19.000Z",
-      "summary": "Summary: What Changed in Our Document-AI Pipeline After Adding a Deep-Search Layer (Production Case Study)"
+      "published_at": "2026-03-03T06:15:11.000Z",
+      "summary": "Summary: How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method (ALM) with AI"
     },
     {
-      "id": "1d2578be77d90650e471ffdd9bccc6751ce66ba8",
-      "title": "Remote work gives flexibility, but it also removes the physical separation that used to protect professional spaces.",
-      "url": "https://dev.to/ellixthedev/remote-work-gives-flexibility-but-it-also-removes-the-physical-separation-that-used-to-protect-1d5j",
+      "id": "9fceff229d659d9d4f81c636d544e461484f657c",
+      "title": "How to Automate CRM with n8n (Step-by-Step, Real Use Cases)",
+      "url": "https://dev.to/ciphernutz/how-to-automate-crm-with-n8n-step-by-step-real-use-cases-2aa4",
       "source": "dev.to",
-      "published_at": "2026-03-02T06:18:13.000Z",
-      "summary": "Summary: Remote work gives flexibility, but it also removes the physical separation that used to protect professional spaces."
+      "published_at": "2026-03-03T06:11:14.000Z",
+      "summary": "Summary: How to Automate CRM with n8n (Step-by-Step, Real Use Cases)"
     },
     {
-      "id": "a39e625e1df05315c2eb5381051238524e623a5d",
-      "title": "Invariants Are the Real Privacy Layer",
-      "url": "https://dev.to/jacobi0x/invariants-are-the-real-privacy-layer-i0i",
+      "id": "e501135f3ca436340be3a12e2aadfb02759c27a4",
+      "title": "From Chatbots to Agentic Systems: Why We Migrated ANTICIPA from Dialogflow to Mastra AI",
+      "url": "https://dev.to/alcastaro5/from-chatbots-to-agentic-systems-why-we-migrated-anticipa-from-dialogflow-to-mastra-ai-d1g",
       "source": "dev.to",
-      "published_at": "2026-03-02T06:16:53.000Z",
-      "summary": "Summary: Invariants Are the Real Privacy Layer"
+      "published_at": "2026-03-03T06:11:08.000Z",
+      "summary": "Summary: From Chatbots to Agentic Systems: Why We Migrated ANTICIPA from Dialogflow to Mastra AI"
     },
     {
-      "id": "93a2e8ffa8a99845b1e6e64928263185f7746906",
-      "title": "Prevc in Kraft edina z zmagami na vseh delujočih letalnicah",
-      "url": "https://www.rtvslo.si/sport/sportni-sos/prevc-in-kraft-edina-z-zmagami-na-vseh-delujocih-letalnicah/774985",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-02T06:14:48.000Z",
-      "summary": "Summary: Prevc in Kraft edina z zmagami na vseh delujočih letalnicah"
-    },
-    {
-      "id": "ba5fdc0e130c35b1b1d071d1609dd76f9634f46b",
-      "title": "MTN Sees Full-Year Earnings Quadrupling on Nigeria, Ghana Gains",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-02/mtn-sees-full-year-earnings-quadrupling-on-nigeria-ghana-gains",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-03-02T06:13:07.000Z",
-      "summary": "Summary: MTN Sees Full-Year Earnings Quadrupling on Nigeria, Ghana Gains"
-    },
-    {
-      "id": "397f36076ff51285d8a4b829b0491fee56a55eaa",
-      "title": "Najslabša ekipa lige brez možnosti proti Dončiću in druščini",
-      "url": "https://www.delo.si/sport/kosarka/najslabsa-ekipa-lige-brez-moznosti-proti-doncicu-in-druscini",
-      "source": "www.delo.si",
-      "published_at": "2026-03-02T06:13:00.000Z",
-      "summary": "Summary: Najslabša ekipa lige brez možnosti proti Dončiću in druščini"
-    },
-    {
-      "id": "d591fbec906183c1d5d96877ccac183af83fbdd0",
-      "title": "Divider完全ガイド — HorizontalDivider/VerticalDivider/カスタム区切り線",
-      "url": "https://dev.to/myougatheaxo/dividerwan-quan-gaido-horizontaldividerverticaldividerkasutamuqu-qie-rixian-gap",
+      "id": "e966cfd8c1aa959d11e6eb2f748a55bbc7e0621c",
+      "title": "We Started with Lambdas. Here's What Broke.",
+      "url": "https://dev.to/tyson_cung/we-started-with-lambdas-heres-what-broke-2pmg",
       "source": "dev.to",
-      "published_at": "2026-03-02T06:09:50.000Z",
-      "summary": "Summary: Divider完全ガイド — HorizontalDivider/VerticalDivider/カスタム区切り線"
+      "published_at": "2026-03-03T06:10:42.000Z",
+      "summary": "Summary: We Started with Lambdas. Here's What Broke."
+    },
+    {
+      "id": "e76d8848637ea3d4626ccd1886bb27def6d1adbd",
+      "title": "Napadi na Teheran in Bejrut, Trump napovedal maščevanje ameriških vojakov",
+      "url": "https://www.24ur.com/novice/tujina/trump-napovedal-mascevanje-za-smrt-ameriskih-vojakov.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-03T06:07:36.000Z",
+      "summary": "Summary: Napadi na Teheran in Bejrut, Trump napovedal maščevanje ameriških vojakov"
+    },
+    {
+      "id": "771ea6e0c12aba874a28e1ef7ea02e1eb3bd99c1",
+      "title": "V prometni nesreči umrl 51-letni voznik traktorja",
+      "url": "https://www.24ur.com/novice/crna-kronika/v-prometni-nesreci-umrl-51-letni-voznik-traktorja.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-03T06:05:27.000Z",
+      "summary": "Summary: V prometni nesreči umrl 51-letni voznik traktorja"
+    },
+    {
+      "id": "b7f1a2a07948abb36cdb6da73f813b1610dcd0a6",
+      "title": "L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear",
+      "url": "https://www.wired.com/story/ll-bean-promo-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-03-03T06:03:00.000Z",
+      "summary": "Summary: L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear"
+    },
+    {
+      "id": "4f585e38a12426ff5b46af642e5e25d2bff9577a",
+      "title": "Slovenski športniki ujeti sredi vojne napetosti",
+      "url": "https://www.24ur.com/sport/ostalo/napetost-na-bliznjem-vzhodu.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-03T06:01:07.000Z",
+      "summary": "Summary: Slovenski športniki ujeti sredi vojne napetosti"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-02",
-  "updated_at": "2026-03-02T06:38:25.734Z",
-  "page": "/news/2026-03-02-sport.html",
+  "date": "2026-03-03",
+  "updated_at": "2026-03-03T06:34:21.384Z",
+  "page": "/news/2026-03-03-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "be07ccd5879a59070ee157345c68f7b8bd325276",
-      "title": "'There were tears - but I had to peek behind curtain of head injuries in rugby'",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cj0dyrv2rv0o?at_medium=RSS&at_campaign=rss",
+      "id": "0af6342e20ef5aa4a5b7485fe42877e0a2022d04",
+      "title": "The one that got away - Carrick returns to Tyneside with Man Utd",
+      "url": "https://www.bbc.com/sport/football/articles/c62drlgdgk2o?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-03-02T06:16:41.000Z",
-      "summary": "Summary: 'There were tears - but I had to peek behind curtain of head injuries in rugby'"
+      "published_at": "2026-03-03T06:13:06.000Z",
+      "summary": "Summary: The one that got away - Carrick returns to Tyneside with Man Utd"
     },
     {
-      "id": "fc0bc28176ecba5dc1cc13a633e88240d61f2743",
-      "title": "'Emotions always close' - Moody on life since MND diagnosis",
-      "url": "https://www.bbc.com/sport/rugby-union/videos/c5y4ld0pp56o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-03-02T06:11:59.000Z",
-      "summary": "Summary: 'Emotions always close' - Moody on life since MND diagnosis"
-    },
-    {
-      "id": "61de0db9f77caf1154e311d3fa2c5dc23ff4304c",
-      "title": "'I knew the risks, I'd do it again' - Moody opens up in new BBC documentary",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c5yqpqjkj95o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-03-02T06:09:29.000Z",
-      "summary": "Summary: 'I knew the risks, I'd do it again' - Moody opens up in new BBC documentary"
-    },
-    {
-      "id": "d0a7cbcfe55a17f0276ccd5ca158704e2acd1b61",
-      "title": "Knicks end Spurs' streak with 'high-level' defense",
-      "url": "https://www.espn.com/nba/story/_/id/48076977/knicks-stifle-streaking-spurs-high-level-defense",
+      "id": "2f67272c3c5c5ceef8bdb8949d95598e3df54cc9",
+      "title": "No. 2 Arizona tops ISU for outright Big 12 title",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48086249/no-2-arizona-tops-iowa-state-win-outright-big-12-title",
       "source": "www.espn.com",
-      "published_at": "2026-03-02T06:08:33.000Z",
-      "summary": "Summary: Knicks end Spurs' streak with 'high-level' defense"
+      "published_at": "2026-03-03T06:00:14.000Z",
+      "summary": "Summary: No. 2 Arizona tops ISU for outright Big 12 title"
     },
     {
-      "id": "2e33386463b3ee778c61215f8f5b3a39abc06a67",
-      "title": "Harden, dealing with broken thumb, returns in win",
-      "url": "https://www.espn.com/nba/story/_/id/48078032/james-harden-dealing-broken-thumb-returns-win",
+      "id": "21c796666681a4b30cc7055cef1daceca897caeb",
+      "title": "Trae tossed from bench ahead of Wizards debut",
+      "url": "https://www.espn.com/nba/story/_/id/48084014/trae-young-make-wizards-debut-thursday-sources-say",
       "source": "www.espn.com",
-      "published_at": "2026-03-02T06:08:33.000Z",
-      "summary": "Summary: Harden, dealing with broken thumb, returns in win"
+      "published_at": "2026-03-03T06:00:14.000Z",
+      "summary": "Summary: Trae tossed from bench ahead of Wizards debut"
     },
     {
-      "id": "04cbf50edefab2d6d1b20a2853fdf9f68093f775",
-      "title": "Grizzlies' Edey to have another surgery on ankle",
-      "url": "https://www.espn.com/nba/story/_/id/48075956/grizzlies-center-zach-edey-another-surgery-ankle",
+      "id": "be8243b2561caf07abb967bbd418f72697d049da",
+      "title": "Boozer, Duke 'show fight' in securing ACC title",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48085674/no-1-duke-clinches-outright-acc-title-rout-nc-state",
       "source": "www.espn.com",
-      "published_at": "2026-03-02T06:08:33.000Z",
-      "summary": "Summary: Grizzlies' Edey to have another surgery on ankle"
+      "published_at": "2026-03-03T06:00:14.000Z",
+      "summary": "Summary: Boozer, Duke 'show fight' in securing ACC title"
     },
     {
-      "id": "6e9da27f42aa19860e83604c1699934c4c403781",
-      "title": "76ers' Embiid to miss games with oblique strain",
-      "url": "https://www.espn.com/nba/story/_/id/48065823/76ers-embiid-miss-least-3-games-oblique-strain",
+      "id": "e2585a35c35782987aaf44be85faff5c87855049",
+      "title": "Giannis rusty but 'just happy that I'm out there'",
+      "url": "https://www.espn.com/nba/story/_/id/48082544/sources-bucks-giannis-antetokounmpo-expected-return-vs-celtics",
       "source": "www.espn.com",
-      "published_at": "2026-03-02T06:08:33.000Z",
-      "summary": "Summary: 76ers' Embiid to miss games with oblique strain"
+      "published_at": "2026-03-03T06:00:14.000Z",
+      "summary": "Summary: Giannis rusty but 'just happy that I'm out there'"
     },
     {
-      "id": "6fe439ffda9f19ba8bcacf91aa49e0c6e1d126b1",
-      "title": "Colorado QB Ponder dies in single-car crash at 23",
-      "url": "https://www.espn.com/college-football/story/_/id/48077044/colorado-quarterback-dominiq-ponder-dies-23",
+      "id": "ae6028ee2c9e20700802e3768217a34c508c58ef",
+      "title": "Source: Mack to play in '26, explore all FA options",
+      "url": "https://www.espn.com/nfl/story/_/id/48085402/khalil-mack-play-2026-mulling-retirement-explore-all-free-agency-options",
       "source": "www.espn.com",
-      "published_at": "2026-03-02T05:51:22.000Z",
-      "summary": "Summary: Colorado QB Ponder dies in single-car crash at 23"
+      "published_at": "2026-03-03T06:00:14.000Z",
+      "summary": "Summary: Source: Mack to play in '26, explore all FA options"
     },
     {
-      "id": "0cac386d0cabcc58587f25e6bafd3a173413b717",
-      "title": "Reddick wins 3rd straight to make NASCAR history",
-      "url": "https://www.espn.com/racing/nascar/story/_/id/48077281/tyler-reddick-makes-nascar-history-circuit-americas-third-straight-win-start-season",
+      "id": "36e025971298d15a1b97b99d0e5d7487bc8241e7",
+      "title": "AD: Pearl's dismissal of Miami (OH) disrespectful",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48083375/miami-oh-ad-blasts-pearl-disrespecting-unbeaten-redhawks",
       "source": "www.espn.com",
-      "published_at": "2026-03-02T05:51:22.000Z",
-      "summary": "Summary: Reddick wins 3rd straight to make NASCAR history"
+      "published_at": "2026-03-03T06:00:14.000Z",
+      "summary": "Summary: AD: Pearl's dismissal of Miami (OH) disrespectful"
     },
     {
-      "id": "fbb44c18bbb0902a3a4809cd0332250b9dc348c0",
-      "title": "UConn finishes off perfect 31-0 regular season",
-      "url": "https://www.espn.com/womens-college-basketball/story/_/id/48078797/uconn-women-basketball-finishes-regular-season-undefeated",
+      "id": "b7fd39c86c5db105b3107f0bc6f7b7ca331f2e10",
+      "title": "DeRosa sets USA rotation with Webb set for G1",
+      "url": "https://www.espn.com/mlb/story/_/id/48085069/mark-derosa-sets-usa-rotation-wbc-logan-webb-set-g1",
       "source": "www.espn.com",
-      "published_at": "2026-03-02T05:51:22.000Z",
-      "summary": "Summary: UConn finishes off perfect 31-0 regular season"
+      "published_at": "2026-03-03T06:00:14.000Z",
+      "summary": "Summary: DeRosa sets USA rotation with Webb set for G1"
     },
     {
-      "id": "0116a63d186670dbadd95f1d02ebda67ad4f7a66",
-      "title": "Curry (knee) sidelined at least five more games",
-      "url": "https://www.espn.com/nba/story/_/id/48077389/stephen-curry-knee-sidelined-least-five-more-games",
+      "id": "747601201d27120cd629020aaea0f975b2759897",
+      "title": "Phantom, Mist put on show, set for Unrivaled final",
+      "url": "https://www.espn.com/wnba/story/_/id/48086664/phantom-mist-meet-unrivaled-championship-game-semifinal-wins-barclays-center",
       "source": "www.espn.com",
-      "published_at": "2026-03-02T05:51:22.000Z",
-      "summary": "Summary: Curry (knee) sidelined at least five more games"
+      "published_at": "2026-03-03T06:00:14.000Z",
+      "summary": "Summary: Phantom, Mist put on show, set for Unrivaled final"
     },
     {
-      "id": "e717e1073aafe23292561900090ef5e05dcf164a",
-      "title": "Echavarria wins Cognizant after Lowry collapse",
-      "url": "https://www.espn.com/golf/story/_/id/48076895/shane-lowry-collapse-leads-nico-echavarria-cognizant-win",
+      "id": "dabd4d3fc7c04434ca73dec4889abb109d68f4d5",
+      "title": "📋 Kiper's top NFL combine standouts",
+      "url": "https://www.espn.com/nfl/draft2026/story/_/id/48046106/2025-nfl-combine-draft-risers-mel-kiper-prospects-top-workouts",
       "source": "www.espn.com",
-      "published_at": "2026-03-02T05:51:22.000Z",
-      "summary": "Summary: Echavarria wins Cognizant after Lowry collapse"
+      "published_at": "2026-03-03T06:00:14.000Z",
+      "summary": "Summary: 📋 Kiper's top NFL combine standouts"
+    },
+    {
+      "id": "b9a2520423fde55edb76cdd9b9421f024a67691e",
+      "title": "Betting buzz: Kon Knueppel overtakes Cooper Flagg as NBA Rookie of the Year favorite",
+      "url": "https://www.espn.com/espn/betting/story/_/id/40159558/betting-buzz-latest-sports-betting-odds-updates-changes-line-moves-industry-intel",
+      "source": "www.espn.com",
+      "published_at": "2026-03-03T05:36:59.000Z",
+      "summary": "Summary: Betting buzz: Kon Knueppel overtakes Cooper Flagg as NBA Rookie of the Year favorite"
+    },
+    {
+      "id": "a6ca81b9c6e119bf4a8207baf6820d0c60775484",
+      "title": "Lakers' win caps Zhuri and LeBron James' father-daughter road trip",
+      "url": "https://www.espn.com/nba/story/_/id/48073769/lebron-zhuri-james-father-daughter-road-trip-los-angeles-lakers",
+      "source": "www.espn.com",
+      "published_at": "2026-03-03T05:29:22.000Z",
+      "summary": "Summary: Lakers' win caps Zhuri and LeBron James' father-daughter road trip"
     }
   ]
 }

@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-02T06:38:25.734Z",
+  "updated_at": "2026-03-03T06:34:21.384Z",
   "days": [
+    {
+      "date": "2026-03-03",
+      "page": "/news/2026-03-03-sport.html",
+      "teaser": "Top: The one that got away - Carrick returns to Tyneside with Man Utd",
+      "count": 12,
+      "ids": [
+        "0af6342e20ef5aa4a5b7485fe42877e0a2022d04",
+        "2f67272c3c5c5ceef8bdb8949d95598e3df54cc9",
+        "21c796666681a4b30cc7055cef1daceca897caeb",
+        "be8243b2561caf07abb967bbd418f72697d049da",
+        "e2585a35c35782987aaf44be85faff5c87855049",
+        "ae6028ee2c9e20700802e3768217a34c508c58ef",
+        "36e025971298d15a1b97b99d0e5d7487bc8241e7",
+        "b7fd39c86c5db105b3107f0bc6f7b7ca331f2e10",
+        "747601201d27120cd629020aaea0f975b2759897",
+        "dabd4d3fc7c04434ca73dec4889abb109d68f4d5",
+        "b9a2520423fde55edb76cdd9b9421f024a67691e",
+        "a6ca81b9c6e119bf4a8207baf6820d0c60775484"
+      ]
+    },
     {
       "date": "2026-03-02",
       "page": "/news/2026-03-02-sport.html",
@@ -579,26 +599,6 @@
         "2b42458d59b8d47d5614ea86b715ea0ddc8c7f0d",
         "3456f598b6f37e8d2eac6222e1c53b85079ecdd7",
         "8b55fb629ea579b019bb279d970d05afa7fe6041"
-      ]
-    },
-    {
-      "date": "2026-01-27",
-      "page": "/news/2026-01-27-sport.html",
-      "teaser": "Top: Women's and men's Surf Coast Classics cancelled due to evolving bushfire and weather conditions, 'no identified impacts at this time' for Cadel Evans Great Ocean Road Races",
-      "count": 12,
-      "ids": [
-        "d6f8aba43870f74f1be223f94365840fbfa22a8d",
-        "cd33d14bea952c3dd90f6638680b15190f59ea39",
-        "561dad3b3c67254009ab929125506237f77c5d5e",
-        "88699de575fcec1a1b66d39a7167ac39af3bc485",
-        "343a90082a26f996cdc3b2fb7eedc06cdced3c90",
-        "926d429e22ef434e0a6232f6814c58067190afca",
-        "57236ceb0390bfe61a73475a6f51b692d004f222",
-        "b59728ee649b061f115ca06b1c289000d07289a6",
-        "10bc3e04b18c53d060d7f059923211885dc87d04",
-        "0940a127e1054ac9b0a877789f641d011139cd67",
-        "6fce7f3605725d9485207df325fb8167fd72dcab",
-        "45bca2010bad71b93bc0521bc97129597571a622"
       ]
     }
   ]

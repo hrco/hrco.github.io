@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-02T06:38:20.914Z",
+  "updated_at": "2026-03-03T06:34:17.592Z",
   "days": [
+    {
+      "date": "2026-03-03",
+      "page": "/news/2026-03-03-news.html",
+      "teaser": "Top: Australia news live: Chris Bowen urges Australians not to panic-buy petrol; police shoot man dead in Brisbane",
+      "count": 12,
+      "ids": [
+        "06749b8f933cd98fbcf2168e8fd5d98e51fe78e8",
+        "8e7d40b756c02f51e5691a728a1fc770a849a51e",
+        "73fc8325451afa3be8d64719ee6bc34c28189067",
+        "657549591ce4940408ea4ee5f6410605b19781d3",
+        "147cb568c35b7c2d35acb746b741705231767a94",
+        "0af6342e20ef5aa4a5b7485fe42877e0a2022d04",
+        "6ac8628da1212f4256ace55d10e9fa8137f016fc",
+        "2da15b633cd59974beae90446304ff67308408df",
+        "c6455ce13a5b5cabf497bf9a86a16f06bb0436ad",
+        "e76d8848637ea3d4626ccd1886bb27def6d1adbd",
+        "d28b421f00727d920ad176e50f8d14166797cf6a",
+        "771ea6e0c12aba874a28e1ef7ea02e1eb3bd99c1"
+      ]
+    },
     {
       "date": "2026-03-02",
       "page": "/news/2026-03-02-news.html",
@@ -579,26 +599,6 @@
         "747060903953c68db499d5e774fe3a8e60569281",
         "21d7a92b9e6f12517862a2eb2d7f168615e0d181",
         "199cc159bb6bc5d27286b44751edd6558382dfc9"
-      ]
-    },
-    {
-      "date": "2026-01-27",
-      "page": "/news/2026-01-27-news.html",
-      "teaser": "Top: Fifty Labour MPs sign letter objecting to Burnham decision",
-      "count": 12,
-      "ids": [
-        "5f40b4522ee0869570a13a9b2206a3a403a267b0",
-        "cb36ce95c1d079fe68fe192ecdbb4f05fd1fd430",
-        "18c50ab216e0ae9992273d8f5ab957d456ce6496",
-        "12a43b708825b945138fbda985b1872baf85ef7f",
-        "88c7f836c635d16145f80b724d1902692b3de367",
-        "fb939bbc3f28758044aec36175ce26279a5ac005",
-        "1470bbe0c46e236e8eb498f20fe0260e8ea87719",
-        "3499b744baf61fc997da8b7c6741398a888339f1",
-        "8b4feb5585a6ac174569983f2a4c155507927348",
-        "70f3556debbd4b811df5f8d32c0557ccb8f072fd",
-        "b00e1bef0cc6b60b2d033c1070b862818fdb6068",
-        "4bbfbb2ec4210ff83bd32003d6e6facb026eeefe"
       ]
     }
   ]

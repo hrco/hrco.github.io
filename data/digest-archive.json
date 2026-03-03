@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-02T06:38:12.400Z",
+  "updated_at": "2026-03-03T06:34:07.600Z",
   "days": [
+    {
+      "date": "2026-03-03",
+      "page": "/news/2026-03-03.html",
+      "teaser": "Top: From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours",
+      "count": 12,
+      "ids": [
+        "c40e885102f4ca767e9139021795f9fde39df5a6",
+        "e084ccc3a6abafbdfc9efa97438fdf0127c8dbe9",
+        "e36d96cd321f30a4d44fef16fcb594e41710de47",
+        "f49466e74f80abe26e8999fe7771104475d9e5ac",
+        "cb784c55be664938c904efe3874ed942f10d575e",
+        "9fceff229d659d9d4f81c636d544e461484f657c",
+        "e501135f3ca436340be3a12e2aadfb02759c27a4",
+        "e966cfd8c1aa959d11e6eb2f748a55bbc7e0621c",
+        "e76d8848637ea3d4626ccd1886bb27def6d1adbd",
+        "771ea6e0c12aba874a28e1ef7ea02e1eb3bd99c1",
+        "b7f1a2a07948abb36cdb6da73f813b1610dcd0a6",
+        "4f585e38a12426ff5b46af642e5e25d2bff9577a"
+      ]
+    },
     {
       "date": "2026-03-02",
       "page": "/news/2026-03-02.html",
@@ -579,26 +599,6 @@
         "695b539705d2a88b1ad5aca603d6c1cb93707765",
         "6c15b384fd397eefcdf1549ab8cc36f3bacd469a",
         "45cc97e82046b58e3ce3c692fd0f0147bd243756"
-      ]
-    },
-    {
-      "date": "2026-01-27",
-      "page": "/news/2026-01-27.html",
-      "teaser": "Top: Francoski parlament podprl prepoved družbenih omrežij za mlajše od 15 let",
-      "count": 12,
-      "ids": [
-        "12a43b708825b945138fbda985b1872baf85ef7f",
-        "88c7f836c635d16145f80b724d1902692b3de367",
-        "9bc436270aac541194da14acd547af08bbf814d1",
-        "fb939bbc3f28758044aec36175ce26279a5ac005",
-        "3499b744baf61fc997da8b7c6741398a888339f1",
-        "70f3556debbd4b811df5f8d32c0557ccb8f072fd",
-        "00d65a8010973f01331b67ef8d59ea74d43b7250",
-        "68e4c1eb569e622e6bd6b383e73eca1892a6753d",
-        "d458809bf6d28a113964980d903f614125088e2c",
-        "ef7af66ac021335e65c36c6920964bc09b0b0647",
-        "a623be52da22fe4ccf376fc3089f20784e9cfaf2",
-        "99cda743beaf314982dae631ec4f40c77e73f5e5"
       ]
     }
   ]
