@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-03",
-  "updated_at": "2026-03-03T06:34:07.600Z",
-  "page": "/news/2026-03-03.html",
+  "date": "2026-03-04",
+  "updated_at": "2026-03-04T06:33:39.817Z",
+  "page": "/news/2026-03-04.html",
   "count": 12,
   "items": [
     {
-      "id": "c40e885102f4ca767e9139021795f9fde39df5a6",
-      "title": "From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours",
-      "url": "https://dev.to/jowi00000/from-deadlocks-to-green-streaks-building-an-ai-greenhouse-with-gemini-in-36-hours-15gf",
+      "id": "02c13fd0bfb0694504b843de54085f7edce51187",
+      "title": "I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it",
+      "url": "https://dev.to/darklazaruswalks/i-ran-765-controlled-experiments-to-prove-ai-agents-are-leaking-your-data-and-built-the-tool-that-1pl2",
       "source": "dev.to",
-      "published_at": "2026-03-03T06:30:30.000Z",
-      "summary": "Summary: From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours"
+      "published_at": "2026-03-04T06:27:47.000Z",
+      "summary": "Summary: I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it"
     },
     {
-      "id": "e084ccc3a6abafbdfc9efa97438fdf0127c8dbe9",
-      "title": "Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?",
-      "url": "https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8",
-      "source": "dev.to",
-      "published_at": "2026-03-03T06:20:41.000Z",
-      "summary": "Summary: Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?"
+      "id": "daeb06a34b08090ed7ad5f7acb0ac125dd2ba52a",
+      "title": "How Large is Iran's Offensive Arsenal?",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-04/how-large-is-iran-s-offensive-arsenal-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-03-04T06:27:11.000Z",
+      "summary": "Summary: How Large is Iran's Offensive Arsenal?"
     },
     {
-      "id": "e36d96cd321f30a4d44fef16fcb594e41710de47",
-      "title": "Build a voice agent in JavaScript with Vercel AI SDK",
-      "url": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
-      "source": "dev.to",
-      "published_at": "2026-03-03T06:18:48.000Z",
-      "summary": "Summary: Build a voice agent in JavaScript with Vercel AI SDK"
-    },
-    {
-      "id": "f49466e74f80abe26e8999fe7771104475d9e5ac",
-      "title": "Slapping Secondary Indexes on Random Fields is Silently Killing Your Database.",
-      "url": "https://dev.to/opeyemi_oluwagbemiga_a213/slapping-secondary-indexes-on-random-fields-is-silently-killing-your-database-15p3",
-      "source": "dev.to",
-      "published_at": "2026-03-03T06:17:52.000Z",
-      "summary": "Summary: Slapping Secondary Indexes on Random Fields is Silently Killing Your Database."
-    },
-    {
-      "id": "cb784c55be664938c904efe3874ed942f10d575e",
-      "title": "How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method (ALM) with AI",
-      "url": "https://dev.to/yassan8/how-i-overcame-the-optimization-wall-by-implementing-the-augmented-lagrangian-method-alm-with-ai-4moa",
-      "source": "dev.to",
-      "published_at": "2026-03-03T06:15:11.000Z",
-      "summary": "Summary: How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method (ALM) with AI"
-    },
-    {
-      "id": "9fceff229d659d9d4f81c636d544e461484f657c",
-      "title": "How to Automate CRM with n8n (Step-by-Step, Real Use Cases)",
-      "url": "https://dev.to/ciphernutz/how-to-automate-crm-with-n8n-step-by-step-real-use-cases-2aa4",
-      "source": "dev.to",
-      "published_at": "2026-03-03T06:11:14.000Z",
-      "summary": "Summary: How to Automate CRM with n8n (Step-by-Step, Real Use Cases)"
-    },
-    {
-      "id": "e501135f3ca436340be3a12e2aadfb02759c27a4",
-      "title": "From Chatbots to Agentic Systems: Why We Migrated ANTICIPA from Dialogflow to Mastra AI",
-      "url": "https://dev.to/alcastaro5/from-chatbots-to-agentic-systems-why-we-migrated-anticipa-from-dialogflow-to-mastra-ai-d1g",
-      "source": "dev.to",
-      "published_at": "2026-03-03T06:11:08.000Z",
-      "summary": "Summary: From Chatbots to Agentic Systems: Why We Migrated ANTICIPA from Dialogflow to Mastra AI"
-    },
-    {
-      "id": "e966cfd8c1aa959d11e6eb2f748a55bbc7e0621c",
-      "title": "We Started with Lambdas. Here's What Broke.",
-      "url": "https://dev.to/tyson_cung/we-started-with-lambdas-heres-what-broke-2pmg",
-      "source": "dev.to",
-      "published_at": "2026-03-03T06:10:42.000Z",
-      "summary": "Summary: We Started with Lambdas. Here's What Broke."
-    },
-    {
-      "id": "e76d8848637ea3d4626ccd1886bb27def6d1adbd",
-      "title": "Napadi na Teheran in Bejrut, Trump napovedal maščevanje ameriških vojakov",
-      "url": "https://www.24ur.com/novice/tujina/trump-napovedal-mascevanje-za-smrt-ameriskih-vojakov.html",
+      "id": "62afc0b54b1930f1850aae3cee7902bc64a14f6d",
+      "title": "Na poti v Oman prvo letalo za evakuacijo Slovencev",
+      "url": "https://www.24ur.com/novice/tujina/slovenski-drzavljani-cakajo-v-maskatu.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-03T06:07:36.000Z",
-      "summary": "Summary: Napadi na Teheran in Bejrut, Trump napovedal maščevanje ameriških vojakov"
+      "published_at": "2026-03-04T06:25:34.000Z",
+      "summary": "Summary: Na poti v Oman prvo letalo za evakuacijo Slovencev"
     },
     {
-      "id": "771ea6e0c12aba874a28e1ef7ea02e1eb3bd99c1",
-      "title": "V prometni nesreči umrl 51-letni voznik traktorja",
-      "url": "https://www.24ur.com/novice/crna-kronika/v-prometni-nesreci-umrl-51-letni-voznik-traktorja.html",
+      "id": "4b8aa3753a04ba5d53fd99b3d1b4b30cdfcd9494",
+      "title": "Running Headless Chrome at Scale: Production Lessons from Millions of Renders.",
+      "url": "https://dev.to/max_kurz/running-headless-chrome-at-scale-production-lessons-from-millions-of-renders-djg",
+      "source": "dev.to",
+      "published_at": "2026-03-04T06:24:06.000Z",
+      "summary": "Summary: Running Headless Chrome at Scale: Production Lessons from Millions of Renders."
+    },
+    {
+      "id": "8080904a91d30bb669f606009a0b35869dba7d39",
+      "title": "A Real WebSocket Hijack Hit an AI Agent Framework. Here's What We Learned.",
+      "url": "https://dev.to/mkdelta221/a-real-websocket-hijack-hit-an-ai-agent-framework-heres-what-we-learned-4moe",
+      "source": "dev.to",
+      "published_at": "2026-03-04T06:23:23.000Z",
+      "summary": "Summary: A Real WebSocket Hijack Hit an AI Agent Framework. Here's What We Learned."
+    },
+    {
+      "id": "bf4aa05e97747550b6d8344a90e188a7e5123872",
+      "title": "Why Learning AI Feels Directionless (Until You See the Order)",
+      "url": "https://dev.to/dev-in-progress/why-learning-ai-feels-directionless-until-you-see-the-order-47o",
+      "source": "dev.to",
+      "published_at": "2026-03-04T06:23:12.000Z",
+      "summary": "Summary: Why Learning AI Feels Directionless (Until You See the Order)"
+    },
+    {
+      "id": "b15bf625e3b22b8d43e577a28da981ebc0d506ae",
+      "title": "Pod igriščem za golf našli 120 let zaprto vinsko klet",
+      "url": "https://www.24ur.com/novice/tujina/pod-golf-igriscem-nasli-120-let-zaprto-vinsko-klet.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-03T06:05:27.000Z",
-      "summary": "Summary: V prometni nesreči umrl 51-letni voznik traktorja"
+      "published_at": "2026-03-04T06:23:07.000Z",
+      "summary": "Summary: Pod igriščem za golf našli 120 let zaprto vinsko klet"
     },
     {
-      "id": "b7f1a2a07948abb36cdb6da73f813b1610dcd0a6",
-      "title": "L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear",
-      "url": "https://www.wired.com/story/ll-bean-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-03-03T06:03:00.000Z",
-      "summary": "Summary: L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear"
+      "id": "45369bc61bb760967ba8cd332fab2f0c2eaca51a",
+      "title": "Mastering Entropy: Frame - Essence - Grain",
+      "url": "https://dev.to/alis/mastering-entropy-frame-essence-grain-55bp",
+      "source": "dev.to",
+      "published_at": "2026-03-04T06:21:02.000Z",
+      "summary": "Summary: Mastering Entropy: Frame - Essence - Grain"
     },
     {
-      "id": "4f585e38a12426ff5b46af642e5e25d2bff9577a",
-      "title": "Slovenski športniki ujeti sredi vojne napetosti",
-      "url": "https://www.24ur.com/sport/ostalo/napetost-na-bliznjem-vzhodu.html",
+      "id": "9f5d584a8dd2b1a162d04905261d4c978b9d73b8",
+      "title": "The Importance of TDD",
+      "url": "https://dev.to/patmandee/the-importance-of-tdd-g46",
+      "source": "dev.to",
+      "published_at": "2026-03-04T06:20:30.000Z",
+      "summary": "Summary: The Importance of TDD"
+    },
+    {
+      "id": "c8b97c4b4f7ac8bb208b2598458757c69f051cac",
+      "title": "Luckin Coffee Backer Centurium Is Said to Be in Advanced Talks for Blue Bottle",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/luckin-coffee-backer-centurium-is-said-to-be-in-advanced-talks-for-blue-bottle",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-03-04T06:18:34.000Z",
+      "summary": "Summary: Luckin Coffee Backer Centurium Is Said to Be in Advanced Talks for Blue Bottle"
+    },
+    {
+      "id": "752cf299d601274b19618d02508b3b2dc3665a6a",
+      "title": "What I Learned Adding Memory to AI Agents",
+      "url": "https://dev.to/ksankar/what-i-learned-adding-memory-to-ai-agents-1eh2",
+      "source": "dev.to",
+      "published_at": "2026-03-04T06:15:57.000Z",
+      "summary": "Summary: What I Learned Adding Memory to AI Agents"
+    },
+    {
+      "id": "b55d3b2042b87603f1bbe1b5d2c9dc5c462bd5fc",
+      "title": "Bodo slovenska vina slavila v New Yorku?",
+      "url": "https://www.24ur.com/novice/slovenija/bodo-slovenska-vina-slavila-v-new-yorku.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-03T06:01:07.000Z",
-      "summary": "Summary: Slovenski športniki ujeti sredi vojne napetosti"
+      "published_at": "2026-03-04T06:13:39.000Z",
+      "summary": "Summary: Bodo slovenska vina slavila v New Yorku?"
     }
   ]
 }

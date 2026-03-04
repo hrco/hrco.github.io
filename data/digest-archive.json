@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-03T06:34:07.600Z",
+  "updated_at": "2026-03-04T06:33:39.817Z",
   "days": [
+    {
+      "date": "2026-03-04",
+      "page": "/news/2026-03-04.html",
+      "teaser": "Top: I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it",
+      "count": 12,
+      "ids": [
+        "02c13fd0bfb0694504b843de54085f7edce51187",
+        "daeb06a34b08090ed7ad5f7acb0ac125dd2ba52a",
+        "62afc0b54b1930f1850aae3cee7902bc64a14f6d",
+        "4b8aa3753a04ba5d53fd99b3d1b4b30cdfcd9494",
+        "8080904a91d30bb669f606009a0b35869dba7d39",
+        "bf4aa05e97747550b6d8344a90e188a7e5123872",
+        "b15bf625e3b22b8d43e577a28da981ebc0d506ae",
+        "45369bc61bb760967ba8cd332fab2f0c2eaca51a",
+        "9f5d584a8dd2b1a162d04905261d4c978b9d73b8",
+        "c8b97c4b4f7ac8bb208b2598458757c69f051cac",
+        "752cf299d601274b19618d02508b3b2dc3665a6a",
+        "b55d3b2042b87603f1bbe1b5d2c9dc5c462bd5fc"
+      ]
+    },
     {
       "date": "2026-03-03",
       "page": "/news/2026-03-03.html",
@@ -579,26 +599,6 @@
         "71aa1816294bc73cd81b43a0c9593a1e86fea8e6",
         "dd97868c726f1ed48a36dc7dc27fd272a3426343",
         "aef270e30e441e7f2d799651049fce51bf6ae72a"
-      ]
-    },
-    {
-      "date": "2026-01-28",
-      "page": "/news/2026-01-28.html",
-      "teaser": "Top: Satish Divvi Portfolio",
-      "count": 12,
-      "ids": [
-        "9159b8db724a76c65d67cf2d5ebe65ea0b122101",
-        "33e9026da3ca78006589c381e9720b7b4919a42f",
-        "4bac36dbedde54bf6bf60d5aaa6edfb8a595d596",
-        "66a93a0b9c67e17cc36d034bb4c49422453c2121",
-        "e87cd51a222fcd26cafafed59fae76a430399829",
-        "653639fdf6ec15782b7198201bba520f105e0105",
-        "c8407916ee86122df0efedf6ffcdd1978012dc86",
-        "77618a115b3fa8332931a78a3401b2e1b6a927a3",
-        "9aafa2ce88775bc7f35386087fb8cef2b434e7d7",
-        "695b539705d2a88b1ad5aca603d6c1cb93707765",
-        "6c15b384fd397eefcdf1549ab8cc36f3bacd469a",
-        "45cc97e82046b58e3ce3c692fd0f0147bd243756"
       ]
     }
   ]

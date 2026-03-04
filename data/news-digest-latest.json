@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-03",
-  "updated_at": "2026-03-03T06:34:17.592Z",
-  "page": "/news/2026-03-03-news.html",
+  "date": "2026-03-04",
+  "updated_at": "2026-03-04T06:33:52.675Z",
+  "page": "/news/2026-03-04-news.html",
   "count": 12,
   "items": [
     {
-      "id": "06749b8f933cd98fbcf2168e8fd5d98e51fe78e8",
-      "title": "Australia news live: Chris Bowen urges Australians not to panic-buy petrol; police shoot man dead in Brisbane",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/03/australia-politics-live-anthony-albanese-mark-carney-iran-parliament-question-time-angus-taylor-pauline-hanson-jim-chalmers-rba-interest-rates-cost-of-living-inflation-ntwnfb",
-      "source": "www.theguardian.com",
-      "published_at": "2026-03-03T06:19:35.000Z",
-      "summary": "Summary: Australia news live: Chris Bowen urges Australians not to panic-buy petrol; police shoot man dead in Brisbane"
+      "id": "58d8dbf5045fd32629dbe71614d4f2dcc44127f5",
+      "title": "Texas tests party fault lines as 2026 US midterms begin",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3345370/texas-tests-party-fault-lines-2026-us-midterms-begin?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-03-04T06:27:55.000Z",
+      "summary": "Summary: Texas tests party fault lines as 2026 US midterms begin"
     },
     {
-      "id": "8e7d40b756c02f51e5691a728a1fc770a849a51e",
-      "title": "The narrow strait of water putting oil prices and freight costs on the brink",
-      "url": "https://www.abc.net.au/news/2026-03-03/iran-threatens-ships-strait-of-hormuz-oil-gas-freight/106410242",
-      "source": "www.abc.net.au",
-      "published_at": "2026-03-03T06:17:21.000Z",
-      "summary": "Summary: The narrow strait of water putting oil prices and freight costs on the brink"
-    },
-    {
-      "id": "73fc8325451afa3be8d64719ee6bc34c28189067",
-      "title": "Potts Point shooting: man shot dead by NSW police in Sydney after allegedly assaulting two women",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/03/man-shot-police-potts-point-sydney-assault-women-ntwnfb",
-      "source": "www.theguardian.com",
-      "published_at": "2026-03-03T06:15:36.000Z",
-      "summary": "Summary: Potts Point shooting: man shot dead by NSW police in Sydney after allegedly assaulting two women"
-    },
-    {
-      "id": "657549591ce4940408ea4ee5f6410605b19781d3",
-      "title": "One of UK's richest men wants German citizenship over 'hostility' to Jews",
-      "url": "https://www.bbc.com/news/articles/c4g2jp6y630o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-03-03T06:14:09.000Z",
-      "summary": "Summary: One of UK's richest men wants German citizenship over 'hostility' to Jews"
-    },
-    {
-      "id": "147cb568c35b7c2d35acb746b741705231767a94",
-      "title": "Breaking: Teen guilty of Instagram threat to kill Albanese, Minns",
-      "url": "https://www.abc.net.au/news/2026-03-03/teenager-guilty-threatening-to-kill-albanese-minns-instagram/106353378",
-      "source": "www.abc.net.au",
-      "published_at": "2026-03-03T06:13:34.000Z",
-      "summary": "Summary: Breaking: Teen guilty of Instagram threat to kill Albanese, Minns"
-    },
-    {
-      "id": "0af6342e20ef5aa4a5b7485fe42877e0a2022d04",
-      "title": "The one that got away - Carrick returns to Tyneside with Man Utd",
-      "url": "https://www.bbc.com/sport/football/articles/c62drlgdgk2o?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-03-03T06:13:06.000Z",
-      "summary": "Summary: The one that got away - Carrick returns to Tyneside with Man Utd"
-    },
-    {
-      "id": "6ac8628da1212f4256ace55d10e9fa8137f016fc",
-      "title": "Israel strikes Lebanon’s Beirut again; Hezbollah launches drones at Israel",
-      "url": "https://www.aljazeera.com/news/2026/3/3/israel-strikes-lebanons-beirut-again-hezbollah-launches-drones-at-israel?traffic_source=rss",
-      "source": "www.aljazeera.com",
-      "published_at": "2026-03-03T06:12:31.000Z",
-      "summary": "Summary: Israel strikes Lebanon’s Beirut again; Hezbollah launches drones at Israel"
-    },
-    {
-      "id": "2da15b633cd59974beae90446304ff67308408df",
-      "title": "La Liga: Real Madrid lose again as FC Barcelona get gap at top of table",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260303-la-liga-real-madrid-lose-again-as-fc-barcelona-get-gap-at-top-of-table",
-      "source": "www.france24.com",
-      "published_at": "2026-03-03T06:12:16.000Z",
-      "summary": "Summary: La Liga: Real Madrid lose again as FC Barcelona get gap at top of table"
-    },
-    {
-      "id": "c6455ce13a5b5cabf497bf9a86a16f06bb0436ad",
-      "title": "Asia’s stock markets plunge amid US-Israeli conflict with Iran",
-      "url": "https://www.aljazeera.com/economy/2026/3/3/asias-stock-markets-plunge-amid-us-israeli-conflict-with-iran?traffic_source=rss",
-      "source": "www.aljazeera.com",
-      "published_at": "2026-03-03T06:11:26.000Z",
-      "summary": "Summary: Asia’s stock markets plunge amid US-Israeli conflict with Iran"
-    },
-    {
-      "id": "e76d8848637ea3d4626ccd1886bb27def6d1adbd",
-      "title": "Napadi na Teheran in Bejrut, Trump napovedal maščevanje ameriških vojakov",
-      "url": "https://www.24ur.com/novice/tujina/trump-napovedal-mascevanje-za-smrt-ameriskih-vojakov.html",
+      "id": "62afc0b54b1930f1850aae3cee7902bc64a14f6d",
+      "title": "Na poti v Oman prvo letalo za evakuacijo Slovencev",
+      "url": "https://www.24ur.com/novice/tujina/slovenski-drzavljani-cakajo-v-maskatu.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-03T06:07:36.000Z",
-      "summary": "Summary: Napadi na Teheran in Bejrut, Trump napovedal maščevanje ameriških vojakov"
+      "published_at": "2026-03-04T06:25:34.000Z",
+      "summary": "Summary: Na poti v Oman prvo letalo za evakuacijo Slovencev"
     },
     {
-      "id": "d28b421f00727d920ad176e50f8d14166797cf6a",
-      "title": "Australia just experienced its wettest summer in nearly a decade – and the eighth-hottest on record",
-      "url": "https://www.theguardian.com/environment/2026/mar/03/australia-summer-extreme-weather-wettest-hottest-records",
-      "source": "www.theguardian.com",
-      "published_at": "2026-03-03T06:06:47.000Z",
-      "summary": "Summary: Australia just experienced its wettest summer in nearly a decade – and the eighth-hottest on record"
-    },
-    {
-      "id": "771ea6e0c12aba874a28e1ef7ea02e1eb3bd99c1",
-      "title": "V prometni nesreči umrl 51-letni voznik traktorja",
-      "url": "https://www.24ur.com/novice/crna-kronika/v-prometni-nesreci-umrl-51-letni-voznik-traktorja.html",
+      "id": "b15bf625e3b22b8d43e577a28da981ebc0d506ae",
+      "title": "Pod igriščem za golf našli 120 let zaprto vinsko klet",
+      "url": "https://www.24ur.com/novice/tujina/pod-golf-igriscem-nasli-120-let-zaprto-vinsko-klet.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-03T06:05:27.000Z",
-      "summary": "Summary: V prometni nesreči umrl 51-letni voznik traktorja"
+      "published_at": "2026-03-04T06:23:07.000Z",
+      "summary": "Summary: Pod igriščem za golf našli 120 let zaprto vinsko klet"
+    },
+    {
+      "id": "78e92f7f736aa1f00414d1981e47fa582a814c74",
+      "title": "Australia news live: ASX sheds $60bn as Middle East conflict stokes inflation fears",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/04/politics-live-albanese-prime-minister-question-time-angus-taylor-cost-of-living-middle-east-work-from-home-victoria-ntwnfb",
+      "source": "www.theguardian.com",
+      "published_at": "2026-03-04T06:22:06.000Z",
+      "summary": "Summary: Australia news live: ASX sheds $60bn as Middle East conflict stokes inflation fears"
+    },
+    {
+      "id": "6510739a4a0b271445feb64608004b88332c9751",
+      "title": "South Korea’s stock market in meltdown amid US-Iran war",
+      "url": "https://www.aljazeera.com/economy/2026/3/4/south-koreas-stock-market-in-meltdown-amid-us-iran-war?traffic_source=rss",
+      "source": "www.aljazeera.com",
+      "published_at": "2026-03-04T06:19:27.000Z",
+      "summary": "Summary: South Korea’s stock market in meltdown amid US-Iran war"
+    },
+    {
+      "id": "f9c72a6450eea7c9a110cb28ca8bb6179cd78dcf",
+      "title": "The Iran strikes could become a midterm reckoning – for Trump and Israel",
+      "url": "https://www.aljazeera.com/opinions/2026/3/4/the-iran-strikes-could-become-a-midterm-reckoning-for-trump-and-israel?traffic_source=rss",
+      "source": "www.aljazeera.com",
+      "published_at": "2026-03-04T06:18:26.000Z",
+      "summary": "Summary: The Iran strikes could become a midterm reckoning – for Trump and Israel"
+    },
+    {
+      "id": "837f72d4f1b65fbabb34179e8313dba26acfabd5",
+      "title": "Jordanian arrested for visa offences after alleged Bondi attackers visited his coffee shop during Philippines stay",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/04/jordanian-national-arrested-philippines-suspected-akrams-alleged-bondi-shooting-attackers-ntwnfb",
+      "source": "www.theguardian.com",
+      "published_at": "2026-03-04T06:18:21.000Z",
+      "summary": "Summary: Jordanian arrested for visa offences after alleged Bondi attackers visited his coffee shop during Philippines stay"
+    },
+    {
+      "id": "b55d3b2042b87603f1bbe1b5d2c9dc5c462bd5fc",
+      "title": "Bodo slovenska vina slavila v New Yorku?",
+      "url": "https://www.24ur.com/novice/slovenija/bodo-slovenska-vina-slavila-v-new-yorku.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-04T06:13:39.000Z",
+      "summary": "Summary: Bodo slovenska vina slavila v New Yorku?"
+    },
+    {
+      "id": "9df09bc3ffbfd004d18baf8fce94dd6ead7645f5",
+      "title": "What to Know About Nepal's Gen Z Election",
+      "url": "https://www.nytimes.com/2026/03/04/world/asia/nepal-election-gen-z-what-to-know.html",
+      "source": "rss.nytimes.com",
+      "published_at": "2026-03-04T06:13:14.000Z",
+      "summary": "Summary: What to Know About Nepal's Gen Z Election"
+    },
+    {
+      "id": "2e159fac41df035413ba6086c667ed9d4e851f6d",
+      "title": "Two men charged after Euston shipping container drug bust",
+      "url": "https://www.abc.net.au/news/2026-03-04/men-charged-after-drug-bust-in-euston/106413984",
+      "source": "www.abc.net.au",
+      "published_at": "2026-03-04T06:13:04.000Z",
+      "summary": "Summary: Two men charged after Euston shipping container drug bust"
+    },
+    {
+      "id": "83c93c5285699486749474ce0665efa8aad96053",
+      "title": "Iran Live Updates: Israel Begins ‘Broad Wave of Strikes’ on Iran’s Infrastructure",
+      "url": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump",
+      "source": "rss.nytimes.com",
+      "published_at": "2026-03-04T06:12:46.000Z",
+      "summary": "Summary: Iran Live Updates: Israel Begins ‘Broad Wave of Strikes’ on Iran’s Infrastructure"
+    },
+    {
+      "id": "c4c9770a60985c77270a0c3564b4668104e7a13e",
+      "title": "North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam",
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5734577/north-carolina-election-results-foushee-allam",
+      "source": "feeds.npr.org",
+      "published_at": "2026-03-04T06:12:36.000Z",
+      "summary": "Summary: North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam"
     }
   ]
 }

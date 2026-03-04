@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-03T06:34:17.592Z",
+  "updated_at": "2026-03-04T06:33:52.675Z",
   "days": [
+    {
+      "date": "2026-03-04",
+      "page": "/news/2026-03-04-news.html",
+      "teaser": "Top: Texas tests party fault lines as 2026 US midterms begin",
+      "count": 12,
+      "ids": [
+        "58d8dbf5045fd32629dbe71614d4f2dcc44127f5",
+        "62afc0b54b1930f1850aae3cee7902bc64a14f6d",
+        "b15bf625e3b22b8d43e577a28da981ebc0d506ae",
+        "78e92f7f736aa1f00414d1981e47fa582a814c74",
+        "6510739a4a0b271445feb64608004b88332c9751",
+        "f9c72a6450eea7c9a110cb28ca8bb6179cd78dcf",
+        "837f72d4f1b65fbabb34179e8313dba26acfabd5",
+        "b55d3b2042b87603f1bbe1b5d2c9dc5c462bd5fc",
+        "9df09bc3ffbfd004d18baf8fce94dd6ead7645f5",
+        "2e159fac41df035413ba6086c667ed9d4e851f6d",
+        "83c93c5285699486749474ce0665efa8aad96053",
+        "c4c9770a60985c77270a0c3564b4668104e7a13e"
+      ]
+    },
     {
       "date": "2026-03-03",
       "page": "/news/2026-03-03-news.html",
@@ -579,26 +599,6 @@
         "ccc7b39c4ca01f0d0cbd4881f7e560db5f3ee05f",
         "8d33bce8d26a0058a062ab5a68269969551fd356",
         "71aa1816294bc73cd81b43a0c9593a1e86fea8e6"
-      ]
-    },
-    {
-      "date": "2026-01-28",
-      "page": "/news/2026-01-28-news.html",
-      "teaser": "Top: Chinese ambassador hints at retaliation over Port of Darwin",
-      "count": 12,
-      "ids": [
-        "64a9709b6183a6ecccda74203608e6028c9b060a",
-        "54bc85e7029a8bf638200ec52787ba779bad7589",
-        "caebd5d63a4c52222fe4a591d7566a77b4a3a7d5",
-        "6d0e5b2178a99e6a47fd6f9b81705c90c3a6a056",
-        "c8407916ee86122df0efedf6ffcdd1978012dc86",
-        "4605e2c0f8eb0630d979588734aef5a473a5a011",
-        "6c15b384fd397eefcdf1549ab8cc36f3bacd469a",
-        "49efed51982e2273c98c5503e94f47bd317f0427",
-        "2965dcf7bcae31abe8cd3ec520ac6c29c9ea9ab7",
-        "747060903953c68db499d5e774fe3a8e60569281",
-        "21d7a92b9e6f12517862a2eb2d7f168615e0d181",
-        "199cc159bb6bc5d27286b44751edd6558382dfc9"
       ]
     }
   ]
