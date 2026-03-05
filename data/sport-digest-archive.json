@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-04T06:33:58.480Z",
+  "updated_at": "2026-03-05T06:34:18.557Z",
   "days": [
+    {
+      "date": "2026-03-05",
+      "page": "/news/2026-03-05-sport.html",
+      "teaser": "Top: Resident Evil Requiem sold 5 million copies in under a week",
+      "count": 12,
+      "ids": [
+        "a4b02f88ed72303e19ad79ec0d933ec90b3fccda",
+        "ecb44262d33c1930d7941136fb3ed1e57143eeaa",
+        "16ac3b3edb84a03d799d2569e91f92f0f39b05f9",
+        "07b2a636d96664fc9c37b6d8f8323bfe5ba31b8a",
+        "b8cc5728d2ec2ae72f73a0e9620db927fd75b9a7",
+        "b5ae28cecdfffabf5855da4b3a7dede2d5bc7694",
+        "24b72d27a55a3de5b102f110d01811269c35feeb",
+        "7755d5a53620b111f3b1d84e73e053f33ff8e7fe",
+        "f1873823a0f2b0499b9a13518b4dd22405dd36df",
+        "3d4b3cfcb4007df7b43e52a06a92961953d0ce27",
+        "aa55152c9cdb1f0829d95e7e05b687d4dc6cd5f3",
+        "f8f7802e44771d529c8b9841fb03701be47e3103"
+      ]
+    },
     {
       "date": "2026-03-04",
       "page": "/news/2026-03-04-sport.html",
@@ -579,26 +599,6 @@
         "d27b5cdba0c15e05a18902e6229269186ee38567",
         "1522d953473cfd5c1f75233ab3edde7b212a5a6d",
         "389268e808f3d15195c469c4cc84ac02e8ec4ed7"
-      ]
-    },
-    {
-      "date": "2026-01-29",
-      "page": "/news/2026-01-29-sport.html",
-      "teaser": "Top: When is WWE Royal Rumble 2026? How to watch on ESP...",
-      "count": 12,
-      "ids": [
-        "87b30e35463ba014003ac04b299b1bce6a333dfe",
-        "a5f9b333fac107f03bc429c997c1a969bcef0789",
-        "f01401801a4e37c328993c258318ff1270ab5af1",
-        "b0b643971199b666543a9f849c73a53787cd65c7",
-        "dbe3abcadf2c37c13f2f071de3f705529f068e7c",
-        "24775a53e31dc0fe97873e0874a5d1e85dc93ae1",
-        "b0f4152014118cc09177ae37b1e794e43f78d1b3",
-        "27d5cd14211e18efcea7105464bf91262e9009e4",
-        "d22dd054e5fa1597d93f7745c08f4aca7ad1fa79",
-        "89826b1e981a0d0436d1e64325fef49f4b397a7d",
-        "20df8a4a7b110e81ab00717bb5ae12511459f05e",
-        "826d3daab33110ba6b928f51d75e8a3530db640b"
       ]
     }
   ]

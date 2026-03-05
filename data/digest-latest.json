@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-04",
-  "updated_at": "2026-03-04T06:33:39.817Z",
-  "page": "/news/2026-03-04.html",
+  "date": "2026-03-05",
+  "updated_at": "2026-03-05T06:34:01.038Z",
+  "page": "/news/2026-03-05.html",
   "count": 12,
   "items": [
     {
-      "id": "02c13fd0bfb0694504b843de54085f7edce51187",
-      "title": "I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it",
-      "url": "https://dev.to/darklazaruswalks/i-ran-765-controlled-experiments-to-prove-ai-agents-are-leaking-your-data-and-built-the-tool-that-1pl2",
+      "id": "457549bb4efded284c0b9bfb278193d69e4d7510",
+      "title": "Designing Model Ensembles in GenAI Platforms",
+      "url": "https://dev.to/shreekansha97/designing-model-ensembles-in-genai-platforms-4ep7",
       "source": "dev.to",
-      "published_at": "2026-03-04T06:27:47.000Z",
-      "summary": "Summary: I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it"
+      "published_at": "2026-03-05T06:32:59.000Z",
+      "summary": "Summary: Designing Model Ensembles in GenAI Platforms"
     },
     {
-      "id": "daeb06a34b08090ed7ad5f7acb0ac125dd2ba52a",
-      "title": "How Large is Iran's Offensive Arsenal?",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-04/how-large-is-iran-s-offensive-arsenal-video",
+      "id": "4e33aa8e66816654922e7ae85c4f280374d4bd3d",
+      "title": "Adding Real-Time Google AI Mode Data to Your OpenClaw Agent with Pangolinfo's AI Search Skill",
+      "url": "https://dev.to/loopsthings/adding-real-time-google-ai-mode-data-to-your-openclaw-agent-with-pangolinfos-ai-search-skill-2n8b",
+      "source": "dev.to",
+      "published_at": "2026-03-05T06:32:53.000Z",
+      "summary": "Summary: Adding Real-Time Google AI Mode Data to Your OpenClaw Agent with Pangolinfo's AI Search Skill"
+    },
+    {
+      "id": "376aefbe35eeb02b1650b8c6f92702703790d284",
+      "title": "Hashicorp Vault CLI Part 6: Authorization",
+      "url": "https://dev.to/admantium/hashicorp-vault-cli-part-6-authorization-41hb",
+      "source": "dev.to",
+      "published_at": "2026-03-05T06:32:24.000Z",
+      "summary": "Summary: Hashicorp Vault CLI Part 6: Authorization"
+    },
+    {
+      "id": "1437fa0481d86da20eeed4cc228cb0600dce22c7",
+      "title": "How I Automated 70% of Customer Support with an AI Chatbot (Django + OpenAI)",
+      "url": "https://dev.to/kirill_strelnikov_d8546b8/how-i-automated-70-of-customer-support-with-an-ai-chatbot-django-openai-41c5",
+      "source": "dev.to",
+      "published_at": "2026-03-05T06:32:15.000Z",
+      "summary": "Summary: How I Automated 70% of Customer Support with an AI Chatbot (Django + OpenAI)"
+    },
+    {
+      "id": "8621d8ec519b2311e7a3d0984a4720fb486d9708",
+      "title": "Postman有料化対策：エンジニア向けおすすめAPIテストツール比較",
+      "url": "https://dev.to/yuuto128/postmanyou-liao-hua-dui-ce-enziniaxiang-keosusumeapitesutoturubi-jiao-4gnj",
+      "source": "dev.to",
+      "published_at": "2026-03-05T06:32:08.000Z",
+      "summary": "Summary: Postman有料化対策：エンジニア向けおすすめAPIテストツール比較"
+    },
+    {
+      "id": "7190ea2c43ef9e265386f5ef2b8c8ea86ba8772e",
+      "title": "Day 1 of Building a build-shop:Understanding the cn() Utility Function",
+      "url": "https://dev.to/cheaven88/day-1-of-building-a-build-shopunderstanding-the-cn-utility-function-1328",
+      "source": "dev.to",
+      "published_at": "2026-03-05T06:31:50.000Z",
+      "summary": "Summary: Day 1 of Building a build-shop:Understanding the cn() Utility Function"
+    },
+    {
+      "id": "0da850b3b151051a73cde6f0c2cdcba8ed4123c3",
+      "title": "Al-Mohanadi: Iran War Effects Critical for Energy Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-05/al-mohanadi-iran-war-effects-critical-for-energy-market-video",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-03-04T06:27:11.000Z",
-      "summary": "Summary: How Large is Iran's Offensive Arsenal?"
+      "published_at": "2026-03-05T06:28:13.000Z",
+      "summary": "Summary: Al-Mohanadi: Iran War Effects Critical for Energy Markets"
     },
     {
-      "id": "62afc0b54b1930f1850aae3cee7902bc64a14f6d",
-      "title": "Na poti v Oman prvo letalo za evakuacijo Slovencev",
-      "url": "https://www.24ur.com/novice/tujina/slovenski-drzavljani-cakajo-v-maskatu.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-04T06:25:34.000Z",
-      "summary": "Summary: Na poti v Oman prvo letalo za evakuacijo Slovencev"
-    },
-    {
-      "id": "4b8aa3753a04ba5d53fd99b3d1b4b30cdfcd9494",
-      "title": "Running Headless Chrome at Scale: Production Lessons from Millions of Renders.",
-      "url": "https://dev.to/max_kurz/running-headless-chrome-at-scale-production-lessons-from-millions-of-renders-djg",
+      "id": "5a82901d596110f6c926ee2a1af7b237ed0af00f",
+      "title": "Fast Chladni Pattern Simulation with a Simplified Membrane Model Using Vectorization and Stochastic Particles View",
+      "url": "https://dev.to/ratwolf/fast-chladni-pattern-simulation-with-a-simplified-membrane-model-using-vectorization-and-stochastic-30gf",
       "source": "dev.to",
-      "published_at": "2026-03-04T06:24:06.000Z",
-      "summary": "Summary: Running Headless Chrome at Scale: Production Lessons from Millions of Renders."
+      "published_at": "2026-03-05T06:25:48.000Z",
+      "summary": "Summary: Fast Chladni Pattern Simulation with a Simplified Membrane Model Using Vectorization and Stochastic Particles View"
     },
     {
-      "id": "8080904a91d30bb669f606009a0b35869dba7d39",
-      "title": "A Real WebSocket Hijack Hit an AI Agent Framework. Here's What We Learned.",
-      "url": "https://dev.to/mkdelta221/a-real-websocket-hijack-hit-an-ai-agent-framework-heres-what-we-learned-4moe",
-      "source": "dev.to",
-      "published_at": "2026-03-04T06:23:23.000Z",
-      "summary": "Summary: A Real WebSocket Hijack Hit an AI Agent Framework. Here's What We Learned."
+      "id": "a4b02f88ed72303e19ad79ec0d933ec90b3fccda",
+      "title": "Resident Evil Requiem sold 5 million copies in under a week",
+      "url": "https://dotesports.com/resident-evil/news/resident-evil-requiem-5-million-copies-sold",
+      "source": "dotesports.com",
+      "published_at": "2026-03-05T06:25:41.000Z",
+      "summary": "Summary: Resident Evil Requiem sold 5 million copies in under a week"
     },
     {
-      "id": "bf4aa05e97747550b6d8344a90e188a7e5123872",
-      "title": "Why Learning AI Feels Directionless (Until You See the Order)",
-      "url": "https://dev.to/dev-in-progress/why-learning-ai-feels-directionless-until-you-see-the-order-47o",
-      "source": "dev.to",
-      "published_at": "2026-03-04T06:23:12.000Z",
-      "summary": "Summary: Why Learning AI Feels Directionless (Until You See the Order)"
-    },
-    {
-      "id": "b15bf625e3b22b8d43e577a28da981ebc0d506ae",
-      "title": "Pod igriščem za golf našli 120 let zaprto vinsko klet",
-      "url": "https://www.24ur.com/novice/tujina/pod-golf-igriscem-nasli-120-let-zaprto-vinsko-klet.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-04T06:23:07.000Z",
-      "summary": "Summary: Pod igriščem za golf našli 120 let zaprto vinsko klet"
-    },
-    {
-      "id": "45369bc61bb760967ba8cd332fab2f0c2eaca51a",
-      "title": "Mastering Entropy: Frame - Essence - Grain",
-      "url": "https://dev.to/alis/mastering-entropy-frame-essence-grain-55bp",
-      "source": "dev.to",
-      "published_at": "2026-03-04T06:21:02.000Z",
-      "summary": "Summary: Mastering Entropy: Frame - Essence - Grain"
-    },
-    {
-      "id": "9f5d584a8dd2b1a162d04905261d4c978b9d73b8",
-      "title": "The Importance of TDD",
-      "url": "https://dev.to/patmandee/the-importance-of-tdd-g46",
-      "source": "dev.to",
-      "published_at": "2026-03-04T06:20:30.000Z",
-      "summary": "Summary: The Importance of TDD"
-    },
-    {
-      "id": "c8b97c4b4f7ac8bb208b2598458757c69f051cac",
-      "title": "Luckin Coffee Backer Centurium Is Said to Be in Advanced Talks for Blue Bottle",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-04/luckin-coffee-backer-centurium-is-said-to-be-in-advanced-talks-for-blue-bottle",
+      "id": "f6d74ea1dd71e288b7beb9c4503608d2b52a2b23",
+      "title": "Why China’s Growth This Year Target Is Lowest Since 1991",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-05/why-china-s-growth-this-year-target-is-lowest-since-1991-video",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-03-04T06:18:34.000Z",
-      "summary": "Summary: Luckin Coffee Backer Centurium Is Said to Be in Advanced Talks for Blue Bottle"
+      "published_at": "2026-03-05T06:24:02.000Z",
+      "summary": "Summary: Why China’s Growth This Year Target Is Lowest Since 1991"
     },
     {
-      "id": "752cf299d601274b19618d02508b3b2dc3665a6a",
-      "title": "What I Learned Adding Memory to AI Agents",
-      "url": "https://dev.to/ksankar/what-i-learned-adding-memory-to-ai-agents-1eh2",
+      "id": "3f7c3c388080583c06fbdd959225a30540244067",
+      "title": "The React Compiler Is Here You Can Delete Half Your useMemo and useCallback",
+      "url": "https://dev.to/harsh2644/the-react-compiler-is-here-you-can-delete-half-your-usememo-and-usecallback-4312",
       "source": "dev.to",
-      "published_at": "2026-03-04T06:15:57.000Z",
-      "summary": "Summary: What I Learned Adding Memory to AI Agents"
+      "published_at": "2026-03-05T06:23:58.000Z",
+      "summary": "Summary: The React Compiler Is Here You Can Delete Half Your useMemo and useCallback"
     },
     {
-      "id": "b55d3b2042b87603f1bbe1b5d2c9dc5c462bd5fc",
-      "title": "Bodo slovenska vina slavila v New Yorku?",
-      "url": "https://www.24ur.com/novice/slovenija/bodo-slovenska-vina-slavila-v-new-yorku.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-04T06:13:39.000Z",
-      "summary": "Summary: Bodo slovenska vina slavila v New Yorku?"
+      "id": "a5897bd3876fc6fffc6b224182d95ac5e4af212c",
+      "title": "DevOps for Backend Developers: A No-Nonsense Starting Guide",
+      "url": "https://dev.to/yash_step2dev/devops-for-backend-developers-a-no-nonsense-starting-guide-4c0p",
+      "source": "dev.to",
+      "published_at": "2026-03-05T06:23:10.000Z",
+      "summary": "Summary: DevOps for Backend Developers: A No-Nonsense Starting Guide"
     }
   ]
 }

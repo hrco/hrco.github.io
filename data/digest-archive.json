@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-04T06:33:39.817Z",
+  "updated_at": "2026-03-05T06:34:01.038Z",
   "days": [
+    {
+      "date": "2026-03-05",
+      "page": "/news/2026-03-05.html",
+      "teaser": "Top: Designing Model Ensembles in GenAI Platforms",
+      "count": 12,
+      "ids": [
+        "457549bb4efded284c0b9bfb278193d69e4d7510",
+        "4e33aa8e66816654922e7ae85c4f280374d4bd3d",
+        "376aefbe35eeb02b1650b8c6f92702703790d284",
+        "1437fa0481d86da20eeed4cc228cb0600dce22c7",
+        "8621d8ec519b2311e7a3d0984a4720fb486d9708",
+        "7190ea2c43ef9e265386f5ef2b8c8ea86ba8772e",
+        "0da850b3b151051a73cde6f0c2cdcba8ed4123c3",
+        "5a82901d596110f6c926ee2a1af7b237ed0af00f",
+        "a4b02f88ed72303e19ad79ec0d933ec90b3fccda",
+        "f6d74ea1dd71e288b7beb9c4503608d2b52a2b23",
+        "3f7c3c388080583c06fbdd959225a30540244067",
+        "a5897bd3876fc6fffc6b224182d95ac5e4af212c"
+      ]
+    },
     {
       "date": "2026-03-04",
       "page": "/news/2026-03-04.html",
@@ -579,26 +599,6 @@
         "0891cb94111c927f8af16fbef49ee6a842fb82d9",
         "d231f418ae9b7f71311694275d6647721f78941c",
         "37f3a6f44f0772a992916bd510754f306209616a"
-      ]
-    },
-    {
-      "date": "2026-01-29",
-      "page": "/news/2026-01-29.html",
-      "teaser": "Top: Trump izobesil fotografijo s Putinom, pod njo fotografija z vnukinjo",
-      "count": 12,
-      "ids": [
-        "e6c2ae20b303e72060229515ed7585cb53660959",
-        "bc4322d8ac2ed3623a3e18e9f61edac4161e281c",
-        "3a850e58b7f4e7b84e6969eb23735afb2c11e7c9",
-        "bc1904ed6a82917ab0959993aaebb6f209344edb",
-        "e5c4fccb0ef4fa7749f4b93678c0defc43e4532d",
-        "9cc458d381bedb93f77596d57ab1bbb4e4384619",
-        "1568143990734cabc0ee9f32c0f689bf92f97b3b",
-        "87fbe7d8c8e2bbf9d14cd5bdc9aa94bb8db43f61",
-        "2979d83cdff92da861fb0864b383d7e68df121c6",
-        "71aa1816294bc73cd81b43a0c9593a1e86fea8e6",
-        "dd97868c726f1ed48a36dc7dc27fd272a3426343",
-        "aef270e30e441e7f2d799651049fce51bf6ae72a"
       ]
     }
   ]
