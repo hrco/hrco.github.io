@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-05T06:34:18.557Z",
+  "updated_at": "2026-03-06T06:34:33.766Z",
   "days": [
+    {
+      "date": "2026-03-06",
+      "page": "/news/2026-03-06-sport.html",
+      "teaser": "Top: Main Card Results | UFC 326: Holloway vs Oliveira 2",
+      "count": 12,
+      "ids": [
+        "d0ae9d5b3b01d742d3e6cdc8d7547121b5847c09",
+        "f439fed5d90a794efbd60b0d5f1412beb302a6f3",
+        "7a348c102d8078ab2045f65ff02caa2bc0f4c536",
+        "791eea5b03b37d78c93039a759d4c8adce96eeab",
+        "dd61ba9eda96102853a5c1cf868d94029ad43f4c",
+        "608cff62e4ab4b5721606a9bc2a7e37fb98d40ca",
+        "03f8e0e9422e7031117e5183fbde7141be844d2f",
+        "af6d41f0e3048604dae674446b670f5bed94362b",
+        "527895ada20e397d595d2d0bc0a9c1fc4bbb2966",
+        "a2b93fb40f1a11d120877d8653e318c6147bc033",
+        "30a111307cf1fc2335d84563ef14c61e587f6ddb",
+        "0911b079966265ad5ade5178e73329b6d9108818"
+      ]
+    },
     {
       "date": "2026-03-05",
       "page": "/news/2026-03-05-sport.html",
@@ -579,26 +599,6 @@
         "76875619eecb56bc65d69b457c320421e430ddff",
         "dcf69ee4cf9ed41b0752d4e68381c8174299334d",
         "4dacda57525921c81668b8c2ee397a6f0897d9b2"
-      ]
-    },
-    {
-      "date": "2026-01-30",
-      "page": "/news/2026-01-30-sport.html",
-      "teaser": "Top: Results + Scorecards | Zuffa Boxing 02",
-      "count": 12,
-      "ids": [
-        "e62daa689c605e400d0ee06dc7b8cdc0d7b2b5d1",
-        "9bd4bdf0f899e1bf0b393aea4cdb93943b5000ea",
-        "6dfc958835515eb50f207d2915bf4cfb6d8769cf",
-        "350262ff5331329f939d040b53d1a1c395e8b4e4",
-        "c53ff1d7ec40c2a0c225774e3c56091dfe792449",
-        "fd3012dcfa195d1ef4acb5e307a8bb28d4e90751",
-        "314041c7db49d1fa740dc4cfbc737de830ed9154",
-        "c9e924830aa9fd1a33cb2cb174d3a11b7fc2fb69",
-        "83c3a7e4f8a997c39b33448198f977ec8f08cf79",
-        "d27b5cdba0c15e05a18902e6229269186ee38567",
-        "1522d953473cfd5c1f75233ab3edde7b212a5a6d",
-        "389268e808f3d15195c469c4cc84ac02e8ec4ed7"
       ]
     }
   ]

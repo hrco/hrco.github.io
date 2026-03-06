@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-05T06:34:01.038Z",
+  "updated_at": "2026-03-06T06:34:20.578Z",
   "days": [
+    {
+      "date": "2026-03-06",
+      "page": "/news/2026-03-06.html",
+      "teaser": "Top: Black Ops 7 Hunt or Be Hunted Event: How to play, start date, and rewards",
+      "count": 12,
+      "ids": [
+        "791eea5b03b37d78c93039a759d4c8adce96eeab",
+        "4559d2bffd0058c335efa063262bcf6609ca8761",
+        "24db3c8e0f5c4c369ded0339acb0eecd4d50d1b0",
+        "e8fa09f8a784b8f2bc174e9f755dc7efa96ec1b8",
+        "56ba87e5befd9ee66bd776057a54b3d493943dd1",
+        "64c5d387269a75e8d8798b5911405c943fab911d",
+        "5c493c62210ac7fcda4e8a3a9216bc133e787a8d",
+        "fbadf1d97b6c7e62377b479a408d6ea6c7792011",
+        "fa272d717800fb04ece6a1fa6fb48dcb5c60996b",
+        "4ba3b6ded43d4ec3cce5ca24390527f823c11d08",
+        "4bae664747b336bfb59d15837a03ac1b6498aa11",
+        "7f28c8014136c74748d324a0ebfde4afc7291ce1"
+      ]
+    },
     {
       "date": "2026-03-05",
       "page": "/news/2026-03-05.html",
@@ -579,26 +599,6 @@
         "ce7989c62d0ec316c1d575a289600940fbd94e9d",
         "60bf41e2aa68895da515b3501c2f368f3c374c2a",
         "69475f4d0425a4f64c67300a07c1d3fe4831faf2"
-      ]
-    },
-    {
-      "date": "2026-01-30",
-      "page": "/news/2026-01-30.html",
-      "teaser": "Top: Master Your Workflow: Top Gemini CLI Commands You Should Know | Gemini CLI CheatSheet",
-      "count": 12,
-      "ids": [
-        "0522c0093399cdbc37376c4c803b81a0f766e771",
-        "43eafd45e8f9ca176eeb65a26c4d218d1b3bbb72",
-        "c7953224d6eb014cf1469706b37455708418bc7d",
-        "46631765f4eaecb9ed26f8a3364ad19baea5e16a",
-        "05aae60d6f4b8c11f817228c7e823c3469763754",
-        "1f2686ea9ff82adf563652df13de6aae9c2d0a66",
-        "dbfe5ac5237597227bc3591dc36d6acbb62f5e55",
-        "13ca12c63db3ee4063654680b88239478fa3302d",
-        "50d427c0fda033c086317f75663ab6897f1a18e5",
-        "0891cb94111c927f8af16fbef49ee6a842fb82d9",
-        "d231f418ae9b7f71311694275d6647721f78941c",
-        "37f3a6f44f0772a992916bd510754f306209616a"
       ]
     }
   ]

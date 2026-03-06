@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-05",
-  "updated_at": "2026-03-05T06:34:01.038Z",
-  "page": "/news/2026-03-05.html",
+  "date": "2026-03-06",
+  "updated_at": "2026-03-06T06:34:20.578Z",
+  "page": "/news/2026-03-06.html",
   "count": 12,
   "items": [
     {
-      "id": "457549bb4efded284c0b9bfb278193d69e4d7510",
-      "title": "Designing Model Ensembles in GenAI Platforms",
-      "url": "https://dev.to/shreekansha97/designing-model-ensembles-in-genai-platforms-4ep7",
-      "source": "dev.to",
-      "published_at": "2026-03-05T06:32:59.000Z",
-      "summary": "Summary: Designing Model Ensembles in GenAI Platforms"
-    },
-    {
-      "id": "4e33aa8e66816654922e7ae85c4f280374d4bd3d",
-      "title": "Adding Real-Time Google AI Mode Data to Your OpenClaw Agent with Pangolinfo's AI Search Skill",
-      "url": "https://dev.to/loopsthings/adding-real-time-google-ai-mode-data-to-your-openclaw-agent-with-pangolinfos-ai-search-skill-2n8b",
-      "source": "dev.to",
-      "published_at": "2026-03-05T06:32:53.000Z",
-      "summary": "Summary: Adding Real-Time Google AI Mode Data to Your OpenClaw Agent with Pangolinfo's AI Search Skill"
-    },
-    {
-      "id": "376aefbe35eeb02b1650b8c6f92702703790d284",
-      "title": "Hashicorp Vault CLI Part 6: Authorization",
-      "url": "https://dev.to/admantium/hashicorp-vault-cli-part-6-authorization-41hb",
-      "source": "dev.to",
-      "published_at": "2026-03-05T06:32:24.000Z",
-      "summary": "Summary: Hashicorp Vault CLI Part 6: Authorization"
-    },
-    {
-      "id": "1437fa0481d86da20eeed4cc228cb0600dce22c7",
-      "title": "How I Automated 70% of Customer Support with an AI Chatbot (Django + OpenAI)",
-      "url": "https://dev.to/kirill_strelnikov_d8546b8/how-i-automated-70-of-customer-support-with-an-ai-chatbot-django-openai-41c5",
-      "source": "dev.to",
-      "published_at": "2026-03-05T06:32:15.000Z",
-      "summary": "Summary: How I Automated 70% of Customer Support with an AI Chatbot (Django + OpenAI)"
-    },
-    {
-      "id": "8621d8ec519b2311e7a3d0984a4720fb486d9708",
-      "title": "Postman有料化対策：エンジニア向けおすすめAPIテストツール比較",
-      "url": "https://dev.to/yuuto128/postmanyou-liao-hua-dui-ce-enziniaxiang-keosusumeapitesutoturubi-jiao-4gnj",
-      "source": "dev.to",
-      "published_at": "2026-03-05T06:32:08.000Z",
-      "summary": "Summary: Postman有料化対策：エンジニア向けおすすめAPIテストツール比較"
-    },
-    {
-      "id": "7190ea2c43ef9e265386f5ef2b8c8ea86ba8772e",
-      "title": "Day 1 of Building a build-shop:Understanding the cn() Utility Function",
-      "url": "https://dev.to/cheaven88/day-1-of-building-a-build-shopunderstanding-the-cn-utility-function-1328",
-      "source": "dev.to",
-      "published_at": "2026-03-05T06:31:50.000Z",
-      "summary": "Summary: Day 1 of Building a build-shop:Understanding the cn() Utility Function"
-    },
-    {
-      "id": "0da850b3b151051a73cde6f0c2cdcba8ed4123c3",
-      "title": "Al-Mohanadi: Iran War Effects Critical for Energy Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-05/al-mohanadi-iran-war-effects-critical-for-energy-market-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-03-05T06:28:13.000Z",
-      "summary": "Summary: Al-Mohanadi: Iran War Effects Critical for Energy Markets"
-    },
-    {
-      "id": "5a82901d596110f6c926ee2a1af7b237ed0af00f",
-      "title": "Fast Chladni Pattern Simulation with a Simplified Membrane Model Using Vectorization and Stochastic Particles View",
-      "url": "https://dev.to/ratwolf/fast-chladni-pattern-simulation-with-a-simplified-membrane-model-using-vectorization-and-stochastic-30gf",
-      "source": "dev.to",
-      "published_at": "2026-03-05T06:25:48.000Z",
-      "summary": "Summary: Fast Chladni Pattern Simulation with a Simplified Membrane Model Using Vectorization and Stochastic Particles View"
-    },
-    {
-      "id": "a4b02f88ed72303e19ad79ec0d933ec90b3fccda",
-      "title": "Resident Evil Requiem sold 5 million copies in under a week",
-      "url": "https://dotesports.com/resident-evil/news/resident-evil-requiem-5-million-copies-sold",
+      "id": "791eea5b03b37d78c93039a759d4c8adce96eeab",
+      "title": "Black Ops 7 Hunt or Be Hunted Event: How to play, start date, and rewards",
+      "url": "https://dotesports.com/call-of-duty/news/black-ops-7-hunt-or-be-hunted-event-rewards",
       "source": "dotesports.com",
-      "published_at": "2026-03-05T06:25:41.000Z",
-      "summary": "Summary: Resident Evil Requiem sold 5 million copies in under a week"
+      "published_at": "2026-03-06T06:33:06.000Z",
+      "summary": "Summary: Black Ops 7 Hunt or Be Hunted Event: How to play, start date, and rewards"
     },
     {
-      "id": "f6d74ea1dd71e288b7beb9c4503608d2b52a2b23",
-      "title": "Why China’s Growth This Year Target Is Lowest Since 1991",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-05/why-china-s-growth-this-year-target-is-lowest-since-1991-video",
+      "id": "4559d2bffd0058c335efa063262bcf6609ca8761",
+      "title": "Ob jubilejni tekmi točka in zmaga za Anžeta Kopitarja",
+      "url": "https://www.delo.si/razno/ob-jubilejni-tekmi-tocka-in-zmaga-za-anzeta-kopitarja",
+      "source": "www.delo.si",
+      "published_at": "2026-03-06T06:31:00.000Z",
+      "summary": "Summary: Ob jubilejni tekmi točka in zmaga za Anžeta Kopitarja"
+    },
+    {
+      "id": "24db3c8e0f5c4c369ded0339acb0eecd4d50d1b0",
+      "title": "Trump iranske sile pozval k predaji in sprejetju amnestije",
+      "url": "https://www.delo.si/novice/svet/trump-iranske-sile-pozval-k-predaji-in-sprejetju-amnestije",
+      "source": "www.delo.si",
+      "published_at": "2026-03-06T06:29:53.000Z",
+      "summary": "Summary: Trump iranske sile pozval k predaji in sprejetju amnestije"
+    },
+    {
+      "id": "e8fa09f8a784b8f2bc174e9f755dc7efa96ec1b8",
+      "title": "Prvi trening v znamenju Ferrarija, na drugem najhitrejši Piastri",
+      "url": "https://www.24ur.com/sport/formula1/formula-1-se-vraca-prva-treninga-nove-sezone-v-melbournu.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-06T06:29:37.000Z",
+      "summary": "Summary: Prvi trening v znamenju Ferrarija, na drugem najhitrejši Piastri"
+    },
+    {
+      "id": "56ba87e5befd9ee66bd776057a54b3d493943dd1",
+      "title": "Malaysia's Economy, Currency Remain Resilient, Amir Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-06/malaysia-s-economy-currency-remain-resilient-amir-says-video",
       "source": "feeds.bloomberg.com",
-      "published_at": "2026-03-05T06:24:02.000Z",
-      "summary": "Summary: Why China’s Growth This Year Target Is Lowest Since 1991"
+      "published_at": "2026-03-06T06:20:50.000Z",
+      "summary": "Summary: Malaysia's Economy, Currency Remain Resilient, Amir Says"
     },
     {
-      "id": "3f7c3c388080583c06fbdd959225a30540244067",
-      "title": "The React Compiler Is Here You Can Delete Half Your useMemo and useCallback",
-      "url": "https://dev.to/harsh2644/the-react-compiler-is-here-you-can-delete-half-your-usememo-and-usecallback-4312",
+      "id": "64c5d387269a75e8d8798b5911405c943fab911d",
+      "title": "Why Every Developer Will Eventually Design AI Systems",
+      "url": "https://dev.to/jaideepparashar/why-every-developer-will-eventually-design-ai-systems-1khf",
       "source": "dev.to",
-      "published_at": "2026-03-05T06:23:58.000Z",
-      "summary": "Summary: The React Compiler Is Here You Can Delete Half Your useMemo and useCallback"
+      "published_at": "2026-03-06T06:18:41.000Z",
+      "summary": "Summary: Why Every Developer Will Eventually Design AI Systems"
     },
     {
-      "id": "a5897bd3876fc6fffc6b224182d95ac5e4af212c",
-      "title": "DevOps for Backend Developers: A No-Nonsense Starting Guide",
-      "url": "https://dev.to/yash_step2dev/devops-for-backend-developers-a-no-nonsense-starting-guide-4c0p",
+      "id": "5c493c62210ac7fcda4e8a3a9216bc133e787a8d",
+      "title": "OpenTableAPI for Developers: Build APIs from Your Table Data",
+      "url": "https://dev.to/priyantha_weerasinghe_1d4/opentableapi-for-developers-build-apis-from-your-table-data-27nh",
       "source": "dev.to",
-      "published_at": "2026-03-05T06:23:10.000Z",
-      "summary": "Summary: DevOps for Backend Developers: A No-Nonsense Starting Guide"
+      "published_at": "2026-03-06T06:12:46.000Z",
+      "summary": "Summary: OpenTableAPI for Developers: Build APIs from Your Table Data"
+    },
+    {
+      "id": "fbadf1d97b6c7e62377b479a408d6ea6c7792011",
+      "title": "Novi izraelski napadi na Teheran in Bejrut. Trump: Kopenska ofenziva na Iran bi bila \"izguba časa\".",
+      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/novi-izraelski-napadi-na-teheran-in-bejrut-trump-kopenska-ofenziva-na-iran-bi-bila-izguba-casa/775499",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-06T06:11:47.000Z",
+      "summary": "Summary: Novi izraelski napadi na Teheran in Bejrut. Trump: Kopenska ofenziva na Iran bi bila \"izguba časa\"."
+    },
+    {
+      "id": "fa272d717800fb04ece6a1fa6fb48dcb5c60996b",
+      "title": "Na Brniku bo pristalo peto letalo z evakuiranimi potniki",
+      "url": "https://www.rtvslo.si/slovenija/na-brniku-bo-pristalo-peto-letalo-z-evakuiranimi-potniki/775496",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-06T06:10:17.000Z",
+      "summary": "Summary: Na Brniku bo pristalo peto letalo z evakuiranimi potniki"
+    },
+    {
+      "id": "4ba3b6ded43d4ec3cce5ca24390527f823c11d08",
+      "title": "Mattress Firm Coupons and Discounts: Save Up to $600",
+      "url": "https://www.wired.com/story/mattress-firm-coupon/",
+      "source": "www.wired.com",
+      "published_at": "2026-03-06T06:08:00.000Z",
+      "summary": "Summary: Mattress Firm Coupons and Discounts: Save Up to $600"
+    },
+    {
+      "id": "4bae664747b336bfb59d15837a03ac1b6498aa11",
+      "title": "KitchenAid Promo Codes and Discounts: Save Up To 50%",
+      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "source": "www.wired.com",
+      "published_at": "2026-03-06T06:05:00.000Z",
+      "summary": "Summary: KitchenAid Promo Codes and Discounts: Save Up To 50%"
+    },
+    {
+      "id": "7f28c8014136c74748d324a0ebfde4afc7291ce1",
+      "title": "Kopitar na 1500. tekmi s podajo utrl pot k nujni zmagi",
+      "url": "https://www.rtvslo.si/sport/hokej/liga-nhl/kopitar-na-1500-tekmi-s-podajo-utrl-pot-k-nujni-zmagi/775497",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-06T06:04:47.000Z",
+      "summary": "Summary: Kopitar na 1500. tekmi s podajo utrl pot k nujni zmagi"
     }
   ]
 }

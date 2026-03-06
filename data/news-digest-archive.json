@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-05T06:34:12.691Z",
+  "updated_at": "2026-03-06T06:34:29.248Z",
   "days": [
+    {
+      "date": "2026-03-06",
+      "page": "/news/2026-03-06-news.html",
+      "teaser": "Top: Ob jubilejni tekmi točka in zmaga za Anžeta Kopitarja",
+      "count": 12,
+      "ids": [
+        "4559d2bffd0058c335efa063262bcf6609ca8761",
+        "24db3c8e0f5c4c369ded0339acb0eecd4d50d1b0",
+        "e8fa09f8a784b8f2bc174e9f755dc7efa96ec1b8",
+        "fa5dd984a77e20e88479a340491911e4363ddd61",
+        "d170ccac567f3f147dde3ffdb44cc7dcbf5c3e1c",
+        "5648608b6f3f69df34b146a03c81987c8c74000c",
+        "5bc183d8811a0c82d51a074c9baab4c5a40d0728",
+        "2cfcc84e821a5d16d3684c2d18be0f962293ce2e",
+        "dc39069fb9037eb5d6350aeec9c6007b31902685",
+        "08f9a03e1885723e928c8325fbf2dd8760dbb018",
+        "b673f7f2e849835ba662095da8f263aacfd08b16",
+        "fbadf1d97b6c7e62377b479a408d6ea6c7792011"
+      ]
+    },
     {
       "date": "2026-03-05",
       "page": "/news/2026-03-05-news.html",
@@ -579,26 +599,6 @@
         "7b9297ac822a9fa3f4b80b54146679dcf5021cff",
         "60bf41e2aa68895da515b3501c2f368f3c374c2a",
         "c5d288a08699dc3b16faccd3a77898a98a664540"
-      ]
-    },
-    {
-      "date": "2026-01-30",
-      "page": "/news/2026-01-30-news.html",
-      "teaser": "Top: Singapore begins ban on ‘undesirable’ visitors as airline boarding rules take effect",
-      "count": 12,
-      "ids": [
-        "636aee22ecb9e1116fccf2a87708cfec84d87a94",
-        "2ee8c6b66cf7ce1375d0199663665782827c085d",
-        "21d6b9794432e845713fec94e11986bc8b879713",
-        "f80d02b3c3985b4420876bd61b7a488e444dab14",
-        "43eafd45e8f9ca176eeb65a26c4d218d1b3bbb72",
-        "c7953224d6eb014cf1469706b37455708418bc7d",
-        "46631765f4eaecb9ed26f8a3364ad19baea5e16a",
-        "05aae60d6f4b8c11f817228c7e823c3469763754",
-        "dbfe5ac5237597227bc3591dc36d6acbb62f5e55",
-        "49b2a83141e25becd9cce6d0252da2e4c91c260f",
-        "22c45ab8e6d1dc1fd4dcfd949670eb664df6fa9c",
-        "13ca12c63db3ee4063654680b88239478fa3302d"
       ]
     }
   ]
