@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-06",
-  "updated_at": "2026-03-06T06:34:29.248Z",
-  "page": "/news/2026-03-06-news.html",
+  "date": "2026-03-07",
+  "updated_at": "2026-03-07T06:32:47.514Z",
+  "page": "/news/2026-03-07-news.html",
   "count": 12,
   "items": [
     {
-      "id": "4559d2bffd0058c335efa063262bcf6609ca8761",
-      "title": "Ob jubilejni tekmi točka in zmaga za Anžeta Kopitarja",
-      "url": "https://www.delo.si/razno/ob-jubilejni-tekmi-tocka-in-zmaga-za-anzeta-kopitarja",
+      "id": "9094a80ab558c2856704fec46f8590822619180c",
+      "title": "Ženske rockovske zasedbe so še vedno redkost",
+      "url": "https://www.delo.si/kultura/glasba/dan-rock-zena-orto-bar-hellcats",
       "source": "www.delo.si",
-      "published_at": "2026-03-06T06:31:00.000Z",
-      "summary": "Summary: Ob jubilejni tekmi točka in zmaga za Anžeta Kopitarja"
+      "published_at": "2026-03-07T06:30:00.000Z",
+      "summary": "Summary: Ženske rockovske zasedbe so še vedno redkost"
     },
     {
-      "id": "24db3c8e0f5c4c369ded0339acb0eecd4d50d1b0",
-      "title": "Trump iranske sile pozval k predaji in sprejetju amnestije",
-      "url": "https://www.delo.si/novice/svet/trump-iranske-sile-pozval-k-predaji-in-sprejetju-amnestije",
-      "source": "www.delo.si",
-      "published_at": "2026-03-06T06:29:53.000Z",
-      "summary": "Summary: Trump iranske sile pozval k predaji in sprejetju amnestije"
-    },
-    {
-      "id": "e8fa09f8a784b8f2bc174e9f755dc7efa96ec1b8",
-      "title": "Prvi trening v znamenju Ferrarija, na drugem najhitrejši Piastri",
-      "url": "https://www.24ur.com/sport/formula1/formula-1-se-vraca-prva-treninga-nove-sezone-v-melbournu.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-06T06:29:37.000Z",
-      "summary": "Summary: Prvi trening v znamenju Ferrarija, na drugem najhitrejši Piastri"
-    },
-    {
-      "id": "fa5dd984a77e20e88479a340491911e4363ddd61",
-      "title": "Lens reach French Cup quarter-finals after beating Lyon on penalties",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260306-lens-reach-french-cup-quarter-finals-after-beating-lyon-on-penalties",
+      "id": "b424b9eee392bf30617c7df208f226c26e8199dc",
+      "title": "Russia is helping Iran target US military forces, officials say",
+      "url": "https://www.france24.com/en/middle-east/20260307-russia-is-helping-iran-target-us-military-forces-officials-say",
       "source": "www.france24.com",
-      "published_at": "2026-03-06T06:28:27.000Z",
-      "summary": "Summary: Lens reach French Cup quarter-finals after beating Lyon on penalties"
+      "published_at": "2026-03-07T06:29:07.000Z",
+      "summary": "Summary: Russia is helping Iran target US military forces, officials say"
     },
     {
-      "id": "d170ccac567f3f147dde3ffdb44cc7dcbf5c3e1c",
-      "title": "Australia news live: Liberals say One Nation’s move to rule out preference deals in SA election is ‘highlight destructive’",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/06/middle-east-flights-return-queensland-weather-nsw-budget-estimates-anthony-albanese-angus-taylor-labor-coalition-politics-updates-ntwnfb",
-      "source": "www.theguardian.com",
-      "published_at": "2026-03-06T06:24:10.000Z",
-      "summary": "Summary: Australia news live: Liberals say One Nation’s move to rule out preference deals in SA election is ‘highlight destructive’"
+      "id": "cd7784ad240296057c2fa599bbbc8d1b4035ce52",
+      "title": "Luka Dončić si je dal duška in si v zadnji četrtini privoščil počitek",
+      "url": "https://www.delo.si/sport/kosarka/luka-doncic-si-je-dal-duska-in-si-v-zadnji-cetrtini-privoscil-pocitek",
+      "source": "www.delo.si",
+      "published_at": "2026-03-07T06:28:00.000Z",
+      "summary": "Summary: Luka Dončić si je dal duška in si v zadnji četrtini privoščil počitek"
     },
     {
-      "id": "5648608b6f3f69df34b146a03c81987c8c74000c",
-      "title": "Iran war live updates: US temporarily lets India buy Russian oil amid energy fears; Israeli military launches strikes on Beirut",
-      "url": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
-      "source": "www.theguardian.com",
-      "published_at": "2026-03-06T06:22:17.000Z",
-      "summary": "Summary: Iran war live updates: US temporarily lets India buy Russian oil amid energy fears; Israeli military launches strikes on Beirut"
-    },
-    {
-      "id": "5bc183d8811a0c82d51a074c9baab4c5a40d0728",
-      "title": "Iran war: What is happening on day seven of US-Israel attacks?",
-      "url": "https://www.aljazeera.com/news/2026/3/6/iran-war-what-is-happening-on-day-seven-of-us-israel-attacks?traffic_source=rss",
-      "source": "www.aljazeera.com",
-      "published_at": "2026-03-06T06:18:53.000Z",
-      "summary": "Summary: Iran war: What is happening on day seven of US-Israel attacks?"
-    },
-    {
-      "id": "2cfcc84e821a5d16d3684c2d18be0f962293ce2e",
-      "title": "McLaren's Piastri fastest on first day of F1 season",
-      "url": "https://www.bbc.com/sport/formula1/articles/cp328jwy4yqo?at_medium=RSS&at_campaign=rss",
-      "source": "feeds.bbci.co.uk",
-      "published_at": "2026-03-06T06:17:54.000Z",
-      "summary": "Summary: McLaren's Piastri fastest on first day of F1 season"
-    },
-    {
-      "id": "dc39069fb9037eb5d6350aeec9c6007b31902685",
-      "title": "Hong Kong domestic helper jailed for 27 months over fatal runaway car accident",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3345684/hong-kong-domestic-helper-jailed-27-months-over-fatal-runaway-car-accident?utm_source=rss_feed",
-      "source": "www.scmp.com",
-      "published_at": "2026-03-06T06:16:59.000Z",
-      "summary": "Summary: Hong Kong domestic helper jailed for 27 months over fatal runaway car accident"
-    },
-    {
-      "id": "08f9a03e1885723e928c8325fbf2dd8760dbb018",
-      "title": "Family shares heartbreak as murder investigation turns double homicide",
-      "url": "https://www.abc.net.au/news/2026-03-06/spencer-park-albany-double-homicide-investigation/106424088",
-      "source": "www.abc.net.au",
-      "published_at": "2026-03-06T06:16:31.000Z",
-      "summary": "Summary: Family shares heartbreak as murder investigation turns double homicide"
-    },
-    {
-      "id": "b673f7f2e849835ba662095da8f263aacfd08b16",
-      "title": "Iran Live Updates: Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
-      "url": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump",
+      "id": "d11b52932f10548670790405f620fe4c9de073a7",
+      "title": "Live Updates: New Wave of Airstrikes Batters Tehran",
+      "url": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
       "source": "rss.nytimes.com",
-      "published_at": "2026-03-06T06:13:47.000Z",
-      "summary": "Summary: Iran Live Updates: Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates"
+      "published_at": "2026-03-07T06:25:05.000Z",
+      "summary": "Summary: Live Updates: New Wave of Airstrikes Batters Tehran"
     },
     {
-      "id": "fbadf1d97b6c7e62377b479a408d6ea6c7792011",
-      "title": "Novi izraelski napadi na Teheran in Bejrut. Trump: Kopenska ofenziva na Iran bi bila \"izguba časa\".",
-      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/novi-izraelski-napadi-na-teheran-in-bejrut-trump-kopenska-ofenziva-na-iran-bi-bila-izguba-casa/775499",
+      "id": "bdd5282f33b1ed24dc2d66bba4547859591cce23",
+      "title": "Russell dominiral, Hamilton razočaral, Verstappen po trku šele z 20. mesta",
+      "url": "https://www.24ur.com/sport/formula1/kdo-bo-najhitrejsi-na-prvih-letosnjih-kvalifikacijah.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-07T06:24:48.000Z",
+      "summary": "Summary: Russell dominiral, Hamilton razočaral, Verstappen po trku šele z 20. mesta"
+    },
+    {
+      "id": "ee1daf3056e31650cade625453e4d655b827cd47",
+      "title": "Middle East crisis live: explosions rock Tehran as Iran war enters second week",
+      "url": "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week",
+      "source": "www.theguardian.com",
+      "published_at": "2026-03-07T06:22:40.000Z",
+      "summary": "Summary: Middle East crisis live: explosions rock Tehran as Iran war enters second week"
+    },
+    {
+      "id": "670ac38d51c457335d1fbe57ca26d16388a869e8",
+      "title": "Honest radio and an antidote to depression. Why these fans love Kyle and Jackie O",
+      "url": "https://www.abc.net.au/news/2026-03-07/kyle-and-jackie-o-superfans-devastated/106425308",
+      "source": "www.abc.net.au",
+      "published_at": "2026-03-07T06:20:22.000Z",
+      "summary": "Summary: Honest radio and an antidote to depression. Why these fans love Kyle and Jackie O"
+    },
+    {
+      "id": "8f98f4146939ea89e2a1746fca551c86e0bbc248",
+      "title": "SA Liberals back One Nation as leader won't condemn Bernardi comments",
+      "url": "https://www.abc.net.au/news/2026-03-07/sa-liberals-to-preference-one-nation-bernardi-comments/106428070",
+      "source": "www.abc.net.au",
+      "published_at": "2026-03-07T06:18:36.000Z",
+      "summary": "Summary: SA Liberals back One Nation as leader won't condemn Bernardi comments"
+    },
+    {
+      "id": "3e83ff13b5855ac76ff3322285ba255399fb7f46",
+      "title": "Vodnik za obiskovalce Pokala Vitranc: upoštevajte navodila policistov",
+      "url": "https://www.24ur.com/novice/slovenija/vodnik-za-obiskovalce-pokala-vitranc-upostevajte-navodila-policistov.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-07T06:10:59.000Z",
+      "summary": "Summary: Vodnik za obiskovalce Pokala Vitranc: upoštevajte navodila policistov"
+    },
+    {
+      "id": "a0107b482c6dc3decba69055141bfd5392245dcc",
+      "title": "Volitve in mladi inovatorji: kdo bo zadržal talente?",
+      "url": "https://www.24ur.com/novice/fokus/volitve-in-generacija-z-kdo-bo-zadrzal-talente.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-07T06:10:26.000Z",
+      "summary": "Summary: Volitve in mladi inovatorji: kdo bo zadržal talente?"
+    },
+    {
+      "id": "f6ac032297109d9b3f33f730a21a3b7f1c18bfe2",
+      "title": "Lakersi zanesljivo ugnali Indiano, Dončić se je ustavil pri 44 točkah",
+      "url": "https://www.24ur.com/sport/kosarka/lakersi-ponoci-proti-najslabsi-ekipi-zahoda.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-07T06:10:15.000Z",
+      "summary": "Summary: Lakersi zanesljivo ugnali Indiano, Dončić se je ustavil pri 44 točkah"
+    },
+    {
+      "id": "c9e1cb4ae8c7bfff745e2f61fe0322103ae1db40",
+      "title": "Ob 9.30 začetek 65. Pokala Vitranc, Žan Kranjec s številko 10",
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/ob-9-30-zacetek-65-pokala-vitranc-zan-kranjec-s-stevilko-10/775603",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-06T06:11:47.000Z",
-      "summary": "Summary: Novi izraelski napadi na Teheran in Bejrut. Trump: Kopenska ofenziva na Iran bi bila \"izguba časa\"."
+      "published_at": "2026-03-07T06:09:02.000Z",
+      "summary": "Summary: Ob 9.30 začetek 65. Pokala Vitranc, Žan Kranjec s številko 10"
     }
   ]
 }

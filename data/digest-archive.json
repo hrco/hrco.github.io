@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-06T06:34:20.578Z",
+  "updated_at": "2026-03-07T06:32:36.507Z",
   "days": [
+    {
+      "date": "2026-03-07",
+      "page": "/news/2026-03-07.html",
+      "teaser": "Top: Ženske rockovske zasedbe so še vedno redkost",
+      "count": 12,
+      "ids": [
+        "9094a80ab558c2856704fec46f8590822619180c",
+        "cd7784ad240296057c2fa599bbbc8d1b4035ce52",
+        "bdd5282f33b1ed24dc2d66bba4547859591cce23",
+        "217d954cdbced95dc3e5b236d9a19a960ca57b54",
+        "a0749be981c0b11e35f8310813a84a647cd42587",
+        "1415a6175c16c448e449cfb5095ed33559d66b44",
+        "a8cb47bde72825800cf3f28d4e8da03c87c4ea8e",
+        "3e83ff13b5855ac76ff3322285ba255399fb7f46",
+        "0db1446336beee466fe2a5ca13551b8284717733",
+        "a0107b482c6dc3decba69055141bfd5392245dcc",
+        "f6ac032297109d9b3f33f730a21a3b7f1c18bfe2",
+        "c9e1cb4ae8c7bfff745e2f61fe0322103ae1db40"
+      ]
+    },
     {
       "date": "2026-03-06",
       "page": "/news/2026-03-06.html",
@@ -579,26 +599,6 @@
         "aa6e46812bd9a75dc7a46365802099ed11694a31",
         "129a990acb66408166ad7555142a895a9275ce48",
         "11bee1210f5a3a421619bed5c1fbc17c0b38d0c6"
-      ]
-    },
-    {
-      "date": "2026-01-31",
-      "page": "/news/2026-01-31.html",
-      "teaser": "Top: Benetke bodo zaplesale v ritmu karnevala. Ta je letos v znamenju Olimpa.",
-      "count": 12,
-      "ids": [
-        "82a9d3155ad374faf8fefda7be8feb6e35e87bef",
-        "94e68ef08c68b01fdb17e68956f9ae7ed9fd4d38",
-        "64e8da3f75a69aa1e06ee6b6b44e47fe2d1982c7",
-        "9798ae32e0b0d5699eefa386a43e3195fb2908ee",
-        "22918b643da8fa2d9ffda0e8673ec4e7915e5641",
-        "2abd1fd5842f2ac6a639b8e7299a8d7b00e31b9d",
-        "f3c4b163a8a60f6b8b361ba5ad6136d9e2246ba3",
-        "62e50e6e43d28d0676c5f2677db46ce1487c6dc5",
-        "7b9297ac822a9fa3f4b80b54146679dcf5021cff",
-        "ce7989c62d0ec316c1d575a289600940fbd94e9d",
-        "60bf41e2aa68895da515b3501c2f368f3c374c2a",
-        "69475f4d0425a4f64c67300a07c1d3fe4831faf2"
       ]
     }
   ]

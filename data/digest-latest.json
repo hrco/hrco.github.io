@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-06",
-  "updated_at": "2026-03-06T06:34:20.578Z",
-  "page": "/news/2026-03-06.html",
+  "date": "2026-03-07",
+  "updated_at": "2026-03-07T06:32:36.507Z",
+  "page": "/news/2026-03-07.html",
   "count": 12,
   "items": [
     {
-      "id": "791eea5b03b37d78c93039a759d4c8adce96eeab",
-      "title": "Black Ops 7 Hunt or Be Hunted Event: How to play, start date, and rewards",
-      "url": "https://dotesports.com/call-of-duty/news/black-ops-7-hunt-or-be-hunted-event-rewards",
-      "source": "dotesports.com",
-      "published_at": "2026-03-06T06:33:06.000Z",
-      "summary": "Summary: Black Ops 7 Hunt or Be Hunted Event: How to play, start date, and rewards"
-    },
-    {
-      "id": "4559d2bffd0058c335efa063262bcf6609ca8761",
-      "title": "Ob jubilejni tekmi točka in zmaga za Anžeta Kopitarja",
-      "url": "https://www.delo.si/razno/ob-jubilejni-tekmi-tocka-in-zmaga-za-anzeta-kopitarja",
+      "id": "9094a80ab558c2856704fec46f8590822619180c",
+      "title": "Ženske rockovske zasedbe so še vedno redkost",
+      "url": "https://www.delo.si/kultura/glasba/dan-rock-zena-orto-bar-hellcats",
       "source": "www.delo.si",
-      "published_at": "2026-03-06T06:31:00.000Z",
-      "summary": "Summary: Ob jubilejni tekmi točka in zmaga za Anžeta Kopitarja"
+      "published_at": "2026-03-07T06:30:00.000Z",
+      "summary": "Summary: Ženske rockovske zasedbe so še vedno redkost"
     },
     {
-      "id": "24db3c8e0f5c4c369ded0339acb0eecd4d50d1b0",
-      "title": "Trump iranske sile pozval k predaji in sprejetju amnestije",
-      "url": "https://www.delo.si/novice/svet/trump-iranske-sile-pozval-k-predaji-in-sprejetju-amnestije",
+      "id": "cd7784ad240296057c2fa599bbbc8d1b4035ce52",
+      "title": "Luka Dončić si je dal duška in si v zadnji četrtini privoščil počitek",
+      "url": "https://www.delo.si/sport/kosarka/luka-doncic-si-je-dal-duska-in-si-v-zadnji-cetrtini-privoscil-pocitek",
       "source": "www.delo.si",
-      "published_at": "2026-03-06T06:29:53.000Z",
-      "summary": "Summary: Trump iranske sile pozval k predaji in sprejetju amnestije"
+      "published_at": "2026-03-07T06:28:00.000Z",
+      "summary": "Summary: Luka Dončić si je dal duška in si v zadnji četrtini privoščil počitek"
     },
     {
-      "id": "e8fa09f8a784b8f2bc174e9f755dc7efa96ec1b8",
-      "title": "Prvi trening v znamenju Ferrarija, na drugem najhitrejši Piastri",
-      "url": "https://www.24ur.com/sport/formula1/formula-1-se-vraca-prva-treninga-nove-sezone-v-melbournu.html",
+      "id": "bdd5282f33b1ed24dc2d66bba4547859591cce23",
+      "title": "Russell dominiral, Hamilton razočaral, Verstappen po trku šele z 20. mesta",
+      "url": "https://www.24ur.com/sport/formula1/kdo-bo-najhitrejsi-na-prvih-letosnjih-kvalifikacijah.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-06T06:29:37.000Z",
-      "summary": "Summary: Prvi trening v znamenju Ferrarija, na drugem najhitrejši Piastri"
+      "published_at": "2026-03-07T06:24:48.000Z",
+      "summary": "Summary: Russell dominiral, Hamilton razočaral, Verstappen po trku šele z 20. mesta"
     },
     {
-      "id": "56ba87e5befd9ee66bd776057a54b3d493943dd1",
-      "title": "Malaysia's Economy, Currency Remain Resilient, Amir Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-03-06/malaysia-s-economy-currency-remain-resilient-amir-says-video",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-03-06T06:20:50.000Z",
-      "summary": "Summary: Malaysia's Economy, Currency Remain Resilient, Amir Says"
-    },
-    {
-      "id": "64c5d387269a75e8d8798b5911405c943fab911d",
-      "title": "Why Every Developer Will Eventually Design AI Systems",
-      "url": "https://dev.to/jaideepparashar/why-every-developer-will-eventually-design-ai-systems-1khf",
+      "id": "217d954cdbced95dc3e5b236d9a19a960ca57b54",
+      "title": "How to Extract Korean Business Reviews from Naver Place (No API Key Needed)",
+      "url": "https://dev.to/sessionzero_ai/how-to-extract-korean-business-reviews-from-naver-place-no-api-key-needed-3d3a",
       "source": "dev.to",
-      "published_at": "2026-03-06T06:18:41.000Z",
-      "summary": "Summary: Why Every Developer Will Eventually Design AI Systems"
+      "published_at": "2026-03-07T06:19:13.000Z",
+      "summary": "Summary: How to Extract Korean Business Reviews from Naver Place (No API Key Needed)"
     },
     {
-      "id": "5c493c62210ac7fcda4e8a3a9216bc133e787a8d",
-      "title": "OpenTableAPI for Developers: Build APIs from Your Table Data",
-      "url": "https://dev.to/priyantha_weerasinghe_1d4/opentableapi-for-developers-build-apis-from-your-table-data-27nh",
+      "id": "a0749be981c0b11e35f8310813a84a647cd42587",
+      "title": "OpenClaw: The Largest Security Incident in Sovereign AI History",
+      "url": "https://dev.to/tiamatenity/openclaw-the-largest-security-incident-in-sovereign-ai-history-327m",
       "source": "dev.to",
-      "published_at": "2026-03-06T06:12:46.000Z",
-      "summary": "Summary: OpenTableAPI for Developers: Build APIs from Your Table Data"
+      "published_at": "2026-03-07T06:18:44.000Z",
+      "summary": "Summary: OpenClaw: The Largest Security Incident in Sovereign AI History"
     },
     {
-      "id": "fbadf1d97b6c7e62377b479a408d6ea6c7792011",
-      "title": "Novi izraelski napadi na Teheran in Bejrut. Trump: Kopenska ofenziva na Iran bi bila \"izguba časa\".",
-      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/novi-izraelski-napadi-na-teheran-in-bejrut-trump-kopenska-ofenziva-na-iran-bi-bila-izguba-casa/775499",
+      "id": "1415a6175c16c448e449cfb5095ed33559d66b44",
+      "title": "Why Kubernetes Alone Isn’t Enough: The Case for API Gateways and Service Meshes",
+      "url": "https://dev.to/mmk4mmk/why-kubernetes-alone-isnt-enough-the-case-for-api-gateways-and-service-meshes-2cg0",
+      "source": "dev.to",
+      "published_at": "2026-03-07T06:17:19.000Z",
+      "summary": "Summary: Why Kubernetes Alone Isn’t Enough: The Case for API Gateways and Service Meshes"
+    },
+    {
+      "id": "a8cb47bde72825800cf3f28d4e8da03c87c4ea8e",
+      "title": "Smart Home Surveillance: Alexa, Ring, and the Always-On Listening Grid",
+      "url": "https://dev.to/tiamatenity/smart-home-surveillance-alexa-ring-and-the-always-on-listening-grid-3mfe",
+      "source": "dev.to",
+      "published_at": "2026-03-07T06:16:10.000Z",
+      "summary": "Summary: Smart Home Surveillance: Alexa, Ring, and the Always-On Listening Grid"
+    },
+    {
+      "id": "3e83ff13b5855ac76ff3322285ba255399fb7f46",
+      "title": "Vodnik za obiskovalce Pokala Vitranc: upoštevajte navodila policistov",
+      "url": "https://www.24ur.com/novice/slovenija/vodnik-za-obiskovalce-pokala-vitranc-upostevajte-navodila-policistov.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-07T06:10:59.000Z",
+      "summary": "Summary: Vodnik za obiskovalce Pokala Vitranc: upoštevajte navodila policistov"
+    },
+    {
+      "id": "0db1446336beee466fe2a5ca13551b8284717733",
+      "title": "How I built a 39 compression pipeline with AES-256-GCM in Python (and why the dictionary is everything)",
+      "url": "https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc",
+      "source": "dev.to",
+      "published_at": "2026-03-07T06:10:31.000Z",
+      "summary": "Summary: How I built a 39 compression pipeline with AES-256-GCM in Python (and why the dictionary is everything)"
+    },
+    {
+      "id": "a0107b482c6dc3decba69055141bfd5392245dcc",
+      "title": "Volitve in mladi inovatorji: kdo bo zadržal talente?",
+      "url": "https://www.24ur.com/novice/fokus/volitve-in-generacija-z-kdo-bo-zadrzal-talente.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-07T06:10:26.000Z",
+      "summary": "Summary: Volitve in mladi inovatorji: kdo bo zadržal talente?"
+    },
+    {
+      "id": "f6ac032297109d9b3f33f730a21a3b7f1c18bfe2",
+      "title": "Lakersi zanesljivo ugnali Indiano, Dončić se je ustavil pri 44 točkah",
+      "url": "https://www.24ur.com/sport/kosarka/lakersi-ponoci-proti-najslabsi-ekipi-zahoda.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-07T06:10:15.000Z",
+      "summary": "Summary: Lakersi zanesljivo ugnali Indiano, Dončić se je ustavil pri 44 točkah"
+    },
+    {
+      "id": "c9e1cb4ae8c7bfff745e2f61fe0322103ae1db40",
+      "title": "Ob 9.30 začetek 65. Pokala Vitranc, Žan Kranjec s številko 10",
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/ob-9-30-zacetek-65-pokala-vitranc-zan-kranjec-s-stevilko-10/775603",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-06T06:11:47.000Z",
-      "summary": "Summary: Novi izraelski napadi na Teheran in Bejrut. Trump: Kopenska ofenziva na Iran bi bila \"izguba časa\"."
-    },
-    {
-      "id": "fa272d717800fb04ece6a1fa6fb48dcb5c60996b",
-      "title": "Na Brniku bo pristalo peto letalo z evakuiranimi potniki",
-      "url": "https://www.rtvslo.si/slovenija/na-brniku-bo-pristalo-peto-letalo-z-evakuiranimi-potniki/775496",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-06T06:10:17.000Z",
-      "summary": "Summary: Na Brniku bo pristalo peto letalo z evakuiranimi potniki"
-    },
-    {
-      "id": "4ba3b6ded43d4ec3cce5ca24390527f823c11d08",
-      "title": "Mattress Firm Coupons and Discounts: Save Up to $600",
-      "url": "https://www.wired.com/story/mattress-firm-coupon/",
-      "source": "www.wired.com",
-      "published_at": "2026-03-06T06:08:00.000Z",
-      "summary": "Summary: Mattress Firm Coupons and Discounts: Save Up to $600"
-    },
-    {
-      "id": "4bae664747b336bfb59d15837a03ac1b6498aa11",
-      "title": "KitchenAid Promo Codes and Discounts: Save Up To 50%",
-      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "source": "www.wired.com",
-      "published_at": "2026-03-06T06:05:00.000Z",
-      "summary": "Summary: KitchenAid Promo Codes and Discounts: Save Up To 50%"
-    },
-    {
-      "id": "7f28c8014136c74748d324a0ebfde4afc7291ce1",
-      "title": "Kopitar na 1500. tekmi s podajo utrl pot k nujni zmagi",
-      "url": "https://www.rtvslo.si/sport/hokej/liga-nhl/kopitar-na-1500-tekmi-s-podajo-utrl-pot-k-nujni-zmagi/775497",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-06T06:04:47.000Z",
-      "summary": "Summary: Kopitar na 1500. tekmi s podajo utrl pot k nujni zmagi"
+      "published_at": "2026-03-07T06:09:02.000Z",
+      "summary": "Summary: Ob 9.30 začetek 65. Pokala Vitranc, Žan Kranjec s številko 10"
     }
   ]
 }

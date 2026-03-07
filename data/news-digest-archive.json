@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-06T06:34:29.248Z",
+  "updated_at": "2026-03-07T06:32:47.514Z",
   "days": [
+    {
+      "date": "2026-03-07",
+      "page": "/news/2026-03-07-news.html",
+      "teaser": "Top: Ženske rockovske zasedbe so še vedno redkost",
+      "count": 12,
+      "ids": [
+        "9094a80ab558c2856704fec46f8590822619180c",
+        "b424b9eee392bf30617c7df208f226c26e8199dc",
+        "cd7784ad240296057c2fa599bbbc8d1b4035ce52",
+        "d11b52932f10548670790405f620fe4c9de073a7",
+        "bdd5282f33b1ed24dc2d66bba4547859591cce23",
+        "ee1daf3056e31650cade625453e4d655b827cd47",
+        "670ac38d51c457335d1fbe57ca26d16388a869e8",
+        "8f98f4146939ea89e2a1746fca551c86e0bbc248",
+        "3e83ff13b5855ac76ff3322285ba255399fb7f46",
+        "a0107b482c6dc3decba69055141bfd5392245dcc",
+        "f6ac032297109d9b3f33f730a21a3b7f1c18bfe2",
+        "c9e1cb4ae8c7bfff745e2f61fe0322103ae1db40"
+      ]
+    },
     {
       "date": "2026-03-06",
       "page": "/news/2026-03-06-news.html",
@@ -579,26 +599,6 @@
         "8ef814df070a3465f8bb5257fb206fb45f4c3615",
         "4672f5a4caedf28af968109aee745812708655c6",
         "4587f01398ff2e3ce16c237d9cde5c4bea848f3c"
-      ]
-    },
-    {
-      "date": "2026-01-31",
-      "page": "/news/2026-01-31-news.html",
-      "teaser": "Top: Benetke bodo zaplesale v ritmu karnevala. Ta je letos v znamenju Olimpa.",
-      "count": 12,
-      "ids": [
-        "82a9d3155ad374faf8fefda7be8feb6e35e87bef",
-        "802f1dc1206ce59e45a01dbed682f5c7feb16cd8",
-        "94e68ef08c68b01fdb17e68956f9ae7ed9fd4d38",
-        "1f694e5c57a74cf0fd3fefac47554d9163f510bc",
-        "64e8da3f75a69aa1e06ee6b6b44e47fe2d1982c7",
-        "9798ae32e0b0d5699eefa386a43e3195fb2908ee",
-        "41ac52c83734baf35951c245094d142931776558",
-        "119f659d623d660c580ebae88938800d213c3e22",
-        "62e50e6e43d28d0676c5f2677db46ce1487c6dc5",
-        "7b9297ac822a9fa3f4b80b54146679dcf5021cff",
-        "60bf41e2aa68895da515b3501c2f368f3c374c2a",
-        "c5d288a08699dc3b16faccd3a77898a98a664540"
       ]
     }
   ]
