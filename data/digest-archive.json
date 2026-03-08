@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-07T06:32:36.507Z",
+  "updated_at": "2026-03-08T06:33:09.812Z",
   "days": [
+    {
+      "date": "2026-03-08",
+      "page": "/news/2026-03-08.html",
+      "teaser": "Top: 8. marec: ženskam je zagotovljenih le 64 odstotkov pravic, ki jih imajo moški",
+      "count": 12,
+      "ids": [
+        "bc698bdd38c54327f300a17701e16d73092185fc",
+        "9070251a1ef3dedabd5c61a88f0305a43293a2d1",
+        "5d28e26f83889f2e4dfa4a79c15e850973c98d9d",
+        "8370f5b4230c1077979ce967f2f3151be7bc403f",
+        "73b5ac0544cc5b634f5b7c5273447fcfef5ac1b4",
+        "4d0caadfdc980fc3d76f3a03eb2bd61841ccc0e0",
+        "7641dd9af4507479f2aeb770e0e9f009ef2dea70",
+        "7fb4fb9fa546dd76277bf22a1201130e6d250406",
+        "d2843ebf9af323f1a2e327cfd1e93b57b1e9e5e6",
+        "345a3f6ba2af2bc5568896c6a21aabbf0fa28ff6",
+        "0d4ba53f07b6ddafe0460fa9382fb2123dcd50ee",
+        "37529f4fdf3f6d8cbb2da9910ebf1667ab29541d"
+      ]
+    },
     {
       "date": "2026-03-07",
       "page": "/news/2026-03-07.html",
@@ -579,26 +599,6 @@
         "d5f20193f172f5efce207c4c0b56a0761e20e8ac",
         "bca5e6234637afed4e5529b3a39a83fa053d0ad4",
         "d2ff6d5133c79ec1f1f15d4da7116cfec7a392d4"
-      ]
-    },
-    {
-      "date": "2026-02-01",
-      "page": "/news/2026-02-01.html",
-      "teaser": "Top: Gallery: Wildcards, Challengers Alike Get Flexed at Unruly Pipeline",
-      "count": 12,
-      "ids": [
-        "04b3e125a54b73b092391f73e8e15c695613a2ab",
-        "6c7f26cdd9f6ad143d3350c85542dc277cfe7d38",
-        "e29bc62e5bf632d33652fe6501c3652f5e15f83b",
-        "884e1d872ab070424a8f53c3ad3db910efc7b276",
-        "f65edd2032db17bfa8157d355aed5e94104328a2",
-        "ca8468d8771d5d5cf7ff4861aeec9b37709fbdcc",
-        "f86b82613735856fda164dee7bdf182c4411a399",
-        "5db88cce236073d070b8957d118b732d0f7d03c0",
-        "9cf0c04c21d46d1dff575a919645da5e372d13eb",
-        "aa6e46812bd9a75dc7a46365802099ed11694a31",
-        "129a990acb66408166ad7555142a895a9275ce48",
-        "11bee1210f5a3a421619bed5c1fbc17c0b38d0c6"
       ]
     }
   ]

@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-07",
-  "updated_at": "2026-03-07T06:32:47.514Z",
-  "page": "/news/2026-03-07-news.html",
+  "date": "2026-03-08",
+  "updated_at": "2026-03-08T06:33:20.052Z",
+  "page": "/news/2026-03-08-news.html",
   "count": 12,
   "items": [
     {
-      "id": "9094a80ab558c2856704fec46f8590822619180c",
-      "title": "Ženske rockovske zasedbe so še vedno redkost",
-      "url": "https://www.delo.si/kultura/glasba/dan-rock-zena-orto-bar-hellcats",
+      "id": "08bef522bd139d4b8ec7e975f8306ad2c0a0b4a0",
+      "title": "Sri Lanka hospital discharges 22 Iranian sailors rescued after warship sinking",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3345856/sri-lanka-hospital-discharges-22-iranian-sailors-rescued-after-warship-sinking?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-03-08T06:30:12.000Z",
+      "summary": "Summary: Sri Lanka hospital discharges 22 Iranian sailors rescued after warship sinking"
+    },
+    {
+      "id": "492ae674363d5626b9a9a750f104df8fb125d151",
+      "title": "Quantum tech breakthrough: China’s double-photon device breaks efficiency ceiling",
+      "url": "https://www.scmp.com/news/china/science/article/3345508/quantum-tech-breakthrough-chinas-double-photon-device-breaks-efficiency-ceiling?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-03-08T06:30:08.000Z",
+      "summary": "Summary: Quantum tech breakthrough: China’s double-photon device breaks efficiency ceiling"
+    },
+    {
+      "id": "bc698bdd38c54327f300a17701e16d73092185fc",
+      "title": "8. marec: ženskam je zagotovljenih le 64 odstotkov pravic, ki jih imajo moški",
+      "url": "https://www.delo.si/novice/slovenija/osmi-marec-mednarodni-dan-zensk",
       "source": "www.delo.si",
-      "published_at": "2026-03-07T06:30:00.000Z",
-      "summary": "Summary: Ženske rockovske zasedbe so še vedno redkost"
+      "published_at": "2026-03-08T06:24:00.000Z",
+      "summary": "Summary: 8. marec: ženskam je zagotovljenih le 64 odstotkov pravic, ki jih imajo moški"
     },
     {
-      "id": "b424b9eee392bf30617c7df208f226c26e8199dc",
-      "title": "Russia is helping Iran target US military forces, officials say",
-      "url": "https://www.france24.com/en/middle-east/20260307-russia-is-helping-iran-target-us-military-forces-officials-say",
-      "source": "www.france24.com",
-      "published_at": "2026-03-07T06:29:07.000Z",
-      "summary": "Summary: Russia is helping Iran target US military forces, officials say"
-    },
-    {
-      "id": "cd7784ad240296057c2fa599bbbc8d1b4035ce52",
-      "title": "Luka Dončić si je dal duška in si v zadnji četrtini privoščil počitek",
-      "url": "https://www.delo.si/sport/kosarka/luka-doncic-si-je-dal-duska-in-si-v-zadnji-cetrtini-privoscil-pocitek",
+      "id": "5d28e26f83889f2e4dfa4a79c15e850973c98d9d",
+      "title": "Nekdanji partner Dončića po skrivnostni bolezni znova na parketu",
+      "url": "https://www.delo.si/sport/kosarka/nekdanji-partner-doncica-po-skrivnostni-bolezni-znova-na-parketu",
       "source": "www.delo.si",
-      "published_at": "2026-03-07T06:28:00.000Z",
-      "summary": "Summary: Luka Dončić si je dal duška in si v zadnji četrtini privoščil počitek"
+      "published_at": "2026-03-08T06:20:00.000Z",
+      "summary": "Summary: Nekdanji partner Dončića po skrivnostni bolezni znova na parketu"
     },
     {
-      "id": "d11b52932f10548670790405f620fe4c9de073a7",
-      "title": "Live Updates: New Wave of Airstrikes Batters Tehran",
-      "url": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
-      "source": "rss.nytimes.com",
-      "published_at": "2026-03-07T06:25:05.000Z",
-      "summary": "Summary: Live Updates: New Wave of Airstrikes Batters Tehran"
+      "id": "503e2d892ec4a457f170e4e67196b54b9893527b",
+      "title": "Russell wins first race of new F1 era in Australia",
+      "url": "https://www.bbc.com/sport/formula1/articles/c1l72e7mrn4o?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-03-08T06:18:18.000Z",
+      "summary": "Summary: Russell wins first race of new F1 era in Australia"
     },
     {
-      "id": "bdd5282f33b1ed24dc2d66bba4547859591cce23",
-      "title": "Russell dominiral, Hamilton razočaral, Verstappen po trku šele z 20. mesta",
-      "url": "https://www.24ur.com/sport/formula1/kdo-bo-najhitrejsi-na-prvih-letosnjih-kvalifikacijah.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-07T06:24:48.000Z",
-      "summary": "Summary: Russell dominiral, Hamilton razočaral, Verstappen po trku šele z 20. mesta"
-    },
-    {
-      "id": "ee1daf3056e31650cade625453e4d655b827cd47",
-      "title": "Middle East crisis live: explosions rock Tehran as Iran war enters second week",
-      "url": "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week",
+      "id": "294279cdd19ba25c5d58211ccbfb9c5ea8cf268a",
+      "title": "Middle East crisis live: Trump says Iran being ‘decimated’ as Gulf states hit with wave of strikes",
+      "url": "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated",
       "source": "www.theguardian.com",
-      "published_at": "2026-03-07T06:22:40.000Z",
-      "summary": "Summary: Middle East crisis live: explosions rock Tehran as Iran war enters second week"
+      "published_at": "2026-03-08T06:17:03.000Z",
+      "summary": "Summary: Middle East crisis live: Trump says Iran being ‘decimated’ as Gulf states hit with wave of strikes"
     },
     {
-      "id": "670ac38d51c457335d1fbe57ca26d16388a869e8",
-      "title": "Honest radio and an antidote to depression. Why these fans love Kyle and Jackie O",
-      "url": "https://www.abc.net.au/news/2026-03-07/kyle-and-jackie-o-superfans-devastated/106425308",
-      "source": "www.abc.net.au",
-      "published_at": "2026-03-07T06:20:22.000Z",
-      "summary": "Summary: Honest radio and an antidote to depression. Why these fans love Kyle and Jackie O"
+      "id": "d551f51f0f9f28b55f5e6dbaf33c8570a673b72e",
+      "title": "US embassy in Norway’s Oslo hit by explosion but no injuries, police say",
+      "url": "https://www.scmp.com/news/world/europe/article/3345858/us-embassy-norways-oslo-hit-explosion-no-injuries-police-say?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-03-08T06:15:04.000Z",
+      "summary": "Summary: US embassy in Norway’s Oslo hit by explosion but no injuries, police say"
     },
     {
-      "id": "8f98f4146939ea89e2a1746fca551c86e0bbc248",
-      "title": "SA Liberals back One Nation as leader won't condemn Bernardi comments",
-      "url": "https://www.abc.net.au/news/2026-03-07/sa-liberals-to-preference-one-nation-bernardi-comments/106428070",
-      "source": "www.abc.net.au",
-      "published_at": "2026-03-07T06:18:36.000Z",
-      "summary": "Summary: SA Liberals back One Nation as leader won't condemn Bernardi comments"
+      "id": "42438555203b8042e61c713f4b8cf81ef82609ad",
+      "title": "Hong Kong considers raising MPF contributions after 13-year freeze on thresholds",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345860/hong-kong-may-raise-mpf-contributions-after-13-year-freeze-thresholds?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-03-08T06:14:25.000Z",
+      "summary": "Summary: Hong Kong considers raising MPF contributions after 13-year freeze on thresholds"
     },
     {
-      "id": "3e83ff13b5855ac76ff3322285ba255399fb7f46",
-      "title": "Vodnik za obiskovalce Pokala Vitranc: upoštevajte navodila policistov",
-      "url": "https://www.24ur.com/novice/slovenija/vodnik-za-obiskovalce-pokala-vitranc-upostevajte-navodila-policistov.html",
+      "id": "73b5ac0544cc5b634f5b7c5273447fcfef5ac1b4",
+      "title": "Dvojna zmaga Mercedesa, Ferrari v boju za zmago zatajil z odločitvami",
+      "url": "https://www.24ur.com/sport/formula1/formula-1-vn-avstralije.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-07T06:10:59.000Z",
-      "summary": "Summary: Vodnik za obiskovalce Pokala Vitranc: upoštevajte navodila policistov"
+      "published_at": "2026-03-08T06:13:34.000Z",
+      "summary": "Summary: Dvojna zmaga Mercedesa, Ferrari v boju za zmago zatajil z odločitvami"
     },
     {
-      "id": "a0107b482c6dc3decba69055141bfd5392245dcc",
-      "title": "Volitve in mladi inovatorji: kdo bo zadržal talente?",
-      "url": "https://www.24ur.com/novice/fokus/volitve-in-generacija-z-kdo-bo-zadrzal-talente.html",
+      "id": "4d0caadfdc980fc3d76f3a03eb2bd61841ccc0e0",
+      "title": "Mama, ki je premaknila meje medicine",
+      "url": "https://www.24ur.com/novice/slovenija/mama-ki-je-premaknila-meje-medicine.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-07T06:10:26.000Z",
-      "summary": "Summary: Volitve in mladi inovatorji: kdo bo zadržal talente?"
+      "published_at": "2026-03-08T06:10:54.000Z",
+      "summary": "Summary: Mama, ki je premaknila meje medicine"
     },
     {
-      "id": "f6ac032297109d9b3f33f730a21a3b7f1c18bfe2",
-      "title": "Lakersi zanesljivo ugnali Indiano, Dončić se je ustavil pri 44 točkah",
-      "url": "https://www.24ur.com/sport/kosarka/lakersi-ponoci-proti-najslabsi-ekipi-zahoda.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-07T06:10:15.000Z",
-      "summary": "Summary: Lakersi zanesljivo ugnali Indiano, Dončić se je ustavil pri 44 točkah"
-    },
-    {
-      "id": "c9e1cb4ae8c7bfff745e2f61fe0322103ae1db40",
-      "title": "Ob 9.30 začetek 65. Pokala Vitranc, Žan Kranjec s številko 10",
-      "url": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/ob-9-30-zacetek-65-pokala-vitranc-zan-kranjec-s-stevilko-10/775603",
+      "id": "d2843ebf9af323f1a2e327cfd1e93b57b1e9e5e6",
+      "title": "Gilgeous Alexander bo kmalu \"ujel\" Wilta Chamberlaina",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/gilgeous-alexander-bo-kmalu-ujel-wilta-chamberlaina/775672",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-07T06:09:02.000Z",
-      "summary": "Summary: Ob 9.30 začetek 65. Pokala Vitranc, Žan Kranjec s številko 10"
+      "published_at": "2026-03-08T06:08:31.000Z",
+      "summary": "Summary: Gilgeous Alexander bo kmalu \"ujel\" Wilta Chamberlaina"
+    },
+    {
+      "id": "0d4ba53f07b6ddafe0460fa9382fb2123dcd50ee",
+      "title": "Živa Bizovičar: Poklic režiserja je zelo prepleten s patriarhalno strukturo, ki se ji skušam ogniti",
+      "url": "https://www.rtvslo.si/kultura/intervju/ziva-bizovicar-poklic-reziserja-je-zelo-prepleten-s-patriarhalno-strukturo-ki-se-ji-skusam-ogniti/775204",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-08T06:04:37.000Z",
+      "summary": "Summary: Živa Bizovičar: Poklic režiserja je zelo prepleten s patriarhalno strukturo, ki se ji skušam ogniti"
     }
   ]
 }

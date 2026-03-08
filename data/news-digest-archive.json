@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-07T06:32:47.514Z",
+  "updated_at": "2026-03-08T06:33:20.052Z",
   "days": [
+    {
+      "date": "2026-03-08",
+      "page": "/news/2026-03-08-news.html",
+      "teaser": "Top: Sri Lanka hospital discharges 22 Iranian sailors rescued after warship sinking",
+      "count": 12,
+      "ids": [
+        "08bef522bd139d4b8ec7e975f8306ad2c0a0b4a0",
+        "492ae674363d5626b9a9a750f104df8fb125d151",
+        "bc698bdd38c54327f300a17701e16d73092185fc",
+        "5d28e26f83889f2e4dfa4a79c15e850973c98d9d",
+        "503e2d892ec4a457f170e4e67196b54b9893527b",
+        "294279cdd19ba25c5d58211ccbfb9c5ea8cf268a",
+        "d551f51f0f9f28b55f5e6dbaf33c8570a673b72e",
+        "42438555203b8042e61c713f4b8cf81ef82609ad",
+        "73b5ac0544cc5b634f5b7c5273447fcfef5ac1b4",
+        "4d0caadfdc980fc3d76f3a03eb2bd61841ccc0e0",
+        "d2843ebf9af323f1a2e327cfd1e93b57b1e9e5e6",
+        "0d4ba53f07b6ddafe0460fa9382fb2123dcd50ee"
+      ]
+    },
     {
       "date": "2026-03-07",
       "page": "/news/2026-03-07-news.html",
@@ -579,26 +599,6 @@
         "90f7d6bc85035b7ca71e255b597fed8e3f2b82c5",
         "96df07ba95bb6e589faf2d5f0f374076e33d7ba5",
         "10f8d986e14b60693e8e5b493e189ef6b504db7b"
-      ]
-    },
-    {
-      "date": "2026-02-01",
-      "page": "/news/2026-02-01-news.html",
-      "teaser": "Top: How forensics uncovered the murder behind bones found at a beauty spot",
-      "count": 12,
-      "ids": [
-        "a668f5564fa6dfed32fd5f74ed88e4c6e26e1b93",
-        "0e6667a173a834204bd517aa75d3cc653b49f9f7",
-        "e29bc62e5bf632d33652fe6501c3652f5e15f83b",
-        "884e1d872ab070424a8f53c3ad3db910efc7b276",
-        "f65edd2032db17bfa8157d355aed5e94104328a2",
-        "ca8468d8771d5d5cf7ff4861aeec9b37709fbdcc",
-        "9cf0c04c21d46d1dff575a919645da5e372d13eb",
-        "aa6e46812bd9a75dc7a46365802099ed11694a31",
-        "759dd6019945e3e2e623008f2d651f35a723771c",
-        "8ef814df070a3465f8bb5257fb206fb45f4c3615",
-        "4672f5a4caedf28af968109aee745812708655c6",
-        "4587f01398ff2e3ce16c237d9cde5c4bea848f3c"
       ]
     }
   ]

@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-07T06:32:52.852Z",
+  "updated_at": "2026-03-08T06:33:24.971Z",
   "days": [
+    {
+      "date": "2026-03-08",
+      "page": "/news/2026-03-08-sport.html",
+      "teaser": "Top: Russell wins first race of new F1 era in Australia",
+      "count": 12,
+      "ids": [
+        "503e2d892ec4a457f170e4e67196b54b9893527b",
+        "5d9c31cf2feb5439bb816bd82291b534c7169eb2",
+        "4a56369708d600195bd3b95302b3df61fc3dfaf1",
+        "a3f508bf8508f3d85596f38f76fd56fecd7b3858",
+        "c493b424f2695854b748174d736ddb79076f2308",
+        "37dad6578fd32b8c090e130c204aecc0a5f18052",
+        "cc3b144b96e561f465e471ef9dea39c5385a6685",
+        "33de63c207d438c57365986768f52cbf5c23ed5e",
+        "4e7153cdec5f68db553dc76adf01171052e36e20",
+        "203c7cd0fdd2825a4abb1c1bc36d826df4dc16a8",
+        "0baa670154d3fa303c2fa7b54d600b8737dd8838",
+        "ea57d6252a3f5487ccf2dc230564a93a47af1dab"
+      ]
+    },
     {
       "date": "2026-03-07",
       "page": "/news/2026-03-07-sport.html",
@@ -579,26 +599,6 @@
         "d36d722215a19eea3c487b18f1b0482118ee8e80",
         "3e420b22dc4feb7789ed7bfa407dcb7996f644cc",
         "f259512647aa00844905e79fc6e6fa395c577b5f"
-      ]
-    },
-    {
-      "date": "2026-02-01",
-      "page": "/news/2026-02-01-sport.html",
-      "teaser": "Top: Gallery: Wildcards, Challengers Alike Get Flexed at Unruly Pipeline",
-      "count": 12,
-      "ids": [
-        "04b3e125a54b73b092391f73e8e15c695613a2ab",
-        "3edaa517ba09bb30d77a8199e60ec48348ac229d",
-        "f841898b00765eff33f7a48b28b99ae7feae8d06",
-        "62924341fb77dfe341ff5a986eaeca3484e842b5",
-        "9ab9990287bf455fd7ce694ce8488091e070fc7c",
-        "4e01def234e4563c3122422ed6bcaf1c3a9f24a3",
-        "5db218321587d66b28947db3576722a31dd7b715",
-        "2ca6925c1b4ce67b678ac5ecd5a250ebb698fa61",
-        "2b41b8d0051309b8189e194b02f97a00cf9cb0e3",
-        "15fe0dcf6623e8df9d6ba17b8f3666fe8a5009c2",
-        "c8a9214a5cadf870876bef6e19262407d4fd799a",
-        "0820edd12e64ba9c9576a86e2a3ffc31a61141fe"
       ]
     }
   ]

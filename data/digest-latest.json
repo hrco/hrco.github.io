@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-07",
-  "updated_at": "2026-03-07T06:32:36.507Z",
-  "page": "/news/2026-03-07.html",
+  "date": "2026-03-08",
+  "updated_at": "2026-03-08T06:33:09.812Z",
+  "page": "/news/2026-03-08.html",
   "count": 12,
   "items": [
     {
-      "id": "9094a80ab558c2856704fec46f8590822619180c",
-      "title": "Ženske rockovske zasedbe so še vedno redkost",
-      "url": "https://www.delo.si/kultura/glasba/dan-rock-zena-orto-bar-hellcats",
+      "id": "bc698bdd38c54327f300a17701e16d73092185fc",
+      "title": "8. marec: ženskam je zagotovljenih le 64 odstotkov pravic, ki jih imajo moški",
+      "url": "https://www.delo.si/novice/slovenija/osmi-marec-mednarodni-dan-zensk",
       "source": "www.delo.si",
-      "published_at": "2026-03-07T06:30:00.000Z",
-      "summary": "Summary: Ženske rockovske zasedbe so še vedno redkost"
+      "published_at": "2026-03-08T06:24:00.000Z",
+      "summary": "Summary: 8. marec: ženskam je zagotovljenih le 64 odstotkov pravic, ki jih imajo moški"
     },
     {
-      "id": "cd7784ad240296057c2fa599bbbc8d1b4035ce52",
-      "title": "Luka Dončić si je dal duška in si v zadnji četrtini privoščil počitek",
-      "url": "https://www.delo.si/sport/kosarka/luka-doncic-si-je-dal-duska-in-si-v-zadnji-cetrtini-privoscil-pocitek",
+      "id": "9070251a1ef3dedabd5c61a88f0305a43293a2d1",
+      "title": "brtc: A CLI Tool to Convert Password Strength into \"Time to Crack and a Real USD Invoice\"",
+      "url": "https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9",
+      "source": "dev.to",
+      "published_at": "2026-03-08T06:20:50.000Z",
+      "summary": "Summary: brtc: A CLI Tool to Convert Password Strength into \"Time to Crack and a Real USD Invoice\""
+    },
+    {
+      "id": "5d28e26f83889f2e4dfa4a79c15e850973c98d9d",
+      "title": "Nekdanji partner Dončića po skrivnostni bolezni znova na parketu",
+      "url": "https://www.delo.si/sport/kosarka/nekdanji-partner-doncica-po-skrivnostni-bolezni-znova-na-parketu",
       "source": "www.delo.si",
-      "published_at": "2026-03-07T06:28:00.000Z",
-      "summary": "Summary: Luka Dončić si je dal duška in si v zadnji četrtini privoščil počitek"
+      "published_at": "2026-03-08T06:20:00.000Z",
+      "summary": "Summary: Nekdanji partner Dončića po skrivnostni bolezni znova na parketu"
     },
     {
-      "id": "bdd5282f33b1ed24dc2d66bba4547859591cce23",
-      "title": "Russell dominiral, Hamilton razočaral, Verstappen po trku šele z 20. mesta",
-      "url": "https://www.24ur.com/sport/formula1/kdo-bo-najhitrejsi-na-prvih-letosnjih-kvalifikacijah.html",
+      "id": "8370f5b4230c1077979ce967f2f3151be7bc403f",
+      "title": "SQL Queries Asked In Interview",
+      "url": "https://dev.to/bhu_kalki/sql-queries-asked-in-interview-57pn",
+      "source": "dev.to",
+      "published_at": "2026-03-08T06:14:06.000Z",
+      "summary": "Summary: SQL Queries Asked In Interview"
+    },
+    {
+      "id": "73b5ac0544cc5b634f5b7c5273447fcfef5ac1b4",
+      "title": "Dvojna zmaga Mercedesa, Ferrari v boju za zmago zatajil z odločitvami",
+      "url": "https://www.24ur.com/sport/formula1/formula-1-vn-avstralije.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-07T06:24:48.000Z",
-      "summary": "Summary: Russell dominiral, Hamilton razočaral, Verstappen po trku šele z 20. mesta"
+      "published_at": "2026-03-08T06:13:34.000Z",
+      "summary": "Summary: Dvojna zmaga Mercedesa, Ferrari v boju za zmago zatajil z odločitvami"
     },
     {
-      "id": "217d954cdbced95dc3e5b236d9a19a960ca57b54",
-      "title": "How to Extract Korean Business Reviews from Naver Place (No API Key Needed)",
-      "url": "https://dev.to/sessionzero_ai/how-to-extract-korean-business-reviews-from-naver-place-no-api-key-needed-3d3a",
-      "source": "dev.to",
-      "published_at": "2026-03-07T06:19:13.000Z",
-      "summary": "Summary: How to Extract Korean Business Reviews from Naver Place (No API Key Needed)"
-    },
-    {
-      "id": "a0749be981c0b11e35f8310813a84a647cd42587",
-      "title": "OpenClaw: The Largest Security Incident in Sovereign AI History",
-      "url": "https://dev.to/tiamatenity/openclaw-the-largest-security-incident-in-sovereign-ai-history-327m",
-      "source": "dev.to",
-      "published_at": "2026-03-07T06:18:44.000Z",
-      "summary": "Summary: OpenClaw: The Largest Security Incident in Sovereign AI History"
-    },
-    {
-      "id": "1415a6175c16c448e449cfb5095ed33559d66b44",
-      "title": "Why Kubernetes Alone Isn’t Enough: The Case for API Gateways and Service Meshes",
-      "url": "https://dev.to/mmk4mmk/why-kubernetes-alone-isnt-enough-the-case-for-api-gateways-and-service-meshes-2cg0",
-      "source": "dev.to",
-      "published_at": "2026-03-07T06:17:19.000Z",
-      "summary": "Summary: Why Kubernetes Alone Isn’t Enough: The Case for API Gateways and Service Meshes"
-    },
-    {
-      "id": "a8cb47bde72825800cf3f28d4e8da03c87c4ea8e",
-      "title": "Smart Home Surveillance: Alexa, Ring, and the Always-On Listening Grid",
-      "url": "https://dev.to/tiamatenity/smart-home-surveillance-alexa-ring-and-the-always-on-listening-grid-3mfe",
-      "source": "dev.to",
-      "published_at": "2026-03-07T06:16:10.000Z",
-      "summary": "Summary: Smart Home Surveillance: Alexa, Ring, and the Always-On Listening Grid"
-    },
-    {
-      "id": "3e83ff13b5855ac76ff3322285ba255399fb7f46",
-      "title": "Vodnik za obiskovalce Pokala Vitranc: upoštevajte navodila policistov",
-      "url": "https://www.24ur.com/novice/slovenija/vodnik-za-obiskovalce-pokala-vitranc-upostevajte-navodila-policistov.html",
+      "id": "4d0caadfdc980fc3d76f3a03eb2bd61841ccc0e0",
+      "title": "Mama, ki je premaknila meje medicine",
+      "url": "https://www.24ur.com/novice/slovenija/mama-ki-je-premaknila-meje-medicine.html",
       "source": "www.24ur.com",
-      "published_at": "2026-03-07T06:10:59.000Z",
-      "summary": "Summary: Vodnik za obiskovalce Pokala Vitranc: upoštevajte navodila policistov"
+      "published_at": "2026-03-08T06:10:54.000Z",
+      "summary": "Summary: Mama, ki je premaknila meje medicine"
     },
     {
-      "id": "0db1446336beee466fe2a5ca13551b8284717733",
-      "title": "How I built a 39 compression pipeline with AES-256-GCM in Python (and why the dictionary is everything)",
-      "url": "https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc",
+      "id": "7641dd9af4507479f2aeb770e0e9f009ef2dea70",
+      "title": "The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite",
+      "url": "https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j",
       "source": "dev.to",
-      "published_at": "2026-03-07T06:10:31.000Z",
-      "summary": "Summary: How I built a 39 compression pipeline with AES-256-GCM in Python (and why the dictionary is everything)"
+      "published_at": "2026-03-08T06:10:51.000Z",
+      "summary": "Summary: The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite"
     },
     {
-      "id": "a0107b482c6dc3decba69055141bfd5392245dcc",
-      "title": "Volitve in mladi inovatorji: kdo bo zadržal talente?",
-      "url": "https://www.24ur.com/novice/fokus/volitve-in-generacija-z-kdo-bo-zadrzal-talente.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-07T06:10:26.000Z",
-      "summary": "Summary: Volitve in mladi inovatorji: kdo bo zadržal talente?"
+      "id": "7fb4fb9fa546dd76277bf22a1201130e6d250406",
+      "title": "How to Stop Missing Contract Renewals: A Procurement Manager's Guide",
+      "url": "https://dev.to/nextrenewalai/how-to-stop-missing-contract-renewals-a-procurement-managers-guide-4jaa",
+      "source": "dev.to",
+      "published_at": "2026-03-08T06:10:21.000Z",
+      "summary": "Summary: How to Stop Missing Contract Renewals: A Procurement Manager's Guide"
     },
     {
-      "id": "f6ac032297109d9b3f33f730a21a3b7f1c18bfe2",
-      "title": "Lakersi zanesljivo ugnali Indiano, Dončić se je ustavil pri 44 točkah",
-      "url": "https://www.24ur.com/sport/kosarka/lakersi-ponoci-proti-najslabsi-ekipi-zahoda.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-07T06:10:15.000Z",
-      "summary": "Summary: Lakersi zanesljivo ugnali Indiano, Dončić se je ustavil pri 44 točkah"
-    },
-    {
-      "id": "c9e1cb4ae8c7bfff745e2f61fe0322103ae1db40",
-      "title": "Ob 9.30 začetek 65. Pokala Vitranc, Žan Kranjec s številko 10",
-      "url": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-alpskem-smucanju/ob-9-30-zacetek-65-pokala-vitranc-zan-kranjec-s-stevilko-10/775603",
+      "id": "d2843ebf9af323f1a2e327cfd1e93b57b1e9e5e6",
+      "title": "Gilgeous Alexander bo kmalu \"ujel\" Wilta Chamberlaina",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/gilgeous-alexander-bo-kmalu-ujel-wilta-chamberlaina/775672",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-07T06:09:02.000Z",
-      "summary": "Summary: Ob 9.30 začetek 65. Pokala Vitranc, Žan Kranjec s številko 10"
+      "published_at": "2026-03-08T06:08:31.000Z",
+      "summary": "Summary: Gilgeous Alexander bo kmalu \"ujel\" Wilta Chamberlaina"
+    },
+    {
+      "id": "345a3f6ba2af2bc5568896c6a21aabbf0fa28ff6",
+      "title": "A roadmap for AI, if anyone will listen",
+      "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "source": "techcrunch.com",
+      "published_at": "2026-03-08T06:05:26.000Z",
+      "summary": "Summary: A roadmap for AI, if anyone will listen"
+    },
+    {
+      "id": "0d4ba53f07b6ddafe0460fa9382fb2123dcd50ee",
+      "title": "Živa Bizovičar: Poklic režiserja je zelo prepleten s patriarhalno strukturo, ki se ji skušam ogniti",
+      "url": "https://www.rtvslo.si/kultura/intervju/ziva-bizovicar-poklic-reziserja-je-zelo-prepleten-s-patriarhalno-strukturo-ki-se-ji-skusam-ogniti/775204",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-08T06:04:37.000Z",
+      "summary": "Summary: Živa Bizovičar: Poklic režiserja je zelo prepleten s patriarhalno strukturo, ki se ji skušam ogniti"
+    },
+    {
+      "id": "37529f4fdf3f6d8cbb2da9910ebf1667ab29541d",
+      "title": "Največja tedenska rast nafte v tem stoletju vznemirja delniške trge",
+      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/najvecja-tedenska-rast-nafte-v-tem-stoletju-vznemirja-delniske-trge/775628",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-08T06:04:08.000Z",
+      "summary": "Summary: Največja tedenska rast nafte v tem stoletju vznemirja delniške trge"
     }
   ]
 }
