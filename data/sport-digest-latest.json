@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-08",
-  "updated_at": "2026-03-08T06:33:24.971Z",
-  "page": "/news/2026-03-08-sport.html",
+  "date": "2026-03-09",
+  "updated_at": "2026-03-09T06:40:28.814Z",
+  "page": "/news/2026-03-09-sport.html",
   "count": 12,
   "items": [
     {
-      "id": "503e2d892ec4a457f170e4e67196b54b9893527b",
-      "title": "Russell wins first race of new F1 era in Australia",
-      "url": "https://www.bbc.com/sport/formula1/articles/c1l72e7mrn4o?at_medium=RSS&at_campaign=rss",
+      "id": "53b2b46ddd577c1fd5c711984578653bfd8bbb23",
+      "title": "TenZ reportedly &#8216;likely&#8217; to rejoin Sentinels for VCT Americas 2026",
+      "url": "https://dotesports.com/valorant/news/tenz-likely-to-rejoin-sentinels-vct-americas-2026",
+      "source": "dotesports.com",
+      "published_at": "2026-03-09T06:32:16.000Z",
+      "summary": "Summary: TenZ reportedly &#8216;likely&#8217; to rejoin Sentinels for VCT Americas 2026"
+    },
+    {
+      "id": "49ebd28d6c01be6d177c8c49b3d1eb23690f40d7",
+      "title": "Who aced the trade deadline? Six winners, six losers",
+      "url": "https://www.espn.com/nhl/story/_/id/48126226/nhl-trade-deadline-2026-prospects-picks-contracts-winners-losers-playoffs",
+      "source": "www.espn.com",
+      "published_at": "2026-03-09T06:29:32.000Z",
+      "summary": "Summary: Who aced the trade deadline? Six winners, six losers"
+    },
+    {
+      "id": "966864be6fe80938764b24a4d43c444511488e7c",
+      "title": "Five talking points from round four of Six Nations",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/ce82pkdylleo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-03-08T06:18:18.000Z",
-      "summary": "Summary: Russell wins first race of new F1 era in Australia"
+      "published_at": "2026-03-09T06:24:17.000Z",
+      "summary": "Summary: Five talking points from round four of Six Nations"
     },
     {
-      "id": "5d9c31cf2feb5439bb816bd82291b534c7169eb2",
-      "title": "Porzingis, back from illness, 'will be healthy now'",
-      "url": "https://www.espn.com/nba/story/_/id/48140018/porzingis-back-illness-says-healthy-now",
+      "id": "29abc9903b55abccb2bfdef114d9194e24a14e72",
+      "title": "FIFPRO calls on FIFA to ensure Iran WNT's safety",
+      "url": "https://www.espn.com/soccer/story/_/id/48149706/fifpro-calls-fifa-afc-guarantee-safety-iran-womens-national-team",
       "source": "www.espn.com",
-      "published_at": "2026-03-08T05:54:05.000Z",
-      "summary": "Summary: Porzingis, back from illness, 'will be healthy now'"
+      "published_at": "2026-03-09T06:19:04.000Z",
+      "summary": "Summary: FIFPRO calls on FIFA to ensure Iran WNT's safety"
     },
     {
-      "id": "4a56369708d600195bd3b95302b3df61fc3dfaf1",
-      "title": "Celts' Tatum calls 15-point return 'really good step'",
-      "url": "https://www.espn.com/nba/story/_/id/48129090/celtics-tatum-starts-rough-finds-groove-15-point-return",
+      "id": "ff560a1c85a495e6b1ee5c77c2f4f4e28621a22c",
+      "title": "FA Cup 'pain in the bum' for bottom-side Port Vale",
+      "url": "https://www.espn.com/soccer/story/_/id/48145181/fa-cup-pain-bum-relegation-candidates-port-vale",
       "source": "www.espn.com",
-      "published_at": "2026-03-08T05:54:05.000Z",
-      "summary": "Summary: Celts' Tatum calls 15-point return 'really good step'"
+      "published_at": "2026-03-09T06:19:04.000Z",
+      "summary": "Summary: FA Cup 'pain in the bum' for bottom-side Port Vale"
     },
     {
-      "id": "a3f508bf8508f3d85596f38f76fd56fecd7b3858",
-      "title": "Exhausted Wemby emotional after 25-point rally",
-      "url": "https://www.espn.com/nba/story/_/id/48129738/wemby-emotional-spurs-25-point-comeback-clippers",
+      "id": "76f776d72f1d6d43dc0460183b4ed2f5fa4f613b",
+      "title": "Haaland got game off to find 'real pace' for Madrid",
+      "url": "https://www.espn.com/soccer/story/_/id/48146116/man-city-gave-haaland-game-madrid",
       "source": "www.espn.com",
-      "published_at": "2026-03-08T05:54:05.000Z",
-      "summary": "Summary: Exhausted Wemby emotional after 25-point rally"
+      "published_at": "2026-03-09T06:19:04.000Z",
+      "summary": "Summary: Haaland got game off to find 'real pace' for Madrid"
     },
     {
-      "id": "c493b424f2695854b748174d736ddb79076f2308",
-      "title": "Celtics' Vucevic has surgery on fractured finger",
-      "url": "https://www.espn.com/nba/story/_/id/48127036/celtics-rule-nikola-vucevic-fractured-right-finger",
+      "id": "9b0eb68c8e570bbdbcb6c2f796a0c792040bf064",
+      "title": "USMNT injury scare as Dest 'out for a little while'",
+      "url": "https://www.espn.com/soccer/story/_/id/48137146/usmnt-sergino-dest-injury-hamstring-psv-eindhoven",
       "source": "www.espn.com",
-      "published_at": "2026-03-08T05:54:05.000Z",
-      "summary": "Summary: Celtics' Vucevic has surgery on fractured finger"
+      "published_at": "2026-03-09T06:19:03.000Z",
+      "summary": "Summary: USMNT injury scare as Dest 'out for a little while'"
     },
     {
-      "id": "37dad6578fd32b8c090e130c204aecc0a5f18052",
-      "title": "LeBron (elbow), Ayton (knee) miss win vs. Pacers",
-      "url": "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers",
+      "id": "79a21b0554b16cfd4cb19f2c72fa2e8d103f77a9",
+      "title": "Milan complete derby double to close in on Inter",
+      "url": "https://www.espn.com/soccer/report/_/gameId/737054",
       "source": "www.espn.com",
-      "published_at": "2026-03-08T05:54:05.000Z",
-      "summary": "Summary: LeBron (elbow), Ayton (knee) miss win vs. Pacers"
+      "published_at": "2026-03-09T06:19:03.000Z",
+      "summary": "Summary: Milan complete derby double to close in on Inter"
     },
     {
-      "id": "cc3b144b96e561f465e471ef9dea39c5385a6685",
-      "title": "Nuggets' Murray hobbles off, set for testing Sat.",
-      "url": "https://www.espn.com/nba/story/_/id/48128342/jamal-murray-hurts-ankle-exits-game-nuggets",
+      "id": "3685f488a07a248a44f7af02864272a8f47ecb62",
+      "title": "Montreal hands Bradley 1st loss with Red Bulls",
+      "url": "https://www.espn.com/soccer/report/_/gameId/761482",
       "source": "www.espn.com",
-      "published_at": "2026-03-08T05:54:05.000Z",
-      "summary": "Summary: Nuggets' Murray hobbles off, set for testing Sat."
+      "published_at": "2026-03-09T06:19:03.000Z",
+      "summary": "Summary: Montreal hands Bradley 1st loss with Red Bulls"
     },
     {
-      "id": "33de63c207d438c57365986768f52cbf5c23ed5e",
-      "title": "Suns forward Brooks arrested on suspected DUI",
-      "url": "https://www.espn.com/nba/story/_/id/48122500/suns-dillon-brooks-arrested-suspicion-dui-report-says",
+      "id": "cfaa3d4d2dccaba2089e24c53836522911127bbb",
+      "title": "Messi paid $70M-$80M per year, Miami owner says",
+      "url": "https://www.espn.com/soccer/story/_/id/48135941/lionel-messi-salary-70-million-80-inter-miami-jorge-mas",
       "source": "www.espn.com",
-      "published_at": "2026-03-08T05:54:05.000Z",
-      "summary": "Summary: Suns forward Brooks arrested on suspected DUI"
+      "published_at": "2026-03-09T06:19:03.000Z",
+      "summary": "Summary: Messi paid $70M-$80M per year, Miami owner says"
     },
     {
-      "id": "4e7153cdec5f68db553dc76adf01171052e36e20",
-      "title": "🏀 NBA All-Contract Team: Playoff contenders?",
-      "url": "https://www.espn.com/nba/story/_/id/48084180/nba-all-contract-team-brunson-knicks-avdija-johnson-15-player-roster",
+      "id": "d8452db495a59a81c89adb261558202758692d58",
+      "title": "How to watch Tirreno-Adriatico 2026 – Live streams, TV channels for Italian stage race",
+      "url": "https://www.cyclingnews.com/cycling-culture/streaming/how-to-watch-tirreno-adriatico-2026-live-streams-tv-channels-for-italian-stage-race/",
+      "source": "www.cyclingnews.com",
+      "published_at": "2026-03-09T06:05:00.000Z",
+      "summary": "Summary: How to watch Tirreno-Adriatico 2026 – Live streams, TV channels for Italian stage race"
+    },
+    {
+      "id": "554fe552468901fc5476e67d7a36864a5ac82b9d",
+      "title": "F1's new rules create 'Mario Kart' racing in Australia season opener",
+      "url": "https://www.espn.com/racing/f1/story/_/id/48141848/f1-new-rules-create-mario-kart-racing-australia-season-opener",
       "source": "www.espn.com",
-      "published_at": "2026-03-08T05:54:05.000Z",
-      "summary": "Summary: 🏀 NBA All-Contract Team: Playoff contenders?"
-    },
-    {
-      "id": "203c7cd0fdd2825a4abb1c1bc36d826df4dc16a8",
-      "title": "College basketball conference tournaments 2026: Long Island, Tennessee State punch tickets to Big Dance",
-      "url": "https://www.cbssports.com/college-basketball/news/college-basketball-conference-tournaments-2026-schedule-results-automatic-bids/",
-      "source": "www.cbssports.com",
-      "published_at": "2026-03-08T05:27:01.000Z",
-      "summary": "Summary: College basketball conference tournaments 2026: Long Island, Tennessee State punch tickets to Big Dance"
-    },
-    {
-      "id": "0baa670154d3fa303c2fa7b54d600b8737dd8838",
-      "title": "LB Mack returning to Chargers on one-year deal",
-      "url": "https://www.espn.com/nfl/story/_/id/48137686/khalil-mack-returning-chargers-1-year-deal",
-      "source": "www.espn.com",
-      "published_at": "2026-03-08T05:21:38.000Z",
-      "summary": "Summary: LB Mack returning to Chargers on one-year deal"
-    },
-    {
-      "id": "ea57d6252a3f5487ccf2dc230564a93a47af1dab",
-      "title": "Skubal fans five, allows leadoff HR as U.S. wins",
-      "url": "https://www.espn.com/mlb/story/_/id/48138229/skubal-allows-leadoff-homer-throws-41-pitches-wbc-start",
-      "source": "www.espn.com",
-      "published_at": "2026-03-08T05:21:38.000Z",
-      "summary": "Summary: Skubal fans five, allows leadoff HR as U.S. wins"
+      "published_at": "2026-03-09T05:31:18.000Z",
+      "summary": "Summary: F1's new rules create 'Mario Kart' racing in Australia season opener"
     }
   ]
 }

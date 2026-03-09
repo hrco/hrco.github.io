@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-08",
-  "updated_at": "2026-03-08T06:33:09.812Z",
-  "page": "/news/2026-03-08.html",
+  "date": "2026-03-09",
+  "updated_at": "2026-03-09T06:40:15.635Z",
+  "page": "/news/2026-03-09.html",
   "count": 12,
   "items": [
     {
-      "id": "bc698bdd38c54327f300a17701e16d73092185fc",
-      "title": "8. marec: ženskam je zagotovljenih le 64 odstotkov pravic, ki jih imajo moški",
-      "url": "https://www.delo.si/novice/slovenija/osmi-marec-mednarodni-dan-zensk",
+      "id": "04dd052f00dea7d6f0c7ba6d659f71c8bdfd98e3",
+      "title": "Semantic Caching in RAG Systems & AI Agents",
+      "url": "https://dev.to/sreeni5018/semantic-caching-in-rag-systems-ai-agents-2gal",
+      "source": "dev.to",
+      "published_at": "2026-03-09T06:39:33.000Z",
+      "summary": "Summary: Semantic Caching in RAG Systems & AI Agents"
+    },
+    {
+      "id": "2d266c4f9267b2de56de73e04233b9f12d940a74",
+      "title": "Cene nafte prvič po letu 2022 presegle 100 dolarjev na sodček",
+      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/cene-nafte-prvic-po-letu-2022-presegle-100-dolarjev-na-sodcek/775735",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-09T06:38:55.000Z",
+      "summary": "Summary: Cene nafte prvič po letu 2022 presegle 100 dolarjev na sodček"
+    },
+    {
+      "id": "224f48440541618596579fce27febd79125832a3",
+      "title": "Opozorila o slabšanju uporabe varnostnega pasu: \"Podatki kažejo, da se nevarno vračamo korak nazaj\"",
+      "url": "https://www.rtvslo.si/slovenija/opozorila-o-slabsanju-uporabe-varnostnega-pasu-podatki-kazejo-da-se-nevarno-vracamo-korak-nazaj/775733",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-09T06:38:28.000Z",
+      "summary": "Summary: Opozorila o slabšanju uporabe varnostnega pasu: \"Podatki kažejo, da se nevarno vračamo korak nazaj\""
+    },
+    {
+      "id": "4ae014974930c66497fb850b43414a1490072aaf",
+      "title": "Dockerizing a FastAPI App: Eliminating \"It Works on My Machine\"",
+      "url": "https://dev.to/ghost_script/dockerizing-a-fastapi-app-eliminating-it-works-on-my-machine-2ifm",
+      "source": "dev.to",
+      "published_at": "2026-03-09T06:36:53.000Z",
+      "summary": "Summary: Dockerizing a FastAPI App: Eliminating \"It Works on My Machine\""
+    },
+    {
+      "id": "ccd8466f00c71072de0f11227650a5084cf9072d",
+      "title": "Iran: za novega vrhovnega voditelja imenovali Hameneijevega sina",
+      "url": "https://www.delo.si/novice/svet/iran-za-novega-vrhovnega-voditelja-imenovali-hameneijevega-sina",
       "source": "www.delo.si",
-      "published_at": "2026-03-08T06:24:00.000Z",
-      "summary": "Summary: 8. marec: ženskam je zagotovljenih le 64 odstotkov pravic, ki jih imajo moški"
+      "published_at": "2026-03-09T06:35:37.000Z",
+      "summary": "Summary: Iran: za novega vrhovnega voditelja imenovali Hameneijevega sina"
     },
     {
-      "id": "9070251a1ef3dedabd5c61a88f0305a43293a2d1",
-      "title": "brtc: A CLI Tool to Convert Password Strength into \"Time to Crack and a Real USD Invoice\"",
-      "url": "https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9",
+      "id": "228fe239d7ac8ce8259b34e4e64632e8f6e69713",
+      "title": "FTSE 100 to Fall in Extending Global Selloff",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-03-09/ftse-100-live-trump-iran-oil-prices-pound-bonds-gold-usd-what-s-moving-uk-markets-right-now-markets-today",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-03-09T06:34:05.000Z",
+      "summary": "Summary: FTSE 100 to Fall in Extending Global Selloff"
+    },
+    {
+      "id": "53b2b46ddd577c1fd5c711984578653bfd8bbb23",
+      "title": "TenZ reportedly &#8216;likely&#8217; to rejoin Sentinels for VCT Americas 2026",
+      "url": "https://dotesports.com/valorant/news/tenz-likely-to-rejoin-sentinels-vct-americas-2026",
+      "source": "dotesports.com",
+      "published_at": "2026-03-09T06:32:16.000Z",
+      "summary": "Summary: TenZ reportedly &#8216;likely&#8217; to rejoin Sentinels for VCT Americas 2026"
+    },
+    {
+      "id": "0c20b8b74999caf75a28ee59a33df9267adcc1eb",
+      "title": "I Built an AI That Writes My Dev.to Articles and Now I Don't Know How to Feel About It",
+      "url": "https://dev.to/elle001923/i-built-an-ai-that-writes-my-devto-articles-and-now-i-dont-know-how-to-feel-about-it-29g9",
       "source": "dev.to",
-      "published_at": "2026-03-08T06:20:50.000Z",
-      "summary": "Summary: brtc: A CLI Tool to Convert Password Strength into \"Time to Crack and a Real USD Invoice\""
+      "published_at": "2026-03-09T06:31:05.000Z",
+      "summary": "Summary: I Built an AI That Writes My Dev.to Articles and Now I Don't Know How to Feel About It"
     },
     {
-      "id": "5d28e26f83889f2e4dfa4a79c15e850973c98d9d",
-      "title": "Nekdanji partner Dončića po skrivnostni bolezni znova na parketu",
-      "url": "https://www.delo.si/sport/kosarka/nekdanji-partner-doncica-po-skrivnostni-bolezni-znova-na-parketu",
-      "source": "www.delo.si",
-      "published_at": "2026-03-08T06:20:00.000Z",
-      "summary": "Summary: Nekdanji partner Dončića po skrivnostni bolezni znova na parketu"
-    },
-    {
-      "id": "8370f5b4230c1077979ce967f2f3151be7bc403f",
-      "title": "SQL Queries Asked In Interview",
-      "url": "https://dev.to/bhu_kalki/sql-queries-asked-in-interview-57pn",
+      "id": "65485b7ddb7103648aa39be9f07d01d0b24b239f",
+      "title": "From Vibe Coding to Production Apps: How AI + Low-Code Platforms Are Changing Full-Stack Development",
+      "url": "https://dev.to/andrew_clayton_3416cd7a04/from-vibe-coding-to-production-apps-how-ai-low-code-platforms-are-changing-full-stack-development-54n4",
       "source": "dev.to",
-      "published_at": "2026-03-08T06:14:06.000Z",
-      "summary": "Summary: SQL Queries Asked In Interview"
+      "published_at": "2026-03-09T06:28:46.000Z",
+      "summary": "Summary: From Vibe Coding to Production Apps: How AI + Low-Code Platforms Are Changing Full-Stack Development"
     },
     {
-      "id": "73b5ac0544cc5b634f5b7c5273447fcfef5ac1b4",
-      "title": "Dvojna zmaga Mercedesa, Ferrari v boju za zmago zatajil z odločitvami",
-      "url": "https://www.24ur.com/sport/formula1/formula-1-vn-avstralije.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-08T06:13:34.000Z",
-      "summary": "Summary: Dvojna zmaga Mercedesa, Ferrari v boju za zmago zatajil z odločitvami"
+      "id": "1e7de68e2eade82bf90e75eaf7d52071975568f8",
+      "title": "US Court of Appeals: TOS may be updated by email, continued use implies consent [pdf]",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+      "source": "hnrss.org",
+      "published_at": "2026-03-09T06:28:02.000Z",
+      "summary": "Summary: US Court of Appeals: TOS may be updated by email, continued use implies consent [pdf]"
     },
     {
-      "id": "4d0caadfdc980fc3d76f3a03eb2bd61841ccc0e0",
-      "title": "Mama, ki je premaknila meje medicine",
-      "url": "https://www.24ur.com/novice/slovenija/mama-ki-je-premaknila-meje-medicine.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-08T06:10:54.000Z",
-      "summary": "Summary: Mama, ki je premaknila meje medicine"
-    },
-    {
-      "id": "7641dd9af4507479f2aeb770e0e9f009ef2dea70",
-      "title": "The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite",
-      "url": "https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j",
-      "source": "dev.to",
-      "published_at": "2026-03-08T06:10:51.000Z",
-      "summary": "Summary: The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite"
-    },
-    {
-      "id": "7fb4fb9fa546dd76277bf22a1201130e6d250406",
-      "title": "How to Stop Missing Contract Renewals: A Procurement Manager's Guide",
-      "url": "https://dev.to/nextrenewalai/how-to-stop-missing-contract-renewals-a-procurement-managers-guide-4jaa",
-      "source": "dev.to",
-      "published_at": "2026-03-08T06:10:21.000Z",
-      "summary": "Summary: How to Stop Missing Contract Renewals: A Procurement Manager's Guide"
-    },
-    {
-      "id": "d2843ebf9af323f1a2e327cfd1e93b57b1e9e5e6",
-      "title": "Gilgeous Alexander bo kmalu \"ujel\" Wilta Chamberlaina",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/gilgeous-alexander-bo-kmalu-ujel-wilta-chamberlaina/775672",
+      "id": "9a6dd7d4b533e073f3c9f91574b414cc145ce4a8",
+      "title": "Golf GTI: 50 let ikone, ki je demokratizirala hitrost",
+      "url": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/golf-gti-50-let-ikone-ki-je-demokratizirala-hitrost/775589",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-08T06:08:31.000Z",
-      "summary": "Summary: Gilgeous Alexander bo kmalu \"ujel\" Wilta Chamberlaina"
+      "published_at": "2026-03-09T06:27:01.000Z",
+      "summary": "Summary: Golf GTI: 50 let ikone, ki je demokratizirala hitrost"
     },
     {
-      "id": "345a3f6ba2af2bc5568896c6a21aabbf0fa28ff6",
-      "title": "A roadmap for AI, if anyone will listen",
-      "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-      "source": "techcrunch.com",
-      "published_at": "2026-03-08T06:05:26.000Z",
-      "summary": "Summary: A roadmap for AI, if anyone will listen"
-    },
-    {
-      "id": "0d4ba53f07b6ddafe0460fa9382fb2123dcd50ee",
-      "title": "Živa Bizovičar: Poklic režiserja je zelo prepleten s patriarhalno strukturo, ki se ji skušam ogniti",
-      "url": "https://www.rtvslo.si/kultura/intervju/ziva-bizovicar-poklic-reziserja-je-zelo-prepleten-s-patriarhalno-strukturo-ki-se-ji-skusam-ogniti/775204",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-08T06:04:37.000Z",
-      "summary": "Summary: Živa Bizovičar: Poklic režiserja je zelo prepleten s patriarhalno strukturo, ki se ji skušam ogniti"
-    },
-    {
-      "id": "37529f4fdf3f6d8cbb2da9910ebf1667ab29541d",
-      "title": "Največja tedenska rast nafte v tem stoletju vznemirja delniške trge",
-      "url": "https://www.rtvslo.si/gospodarstvo/borzni-komentar/najvecja-tedenska-rast-nafte-v-tem-stoletju-vznemirja-delniske-trge/775628",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-08T06:04:08.000Z",
-      "summary": "Summary: Največja tedenska rast nafte v tem stoletju vznemirja delniške trge"
+      "id": "1eb9bb03714d27b9c6da3c72462565d4aa233874",
+      "title": "Tesla Billionaire Buys More Nvidia to ‘Calm the Nervous Market’",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-09/tesla-billionaire-buys-more-nvidia-to-calm-the-nervous-market",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-03-09T06:25:31.000Z",
+      "summary": "Summary: Tesla Billionaire Buys More Nvidia to ‘Calm the Nervous Market’"
     }
   ]
 }

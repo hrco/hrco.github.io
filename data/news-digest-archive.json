@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-08T06:33:20.052Z",
+  "updated_at": "2026-03-09T06:40:24.235Z",
   "days": [
+    {
+      "date": "2026-03-09",
+      "page": "/news/2026-03-09-news.html",
+      "teaser": "Top: Cene nafte prvič po letu 2022 presegle 100 dolarjev na sodček",
+      "count": 12,
+      "ids": [
+        "2d266c4f9267b2de56de73e04233b9f12d940a74",
+        "224f48440541618596579fce27febd79125832a3",
+        "b3297f4fb6a1b3d48d52ec910a814bfef15adc16",
+        "ccd8466f00c71072de0f11227650a5084cf9072d",
+        "9a6dd7d4b533e073f3c9f91574b414cc145ce4a8",
+        "3b56d3d96b030b9df3a46c05ae350f106a28ac40",
+        "447a54555edc021f405978319a0a306b977ed543",
+        "966864be6fe80938764b24a4d43c444511488e7c",
+        "0ed3b6568eaf98637ad6c9ba2485aa93149a3cca",
+        "504e63ce585a9da8d65e0c8c6b786dc2587e4360",
+        "949dbcce016e22b5d718f4cef7d673358ebdef86",
+        "d385a76a5c3ad430bf82ec2e0da1ec338a134cfb"
+      ]
+    },
     {
       "date": "2026-03-08",
       "page": "/news/2026-03-08-news.html",
@@ -579,26 +599,6 @@
         "9c08acdb45924508677fcca2b088fbb4aff53c97",
         "129947c743353ee81f75c9a40c73d2e893d24974",
         "a715800e8e2c75da08d34edb73acf6d955bbe476"
-      ]
-    },
-    {
-      "date": "2026-02-02",
-      "page": "/news/2026-02-02-news.html",
-      "teaser": "Top: Kljub ubijalskim kritikam film Melania zaslužil nad pričakovanji",
-      "count": 12,
-      "ids": [
-        "8bd16299d5da526ff259887c3cefb5456fd82946",
-        "a7feaf11040436ad5866af733ce030662dd80eea",
-        "ddd5ebe0f83caa10baff155c5a6d930412e7b5e6",
-        "827bfc88bdd6079758489a3fe137e34bf4ae727c",
-        "50b165161ca5cb9a95e81b7fb11870523d9a4bfb",
-        "e6428cd6e90fc3539f5dd4e747aa3477d38ddc43",
-        "14256cd6c917078d6f7e1b7b7260f8cb5e9286ba",
-        "450c0bdeded7686ba6f90eae5e348684e0f3566b",
-        "1cedc9fb5a6b18fa436eae237449d1ee83cd912e",
-        "90f7d6bc85035b7ca71e255b597fed8e3f2b82c5",
-        "96df07ba95bb6e589faf2d5f0f374076e33d7ba5",
-        "10f8d986e14b60693e8e5b493e189ef6b504db7b"
       ]
     }
   ]
