@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-09",
-  "updated_at": "2026-03-09T06:40:15.635Z",
-  "page": "/news/2026-03-09.html",
+  "date": "2026-03-10",
+  "updated_at": "2026-03-10T06:33:42.710Z",
+  "page": "/news/2026-03-10.html",
   "count": 12,
   "items": [
     {
-      "id": "04dd052f00dea7d6f0c7ba6d659f71c8bdfd98e3",
-      "title": "Semantic Caching in RAG Systems & AI Agents",
-      "url": "https://dev.to/sreeni5018/semantic-caching-in-rag-systems-ai-agents-2gal",
-      "source": "dev.to",
-      "published_at": "2026-03-09T06:39:33.000Z",
-      "summary": "Summary: Semantic Caching in RAG Systems & AI Agents"
-    },
-    {
-      "id": "2d266c4f9267b2de56de73e04233b9f12d940a74",
-      "title": "Cene nafte prvič po letu 2022 presegle 100 dolarjev na sodček",
-      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/cene-nafte-prvic-po-letu-2022-presegle-100-dolarjev-na-sodcek/775735",
+      "id": "44a85730a836e5db9e5726ed6a43ed3c8f594cd8",
+      "title": "Spoznajte najhitrejšega serijskega GTI-ja doslej",
+      "url": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/spoznajte-najhitrejsega-serijskega-gti-ja-doslej/775714",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-09T06:38:55.000Z",
-      "summary": "Summary: Cene nafte prvič po letu 2022 presegle 100 dolarjev na sodček"
+      "published_at": "2026-03-10T06:30:34.000Z",
+      "summary": "Summary: Spoznajte najhitrejšega serijskega GTI-ja doslej"
     },
     {
-      "id": "224f48440541618596579fce27febd79125832a3",
-      "title": "Opozorila o slabšanju uporabe varnostnega pasu: \"Podatki kažejo, da se nevarno vračamo korak nazaj\"",
-      "url": "https://www.rtvslo.si/slovenija/opozorila-o-slabsanju-uporabe-varnostnega-pasu-podatki-kazejo-da-se-nevarno-vracamo-korak-nazaj/775733",
+      "id": "837765924d29b50420b33498f15816c0c6997e9a",
+      "title": "Trump: Šli smo na kratko ekskurzijo",
+      "url": "https://www.24ur.com/novice/tujina/trump-sli-smo-na-kratko-ekskurzijo.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-10T06:29:16.000Z",
+      "summary": "Summary: Trump: Šli smo na kratko ekskurzijo"
+    },
+    {
+      "id": "41dbe05982c8cf88bafeb09956b8893295cf5dd6",
+      "title": "Iran vztraja, da bo on določil konec vojne. Pogajanja niso več na mizi.",
+      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/iran-vztraja-da-bo-on-dolocil-konec-vojne-pogajanja-niso-vec-na-mizi/775866",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-09T06:38:28.000Z",
-      "summary": "Summary: Opozorila o slabšanju uporabe varnostnega pasu: \"Podatki kažejo, da se nevarno vračamo korak nazaj\""
+      "published_at": "2026-03-10T06:25:56.000Z",
+      "summary": "Summary: Iran vztraja, da bo on določil konec vojne. Pogajanja niso več na mizi."
     },
     {
-      "id": "4ae014974930c66497fb850b43414a1490072aaf",
-      "title": "Dockerizing a FastAPI App: Eliminating \"It Works on My Machine\"",
-      "url": "https://dev.to/ghost_script/dockerizing-a-fastapi-app-eliminating-it-works-on-my-machine-2ifm",
+      "id": "1c27cb908d3fab29222056c0d565d4b42739f263",
+      "title": "Gilgeous-Alexander odločil derbi z Denverjem s trojko tik pred koncem",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/gilgeous-alexander-odlocil-derbi-z-denverjem-s-trojko-tik-pred-koncem/775864",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-10T06:20:51.000Z",
+      "summary": "Summary: Gilgeous-Alexander odločil derbi z Denverjem s trojko tik pred koncem"
+    },
+    {
+      "id": "0be15ddb6f80b7a97a895e074dacb9702e21fb01",
+      "title": "Comparing Wallet Top-Up Fees Across Global Fintech Platforms",
+      "url": "https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4",
       "source": "dev.to",
-      "published_at": "2026-03-09T06:36:53.000Z",
-      "summary": "Summary: Dockerizing a FastAPI App: Eliminating \"It Works on My Machine\""
+      "published_at": "2026-03-10T06:20:45.000Z",
+      "summary": "Summary: Comparing Wallet Top-Up Fees Across Global Fintech Platforms"
     },
     {
-      "id": "ccd8466f00c71072de0f11227650a5084cf9072d",
-      "title": "Iran: za novega vrhovnega voditelja imenovali Hameneijevega sina",
-      "url": "https://www.delo.si/novice/svet/iran-za-novega-vrhovnega-voditelja-imenovali-hameneijevega-sina",
+      "id": "7b239e6bc8d59107412b95423cbac05368874267",
+      "title": "I’m in! 🥳🤙🏼 contratz to all!",
+      "url": "https://dev.to/dnszlsk/im-in-contratz-to-all-1757",
+      "source": "dev.to",
+      "published_at": "2026-03-10T06:19:44.000Z",
+      "summary": "Summary: I’m in! 🥳🤙🏼 contratz to all!"
+    },
+    {
+      "id": "1c61ae4f6af34225605d70fa6472bab7c6370267",
+      "title": "The New AI Stack Every Developer Should Understand",
+      "url": "https://dev.to/jaideepparashar/the-new-ai-stack-every-developer-should-understand-3ejl",
+      "source": "dev.to",
+      "published_at": "2026-03-10T06:18:59.000Z",
+      "summary": "Summary: The New AI Stack Every Developer Should Understand"
+    },
+    {
+      "id": "d8d628832cc2b368ddf1c13cba69c52554688c7e",
+      "title": "Beyond fmt: Building a Flexible Text Builder in Go with Wissance/stringFormatter",
+      "url": "https://dev.to/evillord666/beyond-fmt-building-a-flexible-text-builder-in-go-with-wissancestringformatter-2ec3",
+      "source": "dev.to",
+      "published_at": "2026-03-10T06:18:13.000Z",
+      "summary": "Summary: Beyond fmt: Building a Flexible Text Builder in Go with Wissance/stringFormatter"
+    },
+    {
+      "id": "bd789ccc3d6743b51a7692d008a8e5166e4868fc",
+      "title": "6 Redis Caching Patterns That Cut Node.js API Response Time from 1.5s to 150ms",
+      "url": "https://dev.to/jsgurujobs/6-redis-caching-patterns-that-cut-nodejs-api-response-time-from-15s-to-150ms-4944",
+      "source": "dev.to",
+      "published_at": "2026-03-10T06:16:40.000Z",
+      "summary": "Summary: 6 Redis Caching Patterns That Cut Node.js API Response Time from 1.5s to 150ms"
+    },
+    {
+      "id": "6ffe994a3557717069272fc3a240f04da0a1723f",
+      "title": "Meteorit poškodoval streho hiše v Nemčiji",
+      "url": "https://www.delo.si/novice/znanoteh/meteorit-poskodoval-streho-hise-v-nemciji",
       "source": "www.delo.si",
-      "published_at": "2026-03-09T06:35:37.000Z",
-      "summary": "Summary: Iran: za novega vrhovnega voditelja imenovali Hameneijevega sina"
+      "published_at": "2026-03-10T06:15:01.000Z",
+      "summary": "Summary: Meteorit poškodoval streho hiše v Nemčiji"
     },
     {
-      "id": "228fe239d7ac8ce8259b34e4e64632e8f6e69713",
-      "title": "FTSE 100 to Fall in Extending Global Selloff",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-03-09/ftse-100-live-trump-iran-oil-prices-pound-bonds-gold-usd-what-s-moving-uk-markets-right-now-markets-today",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-03-09T06:34:05.000Z",
-      "summary": "Summary: FTSE 100 to Fall in Extending Global Selloff"
-    },
-    {
-      "id": "53b2b46ddd577c1fd5c711984578653bfd8bbb23",
-      "title": "TenZ reportedly &#8216;likely&#8217; to rejoin Sentinels for VCT Americas 2026",
-      "url": "https://dotesports.com/valorant/news/tenz-likely-to-rejoin-sentinels-vct-americas-2026",
-      "source": "dotesports.com",
-      "published_at": "2026-03-09T06:32:16.000Z",
-      "summary": "Summary: TenZ reportedly &#8216;likely&#8217; to rejoin Sentinels for VCT Americas 2026"
-    },
-    {
-      "id": "0c20b8b74999caf75a28ee59a33df9267adcc1eb",
-      "title": "I Built an AI That Writes My Dev.to Articles and Now I Don't Know How to Feel About It",
-      "url": "https://dev.to/elle001923/i-built-an-ai-that-writes-my-devto-articles-and-now-i-dont-know-how-to-feel-about-it-29g9",
+      "id": "aca2186c4739bf68e2782372eb3ed66777ffdd6a",
+      "title": "On-Call Burnout: What Incident Data Doesn’t Show",
+      "url": "https://dev.to/hamza_2315/on-call-burnout-what-incident-data-doesnt-show-2kap",
       "source": "dev.to",
-      "published_at": "2026-03-09T06:31:05.000Z",
-      "summary": "Summary: I Built an AI That Writes My Dev.to Articles and Now I Don't Know How to Feel About It"
+      "published_at": "2026-03-10T06:11:55.000Z",
+      "summary": "Summary: On-Call Burnout: What Incident Data Doesn’t Show"
     },
     {
-      "id": "65485b7ddb7103648aa39be9f07d01d0b24b239f",
-      "title": "From Vibe Coding to Production Apps: How AI + Low-Code Platforms Are Changing Full-Stack Development",
-      "url": "https://dev.to/andrew_clayton_3416cd7a04/from-vibe-coding-to-production-apps-how-ai-low-code-platforms-are-changing-full-stack-development-54n4",
+      "id": "4b5ac875b3719b0309cee153c1719e7e87f8846d",
+      "title": "Stop Guessing About iOS Crash Troubleshooting! Save This Layered Catch Guide",
+      "url": "https://dev.to/observabilityguy/stop-guessing-about-ios-crash-troubleshooting-save-this-layered-catch-guide-246l",
       "source": "dev.to",
-      "published_at": "2026-03-09T06:28:46.000Z",
-      "summary": "Summary: From Vibe Coding to Production Apps: How AI + Low-Code Platforms Are Changing Full-Stack Development"
-    },
-    {
-      "id": "1e7de68e2eade82bf90e75eaf7d52071975568f8",
-      "title": "US Court of Appeals: TOS may be updated by email, continued use implies consent [pdf]",
-      "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-      "source": "hnrss.org",
-      "published_at": "2026-03-09T06:28:02.000Z",
-      "summary": "Summary: US Court of Appeals: TOS may be updated by email, continued use implies consent [pdf]"
-    },
-    {
-      "id": "9a6dd7d4b533e073f3c9f91574b414cc145ce4a8",
-      "title": "Golf GTI: 50 let ikone, ki je demokratizirala hitrost",
-      "url": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/golf-gti-50-let-ikone-ki-je-demokratizirala-hitrost/775589",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-09T06:27:01.000Z",
-      "summary": "Summary: Golf GTI: 50 let ikone, ki je demokratizirala hitrost"
-    },
-    {
-      "id": "1eb9bb03714d27b9c6da3c72462565d4aa233874",
-      "title": "Tesla Billionaire Buys More Nvidia to ‘Calm the Nervous Market’",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-09/tesla-billionaire-buys-more-nvidia-to-calm-the-nervous-market",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-03-09T06:25:31.000Z",
-      "summary": "Summary: Tesla Billionaire Buys More Nvidia to ‘Calm the Nervous Market’"
+      "published_at": "2026-03-10T06:09:55.000Z",
+      "summary": "Summary: Stop Guessing About iOS Crash Troubleshooting! Save This Layered Catch Guide"
     }
   ]
 }

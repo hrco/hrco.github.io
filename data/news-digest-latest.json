@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-09",
-  "updated_at": "2026-03-09T06:40:24.235Z",
-  "page": "/news/2026-03-09-news.html",
+  "date": "2026-03-10",
+  "updated_at": "2026-03-10T06:33:54.955Z",
+  "page": "/news/2026-03-10-news.html",
   "count": 12,
   "items": [
     {
-      "id": "2d266c4f9267b2de56de73e04233b9f12d940a74",
-      "title": "Cene nafte prvič po letu 2022 presegle 100 dolarjev na sodček",
-      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/cene-nafte-prvic-po-letu-2022-presegle-100-dolarjev-na-sodcek/775735",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-09T06:38:55.000Z",
-      "summary": "Summary: Cene nafte prvič po letu 2022 presegle 100 dolarjev na sodček"
-    },
-    {
-      "id": "224f48440541618596579fce27febd79125832a3",
-      "title": "Opozorila o slabšanju uporabe varnostnega pasu: \"Podatki kažejo, da se nevarno vračamo korak nazaj\"",
-      "url": "https://www.rtvslo.si/slovenija/opozorila-o-slabsanju-uporabe-varnostnega-pasu-podatki-kazejo-da-se-nevarno-vracamo-korak-nazaj/775733",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-09T06:38:28.000Z",
-      "summary": "Summary: Opozorila o slabšanju uporabe varnostnega pasu: \"Podatki kažejo, da se nevarno vračamo korak nazaj\""
-    },
-    {
-      "id": "b3297f4fb6a1b3d48d52ec910a814bfef15adc16",
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon/heres-the-latest",
-      "source": "rss.nytimes.com",
-      "published_at": "2026-03-09T06:38:09.000Z",
-      "summary": "Summary: Here’s the latest."
-    },
-    {
-      "id": "ccd8466f00c71072de0f11227650a5084cf9072d",
-      "title": "Iran: za novega vrhovnega voditelja imenovali Hameneijevega sina",
-      "url": "https://www.delo.si/novice/svet/iran-za-novega-vrhovnega-voditelja-imenovali-hameneijevega-sina",
-      "source": "www.delo.si",
-      "published_at": "2026-03-09T06:35:37.000Z",
-      "summary": "Summary: Iran: za novega vrhovnega voditelja imenovali Hameneijevega sina"
-    },
-    {
-      "id": "9a6dd7d4b533e073f3c9f91574b414cc145ce4a8",
-      "title": "Golf GTI: 50 let ikone, ki je demokratizirala hitrost",
-      "url": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/golf-gti-50-let-ikone-ki-je-demokratizirala-hitrost/775589",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-09T06:27:01.000Z",
-      "summary": "Summary: Golf GTI: 50 let ikone, ki je demokratizirala hitrost"
-    },
-    {
-      "id": "3b56d3d96b030b9df3a46c05ae350f106a28ac40",
-      "title": "Man charged with murder after alleged assault, robbery in CBD",
-      "url": "https://www.abc.net.au/news/2026-03-09/murder-charge-laid-after-alleged-assault-robbery-perth-cbd/106433638",
-      "source": "www.abc.net.au",
-      "published_at": "2026-03-09T06:25:47.000Z",
-      "summary": "Summary: Man charged with murder after alleged assault, robbery in CBD"
-    },
-    {
-      "id": "447a54555edc021f405978319a0a306b977ed543",
-      "title": "Igralka, mati, partnerka in samo Lea: Ženske imamo lahko vse",
-      "url": "https://www.24ur.com/popin/domaca-scena/lea-mihevc-ob-dnevu-zena-zenske-imamo-lahko-vse.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-09T06:24:31.000Z",
-      "summary": "Summary: Igralka, mati, partnerka in samo Lea: Ženske imamo lahko vse"
-    },
-    {
-      "id": "966864be6fe80938764b24a4d43c444511488e7c",
-      "title": "Five talking points from round four of Six Nations",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/ce82pkdylleo?at_medium=RSS&at_campaign=rss",
+      "id": "833d9644543046e16b069e8a76be3ece0cdc0d71",
+      "title": "Business owners 'heartbroken' after retail units destroyed in Glasgow fire",
+      "url": "https://www.bbc.com/news/articles/cd70wvj2xnyo?at_medium=RSS&at_campaign=rss",
       "source": "feeds.bbci.co.uk",
-      "published_at": "2026-03-09T06:24:17.000Z",
-      "summary": "Summary: Five talking points from round four of Six Nations"
+      "published_at": "2026-03-10T06:33:27.000Z",
+      "summary": "Summary: Business owners 'heartbroken' after retail units destroyed in Glasgow fire"
     },
     {
-      "id": "0ed3b6568eaf98637ad6c9ba2485aa93149a3cca",
-      "title": "Middle East crisis live: Mojtaba Khamenei chosen as Iran’s new supreme leader; oil prices soar past $100 a barrel",
-      "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
-      "source": "www.theguardian.com",
-      "published_at": "2026-03-09T06:22:23.000Z",
-      "summary": "Summary: Middle East crisis live: Mojtaba Khamenei chosen as Iran’s new supreme leader; oil prices soar past $100 a barrel"
-    },
-    {
-      "id": "504e63ce585a9da8d65e0c8c6b786dc2587e4360",
-      "title": "Dudić: Bili smo bližje zmagi, a ne morem reči, da je remi nezaslužen",
-      "url": "https://www.rtvslo.si/sport/nogomet/prva-liga/dudic-bili-smo-blizje-zmagi-a-ne-morem-reci-da-je-remi-nezasluzen/775732",
+      "id": "44a85730a836e5db9e5726ed6a43ed3c8f594cd8",
+      "title": "Spoznajte najhitrejšega serijskega GTI-ja doslej",
+      "url": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/spoznajte-najhitrejsega-serijskega-gti-ja-doslej/775714",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-09T06:19:32.000Z",
-      "summary": "Summary: Dudić: Bili smo bližje zmagi, a ne morem reči, da je remi nezaslužen"
+      "published_at": "2026-03-10T06:30:34.000Z",
+      "summary": "Summary: Spoznajte najhitrejšega serijskega GTI-ja doslej"
     },
     {
-      "id": "949dbcce016e22b5d718f4cef7d673358ebdef86",
-      "title": "Australia news live: family members of alleged Bondi attacker seek suppression order over their names and address amid safety fears",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/09/northern-territory-queensland-floods-federal-politics-reactions-penny-wong-iran-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-      "source": "www.theguardian.com",
-      "published_at": "2026-03-09T06:18:51.000Z",
-      "summary": "Summary: Australia news live: family members of alleged Bondi attacker seek suppression order over their names and address amid safety fears"
+      "id": "837765924d29b50420b33498f15816c0c6997e9a",
+      "title": "Trump: Šli smo na kratko ekskurzijo",
+      "url": "https://www.24ur.com/novice/tujina/trump-sli-smo-na-kratko-ekskurzijo.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-10T06:29:16.000Z",
+      "summary": "Summary: Trump: Šli smo na kratko ekskurzijo"
     },
     {
-      "id": "d385a76a5c3ad430bf82ec2e0da1ec338a134cfb",
-      "title": "The 'quite terrifying' scenarios that finally spooked global markets",
-      "url": "https://www.abc.net.au/news/2026-03-09/us-israel-iran-war-oil-price-surge-share-markets/106432166",
+      "id": "cea9ed6f4c880db92765d9e23f5f961ef8763c2e",
+      "title": "Man who fatally shot workmate was exploring extremist ideology, inquest hears",
+      "url": "https://www.abc.net.au/news/2026-03-10/kellerberrin-shooter-lachlan-bowles-explored-extremist-ideology/106437102",
       "source": "www.abc.net.au",
-      "published_at": "2026-03-09T06:18:22.000Z",
-      "summary": "Summary: The 'quite terrifying' scenarios that finally spooked global markets"
+      "published_at": "2026-03-10T06:28:32.000Z",
+      "summary": "Summary: Man who fatally shot workmate was exploring extremist ideology, inquest hears"
+    },
+    {
+      "id": "41dbe05982c8cf88bafeb09956b8893295cf5dd6",
+      "title": "Iran vztraja, da bo on določil konec vojne. Pogajanja niso več na mizi.",
+      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/iran-vztraja-da-bo-on-dolocil-konec-vojne-pogajanja-niso-vec-na-mizi/775866",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-10T06:25:56.000Z",
+      "summary": "Summary: Iran vztraja, da bo on določil konec vojne. Pogajanja niso več na mizi."
+    },
+    {
+      "id": "99ed1f3a9548e1b66a12813609596cc429acc7c1",
+      "title": "War in the Middle East: nearly 500 dead in Lebanon from Israeli offensive against Hezbollah",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3346067/war-middle-east-nearly-500-dead-lebanon-israeli-offensive-last-week?utm_source=rss_feed",
+      "source": "www.scmp.com",
+      "published_at": "2026-03-10T06:22:42.000Z",
+      "summary": "Summary: War in the Middle East: nearly 500 dead in Lebanon from Israeli offensive against Hezbollah"
+    },
+    {
+      "id": "1c27cb908d3fab29222056c0d565d4b42739f263",
+      "title": "Gilgeous-Alexander odločil derbi z Denverjem s trojko tik pred koncem",
+      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/gilgeous-alexander-odlocil-derbi-z-denverjem-s-trojko-tik-pred-koncem/775864",
+      "source": "www.rtvslo.si",
+      "published_at": "2026-03-10T06:20:51.000Z",
+      "summary": "Summary: Gilgeous-Alexander odločil derbi z Denverjem s trojko tik pred koncem"
+    },
+    {
+      "id": "489f8caa0dfbd4a3d3226238feac674a1ec7be50",
+      "title": "The ‘Fourth Successor’: Iran’s plan for a long war with the US and Israel",
+      "url": "https://www.aljazeera.com/features/2026/3/10/the-fourth-successor-how-iran-planned-to-fight-a-long-war-with-the-us-and-israel?traffic_source=rss",
+      "source": "www.aljazeera.com",
+      "published_at": "2026-03-10T06:19:25.000Z",
+      "summary": "Summary: The ‘Fourth Successor’: Iran’s plan for a long war with the US and Israel"
+    },
+    {
+      "id": "a2a908b7c1644227f54106429866942aec9651e1",
+      "title": "Australia politics live: Iranian women’s football team arrive at Gold Coast airport as Amnesty says players face ‘serious risks to their safety’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/10/iran-football-team-tony-burke-anthony-albanese-labor-angus-taylor-coalition-oil-price-inflation-federal-parliament-ntwnfb",
+      "source": "www.theguardian.com",
+      "published_at": "2026-03-10T06:17:51.000Z",
+      "summary": "Summary: Australia politics live: Iranian women’s football team arrive at Gold Coast airport as Amnesty says players face ‘serious risks to their safety’"
+    },
+    {
+      "id": "6ffe994a3557717069272fc3a240f04da0a1723f",
+      "title": "Meteorit poškodoval streho hiše v Nemčiji",
+      "url": "https://www.delo.si/novice/znanoteh/meteorit-poskodoval-streho-hise-v-nemciji",
+      "source": "www.delo.si",
+      "published_at": "2026-03-10T06:15:01.000Z",
+      "summary": "Summary: Meteorit poškodoval streho hiše v Nemčiji"
+    },
+    {
+      "id": "2b36b887dee340bbbc70beb33ab151bc4c9c6424",
+      "title": "Like Brooklyn Beckham, I don't speak to my family - we need to talk about estrangement",
+      "url": "https://www.bbc.com/news/articles/c5y2l0glqeyo?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-03-10T06:05:06.000Z",
+      "summary": "Summary: Like Brooklyn Beckham, I don't speak to my family - we need to talk about estrangement"
+    },
+    {
+      "id": "fb7e0cbae2985de3a5c2cda61411ff224e1b49a0",
+      "title": "Chris Mason: The cost of living is catapulted centre stage yet again",
+      "url": "https://www.bbc.com/news/articles/c4gqyp8q594o?at_medium=RSS&at_campaign=rss",
+      "source": "feeds.bbci.co.uk",
+      "published_at": "2026-03-10T06:04:13.000Z",
+      "summary": "Summary: Chris Mason: The cost of living is catapulted centre stage yet again"
     }
   ]
 }

@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-09T06:40:24.235Z",
+  "updated_at": "2026-03-10T06:33:54.955Z",
   "days": [
+    {
+      "date": "2026-03-10",
+      "page": "/news/2026-03-10-news.html",
+      "teaser": "Top: Business owners 'heartbroken' after retail units destroyed in Glasgow fire",
+      "count": 12,
+      "ids": [
+        "833d9644543046e16b069e8a76be3ece0cdc0d71",
+        "44a85730a836e5db9e5726ed6a43ed3c8f594cd8",
+        "837765924d29b50420b33498f15816c0c6997e9a",
+        "cea9ed6f4c880db92765d9e23f5f961ef8763c2e",
+        "41dbe05982c8cf88bafeb09956b8893295cf5dd6",
+        "99ed1f3a9548e1b66a12813609596cc429acc7c1",
+        "1c27cb908d3fab29222056c0d565d4b42739f263",
+        "489f8caa0dfbd4a3d3226238feac674a1ec7be50",
+        "a2a908b7c1644227f54106429866942aec9651e1",
+        "6ffe994a3557717069272fc3a240f04da0a1723f",
+        "2b36b887dee340bbbc70beb33ab151bc4c9c6424",
+        "fb7e0cbae2985de3a5c2cda61411ff224e1b49a0"
+      ]
+    },
     {
       "date": "2026-03-09",
       "page": "/news/2026-03-09-news.html",
@@ -579,26 +599,6 @@
         "7d3b5e95ec375c27c71b708a835b43b766af2099",
         "393b08cef9775dc772da2731f3e3a79c5ae97b8b",
         "e1f0da9bbd9b7ccdab5fd6e07dfbc8ba4cfa013b"
-      ]
-    },
-    {
-      "date": "2026-02-03",
-      "page": "/news/2026-02-03-news.html",
-      "teaser": "Top: A-League star snapped up by European giant Juventus",
-      "count": 12,
-      "ids": [
-        "cf3db463fbc057dfeed9eda7a5667f85c052496f",
-        "575eed02c3241527e68254e592af13e714d690be",
-        "eabd9077430aa6bb45c60af3d5e61ac42b977de5",
-        "28c8a068970aee1be9ba9b5351fbc34df82ddcf4",
-        "f435208014a34006e3db2b71f65d28e637d432a6",
-        "65988bc391f6de14ac98254618b8658c0c489975",
-        "46d24d6c85367bbcb34277651ec5881aa96d7984",
-        "e966d23dacf72cfed4791b55c304d532be5b6a56",
-        "e43c41c87524a56f1427d1569026ef7a1763829e",
-        "9c08acdb45924508677fcca2b088fbb4aff53c97",
-        "129947c743353ee81f75c9a40c73d2e893d24974",
-        "a715800e8e2c75da08d34edb73acf6d955bbe476"
       ]
     }
   ]
