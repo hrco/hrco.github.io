@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-10",
-  "updated_at": "2026-03-10T06:33:42.710Z",
-  "page": "/news/2026-03-10.html",
+  "date": "2026-03-11",
+  "updated_at": "2026-03-11T06:34:38.569Z",
+  "page": "/news/2026-03-11.html",
   "count": 12,
   "items": [
     {
-      "id": "44a85730a836e5db9e5726ed6a43ed3c8f594cd8",
-      "title": "Spoznajte najhitrejšega serijskega GTI-ja doslej",
-      "url": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/spoznajte-najhitrejsega-serijskega-gti-ja-doslej/775714",
+      "id": "a086e9559a104c222e6c41ee5e17d097ee03fd79",
+      "title": "Jan Tratnik: Dokler ne odpadem prvi, bom vztrajal",
+      "url": "https://www.rtvslo.si/sport/kolesarstvo/jan-tratnik-dokler-ne-odpadem-prvi-bom-vztrajal/775980",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-10T06:30:34.000Z",
-      "summary": "Summary: Spoznajte najhitrejšega serijskega GTI-ja doslej"
+      "published_at": "2026-03-11T06:32:50.000Z",
+      "summary": "Summary: Jan Tratnik: Dokler ne odpadem prvi, bom vztrajal"
     },
     {
-      "id": "837765924d29b50420b33498f15816c0c6997e9a",
-      "title": "Trump: Šli smo na kratko ekskurzijo",
-      "url": "https://www.24ur.com/novice/tujina/trump-sli-smo-na-kratko-ekskurzijo.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-10T06:29:16.000Z",
-      "summary": "Summary: Trump: Šli smo na kratko ekskurzijo"
-    },
-    {
-      "id": "41dbe05982c8cf88bafeb09956b8893295cf5dd6",
-      "title": "Iran vztraja, da bo on določil konec vojne. Pogajanja niso več na mizi.",
-      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/iran-vztraja-da-bo-on-dolocil-konec-vojne-pogajanja-niso-vec-na-mizi/775866",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-10T06:25:56.000Z",
-      "summary": "Summary: Iran vztraja, da bo on določil konec vojne. Pogajanja niso več na mizi."
-    },
-    {
-      "id": "1c27cb908d3fab29222056c0d565d4b42739f263",
-      "title": "Gilgeous-Alexander odločil derbi z Denverjem s trojko tik pred koncem",
-      "url": "https://www.rtvslo.si/sport/kosarka/liga-nba/gilgeous-alexander-odlocil-derbi-z-denverjem-s-trojko-tik-pred-koncem/775864",
-      "source": "www.rtvslo.si",
-      "published_at": "2026-03-10T06:20:51.000Z",
-      "summary": "Summary: Gilgeous-Alexander odločil derbi z Denverjem s trojko tik pred koncem"
-    },
-    {
-      "id": "0be15ddb6f80b7a97a895e074dacb9702e21fb01",
-      "title": "Comparing Wallet Top-Up Fees Across Global Fintech Platforms",
-      "url": "https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4",
-      "source": "dev.to",
-      "published_at": "2026-03-10T06:20:45.000Z",
-      "summary": "Summary: Comparing Wallet Top-Up Fees Across Global Fintech Platforms"
-    },
-    {
-      "id": "7b239e6bc8d59107412b95423cbac05368874267",
-      "title": "I’m in! 🥳🤙🏼 contratz to all!",
-      "url": "https://dev.to/dnszlsk/im-in-contratz-to-all-1757",
-      "source": "dev.to",
-      "published_at": "2026-03-10T06:19:44.000Z",
-      "summary": "Summary: I’m in! 🥳🤙🏼 contratz to all!"
-    },
-    {
-      "id": "1c61ae4f6af34225605d70fa6472bab7c6370267",
-      "title": "The New AI Stack Every Developer Should Understand",
-      "url": "https://dev.to/jaideepparashar/the-new-ai-stack-every-developer-should-understand-3ejl",
-      "source": "dev.to",
-      "published_at": "2026-03-10T06:18:59.000Z",
-      "summary": "Summary: The New AI Stack Every Developer Should Understand"
-    },
-    {
-      "id": "d8d628832cc2b368ddf1c13cba69c52554688c7e",
-      "title": "Beyond fmt: Building a Flexible Text Builder in Go with Wissance/stringFormatter",
-      "url": "https://dev.to/evillord666/beyond-fmt-building-a-flexible-text-builder-in-go-with-wissancestringformatter-2ec3",
-      "source": "dev.to",
-      "published_at": "2026-03-10T06:18:13.000Z",
-      "summary": "Summary: Beyond fmt: Building a Flexible Text Builder in Go with Wissance/stringFormatter"
-    },
-    {
-      "id": "bd789ccc3d6743b51a7692d008a8e5166e4868fc",
-      "title": "6 Redis Caching Patterns That Cut Node.js API Response Time from 1.5s to 150ms",
-      "url": "https://dev.to/jsgurujobs/6-redis-caching-patterns-that-cut-nodejs-api-response-time-from-15s-to-150ms-4944",
-      "source": "dev.to",
-      "published_at": "2026-03-10T06:16:40.000Z",
-      "summary": "Summary: 6 Redis Caching Patterns That Cut Node.js API Response Time from 1.5s to 150ms"
-    },
-    {
-      "id": "6ffe994a3557717069272fc3a240f04da0a1723f",
-      "title": "Meteorit poškodoval streho hiše v Nemčiji",
-      "url": "https://www.delo.si/novice/znanoteh/meteorit-poskodoval-streho-hise-v-nemciji",
+      "id": "4363145fbfbc1cb0a85c788faf636c5bcb43d7dd",
+      "title": "Težave izpetega gospodarskega modela",
+      "url": "https://www.delo.si/novice/svet/tezave-izpetega-gospodarskega-modela",
       "source": "www.delo.si",
-      "published_at": "2026-03-10T06:15:01.000Z",
-      "summary": "Summary: Meteorit poškodoval streho hiše v Nemčiji"
+      "published_at": "2026-03-11T06:30:00.000Z",
+      "summary": "Summary: Težave izpetega gospodarskega modela"
     },
     {
-      "id": "aca2186c4739bf68e2782372eb3ed66777ffdd6a",
-      "title": "On-Call Burnout: What Incident Data Doesn’t Show",
-      "url": "https://dev.to/hamza_2315/on-call-burnout-what-incident-data-doesnt-show-2kap",
+      "id": "96785c08f22dd26fc9fdf01e432fc589ec3fd732",
+      "title": "How Engineering Managers Can Make the Budget Case for AI Tool Training",
+      "url": "https://dev.to/askpatrick/how-engineering-managers-can-make-the-budget-case-for-ai-tool-training-4no3",
       "source": "dev.to",
-      "published_at": "2026-03-10T06:11:55.000Z",
-      "summary": "Summary: On-Call Burnout: What Incident Data Doesn’t Show"
+      "published_at": "2026-03-11T06:29:36.000Z",
+      "summary": "Summary: How Engineering Managers Can Make the Budget Case for AI Tool Training"
     },
     {
-      "id": "4b5ac875b3719b0309cee153c1719e7e87f8846d",
-      "title": "Stop Guessing About iOS Crash Troubleshooting! Save This Layered Catch Guide",
-      "url": "https://dev.to/observabilityguy/stop-guessing-about-ios-crash-troubleshooting-save-this-layered-catch-guide-246l",
+      "id": "0a6e63327dc4941bd1110c92a931b045ff5208ca",
+      "title": "Hormuška ožina postaja osrčje vojne med ZDA, Iranom in Izraelom",
+      "url": "https://www.delo.si/novice/svet/hormuska-ozina-postaja-osrcje-vojne-med-zda-iranom-in-izraelom",
+      "source": "www.delo.si",
+      "published_at": "2026-03-11T06:29:20.000Z",
+      "summary": "Summary: Hormuška ožina postaja osrčje vojne med ZDA, Iranom in Izraelom"
+    },
+    {
+      "id": "8bf826555708f341f3075b57e18ce54d4e3e0d78",
+      "title": "Claude CodeでAPIパフォーマンスバジェットを設計する：P99目標・計測・自動アラート",
+      "url": "https://dev.to/myougatheaxo/claude-codedeapipahuomansubazietutowoshe-ji-surup99mu-biao-ji-ce-zi-dong-arato-1jd4",
       "source": "dev.to",
-      "published_at": "2026-03-10T06:09:55.000Z",
-      "summary": "Summary: Stop Guessing About iOS Crash Troubleshooting! Save This Layered Catch Guide"
+      "published_at": "2026-03-11T06:28:51.000Z",
+      "summary": "Summary: Claude CodeでAPIパフォーマンスバジェットを設計する：P99目標・計測・自動アラート"
+    },
+    {
+      "id": "446a52e1ababd6663fac85b1aea9da27193b67fa",
+      "title": "The AI Approval Process: Why Amazon's New Policy Matters for Every Dev Team",
+      "url": "https://dev.to/nader0913/the-ai-approval-process-why-amazons-new-policy-matters-for-every-dev-team-4cl2",
+      "source": "dev.to",
+      "published_at": "2026-03-11T06:27:38.000Z",
+      "summary": "Summary: The AI Approval Process: Why Amazon's New Policy Matters for Every Dev Team"
+    },
+    {
+      "id": "3b02b59360adc0a4d763cead030524bb402db881",
+      "title": "Claude CodeでOAuth2 PKCEフローを設計する：認可コード・SPAセキュア認証・リフレッシュ",
+      "url": "https://dev.to/myougatheaxo/claude-codedeoauth2-pkcehurowoshe-ji-sururen-ke-kodospasekiyuaren-zheng-rihuretusiyu-4gf2",
+      "source": "dev.to",
+      "published_at": "2026-03-11T06:26:11.000Z",
+      "summary": "Summary: Claude CodeでOAuth2 PKCEフローを設計する：認可コード・SPAセキュア認証・リフレッシュ"
+    },
+    {
+      "id": "257b98f70d95e9aee297716fc82974a1f4abad26",
+      "title": "Rancher vs Portainer: Which Container Manager to Self-Host?",
+      "url": "https://dev.to/selfhostingsh/rancher-vs-portainer-which-container-manager-to-self-host-4bmd",
+      "source": "dev.to",
+      "published_at": "2026-03-11T06:25:34.000Z",
+      "summary": "Summary: Rancher vs Portainer: Which Container Manager to Self-Host?"
+    },
+    {
+      "id": "631d0cfcccfab508956c8316c72c7e0c844fff21",
+      "title": "Yann LeCun Raises $1B to Build AI That Understands the Physical World",
+      "url": "https://dev.to/onsen/yann-lecun-raises-1b-to-build-ai-that-understands-the-physical-world-c36",
+      "source": "dev.to",
+      "published_at": "2026-03-11T06:25:23.000Z",
+      "summary": "Summary: Yann LeCun Raises $1B to Build AI That Understands the Physical World"
+    },
+    {
+      "id": "dc211f20735906a30ea75a86a058cc775a89a131",
+      "title": "Understanding the Agents in the BMAD",
+      "url": "https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o",
+      "source": "dev.to",
+      "published_at": "2026-03-11T06:24:43.000Z",
+      "summary": "Summary: Understanding the Agents in the BMAD"
+    },
+    {
+      "id": "6a26671154831dc1559bef6922cd7c3c677a29f8",
+      "title": "AI時代のコーディング環境を構築！2026年おすすめ開発ツールTop10",
+      "url": "https://dev.to/yuuto128/aishi-dai-nokodeinguhuan-jing-wogou-zhu-2026nian-osusumekai-fa-turutop10-5f59",
+      "source": "dev.to",
+      "published_at": "2026-03-11T06:24:19.000Z",
+      "summary": "Summary: AI時代のコーディング環境を構築！2026年おすすめ開発ツールTop10"
+    },
+    {
+      "id": "e89d83e5633e705052ebdb623002548b00ef00fb",
+      "title": "How I Built Kafka Cost Tracking with Prometheus JMX",
+      "url": "https://dev.to/umbrincraft/how-i-built-kafka-cost-tracking-with-prometheus-jmx-354i",
+      "source": "dev.to",
+      "published_at": "2026-03-11T06:24:10.000Z",
+      "summary": "Summary: How I Built Kafka Cost Tracking with Prometheus JMX"
     }
   ]
 }
