@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-11T06:34:46.985Z",
+  "updated_at": "2026-03-12T06:36:05.176Z",
   "days": [
+    {
+      "date": "2026-03-12",
+      "page": "/news/2026-03-12-news.html",
+      "teaser": "Top: V iraških vodah zadeli dva tankerja, ena oseba umrla",
+      "count": 12,
+      "ids": [
+        "31547966d8307167be876c85d588ab37a13c5baf",
+        "7e744c2976ca5f48adbbe0a8c754da141906accd",
+        "abd55f6708b7069a4c9a440c67149d4002ca654e",
+        "28bdc65e064d88b6587b73ab07aa7bc43d93df6b",
+        "ddcf2e97df841bd5bebbb884abf15cd7eb46fd40",
+        "8e4a7b435999ffab42c7885d28dd08c3efbf6a3e",
+        "715cbd33e8884eac8aeafc7711cb6382e0944329",
+        "141f3b522da6994710c4dfc60b299226ee6953bd",
+        "6a6e201bee6cf76bec246e3fe3064dacaf6f256c",
+        "9684c69ea8b4232657a2e18d184404c15dbe2817",
+        "88cf865bf61bed19ea470aef2b238f01b95e4d86",
+        "47a965bcba0aa7afc88cdb1f76138e0395e1598e"
+      ]
+    },
     {
       "date": "2026-03-11",
       "page": "/news/2026-03-11-news.html",
@@ -579,26 +599,6 @@
         "777f52329e9f5c45c581c6482a089d345981b28b",
         "859247a993e647fcc2160fb1d4ffcc1064dd5997",
         "356671fd1f6e09cb7ebc7b24a7fdafc25bbc2cbf"
-      ]
-    },
-    {
-      "date": "2026-02-05",
-      "page": "/news/2026-02-05-news.html",
-      "teaser": "Top: Sedem let po smrti modne ikone sorodniki v boj za njegove milijone",
-      "count": 12,
-      "ids": [
-        "413d9faa6d4d886cd2e0f7ff800dc1f639da9767",
-        "4853d2924a29782b0fe9e28cf8a72869aa582076",
-        "2c0ccc568c35b23a2f796a99fb0e2943fde329f2",
-        "e2f4c260ae48c2c4e49379b1370980ee8f8264ff",
-        "4ef9c0d5e7155cb3e42f7ec516bd1041f0b04dd7",
-        "629b91dc06922c8777700117016b84a24bf7d475",
-        "0002b557fda7684207d835886bed67938cef82c1",
-        "68a5fc4d01a41b432f557d3e66a0921ebb9fbb54",
-        "f500425acb61bc2cc6c64d3e867f78b81e5cefec",
-        "f894540f77f9c4023128092c010e35d48f719a83",
-        "36f1d9418360b402c9343805c46501322e8ba87a",
-        "8cc3ede9cee853bb964c465d51c282f5e6517f9a"
       ]
     }
   ]

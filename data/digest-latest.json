@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-11",
-  "updated_at": "2026-03-11T06:34:38.569Z",
-  "page": "/news/2026-03-11.html",
+  "date": "2026-03-12",
+  "updated_at": "2026-03-12T06:35:53.537Z",
+  "page": "/news/2026-03-12.html",
   "count": 12,
   "items": [
     {
-      "id": "a086e9559a104c222e6c41ee5e17d097ee03fd79",
-      "title": "Jan Tratnik: Dokler ne odpadem prvi, bom vztrajal",
-      "url": "https://www.rtvslo.si/sport/kolesarstvo/jan-tratnik-dokler-ne-odpadem-prvi-bom-vztrajal/775980",
+      "id": "dbf82fe6e6487afbc99053ffa0947cdafb2e2c2f",
+      "title": "How AI is helping improve heart health in rural Australia",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "source": "blog.google",
+      "published_at": "2026-03-12T15:00:00.000Z",
+      "summary": "Summary: How AI is helping improve heart health in rural Australia"
+    },
+    {
+      "id": "31547966d8307167be876c85d588ab37a13c5baf",
+      "title": "V iraških vodah zadeli dva tankerja, ena oseba umrla",
+      "url": "https://www.24ur.com/novice/tujina/iran_7.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-12T06:33:01.000Z",
+      "summary": "Summary: V iraških vodah zadeli dva tankerja, ena oseba umrla"
+    },
+    {
+      "id": "6a24f444d9437f6c207ca187fa0ccfaebd43ffe0",
+      "title": "How Automation Can Reduce Hiring Time by 50%",
+      "url": "https://dev.to/taurusai/how-automation-can-reduce-hiring-time-by-50-2b74",
+      "source": "dev.to",
+      "published_at": "2026-03-12T06:29:38.000Z",
+      "summary": "Summary: How Automation Can Reduce Hiring Time by 50%"
+    },
+    {
+      "id": "36fd55c9070a8b0b3ee6c439dcaf4a8df912b7ca",
+      "title": "Why Bible APIs Should Be Version-Agnostic",
+      "url": "https://dev.to/derek_codes/why-bible-apis-should-be-version-agnostic-nfe",
+      "source": "dev.to",
+      "published_at": "2026-03-12T06:28:53.000Z",
+      "summary": "Summary: Why Bible APIs Should Be Version-Agnostic"
+    },
+    {
+      "id": "35c91b61c0701ea9915b3309534cee1e7c0eb92b",
+      "title": "The Third Reason for Edge AI: Law",
+      "url": "https://dev.to/skyguan92/the-third-reason-for-edge-ai-law-321k",
+      "source": "dev.to",
+      "published_at": "2026-03-12T06:26:53.000Z",
+      "summary": "Summary: The Third Reason for Edge AI: Law"
+    },
+    {
+      "id": "97d3c2725b7fd1c5fbf394343dfcb1a3bf79213a",
+      "title": "Your analytics script is the heaviest thing most visitors download",
+      "url": "https://dev.to/devly-digital/your-analytics-script-is-the-heaviest-thing-most-visitors-download-cnp",
+      "source": "dev.to",
+      "published_at": "2026-03-12T06:25:50.000Z",
+      "summary": "Summary: Your analytics script is the heaviest thing most visitors download"
+    },
+    {
+      "id": "c4003864637164ec2b7b1027bee58c6d05c2a7c3",
+      "title": "Toward Smarter AI: Why Smaller Models on High-Performance CPUs Are Winning",
+      "url": "https://dev.to/communications_zirohlabs/toward-smarter-ai-why-smaller-models-on-high-performance-cpus-are-winning-pgh",
+      "source": "dev.to",
+      "published_at": "2026-03-12T06:25:43.000Z",
+      "summary": "Summary: Toward Smarter AI: Why Smaller Models on High-Performance CPUs Are Winning"
+    },
+    {
+      "id": "a18ad494f9eda8c8965016bc904adad5fef18fdc",
+      "title": "Mali to Introduce Special Mining Brigade to Curb Illegal Output",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/mali-to-introduce-special-mining-brigade-to-curb-illegal-output",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-03-12T06:16:15.000Z",
+      "summary": "Summary: Mali to Introduce Special Mining Brigade to Curb Illegal Output"
+    },
+    {
+      "id": "141f3b522da6994710c4dfc60b299226ee6953bd",
+      "title": "Vojna na Bližnjem vzhodu se širi na morje, cene nafte pod pritiskom",
+      "url": "https://www.delo.si/novice/svet/vojna-na-bliznjem-vzhodu-se-siri-na-morje-cene-nafte-pod-pritiskom",
+      "source": "www.delo.si",
+      "published_at": "2026-03-12T06:16:00.000Z",
+      "summary": "Summary: Vojna na Bližnjem vzhodu se širi na morje, cene nafte pod pritiskom"
+    },
+    {
+      "id": "88cf865bf61bed19ea470aef2b238f01b95e4d86",
+      "title": "Zalivske države so obogatele z nafto, a (razsoljena) voda je tista, ki omogoča življenje",
+      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/zalivske-drzave-so-obogatele-z-nafto-a-razsoljena-voda-je-tista-ki-omogoca-zivljenje/775775",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-11T06:32:50.000Z",
-      "summary": "Summary: Jan Tratnik: Dokler ne odpadem prvi, bom vztrajal"
+      "published_at": "2026-03-12T06:15:17.000Z",
+      "summary": "Summary: Zalivske države so obogatele z nafto, a (razsoljena) voda je tista, ki omogoča življenje"
     },
     {
-      "id": "4363145fbfbc1cb0a85c788faf636c5bcb43d7dd",
-      "title": "Težave izpetega gospodarskega modela",
-      "url": "https://www.delo.si/novice/svet/tezave-izpetega-gospodarskega-modela",
-      "source": "www.delo.si",
-      "published_at": "2026-03-11T06:30:00.000Z",
-      "summary": "Summary: Težave izpetega gospodarskega modela"
-    },
-    {
-      "id": "96785c08f22dd26fc9fdf01e432fc589ec3fd732",
-      "title": "How Engineering Managers Can Make the Budget Case for AI Tool Training",
-      "url": "https://dev.to/askpatrick/how-engineering-managers-can-make-the-budget-case-for-ai-tool-training-4no3",
+      "id": "bde2820196430f73774185676a121a13cd10a283",
+      "title": "Strapi CMS: The Modern Headless CMS Powering Scalable Digital Experiences",
+      "url": "https://dev.to/geekyants-inc/strapi-cms-the-modern-headless-cms-powering-scalable-digital-experiences-29md",
       "source": "dev.to",
-      "published_at": "2026-03-11T06:29:36.000Z",
-      "summary": "Summary: How Engineering Managers Can Make the Budget Case for AI Tool Training"
+      "published_at": "2026-03-12T06:12:49.000Z",
+      "summary": "Summary: Strapi CMS: The Modern Headless CMS Powering Scalable Digital Experiences"
     },
     {
-      "id": "0a6e63327dc4941bd1110c92a931b045ff5208ca",
-      "title": "Hormuška ožina postaja osrčje vojne med ZDA, Iranom in Izraelom",
-      "url": "https://www.delo.si/novice/svet/hormuska-ozina-postaja-osrcje-vojne-med-zda-iranom-in-izraelom",
-      "source": "www.delo.si",
-      "published_at": "2026-03-11T06:29:20.000Z",
-      "summary": "Summary: Hormuška ožina postaja osrčje vojne med ZDA, Iranom in Izraelom"
-    },
-    {
-      "id": "8bf826555708f341f3075b57e18ce54d4e3e0d78",
-      "title": "Claude CodeでAPIパフォーマンスバジェットを設計する：P99目標・計測・自動アラート",
-      "url": "https://dev.to/myougatheaxo/claude-codedeapipahuomansubazietutowoshe-ji-surup99mu-biao-ji-ce-zi-dong-arato-1jd4",
+      "id": "219bf21d8b83c0543a3913126c1f1291ba705f8d",
+      "title": "Why \"Good Enough\" is Killing the Web (and How We’re Fixing It)",
+      "url": "https://dev.to/bandhan/why-good-enough-is-killing-the-web-and-how-were-fixing-it-1nad",
       "source": "dev.to",
-      "published_at": "2026-03-11T06:28:51.000Z",
-      "summary": "Summary: Claude CodeでAPIパフォーマンスバジェットを設計する：P99目標・計測・自動アラート"
-    },
-    {
-      "id": "446a52e1ababd6663fac85b1aea9da27193b67fa",
-      "title": "The AI Approval Process: Why Amazon's New Policy Matters for Every Dev Team",
-      "url": "https://dev.to/nader0913/the-ai-approval-process-why-amazons-new-policy-matters-for-every-dev-team-4cl2",
-      "source": "dev.to",
-      "published_at": "2026-03-11T06:27:38.000Z",
-      "summary": "Summary: The AI Approval Process: Why Amazon's New Policy Matters for Every Dev Team"
-    },
-    {
-      "id": "3b02b59360adc0a4d763cead030524bb402db881",
-      "title": "Claude CodeでOAuth2 PKCEフローを設計する：認可コード・SPAセキュア認証・リフレッシュ",
-      "url": "https://dev.to/myougatheaxo/claude-codedeoauth2-pkcehurowoshe-ji-sururen-ke-kodospasekiyuaren-zheng-rihuretusiyu-4gf2",
-      "source": "dev.to",
-      "published_at": "2026-03-11T06:26:11.000Z",
-      "summary": "Summary: Claude CodeでOAuth2 PKCEフローを設計する：認可コード・SPAセキュア認証・リフレッシュ"
-    },
-    {
-      "id": "257b98f70d95e9aee297716fc82974a1f4abad26",
-      "title": "Rancher vs Portainer: Which Container Manager to Self-Host?",
-      "url": "https://dev.to/selfhostingsh/rancher-vs-portainer-which-container-manager-to-self-host-4bmd",
-      "source": "dev.to",
-      "published_at": "2026-03-11T06:25:34.000Z",
-      "summary": "Summary: Rancher vs Portainer: Which Container Manager to Self-Host?"
-    },
-    {
-      "id": "631d0cfcccfab508956c8316c72c7e0c844fff21",
-      "title": "Yann LeCun Raises $1B to Build AI That Understands the Physical World",
-      "url": "https://dev.to/onsen/yann-lecun-raises-1b-to-build-ai-that-understands-the-physical-world-c36",
-      "source": "dev.to",
-      "published_at": "2026-03-11T06:25:23.000Z",
-      "summary": "Summary: Yann LeCun Raises $1B to Build AI That Understands the Physical World"
-    },
-    {
-      "id": "dc211f20735906a30ea75a86a058cc775a89a131",
-      "title": "Understanding the Agents in the BMAD",
-      "url": "https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o",
-      "source": "dev.to",
-      "published_at": "2026-03-11T06:24:43.000Z",
-      "summary": "Summary: Understanding the Agents in the BMAD"
-    },
-    {
-      "id": "6a26671154831dc1559bef6922cd7c3c677a29f8",
-      "title": "AI時代のコーディング環境を構築！2026年おすすめ開発ツールTop10",
-      "url": "https://dev.to/yuuto128/aishi-dai-nokodeinguhuan-jing-wogou-zhu-2026nian-osusumekai-fa-turutop10-5f59",
-      "source": "dev.to",
-      "published_at": "2026-03-11T06:24:19.000Z",
-      "summary": "Summary: AI時代のコーディング環境を構築！2026年おすすめ開発ツールTop10"
-    },
-    {
-      "id": "e89d83e5633e705052ebdb623002548b00ef00fb",
-      "title": "How I Built Kafka Cost Tracking with Prometheus JMX",
-      "url": "https://dev.to/umbrincraft/how-i-built-kafka-cost-tracking-with-prometheus-jmx-354i",
-      "source": "dev.to",
-      "published_at": "2026-03-11T06:24:10.000Z",
-      "summary": "Summary: How I Built Kafka Cost Tracking with Prometheus JMX"
+      "published_at": "2026-03-12T06:09:59.000Z",
+      "summary": "Summary: Why \"Good Enough\" is Killing the Web (and How We’re Fixing It)"
     }
   ]
 }

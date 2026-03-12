@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-03-11T06:34:38.569Z",
+  "updated_at": "2026-03-12T06:35:53.537Z",
   "days": [
+    {
+      "date": "2026-03-12",
+      "page": "/news/2026-03-12.html",
+      "teaser": "Top: How AI is helping improve heart health in rural Australia",
+      "count": 12,
+      "ids": [
+        "dbf82fe6e6487afbc99053ffa0947cdafb2e2c2f",
+        "31547966d8307167be876c85d588ab37a13c5baf",
+        "6a24f444d9437f6c207ca187fa0ccfaebd43ffe0",
+        "36fd55c9070a8b0b3ee6c439dcaf4a8df912b7ca",
+        "35c91b61c0701ea9915b3309534cee1e7c0eb92b",
+        "97d3c2725b7fd1c5fbf394343dfcb1a3bf79213a",
+        "c4003864637164ec2b7b1027bee58c6d05c2a7c3",
+        "a18ad494f9eda8c8965016bc904adad5fef18fdc",
+        "141f3b522da6994710c4dfc60b299226ee6953bd",
+        "88cf865bf61bed19ea470aef2b238f01b95e4d86",
+        "bde2820196430f73774185676a121a13cd10a283",
+        "219bf21d8b83c0543a3913126c1f1291ba705f8d"
+      ]
+    },
     {
       "date": "2026-03-11",
       "page": "/news/2026-03-11.html",
@@ -579,26 +599,6 @@
         "607b2db780559c627b08aea3bc4b8ef92184e0d8",
         "76a82a5024b19c59468ade520e186ed0d971f853",
         "18d247a323a341284cca97667323cdae4650c66b"
-      ]
-    },
-    {
-      "date": "2026-02-05",
-      "page": "/news/2026-02-05.html",
-      "teaser": "Top: Introduction to serializers in Django Rest Framework (DRF) Part II",
-      "count": 12,
-      "ids": [
-        "ad29248f57e52d647333f503899ced8f4dbb74f2",
-        "701ceb9743b0c5cd75dc8cd6c1baa3ca7813a7d8",
-        "4853d2924a29782b0fe9e28cf8a72869aa582076",
-        "8c0bb802f93f5bb0877c0e0fbcbd424e58a82fe1",
-        "8ccb70a97979797ff57c85299a749e1e73e93eac",
-        "927e22ad630345f5d418d271c675fdc36290d6e8",
-        "0002b557fda7684207d835886bed67938cef82c1",
-        "f894540f77f9c4023128092c010e35d48f719a83",
-        "36f1d9418360b402c9343805c46501322e8ba87a",
-        "8cc3ede9cee853bb964c465d51c282f5e6517f9a",
-        "16d9a2ad2467b13e812c632707f8ed872a3d23a9",
-        "39e563888549bb41df0a8ce4599a50b428373a32"
       ]
     }
   ]
