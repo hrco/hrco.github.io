@@ -94,7 +94,7 @@
     canvas.height = window.innerHeight;
 
     // Seed particles spread across the canvas, not all at the bottom
-    for (let i = 0; i < 100; i++) {
+    for (let i = 0; i < 60; i++) {
       particles.push(new Particle(true));
     }
 
