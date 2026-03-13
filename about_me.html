@@ -3,64 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title data-i18n="ABOUT_ME_TITLE">About This Improbable Entity</title>
+    <title data-i18n="NAV_ABOUT">About</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    
-    <style>
-        .experience-section {
-            display: flex;
-            gap: 24px;
-            margin-top: 1.5rem;
-            flex-wrap: wrap;
-        }
-
-        .experience-card {
-            flex: 1;
-            min-width: 280px;
-            padding: 1.5rem;
-        }
-
-        .experience-card h3 {
-            color: var(--color-primary);
-            font-family: var(--font-display);
-        }
-
-        .skills-list {
-            list-style: none;
-            padding-left: 0;
-            margin-top: 1.2rem;
-        }
-
-        .skills-list li {
-            background: linear-gradient(135deg, var(--color-highlight), var(--color-surface));
-            color: var(--color-text);
-            padding: 10px 18px;
-            margin-bottom: 10px;
-            margin-right: 10px;
-            border-radius: 8px;
-            border: 1px solid var(--color-border);
-            display: inline-block;
-            font-weight: 500;
-            font-size: 0.9rem;
-            transition: all var(--transition);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .skills-list li::before {
-            content: '◆';
-            margin-right: 8px;
-            color: var(--color-primary);
-            font-size: 0.7rem;
-        }
-
-        .skills-list li:hover {
-            transform: translateY(-3px);
-            box-shadow: var(--shadow-md);
-            border-color: var(--color-primary);
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -90,38 +35,44 @@
         </header>
 
         <main>
+            <!-- Bio -->
             <section class="card">
-                <h1 data-i18n="ABOUT_ME_TITLE">About This Improbable Entity</h1>
-                <h2 data-i18n="ABOUT_ME_INTRO_TITLE">Origin Story (Mostly Harmless)</h2>
-                <p data-i18n="ABOUT_ME_INTRO_P1">Greetings. I am HRCO - a curious arrangement of carbon-based matter that has developed an inexplicable fascination with converting caffeine into code, pointing cameras at things, and occasionally pondering the fundamental absurdity of existence. This portfolio exists as proof that I have, at least temporarily, figured out which end of a keyboard to type on.</p>
-                <p data-i18n="ABOUT_ME_INTRO_P2">My primary interests orbit around system architecture, web development (particularly the sort that doesn't explode when you look at it funny), and exploring that peculiar intersection where engineering meets creative chaos. I build things with JavaScript, though I cannot be held responsible for what JavaScript does when I'm not looking.</p>
+                <h1 data-i18n="NAV_ABOUT">About</h1>
+                <p data-i18n="ABOUT_BIO">Stress-resistant professional with a background spanning customer hospitality, IT, electronics, and field operations. I make complexity disappear — whether diagnosing a broken network or coordinating 50+ guests on a river. C1 English, EASA Drone Pilot, full EU driving licence.</p>
             </section>
 
-            <section>
-                <h2 data-i18n="EXPERIENCE_TITLE">Professional Improbabilities</h2>
-                <div class="experience-section">
-
-                    <div class="card experience-card">
-                        <h3 data-i18n="EXP_1_TITLE">System Architect & Digital Plumber</h3>
-                        <p data-i18n="EXP_1_DESC">Designing systems that are theoretically scalable and maintainable, assuming the laws of thermodynamics continue to apply and the universe doesn't suddenly decide to recompile itself.</p>
-                    </div>
-
-                    <div class="card experience-card">
-                        <h3 data-i18n="EXP_2_TITLE">Data Whisperer & Automation Enthusiast</h3>
-                        <p data-i18n="EXP_2_DESC">Convincing computers to do repetitive tasks so humans can focus on more important activities, like arguing on the internet or contemplating where they left their towel.</p>
-                    </div>
-                </div>
-            </section>
-
+            <!-- Certifications -->
             <section class="card">
-                <h2 data-i18n="SKILLS_TITLE">Technical Arsenal (Don't Panic)</h2>
+                <h2 data-i18n="ABOUT_CERTS_TITLE">Certifications</h2>
                 <ul class="skills-list">
-                    <li data-i18n="SKILL_WEB">Web (HTML5, CSS3, Vanilla JS) - Like BASIC but with more curly braces</li>
-                    <li data-i18n="SKILL_BACKEND">Backend (Python, Node.js, Shell) - Where the real magic happens</li>
-                    <li data-i18n="SKILL_OTHER">Other (DJI Drones, Lightroom, GIS) - For when code isn't enough</li>
+                    <li>C1 Advanced English — International English Test, Sep 2024</li>
+                    <li>EASA UAS Drone Pilot A1/A3 Open — Slovenian CAA, valid Dec 2029</li>
+                    <li>NPK CNC Operator A-108 — 2015</li>
+                    <li>Driving Licences: AM, B1, B, F, G (EU car + tractor/agricultural)</li>
                 </ul>
             </section>
 
+            <!-- Languages -->
+            <section class="card">
+                <h2 data-i18n="ABOUT_LANG_TITLE">Languages</h2>
+                <ul class="skills-list">
+                    <li>Slovenian (native)</li>
+                    <li>English (C1)</li>
+                    <li>Croatian (fluent)</li>
+                    <li>Spanish (learning)</li>
+                </ul>
+            </section>
+
+            <!-- Contact -->
+            <section class="card">
+                <h2 data-i18n="ABOUT_CONTACT_TITLE">Contact</h2>
+                <ul class="skills-list">
+                    <li><a href="tel:+38651357653" style="color: inherit;">+386 51 357 653</a></li>
+                    <li><a href="mailto:valentin.krizan@protonmail.com" style="color: inherit;">valentin.krizan@protonmail.com</a></li>
+                    <li><a href="https://www.linkedin.com/in/valentin-krizan-zerofriction/" target="_blank" rel="noopener" style="color: inherit;">LinkedIn: valentin-krizan-zerofriction</a></li>
+                    <li><a href="https://instagram.com/valentin.krizan" target="_blank" rel="noopener" style="color: inherit;">IG: @valentin.krizan</a></li>
+                </ul>
+            </section>
         </main>
     </div>
 

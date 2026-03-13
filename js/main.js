@@ -238,24 +238,6 @@ document.addEventListener('DOMContentLoaded', () => {
             'sl': 'Mikolog, ki verjame, da bi gobe lahko rešile planet. Glede na dosedanje dosežke človeštva bi verjetno morali poslušati strokovnjaka za glive. Vsaj gobe imajo več zdravega razuma kot večina politikov.'
         },
 
-        // About page
-        'ABOUT_ME_TITLE': {
-            'en': 'About This Improbable Entity',
-            'sl': 'O Tej Neverjetni Entiteti'
-        },
-        'ABOUT_ME_INTRO_TITLE': {
-            'en': 'Origin Story (Mostly Harmless)',
-            'sl': 'Izvor Zgodbe (Večinoma Neškodljivo)'
-        },
-        'ABOUT_ME_INTRO_P1': {
-            'en': 'Greetings. I am HRCO - a curious arrangement of carbon-based matter that has developed an inexplicable fascination with converting caffeine into code, pointing cameras at things, and occasionally pondering the fundamental absurdity of existence. This portfolio exists as proof that I have, at least temporarily, figured out which end of a keyboard to type on.',
-            'sl': 'Pozdravljeni. Sem HRCO - radovedna kombinacija materije na osnovi ogljika, ki je razvila nepojasnljivo fascinacijo s pretvarjanjem kofeina v kodo, usmerjanjem kamer na stvari in občasnim premišljevanjem o temeljni absurdnosti obstoja. Ta portfelj obstaja kot dokaz, da sem vsaj začasno ugotovil, na kateri konec tipkovnice tipkam.'
-        },
-        'ABOUT_ME_INTRO_P2': {
-            'en': 'My primary interests orbit around system architecture, web development (particularly the sort that doesn\'t explode when you look at it funny), and exploring that peculiar intersection where engineering meets creative chaos. I build things with JavaScript, though I cannot be held responsible for what JavaScript does when I\'m not looking.',
-            'sl': 'Moji primarni interesi krožijo okoli sistemske arhitekture, spletnega razvoja (zlasti tiste vrste, ki ne eksplodira, ko jo pogledate čudno) in raziskovanja te nenavadne presečišča, kjer se inženiring sreča s kreativnim kaosom. Gradim stvari z JavaScriptom, čeprav ne morem biti odgovoren za to, kar JavaScript počne, ko ne gledam.'
-        },
-
         'EXPERIENCE_TITLE': {
             'en': 'Experience',
             'sl': 'Izkušnje'
