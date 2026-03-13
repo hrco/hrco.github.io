@@ -7,22 +7,28 @@
   const ctx = canvas.getContext('2d');
   let particles = [];
   let rafId = null;
+  let resizeTimer = null;
   const BG_COLOR = [10, 13, 26]; // #0a0d1a rgb
 
   class Particle {
-    constructor() {
-      this.reset();
+    constructor(randomY) {
+      this.init(randomY);
     }
 
-    reset() {
+    init(randomY) {
       this.x = Math.random() * canvas.width;
-      this.y = canvas.height;
+      this.y = randomY ? Math.random() * canvas.height : canvas.height;
       this.vy = -(Math.random() * 0.3 + 0.1);
       this.vx = (Math.random() - 0.5) * 0.2;
       this.size = Math.random() * 1.5 + 0.5;
       this.opacity = Math.random() * 0.4 + 0.1;
       const rand = Math.random();
       this.color = rand < 0.8 ? '#ffffff' : (rand < 0.9 ? '#ff6b35' : '#00d9ff');
+    }
+
+    reset() {
+      // Respawn at bottom, not random — keeps the upward-drift visual consistent
+      this.init(false);
     }
 
     update() {
@@ -47,9 +53,19 @@
   }
 
   function resizeCanvas() {
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
-    particles.forEach(p => p.reset());
+    const newW = window.innerWidth;
+    const newH = window.innerHeight;
+    // Only resize if dimensions changed by more than 50px — ignores mobile URL bar
+    if (Math.abs(canvas.width - newW) < 50 && Math.abs(canvas.height - newH) < 50) return;
+    canvas.width = newW;
+    canvas.height = newH;
+    // Don't reset particles — just clip out-of-bounds ones naturally via update()
+  }
+
+  function onResize() {
+    // Debounce: wait 150ms after last resize event before acting
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(resizeCanvas, 150);
   }
 
   function animate() {
@@ -59,23 +75,38 @@
     rafId = requestAnimationFrame(animate);
   }
 
+  function pause() {
+    if (rafId) {
+      cancelAnimationFrame(rafId);
+      rafId = null;
+    }
+  }
+
+  function resume() {
+    if (!rafId) animate();
+  }
+
   function init() {
     const mql = window.matchMedia('(prefers-reduced-motion: reduce)');
     if (mql.matches) return;
 
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    // Seed particles spread across the canvas, not all at the bottom
     for (let i = 0; i < 100; i++) {
-      particles.push(new Particle());
+      particles.push(new Particle(true));
     }
 
-    resizeCanvas();
-    window.addEventListener('resize', resizeCanvas, { passive: true });
+    window.addEventListener('resize', onResize, { passive: true });
+
+    // Pause when tab is hidden, resume when visible — prevents jump on return
+    document.addEventListener('visibilitychange', () => {
+      document.hidden ? pause() : resume();
+    });
+
     mql.addEventListener('change', () => {
-      if (mql.matches && rafId) {
-        cancelAnimationFrame(rafId);
-        rafId = null;
-      } else if (!rafId) {
-        animate();
-      }
+      mql.matches ? pause() : resume();
     });
 
     animate();
