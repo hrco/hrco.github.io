@@ -46,7 +46,29 @@ document.addEventListener('DOMContentLoaded', () => {
         'PROJECTS_LINK': { 'en': 'Projects', 'sl': 'Projekti' },
         'FOTO_LINK': { 'en': 'Visual Evidence', 'sl': 'Vizualni Dokazi' },
         'ABOUT_LINK': { 'en': 'The Entity', 'sl': 'Entiteta' },
-        'SUGGESTIONS_LINK': { 'en': 'Wise Voices', 'sl': 'Modri Glasovi' },
+        // Nav — new labels
+        'NAV_EXPERIENCE': { 'en': 'Experience', 'sl': 'Izkušnje' },
+        'NAV_VISUAL': { 'en': 'Visual', 'sl': 'Vizualno' },
+        'NAV_ABOUT': { 'en': 'About', 'sl': 'O meni' },
+
+        // Hero — index.html
+        'HERO_NAME': { 'en': 'Valentin Križan', 'sl': 'Valentin Križan' },
+        'HERO_TITLE': { 'en': 'Customer Experience & IT Professional', 'sl': 'Strokovnjak za CX in IT' },
+        'HERO_META': { 'en': 'Adlešiči, Slovenia · C1 English · EU Licence B', 'sl': 'Adlešiči, Slovenija · C1 angleščina · EU izpit B' },
+        'HERO_EMAIL': { 'en': 'Email', 'sl': 'E-pošta' },
+        'CURRENT_STATUS': {
+            'en': 'Currently applying for CX roles in sustainable mobility.',
+            'sl': 'Trenutno se prijavljam na CX vloge v trajnostni mobilnosti.'
+        },
+
+        // Skills strip
+        'SKILL_CX': { 'en': 'Customer Experience', 'sl': 'Gostinska izkušnja' },
+        'SKILL_IT': { 'en': 'Electronics & IT', 'sl': 'Elektronika in IT' },
+        'SKILL_CNC': { 'en': 'CNC / Laser', 'sl': 'CNC / Laser' },
+        'SKILL_DRONE': { 'en': 'EASA Drone Pilot', 'sl': 'EASA Pilot drona' },
+        'SKILL_SL': { 'en': 'Slovenian', 'sl': 'Slovenščina' },
+        'SKILL_EN': { 'en': 'English C1', 'sl': 'Angleščina C1' },
+        'SKILL_HR': { 'en': 'Croatian', 'sl': 'Hrvaščina' },
 
         // Home page
         'GREETING': {
@@ -56,6 +78,44 @@ document.addEventListener('DOMContentLoaded', () => {
         'DESCRIPTION': {
             'en': 'This is a remarkably simple portfolio website, constructed entirely from HTML, CSS, and JavaScript - technologies that, despite being roughly as old as digital watches, are still infinitely more impressive than anything produced by the Marketing Department of the Sirius Cybernetics Corporation.',
             'sl': 'To je izjemno preprosta portfolio spletna stran, zgrajena v celoti iz HTML, CSS in JavaScript - tehnologije, ki so kljub temu, da so približno stare kot digitalne ure, še vedno neskončno bolj impresivne kot karkoli, kar je proizvedel marketinški oddelek Sirius Cybernetics Corporation.'
+        },
+
+        // New Index Sections
+        'HERO_CTA': {
+            'en': 'Explore Projects',
+            'sl': 'Razišči Projekte'
+        },
+        'PROJECTS_PREVIEW_TITLE': {
+            'en': 'Featured Projects',
+            'sl': 'Izpostavljeni Projekti'
+        },
+        'PROJECTS_PREVIEW_DESC': {
+            'en': 'A selection of recent digital experiments and tools.',
+            'sl': 'Izbor nedavnih digitalnih eksperimentov in orodij.'
+        },
+        'PHOTO_PREVIEW_TITLE': {
+            'en': 'Visual Perspectives',
+            'sl': 'Vizualne Perspektive'
+        },
+        'PHOTO_PREVIEW_DESC': {
+            'en': 'Capturing moments in time and space.',
+            'sl': 'Ujemanje trenutkov v času in prostoru.'
+        },
+        'SEE_MORE_PROJECTS': {
+            'en': 'View All Projects',
+            'sl': 'Poglej Vse Projekte'
+        },
+        'SEE_MORE_PHOTOS': {
+            'en': 'View Gallery',
+            'sl': 'Poglej Galerijo'
+        },
+        'ABOUT_PREVIEW_TITLE': {
+            'en': 'About HRCO',
+            'sl': 'O HRCO'
+        },
+        'READ_MORE': {
+            'en': 'Read More',
+            'sl': 'Preberi Več'
         },
 
         'LATEST_DIGEST': {
@@ -135,27 +195,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Projects page
         'PROJECTS_TITLE': {
-            'en': 'Digital Improbabilities | HRCO',
-            'sl': 'Digitalne Neverjetnosti | HRCO'
+            'en': 'Experience | HRCO',
+            'sl': 'Izkušnje | HRCO'
         },
-        'PROJECTS_HEADING': {
-            'en': 'Digital Improbabilities',
-            'sl': 'Digitalne Neverjetnosti'
-        },
-        'PROJECTS_INTRO': {
-            'en': 'A collection of web-based experiments, tools, and digital oddities that somehow achieved sentience without filing the proper paperwork. Each represents an attempt to solve problems that may or may not have existed before I started solving them.',
-            'sl': 'Zbirka spletnih eksperimentov, orodij in digitalnih nenavadnosti, ki so nekako dosegle zavest brez ustrezne dokumentacije. Vsak predstavlja poskus reševanja problemov, ki so morda obstajali ali pa tudi ne, preden sem jih začel reševati.'
-        },
-        'PROJECT_STATUS_LIVE': { 'en': 'Live', 'sl': 'V živo' },
-        'PROJECT_STATUS_DEV': { 'en': 'In Development', 'sl': 'V razvoju' },
-        'PROJECT_VISIT_SITE': { 'en': 'Visit Site', 'sl': 'Obišči stran' },
-        'PROJECT_COMING_SOON': { 'en': 'Coming Soon', 'sl': 'Kmalu prihaja' },
-        'PROJECT_STATIC_SITE': { 'en': 'Static Site', 'sl': 'Statična stran' },
-        'PROJECT_LEARNING_NOTE': {
-            'en': 'These projects represent my ongoing journey in web development. Each one taught me something new about the improbable art of making computers do what you want.',
-            'sl': 'Ti projekti so odraz moje poti po svetu spletnega razvoja. Vsak me je naučil kaj novega o neverjetni umetnosti, kako prisiliti računalnike, da delajo, kar hočem.'
-        },
-
         // Suggestions page
         'SUGGESTIONS_TITLE': {
             'en': 'Mostly Harmless Influencers',
@@ -215,43 +257,91 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 
         'EXPERIENCE_TITLE': {
-            'en': 'Professional Improbabilities',
-            'sl': 'Profesionalne Neverjetnosti'
-        },
-        'EXP_1_TITLE': {
-            'en': 'System Architect & Digital Plumber',
-            'sl': 'Sistemski Arhitekt in Digitalni Vodovodar'
-        },
-        'EXP_1_DESC': {
-            'en': 'Designing systems that are theoretically scalable and maintainable, assuming the laws of thermodynamics continue to apply and the universe doesn\'t suddenly decide to recompile itself.',
-            'sl': 'Načrtovanje sistemov, ki so teoretično razširljivi in vzdrževalni, ob predpostavki, da zakoni termodinamike še vedno veljajo in se vesolje nenadoma ne odloči za ponovno kompiliranje.'
+            'en': 'Experience',
+            'sl': 'Izkušnje'
         },
 
-        'EXP_2_TITLE': {
-            'en': 'Data Whisperer & Automation Enthusiast',
-            'sl': 'Šepetavec Podatkov in Navdušenec Avtomatizacije'
-        },
-        'EXP_2_DESC': {
-            'en': 'Convincing computers to do repetitive tasks so humans can focus on more important activities, like arguing on the internet or contemplating where they left their towel.',
-            'sl': 'Prepričevanje računalnikov, naj opravljajo ponavljajoče se naloge, da se lahko ljudje osredotočijo na pomembnejše dejavnosti, kot so prepiri na internetu ali razmišljanje o tem, kje so pustili brisačo.'
+        // Experience accordion entries
+        'EXP_1_DATE': { 'en': '2025', 'sl': '2025' },
+        'EXP_1_TITLE': { 'en': 'Hospitality & Activity Coordinator', 'sl': 'Koordinator gostinstva in aktivnosti' },
+        'EXP_1_COMPANY': { 'en': 'Kamp Jankovič, KOLPAS d.o.o.', 'sl': 'Kamp Jankovič, KOLPAS d.o.o.' },
+        'EXP_1_DETAIL': {
+            'en': 'End-to-end guest experiences for 50+ daily visitors — kayak/SUP coordination, river logistics, ground transport, hospitality on the Kolpa river.',
+            'sl': 'Celostne gostinske izkušnje za 50+ dnevnih obiskovalcev — koordinacija kajaka/SUP, rečna logistika, kopenski prevoz, gostoljubnost na reki Kolpi.'
         },
 
-        'SKILLS_TITLE': {
-            'en': 'Technical Arsenal (Don\'t Panic)',
-            'sl': 'Tehnični Arzenal (Ne paniči)'
+        'EXP_2_DATE': { 'en': '2023–Dec 2025', 'sl': '2023–Dec 2025' },
+        'EXP_2_TITLE': { 'en': 'Facility Management Specialist', 'sl': 'Specialist upravljanja objektov' },
+        'EXP_2_COMPANY': { 'en': 'FM OTiS, Valentin Križan S.P.', 'sl': 'FM OTiS, Valentin Križan S.P.' },
+        'EXP_2_DETAIL': {
+            'en': 'Self-employed floor & wall finishing specialist — client consultation, project execution, quality control.',
+            'sl': 'Samozaposleni specialist za obdelavo tal in sten — svetovanje strankam, izvedba projektov, kontrola kakovosti.'
         },
-        'SKILL_WEB': {
-            'en': 'Web (HTML5, CSS3, Vanilla JS) - Like BASIC but with more curly braces',
-            'sl': 'Splet (HTML5, CSS3, Vanilla JS) - Kot BASIC, vendar z več zavitimi oklepaji'
+
+        'EXP_3_DATE': { 'en': 'May–Sep 2023', 'sl': 'Maj–Sep 2023' },
+        'EXP_3_TITLE': { 'en': 'On-site IT Support Contractor', 'sl': 'Pogodbeni IT podpornik na terenu' },
+        'EXP_3_COMPANY': { 'en': 'Microsoft Ljubljana', 'sl': 'Microsoft Ljubljana' },
+        'EXP_3_DETAIL': {
+            'en': 'Managed IT inventory and debugged AV conference room setups — punctual, jargon-free support.',
+            'sl': 'Upravljanje IT inventarja in odpravljanje napak v avdiovizualnih konferenčnih prostorih — točna, razumljiva podpora.'
         },
-        'SKILL_BACKEND': {
-            'en': 'Backend (Python, Node.js, Shell) - Where the real magic happens',
-            'sl': 'Zaledje (Python, Node.js, Shell) - Kjer se dogaja prava magija'
+
+        'EXP_4_DATE': { 'en': '2022–2023', 'sl': '2022–2023' },
+        'EXP_4_TITLE': { 'en': 'Junior Technical Maintenance Specialist', 'sl': 'Mlajši tehnik tehničnega vzdrževanja' },
+        'EXP_4_COMPANY': { 'en': 'LPP Fashion (Modne blagovne znamke d.o.o.)', 'sl': 'LPP Fashion (Modne blagovne znamke d.o.o.)' },
+        'EXP_4_DETAIL': {
+            'en': 'Maintained 20+ retail stores via ticketing system — calm, fast solutions under pressure. Led vendor onboarding (Sintal) and negotiated a director-signed national service contract.',
+            'sl': 'Vzdrževanje 20+ maloprodajnih trgovin prek sistema zahtevkov — mirne, hitre rešitve pod pritiskom. Vodil uvajanje dobavitelja (Sintal) in pogajal nacionalno servisno pogodbo, podpisano s strani direktorja.'
         },
-        'SKILL_OTHER': {
-            'en': 'Other (DJI Drones, Lightroom, GIS) - For when code isn\'t enough',
-            'sl': 'Drugo (DJI Droni, Lightroom, GIS) - Za primere, ko koda ni dovolj'
+
+        'EXP_5_DATE': { 'en': '2020–2023', 'sl': '2020–2023' },
+        'EXP_5_TITLE': { 'en': 'Self-Employed Computer Technician', 'sl': 'Samozaposleni računalniški tehnik' },
+        'EXP_5_COMPANY': { 'en': 'Valentin Križan S.P.', 'sl': 'Valentin Križan S.P.' },
+        'EXP_5_DETAIL': {
+            'en': 'Mobile & PC repairs, small networks — translated every fix into plain language for non-technical customers.',
+            'sl': 'Popravila mobilnih telefonov in računalnikov, manjša omrežja — vsako popravilo razloženo v preprostem jeziku za netehnične stranke.'
         },
+
+        'EXP_6_DATE': { 'en': 'Dec 2021–Feb 2022', 'sl': 'Dec 2021–Feb 2022' },
+        'EXP_6_TITLE': { 'en': 'Electrical Cabinet Assembly', 'sl': 'Sestavljalec elektro omaric' },
+        'EXP_6_COMPANY': { 'en': 'Elmers d.o.o. / TOBOL GmbH', 'sl': 'Elmers d.o.o. / TOBOL GmbH' },
+        'EXP_6_DETAIL': {
+            'en': 'Full wiring & assembly per schematics — precision and quality focus.',
+            'sl': 'Celotna vezava in sestavljanje po shemah — poudarek na natančnosti in kakovosti.'
+        },
+
+        'EXP_7_DATE': { 'en': 'May–Nov 2021', 'sl': 'Maj–Nov 2021' },
+        'EXP_7_TITLE': { 'en': '2D Laser Operator', 'sl': 'Operater 2D laserja' },
+        'EXP_7_COMPANY': { 'en': 'Akrapovič d.d.', 'sl': 'Akrapovič d.d.' },
+        'EXP_7_DETAIL': {
+            'en': 'Fibre-glass laser programming, parameter setup, material handling — technical drawings & G-code.',
+            'sl': 'Programiranje laserja za steklena vlakna, nastavitev parametrov, rokovanje z materialom — tehnične risbe in G-koda.'
+        },
+
+        'EXP_8_DATE': { 'en': '2013–2020', 'sl': '2013–2020' },
+        'EXP_8_TITLE': { 'en': 'Drywall Systems & Quality Control', 'sl': 'Mavčnokartonski sistemi in kontrola kakovosti' },
+        'EXP_8_COMPANY': { 'en': 'DAMONT d.o.o. & Montaža Grabrijan', 'sl': 'DAMONT d.o.o. & Montaža Grabrijan' },
+        'EXP_8_DETAIL': {
+            'en': 'Knauf/Armstrong/AMF systems, measurements, quality checks.',
+            'sl': 'Sistemi Knauf/Armstrong/AMF, merjenje, kontrola kakovosti.'
+        },
+
+        'EXP_9_DATE': { 'en': '2005–2013', 'sl': '2005–2013' },
+        'EXP_9_TITLE': { 'en': 'Waiter & Shift Leader', 'sl': 'Natakar in vodja izmene' },
+        'EXP_9_COMPANY': { 'en': 'KOLPAS d.o.o. / Napoleon Caffe', 'sl': 'KOLPAS d.o.o. / Napoleon Caffe' },
+        'EXP_9_DETAIL': {
+            'en': 'Led team of 6, organised events for 100+ guests — turned every frustrated customer into a regular.',
+            'sl': 'Vodil ekipo 6 oseb, organiziral prireditve za 100+ gostov — vsako nezadovoljno stranko spremenil v rednega obiskovalca.'
+        },
+
+        // About page
+        'ABOUT_BIO': {
+            'en': 'Stress-resistant professional with a background spanning customer hospitality, IT, electronics, and field operations. I make complexity disappear — whether diagnosing a broken network or coordinating 50+ guests on a river. C1 English, EASA Drone Pilot, full EU driving licence.',
+            'sl': 'Stresno odporen strokovnjak z izkušnjami na področju gostinstva, IT, elektronike in terenskih operacij. Kompleksnost naredim preprosto — naj gre za odpravljanje napak v omrežju ali koordinacijo 50+ gostov na reki. C1 angleščina, EASA pilot drona, polno EU vozniško dovoljenje.'
+        },
+        'ABOUT_CERTS_TITLE': { 'en': 'Certifications', 'sl': 'Certifikati' },
+        'ABOUT_LANG_TITLE': { 'en': 'Languages', 'sl': 'Jeziki' },
+        'ABOUT_CONTACT_TITLE': { 'en': 'Contact', 'sl': 'Kontakt' },
 
         // Foto page
         'FOTO_TITLE': {
@@ -279,23 +369,18 @@ document.addEventListener('DOMContentLoaded', () => {
             'sl': 'Svet iz neverjetne višine.'
         },
 
+        // Drone footage — foto.html
+        'DRONE_TITLE': { 'en': 'Drone Footage', 'sl': 'Posnetki z drona' },
+        'VIDEO_1_CAPTION': { 'en': 'Kolpa river — summer 2025', 'sl': 'Reka Kolpa — poletje 2025' },
+        'VIDEO_2_CAPTION': { 'en': 'Aerial view — Bela Krajina', 'sl': 'Pogled iz zraka — Bela Krajina' },
+        'VIDEO_3_CAPTION': { 'en': 'Drone footage — coming soon', 'sl': 'Posnetek z drona — kmalu' },
+        'VIDEO_SOON': { 'en': 'More footage coming soon', 'sl': 'Kmalu več posnetkov' },
+
         // Gallery Section Headers
-        'FOTO_SECTION_FOG': {
-            'en': 'Morning Fog Chronicles',
-            'sl': 'Kronike Jutranje Megle'
-        },
-        'FOTO_SECTION_WINTER': {
-            'en': 'Winter Chronicles: The Cold Equations',
-            'sl': 'Zimske Kronike: Mrzle Enačbe'
-        },
-        'FOTO_SECTION_RIVER': {
-            'en': 'River Aerial Chronicles',
-            'sl': 'Rečne Zračne Kronike'
-        },
-        'FOTO_SECTION_PASTORAL': {
-            'en': 'Pastoral Improbabilities',
-            'sl': 'Pastoralne Neverjetnosti'
-        },
+        'FOTO_SECTION_FOG': { 'en': 'Fog & Sunrise', 'sl': 'Megla in sončni vzhod' },
+        'FOTO_SECTION_WINTER': { 'en': 'Winter', 'sl': 'Zima' },
+        'FOTO_SECTION_RIVER': { 'en': 'River Aerials', 'sl': 'Rečni posnetki iz zraka' },
+        'FOTO_SECTION_PASTORAL': { 'en': 'Pastoral', 'sl': 'Pastoralno' },
 
         // Photo Captions
         'PHOTO_01': {
