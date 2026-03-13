@@ -1,104 +1,104 @@
 {
-  "date": "2026-03-12",
-  "updated_at": "2026-03-12T06:35:53.537Z",
-  "page": "/news/2026-03-12.html",
+  "date": "2026-03-13",
+  "updated_at": "2026-03-13T06:34:40.118Z",
+  "page": "/news/2026-03-13.html",
   "count": 12,
   "items": [
     {
-      "id": "dbf82fe6e6487afbc99053ffa0947cdafb2e2c2f",
-      "title": "How AI is helping improve heart health in rural Australia",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-      "source": "blog.google",
-      "published_at": "2026-03-12T15:00:00.000Z",
-      "summary": "Summary: How AI is helping improve heart health in rural Australia"
-    },
-    {
-      "id": "31547966d8307167be876c85d588ab37a13c5baf",
-      "title": "V iraških vodah zadeli dva tankerja, ena oseba umrla",
-      "url": "https://www.24ur.com/novice/tujina/iran_7.html",
-      "source": "www.24ur.com",
-      "published_at": "2026-03-12T06:33:01.000Z",
-      "summary": "Summary: V iraških vodah zadeli dva tankerja, ena oseba umrla"
-    },
-    {
-      "id": "6a24f444d9437f6c207ca187fa0ccfaebd43ffe0",
-      "title": "How Automation Can Reduce Hiring Time by 50%",
-      "url": "https://dev.to/taurusai/how-automation-can-reduce-hiring-time-by-50-2b74",
+      "id": "5136b8e34306b2999dcc4e9cecb055ba9ec35d10",
+      "title": "Stop Bottlenecking Your Code: The Engineering Behind Choosing a Hard Drive Enclosure for SSD",
+      "url": "https://dev.to/wixom/stop-bottlenecking-your-code-the-engineering-behind-choosing-a-hard-drive-enclosure-for-ssd-41dl",
       "source": "dev.to",
-      "published_at": "2026-03-12T06:29:38.000Z",
-      "summary": "Summary: How Automation Can Reduce Hiring Time by 50%"
+      "published_at": "2026-03-13T06:29:21.000Z",
+      "summary": "Summary: Stop Bottlenecking Your Code: The Engineering Behind Choosing a Hard Drive Enclosure for SSD"
     },
     {
-      "id": "36fd55c9070a8b0b3ee6c439dcaf4a8df912b7ca",
-      "title": "Why Bible APIs Should Be Version-Agnostic",
-      "url": "https://dev.to/derek_codes/why-bible-apis-should-be-version-agnostic-nfe",
+      "id": "2cc3ac03f0202cd985febc9b4eb701f3f7ac973d",
+      "title": "Best Postman Alternative in 2026: Faster API Client for Developers",
+      "url": "https://dev.to/requestly/best-postman-alternative-in-2026-faster-api-client-for-developers-40in",
       "source": "dev.to",
-      "published_at": "2026-03-12T06:28:53.000Z",
-      "summary": "Summary: Why Bible APIs Should Be Version-Agnostic"
+      "published_at": "2026-03-13T06:28:00.000Z",
+      "summary": "Summary: Best Postman Alternative in 2026: Faster API Client for Developers"
     },
     {
-      "id": "35c91b61c0701ea9915b3309534cee1e7c0eb92b",
-      "title": "The Third Reason for Edge AI: Law",
-      "url": "https://dev.to/skyguan92/the-third-reason-for-edge-ai-law-321k",
+      "id": "76dc3e697be06017547f8c839a44bae106b5379d",
+      "title": "The Battle Between RAG and Long Context",
+      "url": "https://dev.to/tomerbendavid/the-battle-between-rag-and-long-context-4ilc",
       "source": "dev.to",
-      "published_at": "2026-03-12T06:26:53.000Z",
-      "summary": "Summary: The Third Reason for Edge AI: Law"
+      "published_at": "2026-03-13T06:27:21.000Z",
+      "summary": "Summary: The Battle Between RAG and Long Context"
     },
     {
-      "id": "97d3c2725b7fd1c5fbf394343dfcb1a3bf79213a",
-      "title": "Your analytics script is the heaviest thing most visitors download",
-      "url": "https://dev.to/devly-digital/your-analytics-script-is-the-heaviest-thing-most-visitors-download-cnp",
-      "source": "dev.to",
-      "published_at": "2026-03-12T06:25:50.000Z",
-      "summary": "Summary: Your analytics script is the heaviest thing most visitors download"
+      "id": "69ea98831103e668b9dfc26c18873dfc84caccfe",
+      "title": "How to unlock Voyak KT-3 in Black Ops 7 &#038; Warzone",
+      "url": "https://dotesports.com/call-of-duty/news/unlock-voyak-kt-3-bo7-warzone",
+      "source": "dotesports.com",
+      "published_at": "2026-03-13T06:24:55.000Z",
+      "summary": "Summary: How to unlock Voyak KT-3 in Black Ops 7 &#038; Warzone"
     },
     {
-      "id": "c4003864637164ec2b7b1027bee58c6d05c2a7c3",
-      "title": "Toward Smarter AI: Why Smaller Models on High-Performance CPUs Are Winning",
-      "url": "https://dev.to/communications_zirohlabs/toward-smarter-ai-why-smaller-models-on-high-performance-cpus-are-winning-pgh",
-      "source": "dev.to",
-      "published_at": "2026-03-12T06:25:43.000Z",
-      "summary": "Summary: Toward Smarter AI: Why Smaller Models on High-Performance CPUs Are Winning"
-    },
-    {
-      "id": "a18ad494f9eda8c8965016bc904adad5fef18fdc",
-      "title": "Mali to Introduce Special Mining Brigade to Curb Illegal Output",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-12/mali-to-introduce-special-mining-brigade-to-curb-illegal-output",
-      "source": "feeds.bloomberg.com",
-      "published_at": "2026-03-12T06:16:15.000Z",
-      "summary": "Summary: Mali to Introduce Special Mining Brigade to Curb Illegal Output"
-    },
-    {
-      "id": "141f3b522da6994710c4dfc60b299226ee6953bd",
-      "title": "Vojna na Bližnjem vzhodu se širi na morje, cene nafte pod pritiskom",
-      "url": "https://www.delo.si/novice/svet/vojna-na-bliznjem-vzhodu-se-siri-na-morje-cene-nafte-pod-pritiskom",
+      "id": "ccff4528bd54e99328035183edada9a77bfe795c",
+      "title": "Po hudem porazu konec eksperimenta, v Celju po portugalskih taktih",
+      "url": "https://www.delo.si/sport/nogomet/po-hudem-porazu-konec-eksperimenta-v-celju-po-portugalskih-taktih",
       "source": "www.delo.si",
-      "published_at": "2026-03-12T06:16:00.000Z",
-      "summary": "Summary: Vojna na Bližnjem vzhodu se širi na morje, cene nafte pod pritiskom"
+      "published_at": "2026-03-13T06:22:43.000Z",
+      "summary": "Summary: Po hudem porazu konec eksperimenta, v Celju po portugalskih taktih"
     },
     {
-      "id": "88cf865bf61bed19ea470aef2b238f01b95e4d86",
-      "title": "Zalivske države so obogatele z nafto, a (razsoljena) voda je tista, ki omogoča življenje",
-      "url": "https://www.rtvslo.si/svet/bliznji-vzhod/zalivske-drzave-so-obogatele-z-nafto-a-razsoljena-voda-je-tista-ki-omogoca-zivljenje/775775",
+      "id": "ec7a5c064054879ce94edcd309e9918f80347c47",
+      "title": "Nad Irakom strmoglavil ameriški zračni tanker",
+      "url": "https://www.24ur.com/novice/tujina/nad-irakom-strmoglavil-ameriski-zracni-tanker.html",
+      "source": "www.24ur.com",
+      "published_at": "2026-03-13T06:22:25.000Z",
+      "summary": "Summary: Nad Irakom strmoglavil ameriški zračni tanker"
+    },
+    {
+      "id": "fa7fbc2ff4cde56f715df552ac553edc97ce70ff",
+      "title": "Linux Troubleshooting for DevOps: 20 Commands I Use Every Single Week",
+      "url": "https://dev.to/sanjaysundarmurthy/linux-troubleshooting-for-devops-20-commands-i-use-every-single-week-49ji",
+      "source": "dev.to",
+      "published_at": "2026-03-13T06:22:02.000Z",
+      "summary": "Summary: Linux Troubleshooting for DevOps: 20 Commands I Use Every Single Week"
+    },
+    {
+      "id": "dae2883679b70ece06311b8d5d8a1a272883cd1e",
+      "title": "Why Recruiters Waste 70% of Their Time Screening the Wrong Candidates",
+      "url": "https://dev.to/taurusai/why-recruiters-waste-70-of-their-time-screening-the-wrong-candidates-b1o",
+      "source": "dev.to",
+      "published_at": "2026-03-13T06:19:52.000Z",
+      "summary": "Summary: Why Recruiters Waste 70% of Their Time Screening the Wrong Candidates"
+    },
+    {
+      "id": "fbae0a589b9a6fbc3601bfde2953ce7adb6c8134",
+      "title": "Building a probabilistic market scenario engine instead of predicting prices",
+      "url": "https://dev.to/gangmandotori/building-a-probabilistic-market-scenario-engine-instead-of-predicting-prices-4369",
+      "source": "dev.to",
+      "published_at": "2026-03-13T06:17:39.000Z",
+      "summary": "Summary: Building a probabilistic market scenario engine instead of predicting prices"
+    },
+    {
+      "id": "a7d67356903a8686fb06f363b76b96fceb237f07",
+      "title": "CSOP CEO Discusses ETF Flows, Outlook",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-13/csop-ceo-discusses-etf-flows-outlook-video",
+      "source": "feeds.bloomberg.com",
+      "published_at": "2026-03-13T06:17:06.000Z",
+      "summary": "Summary: CSOP CEO Discusses ETF Flows, Outlook"
+    },
+    {
+      "id": "6672dd9cdc7d9e1d35aad24a5e8f0591e7c9206e",
+      "title": "Kitajski tehnološki velikan BYD v Sloveniji z devetimi modeli",
+      "url": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/kitajski-tehnoloski-velikan-byd-v-sloveniji-z-devetimi-modeli/776050",
       "source": "www.rtvslo.si",
-      "published_at": "2026-03-12T06:15:17.000Z",
-      "summary": "Summary: Zalivske države so obogatele z nafto, a (razsoljena) voda je tista, ki omogoča življenje"
+      "published_at": "2026-03-13T06:16:36.000Z",
+      "summary": "Summary: Kitajski tehnološki velikan BYD v Sloveniji z devetimi modeli"
     },
     {
-      "id": "bde2820196430f73774185676a121a13cd10a283",
-      "title": "Strapi CMS: The Modern Headless CMS Powering Scalable Digital Experiences",
-      "url": "https://dev.to/geekyants-inc/strapi-cms-the-modern-headless-cms-powering-scalable-digital-experiences-29md",
+      "id": "21078948d12dfcea87fc27c53202b4b9b9bde9b9",
+      "title": "The Compliance Audit Your Property Management Software Isn't Ready For.",
+      "url": "https://dev.to/contextfirstai/the-compliance-audit-your-property-management-software-isnt-ready-for-21ha",
       "source": "dev.to",
-      "published_at": "2026-03-12T06:12:49.000Z",
-      "summary": "Summary: Strapi CMS: The Modern Headless CMS Powering Scalable Digital Experiences"
-    },
-    {
-      "id": "219bf21d8b83c0543a3913126c1f1291ba705f8d",
-      "title": "Why \"Good Enough\" is Killing the Web (and How We’re Fixing It)",
-      "url": "https://dev.to/bandhan/why-good-enough-is-killing-the-web-and-how-were-fixing-it-1nad",
-      "source": "dev.to",
-      "published_at": "2026-03-12T06:09:59.000Z",
-      "summary": "Summary: Why \"Good Enough\" is Killing the Web (and How We’re Fixing It)"
+      "published_at": "2026-03-13T06:16:19.000Z",
+      "summary": "Summary: The Compliance Audit Your Property Management Software Isn't Ready For."
     }
   ]
 }
