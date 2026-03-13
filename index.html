@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title data-i18n="HRCO_TITLE">HRCO's Digital Consciousness</title>
+    <meta name="description" content="Personal portfolio of HRCO. Web development, photography, and digital experiments.">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
@@ -20,48 +21,50 @@
 
             <nav id="main-nav">
                 <a href="index.html" class="nav-link active" data-i18n="HOME_LINK">Start</a>
+                <a href="projects.html" class="nav-link" data-i18n="NAV_EXPERIENCE">Experience</a>
+                <a href="foto.html" class="nav-link" data-i18n="NAV_VISUAL">Visual</a>
+                <a href="about_me.html" class="nav-link" data-i18n="NAV_ABOUT">About</a>
                 <a href="news.html" class="nav-link" data-i18n="NEWS_LINK">News</a>
-                <a href="foto.html" class="nav-link" data-i18n="FOTO_LINK">Visual Evidence</a>
-                <a href="projects.html" class="nav-link" data-i18n="PROJECTS_LINK">Projects</a>
-                <a href="about_me.html" class="nav-link" data-i18n="ABOUT_LINK">The Entity</a>
-                <a href="my_suggestions.html" class="nav-link" data-i18n="SUGGESTIONS_LINK">Wise Voices</a>
             </nav>
 
             <div class="settings-bar">
                 <div class="lang-toggles">
-                    <button id="lang-toggle-slo" class="toggle-button">SLO</button>
-                    <button id="lang-toggle-eng" class="toggle-button">ENG</button>
+                    <button id="lang-toggle-slo" class="toggle-button" aria-label="Switch to Slovenian">SLO</button>
+                    <button id="lang-toggle-eng" class="toggle-button" aria-label="Switch to English">ENG</button>
                 </div>
             </div>
         </header>
 
         <main>
-            <section class="card">
-                <h1 data-i18n="GREETING">Don't Panic. You've Found HRCO.</h1>
-                <p data-i18n="DESCRIPTION">This is a remarkably simple portfolio website, constructed entirely from HTML, CSS, and JavaScript - technologies that, despite being roughly as old as digital watches, are still infinitely more impressive than anything produced by the Marketing Department of the Sirius Cybernetics Corporation.</p>
+            <!-- Hero Section -->
+            <section class="hero-section">
+                <div class="hero-content">
+                    <h1 data-i18n="HERO_NAME">Valentin Križan</h1>
+                    <div class="hero-accent-line"></div>
+                    <p class="hero-title" data-i18n="HERO_TITLE">Customer Experience & IT Professional</p>
+                    <p class="hero-meta" data-i18n="HERO_META">Adlešiči, Slovenia · C1 English · EU Licence B</p>
+                    <div class="hero-actions">
+                        <a href="about_me.html" class="btn btn-primary" data-i18n="NAV_ABOUT">About</a>
+                        <a href="projects.html" class="btn btn-secondary" data-i18n="NAV_EXPERIENCE">Experience</a>
+                        <a href="https://www.linkedin.com/in/valentin-krizan-zerofriction/"
+                           class="btn btn-ghost" target="_blank" rel="noopener">LinkedIn</a>
+                        <a href="mailto:valentin.krizan@protonmail.com"
+                           class="btn btn-ghost" data-i18n="HERO_EMAIL">Email</a>
+                    </div>
+                </div>
             </section>
 
-            <section class="card" id="latest-ai-digest">
-                <h2 data-i18n="LATEST_AI_DIGEST">Latest AI/Tech Digest</h2>
-                <p class="muted">Loading...</p>
-            </section>
-
-            <section class="card" id="latest-news-digest">
-                <h2 data-i18n="LATEST_NEWS_DIGEST">Latest News Digest</h2>
-                <p class="muted">Loading...</p>
-            </section>
-
-            <section class="card" id="latest-sport-digest">
-                <h2 data-i18n="LATEST_SPORT_DIGEST">Latest Sport Digest</h2>
-                <p class="muted">Loading...</p>
-            </section>
-
-            <script defer src="js/digest-latest.js"></script>
-
-            <section class="card">
-                <h2>Current Status</h2>
-                <p>Probability of this portfolio being accurate: 42%. Probability of me knowing where my towel is: significantly lower. The universe continues to behave in its customarily improbable fashion, and I continue to document it with various electronic devices.</p>
-                <p><strong>Fun Fact:</strong> Currently learning the ancient art of RSS feed aggregation with the help of AI companions. Turns out teaching a neural network about Really Simple Syndication is only slightly less complicated than explaining cricket to a dolphin. 🤖📡</p>
+            <!-- Skills Strip -->
+            <section class="skills-strip">
+                <div class="skills-pills">
+                    <span data-i18n="SKILL_CX">Customer Experience</span>
+                    <span data-i18n="SKILL_IT">Electronics & IT</span>
+                    <span data-i18n="SKILL_CNC">CNC / Laser</span>
+                    <span data-i18n="SKILL_DRONE">EASA Drone Pilot</span>
+                    <span data-i18n="SKILL_SL">Slovenian</span>
+                    <span data-i18n="SKILL_EN">English C1</span>
+                    <span data-i18n="SKILL_HR">Croatian</span>
+                </div>
             </section>
 
         </main>
@@ -69,11 +72,12 @@
 
     <footer class="footer">
         <div class="container">
+            <p class="current-status" data-i18n="CURRENT_STATUS">Currently applying for CX roles in sustainable mobility.</p>
+            <p class="dont-panic">Don't Panic.</p>
             <p>
                 &copy; <span id="current-year"></span> |
                 <span data-i18n="FOOTER_TEXT">Constructed by HRCO. Mostly harmless.</span>
             </p>
-
         </div>
     </footer>
 
