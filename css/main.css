@@ -339,8 +339,10 @@ nav.mobile-menu-open {
     transition: border-color var(--transition);
 }
 
+.exp-entry:hover,
 .exp-entry[open] {
     border-color: var(--color-primary);
+    box-shadow: var(--shadow-md), 0 0 15px var(--color-glow);
 }
 
 .exp-summary {
