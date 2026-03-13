@@ -3,138 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title data-i18n="PROJECTS_TITLE">Digital Improbabilities | HRCO</title>
+    <title data-i18n="PROJECTS_TITLE">Experience | HRCO</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
-    <style>
-        /* Title breaking through card edge */
-        .card h1 {
-            position: relative;
-            z-index: 10;
-            margin-left: -1.5rem;
-            padding-left: 1.5rem;
-            margin-right: -1.5rem;
-            padding-right: 1.5rem;
-            background: linear-gradient(90deg, var(--color-primary) 0%, transparent 100%);
-            background-clip: text;
-            -webkit-background-clip: text;
-        }
-
-        .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-            gap: 24px;
-            margin-top: 1.5rem;
-        }
-
-        .project-card {
-            position: relative;
-            overflow: visible;
-            border: 2px solid var(--color-border);
-            transition: all var(--transition);
-        }
-
-        .project-card:hover {
-            transform: translateY(-6px);
-            border-color: var(--color-primary);
-            box-shadow: var(--shadow-lg), 0 0 25px var(--color-glow);
-        }
-
-        .project-status {
-            display: inline-block;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.75rem;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 1rem;
-        }
-
-        .status-live {
-            background: linear-gradient(135deg, #10b981, #059669);
-            color: #fff;
-        }
-
-        .status-dev {
-            background: linear-gradient(135deg, #f59e0b, #d97706);
-            color: #fff;
-        }
-
-        .project-card h3 {
-            color: var(--color-primary);
-            font-family: var(--font-display);
-            font-size: 1.3rem;
-            margin-bottom: 0.5rem;
-        }
-
-        .project-card .domain {
-            color: var(--color-text-subtle);
-            font-size: 0.85rem;
-            font-family: monospace;
-            margin-bottom: 1rem;
-        }
-
-        .project-card p {
-            color: var(--color-text);
-            line-height: 1.6;
-            margin-bottom: 1.5rem;
-        }
-
-        .project-tech {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin-bottom: 1.5rem;
-        }
-
-        .tech-tag {
-            background: var(--color-highlight);
-            color: var(--color-text-subtle);
-            padding: 4px 10px;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            border: 1px solid var(--color-border);
-        }
-
-        .project-links {
-            display: flex;
-            gap: 1rem;
-            padding-top: 1rem;
-            border-top: 1px solid var(--color-border);
-        }
-
-        .project-links a {
-            color: var(--color-text-subtle);
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 500;
-            transition: all var(--transition);
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-        }
-
-        .project-links a:hover {
-            color: var(--color-primary);
-            transform: translateY(-2px);
-        }
-
-        .learning-note {
-            background: linear-gradient(135deg, var(--color-highlight), var(--color-surface));
-            border-left: 3px solid var(--color-primary);
-            padding: 1rem 1.5rem;
-            margin-top: 2rem;
-            border-radius: 0 var(--border-radius) var(--border-radius) 0;
-        }
-
-        .learning-note p {
-            margin: 0;
-            font-style: italic;
-            color: var(--color-text-subtle);
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -165,61 +36,92 @@
 
         <main>
             <section class="card">
-                <h1 data-i18n="PROJECTS_HEADING">Digital Improbabilities</h1>
-                <p data-i18n="PROJECTS_INTRO">A collection of web-based experiments - some functional, some aspirational, all assembled with varying degrees of coffee and determination. Think of them as proof that I occasionally finish things I start.</p>
+                <h1 data-i18n="EXPERIENCE_TITLE">Experience</h1>
             </section>
 
-            <section class="projects-grid">
+            <div class="experience-timeline">
 
-                <div class="card project-card">
-                    <span class="project-status status-live" data-i18n="PROJECT_STATUS_LIVE">Live</span>
-                    <h3>Ljubo Lover</h3>
-                    <div class="domain">ljubo-lover.com</div>
-                    <p data-i18n="PROJECT_LJUBO_DESC">A digital tribute to something worth celebrating. Details deliberately vague to encourage investigation. The internet needs more love, after all.</p>
-                    <div class="project-tech">
-                        <span class="tech-tag">HTML</span>
-                        <span class="tech-tag">CSS</span>
-                        <span class="tech-tag">JavaScript</span>
-                    </div>
-                    <div class="project-links">
-                        <a href="https://ljubo-lover.com" target="_blank"><i class="fas fa-external-link-alt"></i> <span data-i18n="PROJECT_VISIT_SITE">Visit Site</span></a>
-                    </div>
-                </div>
+                <details class="exp-entry">
+                    <summary class="exp-summary">
+                        <span class="exp-date" data-i18n="EXP_1_DATE">2025</span>
+                        <span class="exp-title" data-i18n="EXP_1_TITLE">Hospitality & Activity Coordinator</span>
+                        <span class="exp-company" data-i18n="EXP_1_COMPANY">Kamp Jankovič, KOLPAS d.o.o.</span>
+                    </summary>
+                    <p class="exp-detail" data-i18n="EXP_1_DETAIL">End-to-end guest experiences for 50+ daily visitors — kayak/SUP coordination, river logistics, ground transport, hospitality on the Kolpa river.</p>
+                </details>
 
-                <div class="card project-card">
-                    <span class="project-status status-live" data-i18n="PROJECT_STATUS_LIVE">Live</span>
-                    <h3>DBBP42 GitHub Pages</h3>
-                    <div class="domain">dbbp42.github.io</div>
-                    <p data-i18n="PROJECT_GITHUB_DESC">The GitHub-hosted corner of my digital existence. Where code goes to live publicly and occasionally embarrass its creator with commit history.</p>
-                    <div class="project-tech">
-                        <span class="tech-tag">GitHub Pages</span>
-                        <span class="tech-tag" data-i18n="PROJECT_STATIC_SITE">Static Site</span>
-                    </div>
-                    <div class="project-links">
-                        <a href="https://dbbp42.github.io" target="_blank"><i class="fas fa-external-link-alt"></i> <span data-i18n="PROJECT_VISIT_SITE">Visit Site</span></a>
-                        <a href="https://github.com/dbbp42" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-                    </div>
-                </div>
+                <details class="exp-entry">
+                    <summary class="exp-summary">
+                        <span class="exp-date" data-i18n="EXP_2_DATE">2023–2025</span>
+                        <span class="exp-title" data-i18n="EXP_2_TITLE">Facility Management Specialist</span>
+                        <span class="exp-company" data-i18n="EXP_2_COMPANY">FM OTiS, Valentin Križan S.P.</span>
+                    </summary>
+                    <p class="exp-detail" data-i18n="EXP_2_DETAIL">Self-employed floor & wall finishing specialist — client consultation, project execution, quality control.</p>
+                </details>
 
-                <div class="card project-card">
-                    <span class="project-status status-dev" data-i18n="PROJECT_STATUS_DEV">In Development</span>
-                    <h3>Don't Panic</h3>
-                    <div class="domain">donotpanic.space</div>
-                    <p data-i18n="PROJECT_PANIC_DESC">Currently being assembled in the improbability drive's spare cycles. Will eventually contain something useful, assuming the mice don't get to it first.</p>
-                    <div class="project-tech">
-                        <span class="tech-tag" data-i18n="PROJECT_COMING_SOON">Coming Soon</span>
-                        <span class="tech-tag">???</span>
-                    </div>
-                    <div class="project-links">
-                        <a href="https://donotpanic.space" target="_blank" style="opacity: 0.5; cursor: not-allowed;"><i class="fas fa-rocket"></i> <span data-i18n="PROJECT_COMING_SOON">Coming Soon</span></a>
-                    </div>
-                </div>
+                <details class="exp-entry">
+                    <summary class="exp-summary">
+                        <span class="exp-date" data-i18n="EXP_3_DATE">May–Sep 2023</span>
+                        <span class="exp-title" data-i18n="EXP_3_TITLE">On-site IT Support Contractor</span>
+                        <span class="exp-company" data-i18n="EXP_3_COMPANY">Microsoft Ljubljana</span>
+                    </summary>
+                    <p class="exp-detail" data-i18n="EXP_3_DETAIL">Managed IT inventory and debugged AV conference room setups — punctual, jargon-free support.</p>
+                </details>
 
-            </section>
+                <details class="exp-entry">
+                    <summary class="exp-summary">
+                        <span class="exp-date" data-i18n="EXP_4_DATE">2022–2023</span>
+                        <span class="exp-title" data-i18n="EXP_4_TITLE">Junior Technical Maintenance Specialist</span>
+                        <span class="exp-company" data-i18n="EXP_4_COMPANY">LPP Fashion (Modne blagovne znamke d.o.o.)</span>
+                    </summary>
+                    <p class="exp-detail" data-i18n="EXP_4_DETAIL">Maintained 20+ retail stores via ticketing system — calm, fast solutions under pressure. Led vendor onboarding (Sintal) and negotiated a director-signed national service contract.</p>
+                </details>
 
-            <div class="learning-note">
-                <p><i class="fas fa-lightbulb" style="color: var(--color-primary); margin-right: 8px;"></i>
-                <span data-i18n="PROJECT_LEARNING_NOTE">These projects represent my ongoing journey in web development. Each one taught me something new about the improbable art of making computers do what you want.</span></p>
+                <details class="exp-entry">
+                    <summary class="exp-summary">
+                        <span class="exp-date" data-i18n="EXP_5_DATE">2020–2023</span>
+                        <span class="exp-title" data-i18n="EXP_5_TITLE">Self-Employed Computer Technician</span>
+                        <span class="exp-company" data-i18n="EXP_5_COMPANY">Valentin Križan S.P.</span>
+                    </summary>
+                    <p class="exp-detail" data-i18n="EXP_5_DETAIL">Mobile & PC repairs, small networks — translated every fix into plain language for non-technical customers.</p>
+                </details>
+
+                <details class="exp-entry">
+                    <summary class="exp-summary">
+                        <span class="exp-date" data-i18n="EXP_6_DATE">Dec 2021–Feb 2022</span>
+                        <span class="exp-title" data-i18n="EXP_6_TITLE">Electrical Cabinet Assembly</span>
+                        <span class="exp-company" data-i18n="EXP_6_COMPANY">Elmers d.o.o. / TOBOL GmbH</span>
+                    </summary>
+                    <p class="exp-detail" data-i18n="EXP_6_DETAIL">Full wiring & assembly per schematics — precision and quality focus.</p>
+                </details>
+
+                <details class="exp-entry">
+                    <summary class="exp-summary">
+                        <span class="exp-date" data-i18n="EXP_7_DATE">May–Nov 2021</span>
+                        <span class="exp-title" data-i18n="EXP_7_TITLE">2D Laser Operator</span>
+                        <span class="exp-company" data-i18n="EXP_7_COMPANY">Akrapovič d.d.</span>
+                    </summary>
+                    <p class="exp-detail" data-i18n="EXP_7_DETAIL">Fibre-glass laser programming, parameter setup, material handling — technical drawings & G-code.</p>
+                </details>
+
+                <details class="exp-entry">
+                    <summary class="exp-summary">
+                        <span class="exp-date" data-i18n="EXP_8_DATE">2013–2020</span>
+                        <span class="exp-title" data-i18n="EXP_8_TITLE">Drywall Systems & Quality Control</span>
+                        <span class="exp-company" data-i18n="EXP_8_COMPANY">DAMONT d.o.o. & Montaža Grabrijan</span>
+                    </summary>
+                    <p class="exp-detail" data-i18n="EXP_8_DETAIL">Knauf/Armstrong/AMF systems, measurements, quality checks.</p>
+                </details>
+
+                <details class="exp-entry">
+                    <summary class="exp-summary">
+                        <span class="exp-date" data-i18n="EXP_9_DATE">2005–2013</span>
+                        <span class="exp-title" data-i18n="EXP_9_TITLE">Waiter & Shift Leader</span>
+                        <span class="exp-company" data-i18n="EXP_9_COMPANY">KOLPAS d.o.o. / Napoleon Caffe</span>
+                    </summary>
+                    <p class="exp-detail" data-i18n="EXP_9_DETAIL">Led team of 6, organised events for 100+ guests — turned every frustrated customer into a regular.</p>
+                </details>
+
             </div>
         </main>
     </div>
