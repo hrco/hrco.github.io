@@ -509,6 +509,53 @@ nav.mobile-menu-open {
     font-style: italic;
 }
 
+/* Photo gallery */
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+    margin-bottom: 36px;
+    padding: 18px;
+}
+
+.photo-item {
+    background-color: var(--color-surface);
+    border-radius: var(--border-radius);
+    border: 2px solid var(--color-border);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    transition: all var(--transition);
+    position: relative;
+    will-change: transform;
+}
+
+.photo-item:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-lg), 0 0 15px var(--color-glow);
+    border-color: var(--color-primary);
+}
+
+.photo-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    aspect-ratio: 4/3;
+    transition: transform var(--transition);
+}
+
+.photo-item:hover img {
+    transform: scale(1.02);
+}
+
+.photo-caption {
+    padding: 18px;
+    font-size: 0.9rem;
+    color: var(--color-text-subtle);
+    font-style: italic;
+    border-top: 1px solid var(--color-border);
+}
+
 /* ========== Buttons ========== */
 .btn {
     display: inline-flex;
