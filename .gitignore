@@ -8,3 +8,8 @@ llms-full.txt
 claude.md
 agent.md
 /node_modules/
+
+# AI tool sessions & internal files
+.grok_sessions/
+.superpowers/
+grok-feedback.md
