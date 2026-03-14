@@ -1,0 +1,68 @@
+<h2>Portfolio Structure — 3 Approaches</h2>
+<p class="subtitle">All three: full professional pivot, no fake projects, Adams as easter egg only. Which skeleton fits?</p>
+
+<div class="options">
+
+  <div class="option" data-choice="a" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>Single scrolling page</h3>
+      <p>One URL, everything flows: Hero → About → Skills → Experience (brief) → Contact. No multi-page nav. Clean, modern, mobile-first. Recruiters scroll once and have the full picture.</p>
+      <div style="margin-top:10px;padding:10px;background:#f4f4f4;border-radius:4px;font-size:12px;font-family:monospace">
+        hrco.github.io/<br>
+        ├── #hero — Name + headline<br>
+        ├── #about — 3 sentences<br>
+        ├── #skills — tag grid<br>
+        ├── #experience — 4-line timeline<br>
+        └── #contact — email + LinkedIn + IG
+      </div>
+      <div class="pros-cons" style="margin-top:8px">
+        <div class="pros"><h4>Pros</h4><ul><li>Fast to build on existing CSS</li><li>Zero navigation complexity</li><li>LinkedIn-style scan</li></ul></div>
+        <div class="cons"><h4>Cons</h4><ul><li>Less room to expand later</li><li>All eggs in one scroll</li></ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="b" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>Minimal landing + About page</h3>
+      <p>Home = striking hero only (name, headline, 1 sentence, 3 buttons: About / LinkedIn / Email). About page has the full bio, skills, experience, certs. Two pages, both tight.</p>
+      <div style="margin-top:10px;padding:10px;background:#f4f4f4;border-radius:4px;font-size:12px;font-family:monospace">
+        hrco.github.io/<br>
+        ├── index.html — hero only<br>
+        └── about.html — full profile<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;├── Bio<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;├── Skills<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;├── Experience<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;└── Contact
+      </div>
+      <div class="pros-cons" style="margin-top:8px">
+        <div class="pros"><h4>Pros</h4><ul><li>Homepage is striking, not dense</li><li>About page is shareable standalone</li><li>Easy to extend later</li></ul></div>
+        <div class="cons"><h4>Cons</h4><ul><li>Extra click before real content</li><li>More pages to maintain</li></ul></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="c" onclick="toggleSelect(this)">
+    <div class="letter">C</div>
+    <div class="content">
+      <h3>Keep existing structure, replace content</h3>
+      <p>Existing site already has: index, about_me, foto, news, projects pages + solid CSS system. Strip all placeholder content, replace with real professional data. Projects page becomes "Work history" or gets hidden for now.</p>
+      <div style="margin-top:10px;padding:10px;background:#f4f4f4;border-radius:4px;font-size:12px;font-family:monospace">
+        hrco.github.io/<br>
+        ├── index.html — new hero + skills<br>
+        ├── about_me.html — real bio<br>
+        ├── projects.html → "Experience"<br>
+        ├── foto.html — keep (photos)<br>
+        └── news.html — keep (RSS)
+      </div>
+      <div class="pros-cons" style="margin-top:8px">
+        <div class="pros"><h4>Pros</h4><ul><li>Least rebuild work</li><li>Existing CSS/JS intact</li><li>News + foto already work</li></ul></div>
+        <div class="cons"><h4>Cons</h4><ul><li>Carries legacy structure decisions</li><li>Projects page needs repurposing</li></ul></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+<p class="subtitle" style="margin-top:16px">Click your pick — or tell me in terminal.</p>
