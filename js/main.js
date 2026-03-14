@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Hero — index.html
         'HERO_NAME':  { 'en': 'Valentin Križan', 'sl': 'Valentin Križan' },
-        'HERO_TITLE': { 'en': 'Customer Experience & IT Professional', 'sl': 'Strokovnjak za CX in IT' },
+        'HERO_TITLE': { 'en': 'Customer Experience & IT Professional', 'sl': 'Strokovnjak za UI in IT' },
         'HERO_META':  { 'en': 'Adlešiči, Slovenia · C1 English · EU Licence B', 'sl': 'Adlešiči, Slovenija · C1 angleščina · EU izpit B' },
         'HERO_EMAIL': { 'en': 'Email', 'sl': 'E-pošta' },
         'CURRENT_STATUS': {
@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 
         // Skills strip
-        'SKILL_CX':    { 'en': 'Customer Experience', 'sl': 'Gostinska izkušnja' },
+        'SKILL_CX':    { 'en': 'Customer Experience', 'sl': 'Uporabniške Izkušnje' },
         'SKILL_IT':    { 'en': 'Electronics & IT',    'sl': 'Elektronika in IT' },
         'SKILL_CNC':   { 'en': 'CNC / Laser',         'sl': 'CNC / Laser' },
         'SKILL_DRONE': { 'en': 'EASA Drone Pilot',    'sl': 'EASA Pilot drona' },
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 
         'EXP_3_DATE':    { 'en': 'May–Sep 2023', 'sl': 'Maj–Sep 2023' },
-        'EXP_3_TITLE':   { 'en': 'On-site IT Support Contractor', 'sl': 'Pogodbeni IT podpornik na terenu' },
+        'EXP_3_TITLE':   { 'en': 'On-site IT Support Contractor', 'sl': 'Pogodbeni IT sodelavec na terenu' },
         'EXP_3_COMPANY': { 'en': 'Microsoft Ljubljana', 'sl': 'Microsoft Ljubljana' },
         'EXP_3_DETAIL':  {
             'en': 'Managed IT inventory and debugged AV conference room setups — punctual and jargon-free support.',
@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Drone footage
         'DRONE_TITLE':      { 'en': 'Drone Footage',              'sl': 'Posnetki z dronom' },
-        'VIDEO_1_CAPTION':  { 'en': 'Kolpa river: summer 2025',  'sl': 'Reka Kolpa: poletje 2025' },
+        'VIDEO_1_CAPTION':  { 'en': 'Kolpa river: March 2025',  'sl': 'Reka Kolpa: marec 2025' },
         'VIDEO_2_CAPTION':  { 'en': 'Aerial view: Bela Krajina', 'sl': 'Pogled iz zraka — Bela Krajina' },
         'VIDEO_3_CAPTION':  { 'en': 'Drone footage — coming soon','sl': 'Posnetek z drona — kmalu' },
         'VIDEO_SOON':       { 'en': 'More footage coming soon',   'sl': 'Kmalu več posnetkov' },
