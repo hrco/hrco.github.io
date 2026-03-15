@@ -5,11 +5,8 @@
 .DS_Store
 llms-full.txt
 /.claude
-claude.md
-agent.md
 /node_modules/
 
 # AI tool sessions & internal files
 .grok_sessions/
 .superpowers/
-grok-feedback.md
